@@ -30,11 +30,11 @@ jobs:
         env:
           OPENALEX_EMAIL: ${{ secrets.OPENALEX_EMAIL }}
         run: python scripts/fetch_articles.py
-      
+
       - name: 检查是否有更新
         id: check_changes
         run: |
-          git add public/data/articles.json
+          git add public/data/
           if git diff --staged --quiet; then
             echo "has_changes=false" >> $GITHUB_OUTPUT
             echo "📭 没有新文章"
@@ -63,9 +63,4 @@ jobs:
           subject: "📚 EduTech期刊有新文章更新！"
           to: ${{ secrets.EMAIL_TO }}
           from: ${{ secrets.EMAIL_USERNAME }}
-          body: |
-            EduTech期刊追踪数据已更新！
-            
-            运行时间：$(date +'%Y-%m-%d %H:%M')
-            
-            查看运行详情：https://github.com/wdeliang/edutech-tracker/actions/runs/${{ github.run_id }}
+          body: file://public/data/summary.txt
