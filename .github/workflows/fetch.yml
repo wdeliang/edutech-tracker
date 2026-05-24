@@ -1,0 +1,40 @@
+# .github/workflows/fetch.yml
+name: 每日抓取期刊文章
+
+on:
+  schedule:
+    # 每天北京时间早上 6:00 运行（UTC 22:00 前一天）
+    - cron: '0 22 * * *'
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  fetch-articles:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 签出代码
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: 设置 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: 安装依赖
+        run: pip install -r requirements.txt
+      
+      - name: 运行抓取脚本
+        env:
+          OPENALEX_EMAIL: ${{ secrets.OPENALEX_EMAIL }}
+        run: python scripts/fetch_articles.py
+      
+      - name: 提交并推送数据
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/articles.json
+          git diff --staged --quiet || git commit -m "📚 更新文章数据 $(date +'%Y-%m-%d')"
+          git push
