@@ -1,4 +1,3 @@
-// scripts/journals.json
 [
   {"issn": "2365-9440", "name": "International Journal of Educational Technology in Higher Education", "jif": 16.7, "publisher": "SPRINGER"},
   {"issn": "1747-938X", "name": "Educational Research Review", "jif": 10.6, "publisher": "ELSEVIER"},
