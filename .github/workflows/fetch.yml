@@ -1,14 +1,12 @@
-# .github/workflows/fetch.yml
 name: 每日抓取期刊文章
 
 on:
   schedule:
-    # 每天北京时间早上 6:00 运行（UTC 22:00 前一天）
     - cron: '0 22 * * *'
-  # 允许手动触发
   workflow_dispatch:
+
 permissions:
-  contents: write          # ← 添加这行，允许推送
+  contents: write
 
 jobs:
   fetch-articles:
@@ -33,10 +31,41 @@ jobs:
           OPENALEX_EMAIL: ${{ secrets.OPENALEX_EMAIL }}
         run: python scripts/fetch_articles.py
       
+      - name: 检查是否有更新
+        id: check_changes
+        run: |
+          git add public/data/articles.json
+          if git diff --staged --quiet; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "📭 没有新文章"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "📬 发现新文章！"
+          fi
+
       - name: 提交并推送数据
+        if: steps.check_changes.outputs.has_changes == 'true'
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add public/data/articles.json
-          git diff --staged --quiet || git commit -m "📚 更新文章数据 $(date +'%Y-%m-%d')"
+          git commit -m "📚 更新文章数据 $(date +'%Y-%m-%d')"
           git push
+
+      - name: 发送邮件通知
+        if: steps.check_changes.outputs.has_changes == 'true'
+        uses: dawidd6/action-send-mail@v3
+        with:
+          server_address: smtp.gmail.com
+          server_port: 465
+          secure: true
+          username: ${{ secrets.EMAIL_USERNAME }}
+          password: ${{ secrets.EMAIL_PASSWORD }}
+          subject: "📚 EduTech期刊有新文章更新！"
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_USERNAME }}
+          body: |
+            EduTech期刊追踪数据已更新！
+            
+            运行时间：$(date +'%Y-%m-%d %H:%M')
+            
+            查看运行详情：https://github.com/wdeliang/edutech-tracker/actions/runs/${{ github.run_id }}
