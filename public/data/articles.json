@@ -1,5 +1,233 @@
 [
   {
+    "id": "https://openalex.org/W7162246768",
+    "title": "Editorial Notes: the CSCL universe is still expanding",
+    "authors": [
+      "Michael J. Baker",
+      "Peter Reimann"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-05-25",
+    "doi": "10.1007/s11412-026-09485-8",
+    "url": "https://doi.org/10.1007/s11412-026-09485-8",
+    "abstract": "",
+    "keywords": [
+      "Universe",
+      "Exposition (narrative)",
+      "Work (physics)",
+      "Field (mathematics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:05.323259"
+  },
+  {
+    "id": "https://openalex.org/W7162245395",
+    "title": "How does technological anxiety affect teachers’ self-efficacy in AI competence: the mediating role of work engagement and the moderating role of social support",
+    "authors": [
+      "Qun Lin",
+      "Qing Zhou",
+      "Qian Long",
+      "Min Zhu",
+      "Haoran Ma"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-05-25",
+    "doi": "10.1007/s10639-026-14036-7",
+    "url": "https://doi.org/10.1007/s10639-026-14036-7",
+    "abstract": "",
+    "keywords": [
+      "Affect (linguistics)",
+      "Social support",
+      "Work engagement",
+      "Anxiety",
+      "Work (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:07.933820"
+  },
+  {
+    "id": "https://openalex.org/W7162240631",
+    "title": null,
+    "authors": [],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-05-25",
+    "doi": "10.1002/jcal.v42.4",
+    "url": "https://doi.org/10.1002/jcal.v42.4",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-05-25T12:02:16.075551"
+  },
+  {
+    "id": "https://openalex.org/W7162243681",
+    "title": "The power of friendship and study collaboration on the development of students` sense of belonging: A three-year longitudinal study at Russian universities",
+    "authors": [
+      "Kseniia Vilkova",
+      "Oksana Dremova",
+      "Irina Shcheglova"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-05-24",
+    "doi": "10.1080/14703297.2026.2678386",
+    "url": "https://doi.org/10.1080/14703297.2026.2678386",
+    "abstract": "",
+    "keywords": [
+      "Friendship",
+      "Longitudinal study",
+      "Power (physics)",
+      "Power structure",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:10.095072"
+  },
+  {
+    "id": "https://openalex.org/W7162255807",
+    "title": "Issue Information",
+    "authors": [],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-05-24",
+    "doi": "10.1002/jcal.70265",
+    "url": "https://doi.org/10.1002/jcal.70265",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:16.075563"
+  },
+  {
+    "id": "https://openalex.org/W7162239763",
+    "title": "Investigating the Impact of Virtual Reality Panoramas on Children's Water Safety Knowledge and Interest and Enjoyment",
+    "authors": [
+      "Allana Santiago",
+      "Bernadette Matthews",
+      "Won Sun Chen",
+      "Therese Keane",
+      "Paola Araiza-Alba"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-05-24",
+    "doi": "10.1002/jcal.70268",
+    "url": "https://doi.org/10.1002/jcal.70268",
+    "abstract": "ABSTRACT Background Unintentional drowning is a leading cause of injury and death among children worldwide, and inadequate water safety education is a significant contributing factor. Innovative technologies such as virtual reality [VR] have the potential to teach children about safety and reduce the risk of accidental injury. However, there are limited studies on VR's effectiveness to improve water safety knowledge among children, highlighting the need for research in this area. Objective This ",
+    "keywords": [
+      "Workbook",
+      "Virtual reality",
+      "Knowledge retention",
+      "Intervention (counseling)",
+      "Accidental"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70268",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:16.075664"
+  },
+  {
+    "id": "https://openalex.org/W7162244845",
+    "title": "New Ways to Teach and Learn Pragmatics for Advancing Academic Communication Competence: An AI-Mediated Multimodal Platform",
+    "authors": [
+      "Tressyalina Tressyalina",
+      "Bima Mhd Ghaluh",
+      "Ella Wulandari",
+      "Ena Noveria",
+      "Ermawati Arief"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-05-24",
+    "doi": "10.1177/13621688261446189",
+    "url": "https://doi.org/10.1177/13621688261446189",
+    "abstract": "Effective academic communication in multilingual higher education requires pragmatic competence, yet this dimension of language ability is often overlooked in instruction and insufficiently supported through feedback or authentic practice. Grounded in instructed pragmatics and technology-mediated learning frameworks, this study reports on the design, implementation, and empirical evaluation of an artificial intelligence (AI)-mediated multimodal platform developed to scaffold pragmatic competence",
+    "keywords": [
+      "Pragmatics",
+      "Conversation",
+      "Politeness",
+      "Competence (human resources)",
+      "Conversation analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:23.431662"
+  },
+  {
+    "id": "https://openalex.org/W7162258808",
+    "title": "Australia’s professional education ecosystem for out-of-field teachers: seeking diverse pathways for teacher learning",
+    "authors": [
+      "Linda Hobbs",
+      "Emily Ross",
+      "Chris Speldewinde",
+      "Trevor McCandless",
+      "Merrilyn Goos"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-05-24",
+    "doi": "10.1080/19415257.2026.2675289",
+    "url": "https://doi.org/10.1080/19415257.2026.2675289",
+    "abstract": "",
+    "keywords": [
+      "Professional development",
+      "Professional learning community",
+      "Faculty development",
+      "Teacher education",
+      "Professional studies"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:35.573446"
+  },
+  {
+    "id": "https://openalex.org/W7162253951",
+    "title": "University strategy in transnational higher education: The strategic approaches of newly established and ‘small’ international branch campuses",
+    "authors": [
+      "Stephen Wilkins",
+      "Joe Hazzam"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-05-24",
+    "doi": "10.1002/berj.70211",
+    "url": "https://doi.org/10.1002/berj.70211",
+    "abstract": "Abstract Newly established international branch campuses (IBCs) commence operations without a student body, and even after several years, many institutions fail to grow beyond 500 students. Despite having unique strategic needs, small IBCs are largely overlooked in the higher education literature. This research examines the organisational‐level strategies of small IBCs, along with the push and pull factors driving their adoption. Based on data from expert informants holding senior management pos",
+    "keywords": [
+      "Status quo",
+      "Closing (real estate)",
+      "Higher education",
+      "Strategic planning",
+      "Key (lock)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70211",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:38.200835"
+  },
+  {
     "id": "https://openalex.org/W7162195837",
     "title": "Model-based reasoning in STEM education: a systematic literature review",
     "authors": [
@@ -71,6 +299,33 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-05-24T11:43:15.778642"
+  },
+  {
+    "id": "https://openalex.org/W7162260627",
+    "title": "The changing nature of social media and research impact: a comparative analysis of impact case studies in UK higher education",
+    "authors": [
+      "Mark Carrigan",
+      "Katy Jordan",
+      "Ignacio Wyman"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-05-23",
+    "doi": "10.1080/03075079.2026.2676974",
+    "url": "https://doi.org/10.1080/03075079.2026.2676974",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Social media",
+      "Trend analysis",
+      "Qualitative research",
+      "Social influence"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-25T12:02:32.861714"
   },
   {
     "id": "https://openalex.org/W7162191000",
