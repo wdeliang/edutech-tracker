@@ -1,5 +1,515 @@
 [
   {
+    "id": "https://openalex.org/W7162464943",
+    "title": "Enhancing programming education with emotion-aware chatbot interfaces: a Wizard-of-Oz study among Arabic-speaking university students",
+    "authors": [
+      "Mamoun Nawahdah",
+      "Hadeel Sawalha",
+      "Hadeel Jabara"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-05-26",
+    "doi": "10.1186/s41239-026-00600-1",
+    "url": "https://doi.org/10.1186/s41239-026-00600-1",
+    "abstract": "Abstract Purpose This study examines how different emotion-aware chatbot interaction modalities, particularly voice-based support augmented with an animated avatar, affect student engagement and code outcomes in undergraduate programming courses, compared with text-only and real-teacher support. Methods We conducted a controlled classroom experiment with Arabic-speaking computer science students at Birzeit University during a 60-minute Java programming task. Participants were randomly assigned t",
+    "keywords": [
+      "Chatbot",
+      "Usability",
+      "Code (set theory)",
+      "Quality (philosophy)",
+      "Data collection"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00600-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:17.585243"
+  },
+  {
+    "id": "https://openalex.org/W7162469277",
+    "title": "Learning to write in a digital age: technology-enhanced intervention for struggling writers in early elementary grades from low SES families",
+    "authors": [
+      "Li-Jen Kuo",
+      "Xueyan Hu",
+      "L. Quentin Dixon",
+      "Mahjabin Chowdhury",
+      "Yanfang Zeng"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/09588221.2026.2673879",
+    "url": "https://doi.org/10.1080/09588221.2026.2673879",
+    "abstract": "",
+    "keywords": [
+      "Intervention (counseling)",
+      "Computer-Assisted Instruction",
+      "Teaching method",
+      "Language acquisition",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:22.691434"
+  },
+  {
+    "id": "https://openalex.org/W7162458988",
+    "title": "GenAI-agents in education: a systematic review of macro-level trends, educational roles, theoretical foundations and future agendas",
+    "authors": [
+      "Xingchang Liu",
+      "Qianwen Tang",
+      "Wanting Wu",
+      "X Y Chen",
+      "Chengliang Wang"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/10494820.2026.2672562",
+    "url": "https://doi.org/10.1080/10494820.2026.2672562",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Educational research",
+      "Systematic review",
+      "Higher education",
+      "Research methodology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:28.205343"
+  },
+  {
+    "id": "https://openalex.org/W7162425498",
+    "title": "Optimizing instructional language in massive open online courses: a dependency-grammar-based model of linguistic diversity, complexity, and learning effectiveness",
+    "authors": [
+      "Liangpeng Gao",
+      "Yue Zheng",
+      "Xinwei Ma",
+      "Feiyu Feng",
+      "Wenliang Jian"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/10494820.2026.2670531",
+    "url": "https://doi.org/10.1080/10494820.2026.2670531",
+    "abstract": "",
+    "keywords": [
+      "Instructional design",
+      "Language acquisition",
+      "Educational technology",
+      "Computer-Assisted Instruction",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:28.205360"
+  },
+  {
+    "id": "https://openalex.org/W7162405101",
+    "title": "An AI-enhanced computational thinking program: effects on children’s computational thinking, self-regulation, and representations of AI robots",
+    "authors": [
+      "Xiaowen Wang",
+      "Kan Kan Chan"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/10494820.2026.2672559",
+    "url": "https://doi.org/10.1080/10494820.2026.2672559",
+    "abstract": "",
+    "keywords": [
+      "Computational thinking",
+      "Robot",
+      "Computational model",
+      "Representation (politics)",
+      "Computational complexity theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:28.205365"
+  },
+  {
+    "id": "https://openalex.org/W7162426299",
+    "title": "A phenomenographic analysis of undergraduates’ conceptions of generative AI-mediated learning",
+    "authors": [
+      "Bo-Ren Mau",
+      "Chin‐Chung Tsai",
+      "Yi-Ping Wu",
+      "Hui-Hsien Feng",
+      "Tzung‐Jin Lin"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/15391523.2026.2675632",
+    "url": "https://doi.org/10.1080/15391523.2026.2675632",
+    "abstract": "",
+    "keywords": [
+      "Phenomenography",
+      "Generative grammar",
+      "Experiential learning",
+      "Generative model",
+      "Research methodology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:28.868132"
+  },
+  {
+    "id": "https://openalex.org/W7162398430",
+    "title": "Claiming professional status: identity work among instructional designers in higher education",
+    "authors": [
+      "Gustavo Roque",
+      "Craig M. McGill",
+      "Tonette S. Rocco"
+    ],
+    "journal": "Journal of Computing In Higher Education",
+    "jif": 4.9,
+    "published_date": "2026-05-26",
+    "doi": "10.1007/s12528-026-09498-0",
+    "url": "https://doi.org/10.1007/s12528-026-09498-0",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Foregrounding",
+      "Professionalization",
+      "Ambiguity",
+      "Instructional design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:30.257492"
+  },
+  {
+    "id": "https://openalex.org/W7162412363",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-05-26",
+    "doi": "10.1016/s0959-4752(26)00085-x",
+    "url": "https://doi.org/10.1016/s0959-4752(26)00085-x",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:32.377761"
+  },
+  {
+    "id": "https://openalex.org/W7162396916",
+    "title": "Can we professionally develop teachers’ visual attention? Video-based professional development of early childhood teachers’ in-action noticing during language-stimulating interactions: A mobile eye-tracking study",
+    "authors": [
+      "Thibaut Duthois",
+      "Ruben Vanderlinde",
+      "Piet Van Avermaet",
+      "Maribel Montero Perez"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-05-26",
+    "doi": "10.1016/j.learninstruc.2026.102396",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102396",
+    "abstract": "",
+    "keywords": [
+      "Early childhood",
+      "Professional development",
+      "Early childhood education",
+      "Child development",
+      "Faculty development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:32.377779"
+  },
+  {
+    "id": "https://openalex.org/W7162452819",
+    "title": "Teacher judgments of student self-regulated learning – Examining the effect of student and teacher characteristics",
+    "authors": [
+      "Sabrina Brunner",
+      "Yves Karlen"
+    ],
+    "journal": "Metacognition and Learning",
+    "jif": 4.8,
+    "published_date": "2026-05-26",
+    "doi": "10.1007/s11409-026-09469-x",
+    "url": "https://doi.org/10.1007/s11409-026-09469-x",
+    "abstract": "Students skilled in self-regulated learning (SRL) can plan, monitor, and reflect on their learning, using strategy knowledge (SK) to select and apply strategies. Teachers often struggle to assess SRL and rely on non-diagnostic cues, particularly when their knowledge of SRL is limited. Biased evaluations could affect how teachers support students and impact their performance. This study investigated teachers’ accuracy in judging students’ SK across five SRL components (cognition, metacognition, t",
+    "keywords": [
+      "Affect (linguistics)",
+      "Multilevel model",
+      "Test (biology)",
+      "Metacognition",
+      "Socioeconomic status"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11409-026-09469-x.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:33.760556"
+  },
+  {
+    "id": "https://openalex.org/W7162420306",
+    "title": "Effects of Taiwan's National Curricula on Students' Mathematical Literacy: A Difference-in-Differences Analysis of PISA 2018 and 2022",
+    "authors": [
+      "Kuan-Ming Chen",
+      "Tsung-Hau Jen",
+      "Ya-Wen Shang"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-05-26",
+    "doi": "10.1007/s40299-026-01112-2",
+    "url": "https://doi.org/10.1007/s40299-026-01112-2",
+    "abstract": "Abstract In this study, the effects of Taiwan’s 2019 competency-based curriculum reform on students’ mathematical literacy are examined using a difference-in-differences (DiD) approach with data from PISA 2018 and 2022. The reform’s staggered rollout generated differential exposure across cohorts: Grade 9 students experienced approximately two to three years of implementation at the lower secondary level (ISCED 2), whereas Grade 10 students encountered less than one year of exposure at the upper",
+    "keywords": [
+      "Curriculum",
+      "Numeracy",
+      "Socioeconomic status",
+      "Equity (law)",
+      "Differential (mechanical device)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s40299-026-01112-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:34.436007"
+  },
+  {
+    "id": "https://openalex.org/W7162423969",
+    "title": "Fostering tsunami awareness and vocabulary acquisition through VR: integrating SDG 13 into English education",
+    "authors": [
+      "Pei-Lin Liu",
+      "Chiu-Jung Chen",
+      "Chia‐Ju Lin",
+      "Hsin Li",
+      "Pin-yu Ke"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/17501229.2026.2679583",
+    "url": "https://doi.org/10.1080/17501229.2026.2679583",
+    "abstract": "",
+    "keywords": [
+      "Vocabulary",
+      "Language acquisition",
+      "Vocabulary development",
+      "Learner autonomy",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:35.126847"
+  },
+  {
+    "id": "https://openalex.org/W7162432731",
+    "title": "Comprehensive assessment instrument for game-based learning to enhance understanding of ‘vali mikumidam’ in Tamil grammar",
+    "authors": [
+      "Kingston Pal Thamburaj"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/17501229.2026.2669851",
+    "url": "https://doi.org/10.1080/17501229.2026.2669851",
+    "abstract": "",
+    "keywords": [
+      "Tamil",
+      "Grammar",
+      "Language acquisition",
+      "Assessment for learning",
+      "Experiential learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:35.126864"
+  },
+  {
+    "id": "https://openalex.org/W7162445845",
+    "title": "Facial expression recognition for investigating attention and affective states in synchronous online higher education",
+    "authors": [
+      "Emirhan Gülen",
+      "Yüksel Göktaş"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-05-26",
+    "doi": "10.1007/s11423-026-10631-0",
+    "url": "https://doi.org/10.1007/s11423-026-10631-0",
+    "abstract": "Abstract This study aims to identify students’ emotion and attention levels in live online classes using image processing technologies within the field of affective computing and to examine the factors influencing these emotional states. To this end, the Emotion and Attention Tracking System (EATS) platform was developed. The study also investigates the predictive capacity of the data obtained through EATS. An explanatory sequential mixed-methods design was employed. The sample consisted of 40 u",
+    "keywords": [
+      "Disgust",
+      "Facial expression",
+      "Emotional expression",
+      "Higher education",
+      "Emotion recognition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10631-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:37.934690"
+  },
+  {
+    "id": "https://openalex.org/W7162406441",
+    "title": "A study of teachers’ regard for adolescent perspectives in Norwegian upper secondary classrooms",
+    "authors": [
+      "Elisabeth Bjørnsson Bø",
+      "Sigrun K. Ertesvåg",
+      "Grete S. Vaaland"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-26",
+    "doi": "10.1016/j.tate.2026.105648",
+    "url": "https://doi.org/10.1016/j.tate.2026.105648",
+    "abstract": "",
+    "keywords": [
+      "Norwegian",
+      "Secondary education",
+      "Higher education",
+      "Qualitative research",
+      "Research methodology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105648",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:41.955601"
+  },
+  {
+    "id": "https://openalex.org/W7162460625",
+    "title": "Knowledge power under the belt and road initiative: exploring “peripheral” international doctoral students in the humanities and social sciences in China",
+    "authors": [
+      "Kenichi Doi",
+      "Y. Liu",
+      "Zhou Zhiying"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-05-26",
+    "doi": "10.1080/00131911.2026.2669607",
+    "url": "https://doi.org/10.1080/00131911.2026.2669607",
+    "abstract": "",
+    "keywords": [
+      "China",
+      "Power (physics)",
+      "Knowledge production",
+      "Higher education",
+      "Social power"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/00131911.2026.2669607",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:47.994114"
+  },
+  {
+    "id": "https://openalex.org/W7162463327",
+    "title": "An exploratory study of student perceptions of equity in peer assessment as part of independent group work",
+    "authors": [
+      "Marianne Savory",
+      "Yujie Hu"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-05-26",
+    "doi": "10.1108/et-07-2025-0521",
+    "url": "https://doi.org/10.1108/et-07-2025-0521",
+    "abstract": "Purpose This study investigates the implementation of the peer evaluation tool “BuddyCheck” in postgraduate programmes at a UK Russell Group university, focusing on its impact on perceived equity in independent student group work. Design/methodology/approach An exploratory study using a mixed-method approach, incorporating a quantitative survey and qualitative focus groups to explore detailed perceptions of equity and the role of peer evaluation in group work. Findings “BuddyCheck” was found to ",
+    "keywords": [
+      "Equity (law)",
+      "Focus group",
+      "Exploratory research",
+      "Perception",
+      "Peer assessment"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:52.021729"
+  },
+  {
+    "id": "https://openalex.org/W7162453386",
+    "title": "An ecosystemic approach to sustainable graduate employability: A case study of a Sino-British joint university in China",
+    "authors": [
+      "Jian Chen",
+      "Yingchun Li",
+      "Ling Wang",
+      "Tim London"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-05-26",
+    "doi": "10.1108/et-03-2025-0140",
+    "url": "https://doi.org/10.1108/et-03-2025-0140",
+    "abstract": "Purpose This article investigates the XJTLU-Academy model as an innovative case study to examine how a structured University-Industry Collaboration (UIC) mechanism cultivates learner agency and enhances graduate employability. Focusing on the “academies” at Xi’an Jiaotong-Liverpool University (XJTLU) as formal boundary-spanning units, the study contributes to reimagining the role of higher education in fostering sustainable career development. Design/methodology/approach A qualitative single-cas",
+    "keywords": [
+      "Experiential learning",
+      "Agency (philosophy)",
+      "Curriculum",
+      "Metacognition",
+      "Experiential education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:52.021794"
+  },
+  {
+    "id": "https://openalex.org/W7162398414",
+    "title": "Analyzing Within-Subject Interdependencies of Cognitive Attributes in Mathematics and Science",
+    "authors": [
+      "jihyun hwang",
+      "Jeong-su Ahn",
+      "Kyong Mi Choi",
+      "Brian Hand"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-05-26",
+    "doi": "10.1007/s10763-026-10684-w",
+    "url": "https://doi.org/10.1007/s10763-026-10684-w",
+    "abstract": "",
+    "keywords": [
+      "Interdependence",
+      "Cognition",
+      "Science education",
+      "Curriculum",
+      "Focus (optics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:59.339547"
+  },
+  {
     "id": "https://openalex.org/W7162293972",
     "title": "Factors influencing K–12 teachers’ intention to adopt AI tools in teaching: Extending TAM with AI tool competence and school support",
     "authors": [
@@ -49,6 +559,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-05-26T14:55:30.303100"
+  },
+  {
+    "id": "https://openalex.org/W7162454763",
+    "title": "‘Self’ and ‘othering’ as a byproduct of large‐scale assessment: An investigation into the Gaokao retake policy",
+    "authors": [
+      "Yifeng Cheng",
+      "M. Obaidul Hamid"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-05-25",
+    "doi": "10.1002/berj.70212",
+    "url": "https://doi.org/10.1002/berj.70212",
+    "abstract": "Abstract While Gaokao, the National College Entrance Examination (NCEE), has been extensively discussed outside the Chinese academic circle, the retake policy of the test has not received much attention. Moreover, Gaokao research in China has predominantly examined the effectiveness of the retake decision in relation to students' demographic characteristics. Qualitative research that examines the impact of the Gaokao retake policy on the lives of test‐takers, specifically on current‐year as well",
+    "keywords": [
+      "Process (computing)",
+      "Socioeconomic status",
+      "Higher education",
+      "Relation (database)",
+      "Root cause"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70212",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-05-27T11:06:57.979671"
   },
   {
     "id": "https://openalex.org/W7162311791",
