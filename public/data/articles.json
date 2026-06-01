@@ -1,5 +1,550 @@
 [
   {
+    "id": "https://openalex.org/W7162944759",
+    "title": "A framework for university readiness in extended reality (XR): a socio-technical perspective",
+    "authors": [
+      "Mohammed Hafeth Hakami",
+      "Jayan Chirayath Kurian",
+      "Ghassan Beydoun"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-05-31",
+    "doi": "10.1186/s41239-026-00599-5",
+    "url": "https://doi.org/10.1186/s41239-026-00599-5",
+    "abstract": "Abstract Despite the pedagogical potential of Extended Reality (XR) to transform higher education, institutional adoption continues to be fragmented, marked by abandoned pilots and high failure rates. Existing maturity models, such as the Technology Readiness Level (TRL), prioritize hardware functionality but fail to account for the complexity of university environments. This study addresses this gap by developing a systemic framework for university XR readiness. Employing a Socio-Technical Grou",
+    "keywords": [
+      "Perspective (graphical)",
+      "Multitude",
+      "Maturity (psychological)",
+      "Higher education",
+      "Convergence (economics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00599-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:13:54.473895"
+  },
+  {
+    "id": "https://openalex.org/W7162938326",
+    "title": "Associations between work overload, prolonging working hours, calling and exhaustion: Longitudinal evidence in a teacher sample",
+    "authors": [
+      "Doris Hofer",
+      "Sarah A.K. Kuhn",
+      "Daniel Spurk",
+      "Andreas Krause",
+      "Anita Sandmeier"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-31",
+    "doi": "10.1016/j.tate.2026.105652",
+    "url": "https://doi.org/10.1016/j.tate.2026.105652",
+    "abstract": "",
+    "keywords": [
+      "Sample (material)",
+      "Work (physics)",
+      "Longitudinal study",
+      "Longitudinal sample",
+      "Large sample"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105652",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:17.359945"
+  },
+  {
+    "id": "https://openalex.org/W7162851175",
+    "title": "A simple, scalable growth mindset intervention increases students’ sense of research community belonging in underrepresented minority and first generation undergraduates",
+    "authors": [
+      "Isabel Myers-Miller",
+      "William Adair",
+      "Bryant Hutson",
+      "Patrick R. Harrison",
+      "Jade Jones"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-05-30",
+    "doi": "10.1186/s40594-026-00618-x",
+    "url": "https://doi.org/10.1186/s40594-026-00618-x",
+    "abstract": "",
+    "keywords": [
+      "Mindset",
+      "Intervention (counseling)",
+      "Sense of community",
+      "First generation",
+      "Educational technology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00618-x",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:13:57.658522"
+  },
+  {
+    "id": "https://openalex.org/W7162859930",
+    "title": "A country-level preparedness index for digital education: infrastructure, teacher scientific-technology competence, and socioeconomic context",
+    "authors": [
+      "Cristina Cambeses-Franco",
+      "Paula Cambeses-Franco"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s10639-026-14042-9",
+    "url": "https://doi.org/10.1007/s10639-026-14042-9",
+    "abstract": "Abstract As education systems worldwide race towards digital transformation, increasingly driven by artificial intelligence and other emerging technologies, striking contrasts are emerging. While some nations are using these tools to transform learning, others are struggling to overcome deep-rooted structural and economic barriers. These disparities directly hinder progress towards Sustainable Development Goals 4 (Quality Education) and 10 (Reduced Inequalities). To capture these dynamics, this ",
+    "keywords": [
+      "Preparedness",
+      "Lagging",
+      "Index (typography)",
+      "Context (archaeology)",
+      "Socioeconomic status"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14042-9.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:03.883786"
+  },
+  {
+    "id": "https://openalex.org/W7162869151",
+    "title": "Correction to: Differentiated instruction through Learning Management Systems: Insights from teachers in Germany",
+    "authors": [
+      "Julia Frohn",
+      "Marcela Pozas",
+      "Johanna Lau",
+      "Josefine Hundt"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s10639-026-14043-8",
+    "url": "https://doi.org/10.1007/s10639-026-14043-8",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Differentiated instruction",
+      "Learning Management",
+      "Computer-Assisted Instruction",
+      "Electronic learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14043-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:03.883797"
+  },
+  {
+    "id": "https://openalex.org/W7162853067",
+    "title": "Chatbot-supported inquiry-based learning: effects of metacognitive scaffolding on K-12 students’ inquiry skills, metacognitive behavior patterns, and learning experience",
+    "authors": [
+      "Xin Gao",
+      "Xidong Guo",
+      "Qiang Jiang",
+      "Weiyan Xiong",
+      "wei zhao"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s10639-026-14037-6",
+    "url": "https://doi.org/10.1007/s10639-026-14037-6",
+    "abstract": "",
+    "keywords": [
+      "Metacognition",
+      "Scaffold",
+      "Educational technology",
+      "Cognition",
+      "Computer-Assisted Instruction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:03.883803"
+  },
+  {
+    "id": "https://openalex.org/W7162865431",
+    "title": "How rubric performance-level order and feedback shape students’ real-time self-regulation and self-efficacy",
+    "authors": [
+      "Ernesto Panadero",
+      "Leire Pinedo",
+      "Alazne Fernández-Ortube",
+      "David Zamorano",
+      "Lucía Barrenetxea-Mínguez"
+    ],
+    "journal": "Metacognition and Learning",
+    "jif": 4.8,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s11409-026-09468-y",
+    "url": "https://doi.org/10.1007/s11409-026-09468-y",
+    "abstract": "Abstract This study examines how the order of rubric performance levels (high-to-low vs. low-to-high) and four types of feedback (no feedback, rubric-based, product, and process) influence university students’ self-regulated learning (SRL) and self-efficacy during an academic task. A total of 120 first-year students completed two landscape analysis tasks supported by rubrics while verbalizing their thoughts through think-aloud protocols. Self-efficacy was measured before and after the experiment",
+    "keywords": [
+      "Rubric",
+      "Task (project management)",
+      "Reading (process)",
+      "Student engagement",
+      "Task analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11409-026-09468-y.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:09.689541"
+  },
+  {
+    "id": "https://openalex.org/W7162853600",
+    "title": "When LLMs meet creativity: rethinking GFL writing through Human–LLM co-creation",
+    "authors": [
+      "Xiaoshuang Guo"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-05-30",
+    "doi": "10.1080/17501229.2026.2678315",
+    "url": "https://doi.org/10.1080/17501229.2026.2678315",
+    "abstract": "",
+    "keywords": [
+      "Argument (complex analysis)",
+      "Ethnic group",
+      "Qualitative research",
+      "Language planning",
+      "Discourse analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:10.986716"
+  },
+  {
+    "id": "https://openalex.org/W7162866925",
+    "title": "Research–Practice Partnerships: Shaping Next‐Generation Language Learning Research",
+    "authors": [
+      "Phil Hiver",
+      "Ali H. Al‐Hoorie"
+    ],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-05-30",
+    "doi": "10.1111/modl.70071",
+    "url": "https://doi.org/10.1111/modl.70071",
+    "abstract": "",
+    "keywords": [
+      "Language acquisition",
+      "Natural language",
+      "Experiential learning",
+      "Focus (optics)",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:16.700611"
+  },
+  {
+    "id": "https://openalex.org/W7162877126",
+    "title": "Planning under load: How element interactivity shapes cognitive demands in preservice teachers’ lesson planning",
+    "authors": [
+      "Daniel Scholl",
+      "Simon Küth"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-30",
+    "doi": "10.1016/j.tate.2026.105600",
+    "url": "https://doi.org/10.1016/j.tate.2026.105600",
+    "abstract": "• Cognitive load rises with increased element interactivity in lesson planning tasks. • Intrinsic load increases, extraneous load remains stable across complexity levels. • Planning experience does not reduce intrinsic cognitive load in student teachers. • Findings support Cognitive Load Theory in the context of teacher lesson planning. • Results inform instructional design for early teacher education.",
+    "keywords": [
+      "Interactivity",
+      "Cognitive load",
+      "Element (criminal law)",
+      "Cognition",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105600",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:17.359981"
+  },
+  {
+    "id": "https://openalex.org/W7162863463",
+    "title": "Teacher leadership profiles as moderators of the relationship between instructional leadership, teacher turnover intention, and limited classroom instruction",
+    "authors": [
+      "Selçuk Turan",
+      "Nedim Özdemir",
+      "Hasan Yücel Ertem"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-30",
+    "doi": "10.1016/j.tate.2026.105646",
+    "url": "https://doi.org/10.1016/j.tate.2026.105646",
+    "abstract": "",
+    "keywords": [
+      "Teacher leadership",
+      "Instructional leadership",
+      "Turnover",
+      "Turnover intention",
+      "Educational leadership"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:17.359986"
+  },
+  {
+    "id": "https://openalex.org/W7162870646",
+    "title": "Schools' tendency towards security: A latent variable approach for identifying security's racialized associations with teacher and school-level outcomes",
+    "authors": [
+      "Samantha Viano",
+      "Alyssa Barone",
+      "John H. Boman",
+      "Benjamin W. Fisher",
+      "Kristina N. LaVenia"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-30",
+    "doi": "10.1016/j.tate.2026.105654",
+    "url": "https://doi.org/10.1016/j.tate.2026.105654",
+    "abstract": "",
+    "keywords": [
+      "Latent variable",
+      "Variable (mathematics)",
+      "Latent variable model",
+      "Latent growth modeling",
+      "Race (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:17.359991"
+  },
+  {
+    "id": "https://openalex.org/W7162860890",
+    "title": "Global patterns in STEM teacher shortages: Evidence from TIMSS 2011–2023",
+    "authors": [
+      "Nurullah Eryılmaz"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-05-30",
+    "doi": "10.1016/j.tate.2026.105657",
+    "url": "https://doi.org/10.1016/j.tate.2026.105657",
+    "abstract": "",
+    "keywords": [
+      "Economic shortage",
+      "Disadvantaged",
+      "Affect (linguistics)",
+      "Socioeconomic status",
+      "Teacher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:17.359994"
+  },
+  {
+    "id": "https://openalex.org/W7162868824",
+    "title": "Improving the Applicability of Cognitive Linguistics: A Research-Informed, Classroom-Oriented Perspective",
+    "authors": [
+      "Eloy Romero Muñoz",
+      "Remy Decorte"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-05-30",
+    "doi": "10.1177/13621688261448028",
+    "url": "https://doi.org/10.1177/13621688261448028",
+    "abstract": "This position paper explores the potential of Cognitive Linguistics (CL) in second and foreign language education from a research-informed, classroom-oriented perspective. Rather than evaluating CL through linguistic theory or experimental data alone, the paper draws on teachers’ and learners’ practical experiences with CL, as reported in available literature as much as experienced by the authors in their own classrooms, to reimagine what could help with the dissemination of CL. The discussion c",
+    "keywords": [
+      "Perspective (graphical)",
+      "Cognition",
+      "Context (archaeology)",
+      "Foreign language",
+      "USable"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/13621688261448028?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:18.642505"
+  },
+  {
+    "id": "https://openalex.org/W7162875665",
+    "title": "A figurational analysis of changing room processes and swimming in secondary Physical Education",
+    "authors": [
+      "Matthew J Green",
+      "Mark Mierzwinski"
+    ],
+    "journal": "European Physical Education Review",
+    "jif": 3.3,
+    "published_date": "2026-05-30",
+    "doi": "10.1177/1356336x261454969",
+    "url": "https://doi.org/10.1177/1356336x261454969",
+    "abstract": "Whilst not a statutory component, swimming can be taught during physical education (PE) lessons in secondary schools in England. Therefore, this article presents ethnographic accounts of pupils’ and teachers’ perceptions and experiences of swimming in PE in one state-funded secondary school in northern England. Drawing on participant observations, 14 focus groups with 49 pupils, and interviews with nine PE teachers, this article details how pupils navigated the embodied, relational and emotional",
+    "keywords": [
+      "Embarrassment",
+      "Ethnography",
+      "Physical education",
+      "Feeling",
+      "Shame"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:24.941808"
+  },
+  {
+    "id": "https://openalex.org/W7162867683",
+    "title": "Unearthing imaginaries: drama-based pedagogy for speculative futures of AI in higher education",
+    "authors": [
+      "Martin Rissler",
+      "Elias Flening",
+      "Anne-Kathrin Peters"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-05-30",
+    "doi": "10.1080/17439884.2026.2678195",
+    "url": "https://doi.org/10.1080/17439884.2026.2678195",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Futures contract",
+      "Electronic learning",
+      "Educational technology",
+      "Technology integration"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17439884.2026.2678195",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:28.677710"
+  },
+  {
+    "id": "https://openalex.org/W7162851161",
+    "title": "Pre-service English teachers and curricular change: rethinking norms towards queer-inclusive language pedagogy",
+    "authors": [
+      "Mark B. Ulla",
+      "Nikky Garo",
+      "Joseph B. Quinto"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-05-30",
+    "doi": "10.1080/02619768.2026.2682383",
+    "url": "https://doi.org/10.1080/02619768.2026.2682383",
+    "abstract": "",
+    "keywords": [
+      "Teaching method",
+      "Teacher education",
+      "Discourse analysis",
+      "Language proficiency",
+      "Curriculum"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:29.306624"
+  },
+  {
+    "id": "https://openalex.org/W7162862361",
+    "title": "Analyzing the Evolution of the Nature of Science Representation in Compulsory Education Chemistry Curriculum Standards in China",
+    "authors": [
+      "Qianwen Song",
+      "Xinshuang Mao",
+      "You Zheng",
+      "Meng Li",
+      "Zhou Qing"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s11191-026-00746-4",
+    "url": "https://doi.org/10.1007/s11191-026-00746-4",
+    "abstract": "",
+    "keywords": [
+      "Curriculum",
+      "Compulsory education",
+      "China",
+      "Curriculum theory",
+      "Curriculum mapping"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:30.537517"
+  },
+  {
+    "id": "https://openalex.org/W7162851954",
+    "title": "Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications",
+    "authors": [
+      "Francisco José Jiménez-Hornero",
+      "E. Gutiérrez de Ravé"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s11251-026-09808-0",
+    "url": "https://doi.org/10.1007/s11251-026-09808-0",
+    "abstract": "Abstract Developing durable methodological capabilities is a central challenge in doctoral education. This study examined how doctoral students retain conceptual understanding and procedural execution in data visualization following formal instruction. Using a rubric-based assessment with verified inter-rater reliability, performance was evaluated at three time points: immediately after training, six months later, and twelve months later. Linear mixed-effects models captured longitudinal changes",
+    "keywords": [
+      "Educational psychology",
+      "Longitudinal study",
+      "Competence (human resources)",
+      "Forgetting",
+      "Procedural knowledge"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11251-026-09808-0.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:33.097476"
+  },
+  {
+    "id": "https://openalex.org/W7162865560",
+    "title": "Cultivating science data literacy in K-16 science education through data practices: A systematic review",
+    "authors": [
+      "Jina Kang",
+      "Chungsoo Na",
+      "Morgan Diederich",
+      "Hillary Swanson",
+      "Lili Yan"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-05-30",
+    "doi": "10.1007/s11251-026-09803-5",
+    "url": "https://doi.org/10.1007/s11251-026-09803-5",
+    "abstract": "Abstract As data science advances with the emergence of new computational technologies, science data literacy (SDL)—the ability to understand, use, and critically engage with data to address real-world scientific problems—becomes increasingly vital in science education. However, research on how data practices vary across scientific disciplines and educational levels remains limited, hindering the development of a more cohesive understanding of how SDL can be systematically integrated into divers",
+    "keywords": [
+      "Scientific literacy",
+      "Science education",
+      "Identification (biology)",
+      "Literacy",
+      "Educational research"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11251-026-09803-5.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-01T19:14:33.097547"
+  },
+  {
     "id": "https://openalex.org/W7162809213",
     "title": "Disentangling copy typing and natural writing behaviors using keystroke logs and deep learning models",
     "authors": [
