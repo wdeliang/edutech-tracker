@@ -1,175 +1,235 @@
-📅 运行时间：2026-06-01 19:14
-📊 本次新增文章：20 篇
-📚 数据库总文章数：244 篇
-🔍 查询范围：2026-05-25 至 2026-06-01
+📅 运行时间：2026-06-02 12:30
+📊 本次新增文章：28 篇
+📚 数据库总文章数：272 篇
+🔍 查询范围：2026-05-26 至 2026-06-02
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Teaching and Teacher Education: 5 篇
-  • Education and Information Technologies: 3 篇
-  • Instructional Science: 2 篇
-  • International Journal of Educational Technology in Higher Education: 1 篇
-  • International Journal of Stem Education: 1 篇
-  • Metacognition and Learning: 1 篇
+  • Teaching and Teacher Education: 4 篇
+  • European Journal of Education: 3 篇
+  • Computers & Education: 2 篇
+  • Assessing Writing: 2 篇
+  • Education and Information Technologies: 2 篇
+  • Learning and Instruction: 2 篇
+  • Journal of English For Academic Purposes: 2 篇
+  • Science Education: 2 篇
+  • Studies In Higher Education: 2 篇
+  • Computer Assisted Language Learning: 1 篇
+  • International Journal of Computer-Supported Collaborative Learning: 1 篇
+  • Interactive Learning Environments: 1 篇
   • Innovation In Language Learning and Teaching: 1 篇
+  • Thinking Skills and Creativity: 1 篇
   • Modern Language Journal: 1 篇
-  • Language Teaching Research: 1 篇
-  • European Physical Education Review: 1 篇
   • Learning Media and Technology: 1 篇
-  • European Journal of Teacher Education: 1 篇
-  • Science & Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] A framework for university readiness in extended reality (XR): a socio-technical perspective
-    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
-    作者：Mohammed Hafeth Hakami, Jayan Chirayath Kurian, Ghassan Beydoun
-    日期：2026-05-31
-    关键词：Perspective (graphical), Multitude, Maturity (psychological), Higher education, Convergence (economics)
-    DOI：https://doi.org/10.1186/s41239-026-00599-5
+[1] The DIPS model: GenAI Integration in Digital Information Problem Solving by Experts and Novices
+    期刊：Computers & Education (JIF: 10.5)
+    作者：Josien Boetje, Zindzi de Graaf, Iwan; id_orcid 0000-0001-8516-9558 Wopereis 等(5人)
+    日期：2026-06-01
+    关键词：Information integration, Information system, Data integration
+    DOI：https://doi.org/10.1016/j.compedu.2026.105677
     🔓 开放获取
 
-[2] A simple, scalable growth mindset intervention increases students’ sense of research community belonging in underrepresented minority and first generation undergraduates
-    期刊：International Journal of Stem Education (JIF: 8.0)
-    作者：Isabel Myers-Miller, William Adair, Bryant Hutson 等(5人)
-    日期：2026-05-30
-    关键词：Mindset, Intervention (counseling), Sense of community, First generation, Educational technology
-    DOI：https://doi.org/10.1186/s40594-026-00618-x
+[2] Automated Scoring of Young Learners’ Student-Generated Questioning in Elementary Reading: A Machine-Learning Approach
+    期刊：Computers & Education (JIF: 10.5)
+    作者：Hajung Kim, Angelie Ignacio, Eunice Eunhee Jang
+    日期：2026-06-01
+    关键词：Interpretability, Cognition, Quality (philosophy), Scalability, Quality assessment
+    DOI：https://doi.org/10.1016/j.compedu.2026.105674
     🔓 开放获取
 
-[3] A country-level preparedness index for digital education: infrastructure, teacher scientific-technology competence, and socioeconomic context
+[3] Vocal and visual design features in multimodal GenAI agents: effects on EFL speaking performance, affect and interaction experience
+    期刊：Computer Assisted Language Learning (JIF: 6.6)
+    作者：Chenghao Wang, Xueyun Li, Hui Jin 等(4人)
+    日期：2026-06-01
+    关键词：Affect (linguistics), Multimodality, Eye tracking, Visual perception, Visual language
+    DOI：https://doi.org/10.1080/09588221.2026.2680421
+
+[4] Examining differences in interpersonal emotional interactions and temporal evolution of collective emotions between high- and low-performance groups in CSCL
+    期刊：International Journal of Computer-Supported Collaborative Learning (JIF: 5.7)
+    作者：Ruyi Jiang, Qingtang Liu, Xinqian Ma 等(4人)
+    日期：2026-06-01
+    关键词：Interpersonal communication, Facial expression, Emotional expression, Confusion, Interpersonal relationship
+    DOI：https://doi.org/10.1007/s11412-026-09481-y
+
+[5] QuillBot in L2 writing: Implications for assessment in the age of AI
+    期刊：Assessing Writing (JIF: 5.5)
+    作者：Hieu Manh, Thi Kieu Van Le
+    日期：2026-06-01
+    关键词：Online assessment
+    DOI：https://doi.org/10.1016/j.asw.2026.101079
+
+[6] GPTZero and the challenges of AI detection in assessing writing
+    期刊：Assessing Writing (JIF: 5.5)
+    作者：Louie Giray, Kershnee Sevnarayan, Kgabo Bridget Maphoto
+    日期：2026-06-01
+    关键词：Online assessment, Writing assessment
+    DOI：https://doi.org/10.1016/j.asw.2026.101078
+    🔓 开放获取
+
+[7] Chatbot-assisted self-regulated learning scaffolding in EAP writing: the mediating role of SRL and the moderating role of AI literacy
     期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Cristina Cambeses-Franco, Paula Cambeses-Franco
-    日期：2026-05-30
-    关键词：Preparedness, Lagging, Index (typography), Context (archaeology), Socioeconomic status
-    DOI：https://doi.org/10.1007/s10639-026-14042-9
-    🔓 开放获取
+    作者：Qian Zhang, Yan Liang
+    日期：2026-06-01
+    关键词：Chatbot, Scaffold, Literacy, Self-regulated learning, Educational technology
+    DOI：https://doi.org/10.1007/s10639-026-14038-5
 
-[4] Correction to: Differentiated instruction through Learning Management Systems: Insights from teachers in Germany
+[8] AI-enabled sign language interpretation in E-learning: a structural modelling of the perspectives of African sign language interpreters
     期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Julia Frohn, Marcela Pozas, Johanna Lau 等(4人)
-    日期：2026-05-30
-    关键词：Educational technology, Differentiated instruction, Learning Management, Computer-Assisted Instruction, Electronic learning
-    DOI：https://doi.org/10.1007/s10639-026-14043-8
+    作者：Olufemi Timothy Adigun
+    日期：2026-06-01
+    关键词：Interpreter, Sign language, Language interpretation, Sign (mathematics), Interpretation (philosophy)
+    DOI：https://doi.org/10.1007/s10639-026-14031-y
     🔓 开放获取
 
-[5] Chatbot-supported inquiry-based learning: effects of metacognitive scaffolding on K-12 students’ inquiry skills, metacognitive behavior patterns, and learning experience
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Xin Gao, Xidong Guo, Qiang Jiang 等(5人)
-    日期：2026-05-30
-    关键词：Metacognition, Scaffold, Educational technology, Cognition, Computer-Assisted Instruction
-    DOI：https://doi.org/10.1007/s10639-026-14037-6
+[9] From cognitive offloading to learning accountability erosion: how generative AI reshapes students’ epistemic trust and educational engagement
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Yu Liu, Min Jou, Yungwei Hao
+    日期：2026-06-01
+    关键词：Accountability, Cognition, Generative grammar, Generative model, Experiential learning
+    DOI：https://doi.org/10.1080/10494820.2026.2680276
 
-[6] How rubric performance-level order and feedback shape students’ real-time self-regulation and self-efficacy
-    期刊：Metacognition and Learning (JIF: 4.8)
-    作者：Ernesto Panadero, Leire Pinedo, Alazne Fernández-Ortube 等(5人)
-    日期：2026-05-30
-    关键词：Rubric, Task (project management), Reading (process), Student engagement, Task analysis
-    DOI：https://doi.org/10.1007/s11409-026-09468-y
+[10] Digital attention contagion in mathematics classrooms
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：D. Cairns, J. Robinson
+    日期：2026-06-02
+    关键词：Visual attention, Selective attention, Electronic learning
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102411
+
+[11] COVID-19: A cross-national analysis with PISA data
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Giang Pham, Franziska Maria Locher, Dimitra Kolovou 等(4人)
+    日期：2026-06-01
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102366
     🔓 开放获取
 
-[7] When LLMs meet creativity: rethinking GFL writing through Human–LLM co-creation
+[12] A latent profile analysis of EFL teachers’ L2 grit: associations with teaching boredom, enjoyment, enthusiasm, and self-efficacy
     期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Xiaoshuang Guo
-    日期：2026-05-30
-    关键词：Argument (complex analysis), Ethnic group, Qualitative research, Language planning, Discourse analysis
-    DOI：https://doi.org/10.1080/17501229.2026.2678315
-
-[8] Research–Practice Partnerships: Shaping Next‐Generation Language Learning Research
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Phil Hiver, Ali H. Al‐Hoorie
-    日期：2026-05-30
-    关键词：Language acquisition, Natural language, Experiential learning, Focus (optics), Qualitative research
-    DOI：https://doi.org/10.1111/modl.70071
-
-[9] Associations between work overload, prolonging working hours, calling and exhaustion: Longitudinal evidence in a teacher sample
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Doris Hofer, Sarah A.K. Kuhn, Daniel Spurk 等(5人)
+    作者：Mehdi Solhi, Mirosław Pawlak, Majid Elahi Shirvan 等(5人)
     日期：2026-05-31
-    关键词：Sample (material), Work (physics), Longitudinal study, Longitudinal sample, Large sample
-    DOI：https://doi.org/10.1016/j.tate.2026.105652
+    关键词：Teaching method, Language acquisition, Statistical analysis, Language proficiency, Learner autonomy
+    DOI：https://doi.org/10.1080/17501229.2026.2680245
+
+[13] How do Extrinsic School-Level Dynamics Influence Turkish Science Teachers’ Pedagogical Preferences for Teaching Higher-Order Thinking Through Inquiry-Based Instruction?
+    期刊：Thinking Skills and Creativity (JIF: 4.5)
+    作者：Selçuk Şahingöz
+    日期：2026-06-01
+    关键词：Turkish, Dynamics (music), Critical thinking, Preference
+    DOI：https://doi.org/10.1016/j.tsc.2026.102267
+
+[14] Online Writing Behaviors, Writing Outcomes, and Task Complexity in Computer‐Assisted Collaborative Writing
+    期刊：Modern Language Journal (JIF: 4.0)
+    作者：Xin Rong
+    日期：2026-05-31
+    关键词：Task (project management), Collaborative writing, Keystroke logging, Quality (philosophy), Writing assessment
+    DOI：https://doi.org/10.1111/modl.70068
     🔓 开放获取
 
-[10] Planning under load: How element interactivity shapes cognitive demands in preservice teachers’ lesson planning
+[15] Personalized learning strategies for considering students’ interests
     期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Daniel Scholl, Simon Küth
-    日期：2026-05-30
-    关键词：Interactivity, Cognitive load, Element (criminal law), Cognition, Context (archaeology)
-    DOI：https://doi.org/10.1016/j.tate.2026.105600
+    作者：Antonio Membrive, Maria Isabel Vizquerra, Anna Engel
+    日期：2026-06-02
+    关键词：Personalized learning, Individualized instruction, Electronic learning, Higher education, Teaching method
+    DOI：https://doi.org/10.1016/j.tate.2026.105663
+
+[16] Do growth mindsets matter for kindergarten teachers? Exploring their role in occupational well-being and turnover intentions
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Yaoyao Ji, Ronnel B. King
+    日期：2026-06-02
+    关键词：Turnover intention, Work (physics), Turnover, Early childhood education
+    DOI：https://doi.org/10.1016/j.tate.2026.105655
+
+[17] Teachers’ assessment data use: The roles of capacity, collaboration, and leadership
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Lise Vikan Sandvik, Gunnar Engvik
+    日期：2026-06-02
+    关键词：Higher education, Data collection, Leadership style, Online assessment, Leadership
+    DOI：https://doi.org/10.1016/j.tate.2026.105653
     🔓 开放获取
 
-[11] Teacher leadership profiles as moderators of the relationship between instructional leadership, teacher turnover intention, and limited classroom instruction
+[18] Structures, collaborative inquiry, and pedagogical knowledge in teacher research communities: A qualitative meta-analysis (2018–2024)
     期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Selçuk Turan, Nedim Özdemir, Hasan Yücel Ertem
-    日期：2026-05-30
-    关键词：Teacher leadership, Instructional leadership, Turnover, Turnover intention, Educational leadership
-    DOI：https://doi.org/10.1016/j.tate.2026.105646
-
-[12] Schools' tendency towards security: A latent variable approach for identifying security's racialized associations with teacher and school-level outcomes
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Samantha Viano, Alyssa Barone, John H. Boman 等(5人)
-    日期：2026-05-30
-    关键词：Latent variable, Variable (mathematics), Latent variable model, Latent growth modeling, Race (biology)
-    DOI：https://doi.org/10.1016/j.tate.2026.105654
-
-[13] Global patterns in STEM teacher shortages: Evidence from TIMSS 2011–2023
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Nurullah Eryılmaz
-    日期：2026-05-30
-    关键词：Economic shortage, Disadvantaged, Affect (linguistics), Socioeconomic status, Teacher education
-    DOI：https://doi.org/10.1016/j.tate.2026.105657
-
-[14] Improving the Applicability of Cognitive Linguistics: A Research-Informed, Classroom-Oriented Perspective
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Eloy Romero Muñoz, Remy Decorte
-    日期：2026-05-30
-    关键词：Perspective (graphical), Cognition, Context (archaeology), Foreign language, USable
-    DOI：https://doi.org/10.1177/13621688261448028
+    作者：Dario Giral Riaño, Olga Lucía Reyes Ramírez
+    日期：2026-06-01
+    关键词：Categorization, Narrative, Qualitative research, Perspective (graphical), Narrative inquiry
+    DOI：https://doi.org/10.1016/j.tate.2026.105661
     🔓 开放获取
 
-[15] A figurational analysis of changing room processes and swimming in secondary Physical Education
-    期刊：European Physical Education Review (JIF: 3.3)
-    作者：Matthew J Green, Mark Mierzwinski
-    日期：2026-05-30
-    关键词：Embarrassment, Ethnography, Physical education, Feeling, Shame
-    DOI：https://doi.org/10.1177/1356336x261454969
+[19] Inclusive Education: A Comparative Analysis of Models in European Countries
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Joanna Głodkowska, Iwona Konieczna
+    日期：2026-05-31
+    关键词：Flexibility (engineering), Inclusion (mineral), Diversification (marketing strategy), Convention, Czech
+    DOI：https://doi.org/10.1111/ejed.70710
 
-[16] Unearthing imaginaries: drama-based pedagogy for speculative futures of AI in higher education
+[20] Understanding Social–Emotional Skills in Childhood and Adolescence: A Network Perspective From Suzhou, China
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Bo Ning, Lidan Wang, Yijin Du 等(4人)
+    日期：2026-05-31
+    关键词：Optimism, Social skills, Perspective (graphical), Assertiveness, China
+    DOI：https://doi.org/10.1111/ejed.70704
+
+[21] Self‐Abandonment or Seeking a Way Out: Understanding Educational Expectations Among Chinese Migrant Children
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Qifan Ding, Qiaobing Wu
+    日期：2026-05-31
+    关键词：Habitus, Ambivalence, Compulsory education, Migrant workers, Educational attainment
+    DOI：https://doi.org/10.1111/ejed.70713
+    🔓 开放获取
+
+[22] Pre-service EFL teachers’ EAP literacies: A transition to GenAI-based curriculum design
+    期刊：Journal of English For Academic Purposes (JIF: 3.4)
+    作者：Mehmet Altay, Cansu Aykut Kolay, Reyyan Zülal Yöney
+    日期：2026-06-02
+    关键词：Curriculum, Transition (genetics), English for academic purposes, Graduate students
+    DOI：https://doi.org/10.1016/j.jeap.2026.101710
+
+[23] How do university students ask GenAI to revise or proofread a text? A framework for analysing prompting strategies
+    期刊：Journal of English For Academic Purposes (JIF: 3.4)
+    作者：Graham Burton, Francesca Vitali, Cecilia Lazzeretti 等(4人)
+    日期：2026-06-01
+    关键词：Ask price, Sample (material), Point (geometry), Empirical research, English for academic purposes
+    DOI：https://doi.org/10.1016/j.jeap.2026.101706
+    🔓 开放获取
+
+[24] Hands‐on and Minds‐on? Findings on the Instructional Support of Preschool Teachers to Foster Children's Understanding of Scientific Practices
+    期刊：Science Education (JIF: 3.4)
+    作者：Ada Cecil Haen, Henrik Saalbach, Ilonca Hardy 等(5人)
+    日期：2026-06-01
+    关键词：Scientific misconceptions, Sociology of scientific knowledge, Scientific literacy, Meaning (existential), Science education
+    DOI：https://doi.org/10.1002/sce.70084
+    🔓 开放获取
+
+[25] Exam Preview Methods Are Associated With Improvements for the Experiences and Learning of College Science Students
+    期刊：Science Education (JIF: 3.4)
+    作者：Benjamin Wiggins, Kerri Wingert, Gregory J. Crowther
+    日期：2026-06-01
+    关键词：Class (philosophy), Science education, Teaching method, Style (visual arts), Science class
+    DOI：https://doi.org/10.1002/sce.70082
+    🔓 开放获取
+
+[26] Managerial practices in the student experience in England and Chile: an organizational translation perspective
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Julio Labraña, Patricio Sanchez-Campos, Marjorie Tovar-Correal
+    日期：2026-05-31
+    关键词：Perspective (graphical), Higher education, Qualitative research, Student engagement, Graduate students
+    DOI：https://doi.org/10.1080/03075079.2026.2681142
+
+[27] Higher education and the imperative of social reconstruction: faculty perspectives on societal challenges, system responsiveness, and structural impediments
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Yixing Yang, Mulugeta Yayeh Worku
+    日期：2026-05-31
+    关键词：Higher education, Qualitative research, Social influence, Social change, Power structure
+    DOI：https://doi.org/10.1080/03075079.2026.2678400
+
+[28] The speculative making(s) of ethics-in-practice in universities
     期刊：Learning Media and Technology (JIF: 3.1)
-    作者：Martin Rissler, Elias Flening, Anne-Kathrin Peters
-    日期：2026-05-30
-    关键词：Higher education, Futures contract, Electronic learning, Educational technology, Technology integration
-    DOI：https://doi.org/10.1080/17439884.2026.2678195
-    🔓 开放获取
-
-[17] Pre-service English teachers and curricular change: rethinking norms towards queer-inclusive language pedagogy
-    期刊：European Journal of Teacher Education (JIF: 3.1)
-    作者：Mark B. Ulla, Nikky Garo, Joseph B. Quinto
-    日期：2026-05-30
-    关键词：Teaching method, Teacher education, Discourse analysis, Language proficiency, Curriculum
-    DOI：https://doi.org/10.1080/02619768.2026.2682383
-
-[18] Analyzing the Evolution of the Nature of Science Representation in Compulsory Education Chemistry Curriculum Standards in China
-    期刊：Science & Education (JIF: 2.5)
-    作者：Qianwen Song, Xinshuang Mao, You Zheng 等(5人)
-    日期：2026-05-30
-    关键词：Curriculum, Compulsory education, China, Curriculum theory, Curriculum mapping
-    DOI：https://doi.org/10.1007/s11191-026-00746-4
-
-[19] Conceptual and procedural knowledge retention in data visualization: a longitudinal study of doctoral learning and instructional design implications
-    期刊：Instructional Science (JIF: 2.1)
-    作者：Francisco José Jiménez-Hornero, E. Gutiérrez de Ravé
-    日期：2026-05-30
-    关键词：Educational psychology, Longitudinal study, Competence (human resources), Forgetting, Procedural knowledge
-    DOI：https://doi.org/10.1007/s11251-026-09808-0
-    🔓 开放获取
-
-[20] Cultivating science data literacy in K-16 science education through data practices: A systematic review
-    期刊：Instructional Science (JIF: 2.1)
-    作者：Jina Kang, Chungsoo Na, Morgan Diederich 等(5人)
-    日期：2026-05-30
-    关键词：Scientific literacy, Science education, Identification (biology), Literacy, Educational research
-    DOI：https://doi.org/10.1007/s11251-026-09803-5
+    作者：Martin Oliver, Jade Vu Henry
+    日期：2026-06-01
+    关键词：Higher education, Qualitative research, Electronic learning, Accountability, Information technology
+    DOI：https://doi.org/10.1080/17439884.2026.2678190
     🔓 开放获取
