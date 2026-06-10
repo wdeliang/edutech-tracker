@@ -1,5 +1,555 @@
 [
   {
+    "id": "https://openalex.org/W7163944598",
+    "title": "An Investigation of the Relationship between Computational Thinking and Scientific Process Skills in Pre-schoolers: A Correlational Study",
+    "authors": [
+      "Kevser Hava",
+      "Aysel Korkmaz"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s10956-026-10338-0",
+    "url": "https://doi.org/10.1007/s10956-026-10338-0",
+    "abstract": "Abstract The purpose of this study was to examine the relationship between computational thinking and science process skills in preschool students. The participants were 153 children aged 5 to 6 from three different preschools in Türkiye. Data were collected using a demographic information form, the TECHCHECK-K scale to assess computational thinking, and the Science Process Skills Achievement Test. The data were analyzed using RStudio. The results indicated that preschool students demonstrated m",
+    "keywords": [
+      "Computational thinking",
+      "Science education",
+      "Process (computing)",
+      "Structural equation modeling",
+      "Thinking processes"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10956-026-10338-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:35.427349"
+  },
+  {
+    "id": "https://openalex.org/W7163908447",
+    "title": "Institutionalizing grant-funded interventions: a multiple case study examining long-term investments in science, technology, engineering, mathematics, and medicine (STEMM)",
+    "authors": [
+      "Krystle P. Cobian",
+      "Naomi A. Stephen",
+      "Hector Ramos",
+      "Ana L. Romero",
+      "Sylvia Hurtado"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-08",
+    "doi": "10.1186/s40594-026-00620-3",
+    "url": "https://doi.org/10.1186/s40594-026-00620-3",
+    "abstract": "Abstract Background, context, and purpose Although funding agencies make large investments and encourage program adoption, little is known about the process of institutionalizing grant-funded efforts in higher education. This multiple case study examined how grant-funded awardees of a biomedical training grant worked toward institutionalizing program activities. Cases included 10 diverse postsecondary institutions (368 study participants) across the United States charged with implementing a fede",
+    "keywords": [
+      "Institutionalisation",
+      "Variety (cybernetics)",
+      "Postsecondary education",
+      "Higher education",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00620-3",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:29.945741"
+  },
+  {
+    "id": "https://openalex.org/W7163868444",
+    "title": "Examining linguistic reasoning and metalinguistic strategies in L2 writing: Insights from teacher- and AI-feedback revisions",
+    "authors": [
+      "Huican Huo",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-06-08",
+    "doi": "10.1016/j.asw.2026.101084",
+    "url": "https://doi.org/10.1016/j.asw.2026.101084",
+    "abstract": "",
+    "keywords": [
+      "Metalinguistic awareness",
+      "Metalinguistics",
+      "Deep linguistic processing",
+      "Theoretical linguistics",
+      "Semantics (computer science)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.asw.2026.101084",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:34.847147"
+  },
+  {
+    "id": "https://openalex.org/W7163921678",
+    "title": "Impact of cognitive load reduction in artificial intelligence enhanced in smart education and smart research",
+    "authors": [
+      "Santhosh Kumar S",
+      "Abdul Kadir Khan",
+      "Sandip Shinde"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-08",
+    "doi": "10.1007/s10639-026-14046-5",
+    "url": "https://doi.org/10.1007/s10639-026-14046-5",
+    "abstract": "",
+    "keywords": [
+      "Transparency (behavior)",
+      "Cognitive load",
+      "Cognition",
+      "Need for cognition",
+      "Data collection"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:36.017836"
+  },
+  {
+    "id": "https://openalex.org/W7163881848",
+    "title": "The effect of informal academic support on innovation capability of postgraduate students in the context of digital transformation: multiple mediating effects of psychological capital and learning engagement",
+    "authors": [
+      "Guangxing Zhu",
+      "Fangfang Pan",
+      "Wenjie Sui"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/10494820.2026.2670528",
+    "url": "https://doi.org/10.1080/10494820.2026.2670528",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Student engagement",
+      "Higher education",
+      "Electronic learning",
+      "Capital (architecture)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:36.664214"
+  },
+  {
+    "id": "https://openalex.org/W7163871339",
+    "title": "Emergent gendered AI learning ecologies in AI-mediated writing tasks: a critical comparative case study",
+    "authors": [
+      "Abdulrazaq Alzahrani",
+      "Abu Saleh Md Rafi"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/10494820.2026.2683034",
+    "url": "https://doi.org/10.1080/10494820.2026.2683034",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Qualitative research",
+      "Experiential learning",
+      "Teaching method",
+      "Active learning (machine learning)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:36.664230"
+  },
+  {
+    "id": "https://openalex.org/W7163869472",
+    "title": "Designing games, developing competencies: elementary students’ engagement with ISTE standards through playful participatory game design using the GSFG framework",
+    "authors": [
+      "Amy Mueller",
+      "Lauren Abplanalps-Ozaydin",
+      "Erin Casey"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/15391523.2026.2683791",
+    "url": "https://doi.org/10.1080/15391523.2026.2683791",
+    "abstract": "This design-based research study examines how the Go-Show-Flow-Glow (GSFG) framework supports elementary students’ engagement with ISTE Standards for Students through participatory game design. Twenty-three third-grade students designed educational games about the Dust Bowl during a five-day implementation. Thematic analysis of 540 coded instances revealed differential engagement across ISTE Standards: Innovative Designer dominated (34%), followed by Knowledge Constructor (16%) and Creative Comm",
+    "keywords": [
+      "Citizen journalism",
+      "Participatory design",
+      "Thematic analysis",
+      "Game based learning",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:37.314575"
+  },
+  {
+    "id": "https://openalex.org/W7163876798",
+    "title": "Studying the use of and motivation for vlog-assisted informal language learning (VAILL): questionnaire development and validation",
+    "authors": [
+      "Lanfang Sun",
+      "Wai Ming Cheung",
+      "Chin-Hsi Lin"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/17501229.2026.2678319",
+    "url": "https://doi.org/10.1080/17501229.2026.2678319",
+    "abstract": "Purpose Video blogs, commonly called vlogs, are increasingly popular tools for informal digital learning of English (IDLE), offering learners multimodal, interactive, and culturally embedded learning experiences. This has prompted growing scholarly interest in vlog-assisted informal language learning (VAILL). Nevertheless, little is known about how learners engage with vlogs or what motivates such engagement. This study addresses that gap by developing and validating two vlog-specific measuremen",
+    "keywords": [
+      "Scale (ratio)",
+      "Confirmatory factor analysis",
+      "Exploratory factor analysis",
+      "Construct (python library)",
+      "Construct validity"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:43.005561"
+  },
+  {
+    "id": "https://openalex.org/W7163884891",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-08",
+    "doi": "10.1016/s1871-1871(26)00146-x",
+    "url": "https://doi.org/10.1016/s1871-1871(26)00146-x",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:44.255560"
+  },
+  {
+    "id": "https://openalex.org/W7163908208",
+    "title": "Enhancing physics education through flipped problem-based learning (PBL): improving comprehension and problem-solving skills in undergraduate students",
+    "authors": [
+      "Chenglong Wang",
+      "Lirong Song",
+      "Jun Jiang"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-08",
+    "doi": "10.1007/s11423-026-10617-y",
+    "url": "https://doi.org/10.1007/s11423-026-10617-y",
+    "abstract": "",
+    "keywords": [
+      "Comprehension",
+      "Flipped classroom",
+      "Educational technology",
+      "Group (periodic table)",
+      "Flipped learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:45.572199"
+  },
+  {
+    "id": "https://openalex.org/W7163896757",
+    "title": "Tracing paths of development of intercultural competence: Trajectories of academics in international(ised) contexts in Australia",
+    "authors": [
+      "Leonardo Veliz",
+      "Mauricio Veliz",
+      "Zuocheng Zhang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-08",
+    "doi": "10.1016/j.tate.2026.105674",
+    "url": "https://doi.org/10.1016/j.tate.2026.105674",
+    "abstract": "",
+    "keywords": [
+      "Tracing",
+      "Development (topology)",
+      "Faculty development",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105674",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:49.340333"
+  },
+  {
+    "id": "https://openalex.org/W7163905275",
+    "title": "Framing an identity-oriented activity for agentive language teacher education: An ethico-political perspective",
+    "authors": [
+      "Özgehan Uştuk",
+      "Bedrettin Yazan"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-08",
+    "doi": "10.1016/j.tate.2026.105685",
+    "url": "https://doi.org/10.1016/j.tate.2026.105685",
+    "abstract": "",
+    "keywords": [
+      "Framing (construction)",
+      "Perspective (graphical)",
+      "Language teacher",
+      "Discourse analysis",
+      "Teacher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:49.340349"
+  },
+  {
+    "id": "https://openalex.org/W7163888058",
+    "title": "Exploring critical digital literacies in community college teacher education",
+    "authors": [
+      "Denise Farrelly",
+      "Laura Scheiber",
+      "Joanna Maulbeck"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-08",
+    "doi": "10.1016/j.tate.2026.105687",
+    "url": "https://doi.org/10.1016/j.tate.2026.105687",
+    "abstract": "",
+    "keywords": [
+      "Community college",
+      "Teacher education",
+      "Higher education",
+      "Technology integration",
+      "College English"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:49.340353"
+  },
+  {
+    "id": "https://openalex.org/W7163905852",
+    "title": "Understanding Digitally Mediated Reading Assessments Through Literacy Backgrounds: A Comparative Study of the Vietnamese Undergraduate Readers",
+    "authors": [
+      "Lam Ngoc Dieu Dang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-08",
+    "doi": "10.1111/ejed.70622",
+    "url": "https://doi.org/10.1111/ejed.70622",
+    "abstract": "ABSTRACT Digitally mediated assessment (DMRA) has become a central feature of contemporary higher education, particularly as institutions seek to evaluate key 21st‐century competences such as reading in technology‐rich environments. Grounded in Social Cognitive Theory, this mixed‐methods study investigates Vietnamese EFL undergraduates' attitudes toward DMRA, with specific attention to differences between more and less literacy‐advantaged students. A sequential explanatory design was employed. Q",
+    "keywords": [
+      "Vietnamese",
+      "Reading (process)",
+      "Thematic analysis",
+      "Literacy",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:53.198956"
+  },
+  {
+    "id": "https://openalex.org/W7163868700",
+    "title": "Systemic Influences of the Socio‐Economic Environment on Career Development in Romania and Educational Policy Implications",
+    "authors": [
+      "Irina Ion",
+      "Radu Lupu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-08",
+    "doi": "10.1111/ejed.70714",
+    "url": "https://doi.org/10.1111/ejed.70714",
+    "abstract": "ABSTRACT Despite a robust body of academic research on the determinants of career development, the relationships between these variables remain unclear, particularly the influence of socio‐economic status. This ambiguity is counterproductive to policy efforts of increasing employability and social equality, among other measures, through national career development systems. Such reforms are currently being implemented in Romania, a South Eastern European country under‐researched in career develop",
+    "keywords": [
+      "Employability",
+      "Vocational education",
+      "Career development",
+      "Romanian",
+      "Sample (material)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:53.199015"
+  },
+  {
+    "id": "https://openalex.org/W7163871254",
+    "title": "How to Apply What You Learn—Research on Major‐Job Matching of Higher Vocational Students",
+    "authors": [
+      "Jiaqi Liu",
+      "Meng Cai"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-08",
+    "doi": "10.1111/ejed.70706",
+    "url": "https://doi.org/10.1111/ejed.70706",
+    "abstract": "ABSTRACT An increasing number of countries recognize the significance of vocational education due to its potential to alleviate poverty and enhance the quality of life. However, major‐job mismatch among Chinese vocational graduates seriously hinders the benefits of vocational education. Within the framework of Ecological Systems Theory, this study analysed data from Chinese higher vocational students and used feature selection models, such as random forest and LASSO regression, to identify key p",
+    "keywords": [
+      "Vocational education",
+      "Matching (statistics)",
+      "Quality (philosophy)",
+      "Socioeconomic status",
+      "Poverty"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:53.199058"
+  },
+  {
+    "id": "https://openalex.org/W7163867005",
+    "title": "Early career trajectories of vocational high school graduates: the roles of educational and career readiness",
+    "authors": [
+      "Jieun Ryu",
+      "Soohyun Yi"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-06-08",
+    "doi": "10.1108/et-07-2025-0530",
+    "url": "https://doi.org/10.1108/et-07-2025-0530",
+    "abstract": "Purpose This study examines the early career trajectories of vocational high school graduates and identifies the factors shaping their transition from school to the workforce. Specifically, it aims to classify post-graduation employment patterns and assess demographic disparities influencing career outcomes. Design/methodology/approach Using longitudinal data covering a 36-month period after graduation, the study applies group-based multi-trajectory modeling (GBMTM) to identify distinct patterns",
+    "keywords": [
+      "Vocational education",
+      "Wage",
+      "Multinomial logistic regression",
+      "School-to-work transition",
+      "Family income"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:58.748866"
+  },
+  {
+    "id": "https://openalex.org/W7163872974",
+    "title": "The double-negative effects of early entry and out-of-field teaching on preservice teachers’ professionalization",
+    "authors": [
+      "Nele Kampa",
+      "Roman Zviagintsev"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/02619768.2026.2680939",
+    "url": "https://doi.org/10.1080/02619768.2026.2680939",
+    "abstract": "Teacher shortages comprise a worldwide challenge. Consequently, in some European countries, preservice teachers (PSTs) are often assigned to teach in schools during their studies. Unfavourable outcomes associated with teaching before finishing higher education may be crucial for professionalisation. Some students are assigned to teach out-of-field. This study examined Austrian PSTs (N = 1,643) to investigate how two aspects of professionalisation – theory-practice gap and educational enjoyment –",
+    "keywords": [
+      "Professionalization",
+      "Economic shortage",
+      "Teacher education",
+      "Value (mathematics)",
+      "Student teaching"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/02619768.2026.2680939",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:48:01.299617"
+  },
+  {
+    "id": "https://openalex.org/W7163891300",
+    "title": "Embedding school leaders’ professional learning in practice: praxis development through action research in Swedish municipal adult education",
+    "authors": [
+      "Ingela Portfelt"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-06-08",
+    "doi": "10.1080/19415257.2026.2685629",
+    "url": "https://doi.org/10.1080/19415257.2026.2685629",
+    "abstract": "",
+    "keywords": [
+      "Praxis",
+      "Professional development",
+      "Adult education",
+      "Action research",
+      "Adult Learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/19415257.2026.2685629",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:48:01.915246"
+  },
+  {
+    "id": "https://openalex.org/W7163895574",
+    "title": "The Use of Concept Cartoons on Socioscientific Issues to Promote Teachers’ Dialogic Discussions: Developing Gifted Students’ Decision-Making Competences and Informal Reasoning Modes",
+    "authors": [
+      "Şengül Atasoy",
+      "Özgül Yılmaz-Tüzün",
+      "Muammer Çalık",
+      "Ahmet Tekbıyık",
+      "Sezen Camcı"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-06-08",
+    "doi": "10.1007/s11191-026-00754-4",
+    "url": "https://doi.org/10.1007/s11191-026-00754-4",
+    "abstract": "Abstract This study aimed to examine teachers’ dialogic discussions in applications of concept cartoons on socioscientific issues (SSICCs) and how these discussions developed high school gifted students’ decision-making competences and informal reasoning modes. Through multiple case design, this study viewed three teachers in Science and Art Center (SAC) as the cases. The teachers’ dialogic discussions were analyzed by using the Dialogic Inquiry Tool (DIT). The findings of multiple case analysis",
+    "keywords": [
+      "Dialogic",
+      "Semi-structured interview",
+      "Teaching method",
+      "School teachers",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00754-4",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:48:02.570363"
+  },
+  {
+    "id": "https://openalex.org/W7163900991",
+    "title": "Buffered and burdened agency: African students navigating Chinese higher education",
+    "authors": [
+      "Tinghe Jin",
+      "Mengjie Jiang",
+      "Qian Liu",
+      "Shi Guo",
+      "J J Lu"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-08",
+    "doi": "10.1002/berj.70220",
+    "url": "https://doi.org/10.1002/berj.70220",
+    "abstract": "Abstract China has become a major destination for African students, yet their experiences are still often framed through deficit, aid, or soft power narratives that obscure their agency. This qualitative study examines how African international students in Chinese higher education institutions exercise agency under constraint. Drawing on 16 in‐depth interviews with students from seven African countries, we used reflexive thematic analysis to explore how participants navigated academic, social, a",
+    "keywords": [
+      "Cognitive reframing",
+      "Higher education",
+      "Agency (philosophy)",
+      "Reflexivity",
+      "Thematic analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:48:04.434190"
+  },
+  {
     "id": "https://openalex.org/W7163804440",
     "title": "Systematic peer back-evaluation was associated with higher-quality feedback and stronger task performance than sampled teacher monitoring in an EFL translation course",
     "authors": [
@@ -26,6 +576,62 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-08T13:55:24.480371"
+  },
+  {
+    "id": "https://openalex.org/W7163903755",
+    "title": "Capturing group compositions and discourse patterns in collaborative argumentation: A semi-automated linguistic approach with epistemic network analysis",
+    "authors": [
+      "Qilin Wang",
+      "Tianjiao Chen",
+      "Wanrong Guo",
+      "Xiaoying Feng"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-07",
+    "doi": "10.1080/17501229.2026.2671331",
+    "url": "https://doi.org/10.1080/17501229.2026.2671331",
+    "abstract": "",
+    "keywords": [
+      "Discourse analysis",
+      "Critical discourse analysis",
+      "Group (periodic table)",
+      "Linguistic analysis",
+      "Social network analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:47:43.005578"
+  },
+  {
+    "id": "https://openalex.org/W7163886625",
+    "title": "The doctoral journey as decolonial praxis: Self‐formation of Global South students in <scp>UK</scp> higher education",
+    "authors": [
+      "Peng Zhang",
+      "H Wu",
+      "Enze Guo",
+      "Amanda McCrory"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-07",
+    "doi": "10.1002/berj.70215",
+    "url": "https://doi.org/10.1002/berj.70215",
+    "abstract": "Abstract Previous research concerning Global South doctoral students in the United Kingdom has mainly situated their experiences within adaptationist paradigms, emphasising cultural adjustment and assimilation into Western academic norms. Such studies often depict students as passive recipients, overlooking their agency and the transformative potential inherent in the doctoral journey. To address this gap, we draw on Paulo Freire's concept of praxis and Marginson's theory of self‐formation to ex",
+    "keywords": [
+      "Transformative learning",
+      "Agency (philosophy)",
+      "Praxis",
+      "Foregrounding",
+      "Situated"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70215",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-10T11:48:04.434251"
   },
   {
     "id": "https://openalex.org/W7163808534",
