@@ -1,5 +1,550 @@
 [
   {
+    "id": "https://openalex.org/W7164007831",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-06-10",
+    "doi": "10.1016/s0346-251x(26)00120-x",
+    "url": "https://doi.org/10.1016/s0346-251x(26)00120-x",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:06.976354"
+  },
+  {
+    "id": "https://openalex.org/W7163983726",
+    "title": "On the challenges of investigating lasting learning: A commentary",
+    "authors": [
+      "Katharina Scheiter",
+      "Alexander Renkl"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-10",
+    "doi": "10.1016/j.learninstruc.2026.102417",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102417",
+    "abstract": "",
+    "keywords": [
+      "Action (physics)",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102417",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:13.255148"
+  },
+  {
+    "id": "https://openalex.org/W7164000428",
+    "title": "How the start-up phase of development work research projects fosters school development",
+    "authors": [
+      "Gro Marte Strand",
+      "May Britt Postholm"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-10",
+    "doi": "10.1016/j.tate.2026.105669",
+    "url": "https://doi.org/10.1016/j.tate.2026.105669",
+    "abstract": "",
+    "keywords": [
+      "Work (physics)",
+      "Phase (matter)",
+      "Research development",
+      "Development (topology)",
+      "Student development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105669",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:22.104136"
+  },
+  {
+    "id": "https://openalex.org/W7164000516",
+    "title": "Understanding student perspectives on generative AI chatbots: a human-centred mixed-methods study in higher education",
+    "authors": [
+      "Stephen Colbran",
+      "Meena Jha",
+      "Caitlin Schiavone"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-06-09",
+    "doi": "10.1186/s41239-026-00605-w",
+    "url": "https://doi.org/10.1186/s41239-026-00605-w",
+    "abstract": "Abstract This study addresses the educational challenges of understanding how generative AI chatbots can equitably and effectively enhance student learning in higher education. Chatbot system analytics data and a mixed methods survey (n = 121) was used to examine four research questions related to the use of chatbots (academic value, frequency of use, and attitudes), technology experience and AI literacy (self-reported digital proficiency, device usage and AI familiarity), barriers to use of cha",
+    "keywords": [
+      "Chatbot",
+      "Higher education",
+      "Learning analytics",
+      "Analytics",
+      "Descriptive statistics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00605-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:31:59.699116"
+  },
+  {
+    "id": "https://openalex.org/W7164011358",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-09",
+    "doi": "10.1016/s0360-1315(26)00121-1",
+    "url": "https://doi.org/10.1016/s0360-1315(26)00121-1",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:00.895270"
+  },
+  {
+    "id": "https://openalex.org/W7164037690",
+    "title": "From dialogue to text: Linking peer interaction to real-time revisions during L2 collaborative writing",
+    "authors": [
+      "Zhenhao Cao",
+      "Rachael Ruegg",
+      "Stephen Skalicky"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s11412-026-09488-5",
+    "url": "https://doi.org/10.1007/s11412-026-09488-5",
+    "abstract": "",
+    "keywords": [
+      "Zoom",
+      "Salient",
+      "Focus (optics)",
+      "Peer feedback",
+      "Online discussion"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:06.368071"
+  },
+  {
+    "id": "https://openalex.org/W7164050190",
+    "title": "Enhancing Feedback Literacy in Project-Based Science Education: Discourse Analytics and Technology Design",
+    "authors": [
+      "Irwan Setiawan",
+      "Hung‐Yu Kao",
+      "Kun-Ta Chuang"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s10956-026-10327-3",
+    "url": "https://doi.org/10.1007/s10956-026-10327-3",
+    "abstract": "This study investigates how discourse and rating signals from self- and peer-assessment can inform the design of technology-supported scaffolds to enhance feedback literacy in project-based STEM education. The dataset comprises 9,180 assessment events written in Indonesian by 95 undergraduate engineering students, making it one of the largest non-English peer feedback corpora analyzed in this domain. Two empirical research questions guided the analysis: (1) What patterns characterize students’ w",
+    "keywords": [
+      "Rubric",
+      "Literacy",
+      "Science education",
+      "Metacognition",
+      "Educational technology"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10956-026-10327-3.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:08.193103"
+  },
+  {
+    "id": "https://openalex.org/W7164000858",
+    "title": "A Biological Learning Theory: How We Learn in the Era of AI",
+    "authors": [
+      "Brayan Díaz",
+      "Zvi Bekerman",
+      "Miguél Nussbaum"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s10956-026-10340-6",
+    "url": "https://doi.org/10.1007/s10956-026-10340-6",
+    "abstract": "Abstract Artificial intelligence (AI) is transforming education, yet its impact on learning remains minimally theorized. Existing pedagogical models rarely address AI’s role, leading to misapplications - such as comparing student performance to AI outputs - without understanding how AI influences learning. This paper proposes a biological theory of learning grounded in autopoiesis and adaptation, reframing learning as a process of biological change driven by energy modulation and the regulation ",
+    "keywords": [
+      "Cognitive reframing",
+      "Enactivism",
+      "Embodied cognition",
+      "Experiential learning",
+      "Learning sciences"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10956-026-10340-6.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:08.193157"
+  },
+  {
+    "id": "https://openalex.org/W7164038340",
+    "title": "Problematic media use, loneliness, and digital literacy in primary school children",
+    "authors": [
+      "Murat Temur",
+      "Mustafa Erol",
+      "Ahmet Erol"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s10639-026-14051-8",
+    "url": "https://doi.org/10.1007/s10639-026-14051-8",
+    "abstract": "Abstract This study aims to examine the relationship between problematic media use (PMU), digital literacy (DL), and loneliness among primary school children. The participants were 957 children aged 8 to 11 years. Data were collected using standardized instruments measuring PMU, loneliness, and DL, and analyzed using GLM analysis. The findings revealed significant relationships between DL, loneliness, and PMU. Loneliness was statistically associated with PMU both directly and indirectly, with DL",
+    "keywords": [
+      "Loneliness",
+      "Digital literacy",
+      "Social media",
+      "Literacy",
+      "Cognition"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14051-8.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:08.838955"
+  },
+  {
+    "id": "https://openalex.org/W7163983722",
+    "title": "How do instructors’ attention and proximity influence students’ verbal engagement in higher education? insights from an AI-driven multimodal teaching behavior analytics system",
+    "authors": [
+      "Yawen Shi",
+      "Zengzhao Chen",
+      "Zhifeng Wang",
+      "Qiuyu Zheng",
+      "Mengke Wang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s10639-026-14053-6",
+    "url": "https://doi.org/10.1007/s10639-026-14053-6",
+    "abstract": "",
+    "keywords": [
+      "Nonverbal communication",
+      "Multimodality",
+      "Student engagement",
+      "Analytics",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:08.838973"
+  },
+  {
+    "id": "https://openalex.org/W7164026959",
+    "title": "A systematic review on online knowledge construction: an organizing framework for existing research and future research agenda",
+    "authors": [
+      "Li Zhao",
+      "Xia Liu"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-09",
+    "doi": "10.1080/10494820.2026.2677728",
+    "url": "https://doi.org/10.1080/10494820.2026.2677728",
+    "abstract": "",
+    "keywords": [
+      "Electronic learning",
+      "Educational technology",
+      "Higher education",
+      "The Internet",
+      "Systematic review"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:09.459740"
+  },
+  {
+    "id": "https://openalex.org/W7163996223",
+    "title": "Artificial intelligence for engaging neurodiverse learners in K-12 education: a systematic review",
+    "authors": [
+      "Mohammad Mohı Uddın",
+      "Feiya Luo",
+      "Jewoong Moon"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-09",
+    "doi": "10.1080/10494820.2026.2679063",
+    "url": "https://doi.org/10.1080/10494820.2026.2679063",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Applications of artificial intelligence",
+      "Teaching method",
+      "Computer-Assisted Instruction",
+      "Experiential learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:09.459758"
+  },
+  {
+    "id": "https://openalex.org/W7164068991",
+    "title": "Virtual Reality in Veterinary Higher Education: Enhancing Diagnostic Skills on Equine Endoscopy Procedures via Immersive Training",
+    "authors": [
+      "Michela Bullone",
+      "Edoardo Battegazzorre",
+      "Francesco Bonini",
+      "Federico De Lorenzis",
+      "Giulia Memoli"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-06-09",
+    "doi": "10.1177/07356331261456126",
+    "url": "https://doi.org/10.1177/07356331261456126",
+    "abstract": "Veterinary sciences are undergoing a paradigm shift in the way students are trained for practical skills since classical educational approaches, based on apprenticeships and wet labs, are no longer applicable due to the increasingly specialized nature of veterinary teaching hospitals, rising costs, and ethical issues. This paper presents and evaluates the effectiveness of a Virtual Reality Training System (VRTS) designed to allow students to train on equine upper airway endoscopy procedures with",
+    "keywords": [
+      "Virtual reality",
+      "Apprenticeship",
+      "Endoscopy",
+      "Population",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:12.618539"
+  },
+  {
+    "id": "https://openalex.org/W7164040531",
+    "title": "Negotiating Occupational Well-Being in AI-Enhanced Higher Education: A Process Model of Socio-Technical Mediation",
+    "authors": [
+      "Liting Lu",
+      "Hang Xu",
+      "Y. Wang"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-06-09",
+    "doi": "10.1007/s40299-026-01123-z",
+    "url": "https://doi.org/10.1007/s40299-026-01123-z",
+    "abstract": "",
+    "keywords": [
+      "Negotiation",
+      "Grounded theory",
+      "Legitimacy",
+      "Mediation",
+      "Perception"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:15.158579"
+  },
+  {
+    "id": "https://openalex.org/W7163995317",
+    "title": "What counts as competent teaching? A systematic narrative synthesis of teacher competencies in K–12 education",
+    "authors": [
+      "Trent Dawson",
+      "Marcedes Butler",
+      "Kenneth J. Fasching-Varner"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-09",
+    "doi": "10.1016/j.tate.2026.105684",
+    "url": "https://doi.org/10.1016/j.tate.2026.105684",
+    "abstract": "",
+    "keywords": [
+      "Narrative",
+      "Teacher education",
+      "Narrative inquiry",
+      "Higher education",
+      "Systematic review"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:22.104151"
+  },
+  {
+    "id": "https://openalex.org/W7164036604",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-09",
+    "doi": "10.1016/s0742-051x(26)00304-5",
+    "url": "https://doi.org/10.1016/s0742-051x(26)00304-5",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:22.104155"
+  },
+  {
+    "id": "https://openalex.org/W7164012405",
+    "title": "Language Education as a Complex System: Insights from Current Research",
+    "authors": [
+      "Hossein Nassaji"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-09",
+    "doi": "10.1177/13621688261451578",
+    "url": "https://doi.org/10.1177/13621688261451578",
+    "abstract": "",
+    "keywords": [
+      "Comprehension approach",
+      "Language acquisition",
+      "Current (fluid)",
+      "Language education",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:23.402680"
+  },
+  {
+    "id": "https://openalex.org/W7164033838",
+    "title": "Notes on Contributors",
+    "authors": [],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-09",
+    "doi": "10.1177/13621688261451579",
+    "url": "https://doi.org/10.1177/13621688261451579",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:23.402696"
+  },
+  {
+    "id": "https://openalex.org/W7164016749",
+    "title": "Exploring undergraduate students’ synthesis writing strategies and perceptions in a GenAI-supported literature review task",
+    "authors": [
+      "Besma Allagui"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-09",
+    "doi": "10.1016/j.jeap.2026.101721",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101721",
+    "abstract": "",
+    "keywords": [
+      "Task (project management)",
+      "Perception",
+      "English for academic purposes",
+      "Task analysis",
+      "Graduate students"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:26.564886"
+  },
+  {
+    "id": "https://openalex.org/W7164009411",
+    "title": "Teaching for sustainability in multicultural contexts: the experience of 8 university projects in Mexico",
+    "authors": [
+      "Eduardo Barros Guerrero",
+      "Laura Odila Bello Benavides",
+      "Andrés Felipe Bueno Lugo"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-09",
+    "doi": "10.1108/ijshe-02-2025-0149",
+    "url": "https://doi.org/10.1108/ijshe-02-2025-0149",
+    "abstract": "Purpose This article presents the results of a study that explores the incorporation of sustainability across the Universidad Veracruzana’s higher education dimensions (teaching, research and outreach) through the experience of eight research and/or community outreach projects. The purpose was to analyze the articulation of teaching for sustainability based on the experience of the projects linked to rural/indigenous communities in the state of Veracruz. Design/methodology/approach The methodolo",
+    "keywords": [
+      "Sustainability",
+      "Outreach",
+      "Situated",
+      "Qualitative research",
+      "Focus group"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:29.098306"
+  },
+  {
+    "id": "https://openalex.org/W7164034322",
+    "title": "Navigating multiple institutional logics: unveiling organizational identity of Polish Catholic universities through strategic documents analysis",
+    "authors": [
+      "Marcin K. Zwierżdżyński",
+      "Dariusz Szklarczyk"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-09",
+    "doi": "10.1080/03075079.2026.2685021",
+    "url": "https://doi.org/10.1080/03075079.2026.2685021",
+    "abstract": "This study investigates the relationship between institutional logics and organizational identity in Catholic universities, exploring how these institutions navigate the competing demands of religious, state, scientific, and market logics. Using content analysis of strategic documents from four Polish universities – the Cardinal Stefan Wyszyński University in Warsaw, the Jesuit University Ignatianum in Krakow, the John Paul II Catholic University of Lublin, and the Pontifical University of John ",
+    "keywords": [
+      "Identity (music)",
+      "Organizational identity",
+      "Higher education",
+      "Institutional logic",
+      "Religious organization"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2685021",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:32.252379"
+  },
+  {
+    "id": "https://openalex.org/W7164048513",
+    "title": "Professional development for out-of-field teachers of English for Academic Purposes",
+    "authors": [
+      "Yasemin Kırkgöz"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-06-09",
+    "doi": "10.1080/19415257.2026.2665198",
+    "url": "https://doi.org/10.1080/19415257.2026.2665198",
+    "abstract": "Out-of-field teaching is a widespread phenomenon in higher education, and in Türkiye it is particularly prominent among teachers of English for Academic Purposes (EAP) and English for Specific Purposes (ESP), who are frequently required to teach English for Specific Academic Purposes (ESAP) without sufficient preparation. This study designed, implemented, and evaluated a Professional Development Programme (PDP) comprising four modules delivered through a flipped learning approach. The programme ",
+    "keywords": [
+      "Professional development",
+      "Competence (human resources)",
+      "Identity (music)",
+      "Turkish",
+      "Flipped learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:34.745590"
+  },
+  {
     "id": "https://openalex.org/W7163944598",
     "title": "An Investigation of the Relationship between Computational Thinking and Scientific Process Skills in Pre-schoolers: A Correlational Study",
     "authors": [
@@ -24,6 +569,55 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-10T11:47:35.427349"
+  },
+  {
+    "id": "https://openalex.org/W7164071457",
+    "title": "Correction to “Social VR for L2 Spanish Development: Learning How to Interact With Others in a High‐Immersion Virtual Space”",
+    "authors": [],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-06-08",
+    "doi": "10.1111/modl.70076",
+    "url": "https://doi.org/10.1111/modl.70076",
+    "abstract": "",
+    "keywords": [
+      "Virtual reality",
+      "Feature (linguistics)",
+      "Mistake",
+      "Section (typography)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:21.437727"
+  },
+  {
+    "id": "https://openalex.org/W7164001800",
+    "title": "‘I Am Because We Are’: An Ubuntu perspective on teacher motivation in Ghana's low‐fee private schools",
+    "authors": [
+      "David Kyei–Nuamah",
+      "Zhengmei Peng",
+      "Xingyuan Gao"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-08",
+    "doi": "10.1002/berj.70221",
+    "url": "https://doi.org/10.1002/berj.70221",
+    "abstract": "Abstract This study investigates the policy paradox in Ghana's rural low‐fee private schools (LFPSs), where policies grounded in Western motivational theories threaten the sustainability of the local teaching force. Using a phenomenological case study design, we employed the indigenous Ubuntu–Nhorowondo framework to demonstrate why uncertified ‘grey area’ teachers remain profoundly motivated to teach despite precarious conditions. Drawing on virtual in‐depth interviews with 15 teachers, our anal",
+    "keywords": [
+      "Indigenous",
+      "Perspective (graphical)",
+      "Duty",
+      "Goodwill",
+      "Reciprocal"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-11T12:32:37.225084"
   },
   {
     "id": "https://openalex.org/W7163908447",
