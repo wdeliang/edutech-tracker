@@ -1,5 +1,353 @@
 [
   {
+    "id": "https://openalex.org/W7165044216",
+    "title": "Evolving EFL teachers’ professional identities in AI-mediated teaching: A longitudinal narrative inquiry",
+    "authors": [
+      "Xing Wei",
+      "Jia Yang",
+      "Renqing Yuan"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-18",
+    "doi": "10.1016/j.tate.2026.105630",
+    "url": "https://doi.org/10.1016/j.tate.2026.105630",
+    "abstract": "",
+    "keywords": [
+      "Narrative inquiry",
+      "Narrative",
+      "Discourse analysis",
+      "Identity (music)",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:52.446222"
+  },
+  {
+    "id": "https://openalex.org/W7165017479",
+    "title": "Preparing Teachers to Partner With Multilingual Families and Families of Children With Disabilities: A Systematic Review",
+    "authors": [
+      "Jamie Day",
+      "Carlos E. Lavín",
+      "Grace L. Francis"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-06-17",
+    "doi": "10.3102/00346543261448561",
+    "url": "https://doi.org/10.3102/00346543261448561",
+    "abstract": "Family–teacher collaboration plays a critical role in PK–12 schools for multilingual students and students with disabilities. Teacher preparation programs prepare future teachers to collaborate with families before they enter the classrooms, yet little is known regarding the extent to which programs prepare teacher candidates to collaborate with these specific family populations. In this systematic review, the authors synthesize 27 studies conducted in teacher preparation programs that train tea",
+    "keywords": [
+      "Thematic analysis",
+      "Class (philosophy)",
+      "Strengths and weaknesses",
+      "Teacher preparation",
+      "Multilingualism"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00346543261448561",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:33.198107"
+  },
+  {
+    "id": "https://openalex.org/W7165024498",
+    "title": "Enhancing AIGC credibility assessment in higher education: an extended framework integrating user trust, AI literacy, and behavioral adoption",
+    "authors": [
+      "Jian Teng",
+      "Sukyoung Cho"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-17",
+    "doi": "10.1080/10494820.2026.2676667",
+    "url": "https://doi.org/10.1080/10494820.2026.2676667",
+    "abstract": "",
+    "keywords": [
+      "Credibility",
+      "Electronic learning",
+      "Mobile device",
+      "Higher education",
+      "Technology integration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:39.504484"
+  },
+  {
+    "id": "https://openalex.org/W7165043337",
+    "title": "Critical thinking, self-regulated learning, and academic achievement: A gender-moderated social cognitive model",
+    "authors": [
+      "Carole B. Zuo"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-06-17",
+    "doi": "10.1080/14703297.2026.2691198",
+    "url": "https://doi.org/10.1080/14703297.2026.2691198",
+    "abstract": "Based on Bandura’s social cognitive theory, this study tested a gender-moderated mediation model to explain how critical thinking influences academic achievement. Survey data from 882 Chinese university students were analysed using SPSS and PROCESS (Model 7). Results indicated that self-regulated learning partially mediated the relationship between critical thinking and academic achievement. Gender moderated the first stage of this mediation: the link between critical thinking and self-regulated",
+    "keywords": [
+      "Critical thinking",
+      "Social cognitive theory",
+      "Mediation",
+      "Cognition",
+      "Psychological intervention"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:40.849931"
+  },
+  {
+    "id": "https://openalex.org/W7165001599",
+    "title": "Examining the Role of Counselors in Advanced Placement Course Enrollment",
+    "authors": [
+      "Christine H. Roch",
+      "Kaylis T. Baxter",
+      "J. Yang"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-06-17",
+    "doi": "10.3102/0013189x261457602",
+    "url": "https://doi.org/10.3102/0013189x261457602",
+    "abstract": "We study guidance counselors by examining how they influence enrollment in Advanced Placement courses. We examine the proportion of students enrolled across different racial and ethnic groups and whether the student-counselor ratio is related to the size of these enrollments. We also consider whether schools with lower ratios have a smaller enrollment gap between White students and students of color. We examine these questions using restricted national data. Our findings show that ease of access",
+    "keywords": [
+      "Racial differences",
+      "Ethnic group",
+      "White (mutation)",
+      "Advanced Placement",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:42.130794"
+  },
+  {
+    "id": "https://openalex.org/W7165006037",
+    "title": "It's all a matter of expectancy: How expectancies about task execution perspective influence learning through video modeling examples",
+    "authors": [
+      "Tristan H. S. de Jonge",
+      "Björn B. de Koning",
+      "Margot van Wermeskerken"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-17",
+    "doi": "10.1016/j.learninstruc.2026.102422",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102422",
+    "abstract": "",
+    "keywords": [
+      "Perspective (graphical)",
+      "Task (project management)",
+      "Task analysis",
+      "Video modeling",
+      "Perspective-taking"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102422",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:43.427801"
+  },
+  {
+    "id": "https://openalex.org/W7165015363",
+    "title": "The Interplay of Teacher Agency and <scp>TPACK</scp> in <scp>AI</scp> ‐Integrated Science Education: Insights From Exemplary Practice Cases",
+    "authors": [
+      "Hyojoon Kim",
+      "Eun-Jeong Yu"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-06-17",
+    "doi": "10.1002/jcal.70281",
+    "url": "https://doi.org/10.1002/jcal.70281",
+    "abstract": "ABSTRACT Background Teacher agency plays a pivotal role in technology‐enhanced instruction, yet empirical evidence connecting agency to the practical enactment of specific components of TPACK remains limited. In particular, the intersections between teacher agency and TPK/TCK as enacted practices warrant closer scrutiny. Objective This study empirically examined how manifestations of teacher agency—individual, co‐ and collective—are interlinked with the enactment of TPK and TCK in exemplary case",
+    "keywords": [
+      "Agency (philosophy)",
+      "Thematic analysis",
+      "Orchestration",
+      "Discipline",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70281",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:46.664426"
+  },
+  {
+    "id": "https://openalex.org/W7165004713",
+    "title": "How to Make Computer‐Based Feedback More Effective: The Benefits of Allowing Learners to Choose Feedback Types",
+    "authors": [
+      "Yi-Xiang Wang",
+      "Shaoying Gong",
+      "Jiangnan Guo",
+      "Zhen Wang",
+      "Yanqing Wang"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-06-17",
+    "doi": "10.1002/jcal.70273",
+    "url": "https://doi.org/10.1002/jcal.70273",
+    "abstract": "ABSTRACT Background Prior studies in computer‐based feedback predominantly concentrated on feedback assigned by the program to learners, in which case learners only received feedback passively, without consideration for their preferences or autonomy. It remains unclear whether allowing learners to choose feedback types of varying complexity can improve learning. Objectives The current study examined the effects of self‐selected feedback on emotions, motivation, and learning performance. Methods ",
+    "keywords": [
+      "Peer feedback",
+      "Autonomy",
+      "Negative feedback",
+      "Feedback control",
+      "Control (management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:46.664502"
+  },
+  {
+    "id": "https://openalex.org/W7165056146",
+    "title": "Design Dimensions for Planning Artificial Intelligence‐Supported Learning",
+    "authors": [
+      "Merike Saar",
+      "Aleksandra Ljalikova",
+      "Shatha N. Alkhasawneh",
+      "Davinia Hernández‐Leo"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-06-17",
+    "doi": "10.1002/jcal.70282",
+    "url": "https://doi.org/10.1002/jcal.70282",
+    "abstract": "ABSTRACT Background Teachers often lack the time and structured guidance needed to address the pedagogical and ethical challenges involved in the integration of artificial intelligence in education (AIED). Although prior research identifies these challenges, empirically grounded frameworks that help teachers integrate AIED in responsible and pedagogically meaningful ways remain limited. Addressing this gap is essential to ensure AIED enhances student engagement and higher‐order thinking skills (",
+    "keywords": [
+      "Affordance",
+      "Constructive",
+      "Grounded theory",
+      "Professional development",
+      "Instructional design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:46.664580"
+  },
+  {
+    "id": "https://openalex.org/W7165020351",
+    "title": "Unique support from identity-based groups: Professional networks of women and LGBTQ+ physicists analyzed and compared by career sector",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-06-17",
+    "doi": "10.1103/zbk8-6fcj",
+    "url": "https://doi.org/10.1103/zbk8-6fcj",
+    "abstract": "",
+    "keywords": [
+      "Career development",
+      "Field (mathematics)",
+      "Work (physics)",
+      "Government (linguistics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/zbk8-6fcj",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:55.624625"
+  },
+  {
+    "id": "https://openalex.org/W7165010962",
+    "title": "From carbon-neutral to nature-positive higher education institutions",
+    "authors": [
+      "Ulla Helimo",
+      "Charlotte Maddinson",
+      "Sami El Geneidy",
+      "Janne Kotiaho"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-17",
+    "doi": "10.1108/ijshe-06-2025-0590",
+    "url": "https://doi.org/10.1108/ijshe-06-2025-0590",
+    "abstract": "Purpose Carbon footprint assessments have been mainstreamed, but not all organizations follow international protocols when making carbon neutrality claims. Biodiversity footprinting in organizations is a new arrival, and even organizations such as higher education institutions (HEIs) are largely yet to understand how to measure and address biodiversity footprints. Biodiversity footprint assessment helps organizations to identify their impacts on nature by estimating biodiversity loss caused by t",
+    "keywords": [
+      "Carbon footprint",
+      "Higher education",
+      "Biodiversity",
+      "Sustainability",
+      "Carbon neutrality"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1108/ijshe-06-2025-0590",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:59.628907"
+  },
+  {
+    "id": "https://openalex.org/W7165024021",
+    "title": "Stress trajectories in first-year teacher education: a longitudinal Analysis of strain and career choice motivation",
+    "authors": [
+      "Diana Raufelder",
+      "Juliane Schlesier",
+      "Frances Hoferichter"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-17",
+    "doi": "10.1080/02619768.2026.2682385",
+    "url": "https://doi.org/10.1080/02619768.2026.2682385",
+    "abstract": "The transition into teacher education is a critical but understudied phase of psychological adjustment. This study examines the development of study-related stress among first-year student teachers using the Job Demands – Resources (JD-R) model. Based on three measurement waves, growth-curve modelling was applied to 620 student teachers (76% female, 23.2% male, 0.8% diverse; Mage = 20.1). Stress followed a quadratic trajectory – high at entry, declining mid-year, and increasing again at year’s e",
+    "keywords": [
+      "Stress (linguistics)",
+      "Cognition",
+      "Variance (accounting)",
+      "Goal orientation",
+      "Career development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/02619768.2026.2682385",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T12:00:04.975463"
+  },
+  {
+    "id": "https://openalex.org/W7164992814",
+    "title": "Interpreting Students’ Responses and Providing Instructional Explanations: Using Networking Theory to Link Prospective Mathematics Teachers’ Knowledge and Practices",
+    "authors": [
+      "Rosa Delgado-Rebolledo",
+      "Diana Zakaryan",
+      "Nicholas Wasserman"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-06-17",
+    "doi": "10.1007/s10763-026-10688-6",
+    "url": "https://doi.org/10.1007/s10763-026-10688-6",
+    "abstract": "",
+    "keywords": [
+      "Teacher education",
+      "Value (mathematics)",
+      "Grounded theory",
+      "Point (geometry)",
+      "Empirical research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T12:00:10.220491"
+  },
+  {
     "id": "https://openalex.org/W7164893439",
     "title": "Multilingual identity and English achievement: A moderated mediation model of self-regulated learning strategy use and gender among Chinese EFL learners",
     "authors": [
@@ -50,6 +398,61 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-17T12:56:33.322245"
+  },
+  {
+    "id": "https://openalex.org/W7165043081",
+    "title": "Investigating students’ engagement with GenAI-supported peer feedback generation in EFL writing",
+    "authors": [
+      "Kai Guo",
+      "Danling Li",
+      "Mengru Pan",
+      "Chun Lai"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-16",
+    "doi": "10.1080/10494820.2026.2679729",
+    "url": "https://doi.org/10.1080/10494820.2026.2679729",
+    "abstract": "Adopting an exploratory mixed-methods design, this study investigates students’ behavioural, affective, and cognitive engagement with GenAI-supported peer feedback generation in English as a foreign language (EFL) writing. Forty-eight Chinese undergraduate students participated in peer review tasks using a ChatGPT-powered chatbot to assess their comments on peer essays and offer improvement suggestions. The data comprised chat logs, screen recordings, written reflections, and survey responses. T",
+    "keywords": [
+      "Peer feedback",
+      "Chatbot",
+      "English as a foreign language",
+      "Cognition",
+      "Process (computing)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:39.504803"
+  },
+  {
+    "id": "https://openalex.org/W7165014287",
+    "title": "Middle leadership for teacher learning in China: The significance of context",
+    "authors": [
+      "Jianjing Tang",
+      "Darren Anthony Bryant",
+      "Allan Walker"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-16",
+    "doi": "10.1002/berj.70237",
+    "url": "https://doi.org/10.1002/berj.70237",
+    "abstract": "Abstract A growing number of studies show the potential influence of teachers with leadership responsibilities, that is, middle leaders, on teacher learning. The study reported in this paper focused on middle leaders in China who sought to enhance teachers' capacity across various school settings. Using Hallinger's (2011) synthesised leadership for learning model, we seek to understand the relationship between school context, that is, school organisation, staff and community characteristics and ",
+    "keywords": [
+      "Educational leadership",
+      "Context (archaeology)",
+      "Teacher leadership",
+      "Middle management",
+      "Instructional leadership"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T12:00:08.661843"
   },
   {
     "id": "https://openalex.org/W7164882947",
@@ -880,6 +1283,28 @@
     "fetched_at": "2026-06-16T16:10:52.104135"
   },
   {
+    "id": "https://openalex.org/W7164868062",
+    "title": "Book review",
+    "authors": [
+      "Wu Shang",
+      "Lei Cai",
+      "Hua Tan",
+      "Hua Tan"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-06-15",
+    "doi": "10.1016/j.system.2026.104095",
+    "url": "https://doi.org/10.1016/j.system.2026.104095",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:36.986133"
+  },
+  {
     "id": "https://openalex.org/W7164928088",
     "title": "Beyond accuracy: cognitive, pedagogical, and practical readiness of multimodal LLMs for K-12 science education",
     "authors": [
@@ -1498,6 +1923,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-16T16:10:56.087584"
+  },
+  {
+    "id": "https://openalex.org/W7164754967",
+    "title": "Integrating heutagogy and critical thinking: A conceptual model for higher education",
+    "authors": [
+      "Shira Soffer-Vital",
+      "Amnon Glassner"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-14",
+    "doi": "10.1016/j.tsc.2026.102289",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102289",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Conceptual model",
+      "Component (thermodynamics)",
+      "Causal model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-18T11:59:47.307931"
   },
   {
     "id": "https://openalex.org/W7164763345",
