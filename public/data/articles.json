@@ -1,5 +1,299 @@
 [
   {
+    "id": "https://openalex.org/W7165371351",
+    "title": "Individual agency and sustainability initiatives in STEM careers and education: a scoping review",
+    "authors": [
+      "Ahmed Alduais",
+      "Faris Tarlochan",
+      "Youmen Chaaban",
+      "Asma Mecheter",
+      "Mohamed Izham Mohamed Ibrahim"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-20",
+    "doi": "10.1186/s40594-026-00626-x",
+    "url": "https://doi.org/10.1186/s40594-026-00626-x",
+    "abstract": "Abstract Individual agency—the capacity to make purposeful choices and enact change—plays an important role in advancing sustainability in Science, Technology, Engineering, and Mathematics (STEM) education and professional careers. However, a clear, consolidated understanding of how this agency is conceptualized, operationalized, and enacted across STEM fields is lacking. This scoping review systematically maps the existing literature to answer the question: What is known about the ways in which",
+    "keywords": [
+      "Agency (philosophy)",
+      "Sustainability",
+      "Inclusion (mineral)",
+      "Thematic analysis",
+      "Curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00626-x",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:53:59.555655"
+  },
+  {
+    "id": "https://openalex.org/W7165367560",
+    "title": "Transforming curriculum design with generative AI: a model for assessing teacher digital competence",
+    "authors": [
+      "Francisco D. Guillén‐Gámez",
+      "Łukasz Tomczyk",
+      "Akhmad Habibi",
+      "Bethy Linoska Díaz Vargas"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-20",
+    "doi": "10.1007/s11423-026-10647-6",
+    "url": "https://doi.org/10.1007/s11423-026-10647-6",
+    "abstract": "Abstract The increasing presence of Artificial Intelligence (AI) and Generative AI (GenAI) tools in education highlights the need for teachers to develop specific digital competencies for effective integration into curriculum planning. This study aimed to design and psychometrically validate a diagnostic instrument, developed by the authors, grounded in an extended version of the Technology Acceptance Model (TAM), in order to assess in-service teachers’ behavioural intentions and its relationshi",
+    "keywords": [
+      "Curriculum",
+      "Competence (human resources)",
+      "Generative grammar",
+      "Technology integration",
+      "Structural equation modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10647-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:18.976275"
+  },
+  {
+    "id": "https://openalex.org/W7165445146",
+    "title": "Using generative AI for formative feedback on student writing drafts",
+    "authors": [
+      "Randall S. Davies"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-20",
+    "doi": "10.1007/s11423-026-10652-9",
+    "url": "https://doi.org/10.1007/s11423-026-10652-9",
+    "abstract": "",
+    "keywords": [
+      "Formative assessment",
+      "Generative grammar",
+      "Educational technology",
+      "Computer-Assisted Instruction",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:18.976291"
+  },
+  {
+    "id": "https://openalex.org/W7165386319",
+    "title": "The unstable foundation of health education: A critical consideration of health education teacher education within Canadian universities",
+    "authors": [
+      "Lauren Sulz",
+      "Daniel B. Robinson",
+      "Hayley Morrison",
+      "Doug Gleddie"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-20",
+    "doi": "10.1016/j.tate.2026.105690",
+    "url": "https://doi.org/10.1016/j.tate.2026.105690",
+    "abstract": "A significant challenge in Canada is the absence of provincial or territorial guidelines requiring teachers to receive health education training in postsecondary initial teacher education programs. To understand the extent of health education preparation across the country, we surveyed personnel from postsecondary initial teacher education programs. Specifically, we investigated the availability of health education curriculum and instruction/pedagogy (C&I/P) courses, the roles of the instructors",
+    "keywords": [
+      "Foundation (evidence)",
+      "Teacher education",
+      "Health educators",
+      "Health education",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105690",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:23.219565"
+  },
+  {
+    "id": "https://openalex.org/W7165368260",
+    "title": "No other choice: The fracturing of reflexivity in families' pathways into (non‐)elective home education in England",
+    "authors": [
+      "Katherine Davey",
+      "Lisa Russell",
+      "Ron Thompson",
+      "Jo Bishop"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-20",
+    "doi": "10.1002/berj.70227",
+    "url": "https://doi.org/10.1002/berj.70227",
+    "abstract": "Abstract In England, education is compulsory, but schooling is not: it is legal for families to home educate their children. This form of education is officially termed by the Department for Education as ‘Elective Home Education’. As this designation implies, many families home educate as a positive and preferential ‘choice’. For others, however, home education is not their desired first option. Drawing on a longitudinal research study that has explored the unfolding educational trajectories of ",
+    "keywords": [
+      "Reflexivity",
+      "Home education",
+      "Agency (philosophy)",
+      "Construct (python library)",
+      "Home school"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70227",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:41.296102"
+  },
+  {
+    "id": "https://openalex.org/W7165361253",
+    "title": "Effects of a literary intervention on teachers’ monologic and dialogic practices and the quality of students’ contributions",
+    "authors": [
+      "Yvonne Dammert",
+      "Luciano Gasser",
+      "P. Karen Murphy"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-06-20",
+    "doi": "10.1007/s11251-026-09809-z",
+    "url": "https://doi.org/10.1007/s11251-026-09809-z",
+    "abstract": "Abstract This quasi-experimental study examines the effects of a literary intervention based on the Quality Talk (QT) approach aimed at promoting dialogic discussions about a moral dilemma. Nine teachers and 104 fourth- and fifth-grade students from Switzerland participated in the study. Over the course of one school year, students in the intervention group read and discussed four literary fiction books in small groups. Teachers received video-based coaching to facilitate the discussions. The su",
+    "keywords": [
+      "Dialogic",
+      "Intervention (counseling)",
+      "Quality (philosophy)",
+      "Coaching",
+      "Exploratory research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09809-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:42.073104"
+  },
+  {
+    "id": "https://openalex.org/W7165361696",
+    "title": "Competitive school environments and socioeconomic achievement inequality: A preregistered analysis of data from 69 countries",
+    "authors": [
+      "Nathalie Aerts",
+      "Thijs Bol",
+      "Eddie Brummelman"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-19",
+    "doi": "10.1016/j.learninstruc.2026.102414",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102414",
+    "abstract": "Background Competitiveness is a core feature of educational systems. We hypothesized that students from lower socioeconomic status (SES) backgrounds would feel less competent and perform worse in more competitive environments, as these environments conflict with their norms and values. Aims This preregistered study investigated whether school competitiveness widens SES achievement gaps in students’ self-views and academic achievement. Sample The final analytical sample consisted of 315,095 fifte",
+    "keywords": [
+      "Socioeconomic status",
+      "Disadvantaged",
+      "Sample (material)",
+      "Multilevel model",
+      "Peer effects"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102414",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:12.561076"
+  },
+  {
+    "id": "https://openalex.org/W7165403352",
+    "title": "Recontextualizing systemic functional Linguistics in translanguaging pedagogy for EAP classrooms",
+    "authors": [
+      "Andrés Ramírez",
+      "Yuly Andrea González"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-19",
+    "doi": "10.1016/j.jeap.2026.101708",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101708",
+    "abstract": "",
+    "keywords": [
+      "Foregrounding",
+      "Translanguaging",
+      "Systemic functional linguistics",
+      "Discipline",
+      "Applied linguistics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:28.472484"
+  },
+  {
+    "id": "https://openalex.org/W7165372073",
+    "title": "Chilean science teachers' conceptualisations of disability when teaching students with autism",
+    "authors": [
+      "Alexis González-Donoso",
+      "Fabián Arroyo‐Rojas"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-19",
+    "doi": "10.1002/berj.70238",
+    "url": "https://doi.org/10.1002/berj.70238",
+    "abstract": "Abstract This study examines how Chilean secondary science teachers conceptualise disability when teaching students with autism in integrated classroom settings. Grounded in critical disability studies, the research employs a qualitative story‐completion method, using a fictional classroom scenario to prompt teachers to construct narratives that reveal underlying assumptions, discourses and practices regarding disability. Data were collected from 31 in‐service science teachers (18 female; 13 mal",
+    "keywords": [
+      "Construct (python library)",
+      "Autism",
+      "Normative",
+      "Disability studies",
+      "Inclusion (mineral)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:41.296175"
+  },
+  {
+    "id": "https://openalex.org/W7165395313",
+    "title": "The situated professional: Preservice teachers' profiling of globally competent teachers and visions of their ‘possible professional self’",
+    "authors": [
+      "Ying Ji"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-19",
+    "doi": "10.1002/berj.70233",
+    "url": "https://doi.org/10.1002/berj.70233",
+    "abstract": "Abstract In response to globalisation, teacher education programmes worldwide are tasked with preparing globally competent teachers (GCTs). Prevailing conceptions of global competence are largely derived from Western‐centric humanistic, neoliberal and transformative narratives, creating a complex landscape for teacher identity formation. This study investigates how preservice teachers in Hong Kong, a context characterised by its unique positioning of ‘integrating nationally while engaging global",
+    "keywords": [
+      "Situated",
+      "Transformative learning",
+      "Vision",
+      "Competence (human resources)",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70233",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:41.296235"
+  },
+  {
+    "id": "https://openalex.org/W7165362340",
+    "title": "English teachers' journeys since the 2020 Iteration of Black Lives Matter",
+    "authors": [
+      "Adrian Fernandes"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-19",
+    "doi": "10.1002/berj.70232",
+    "url": "https://doi.org/10.1002/berj.70232",
+    "abstract": "Abstract The 2020 resurgence of Black Lives Matter (BLM) mobilised students in England to demand greater representation of racially minoritised voices in English curriculums—a call highlighted by stark inequity: just 1.5% of GCSE texts studied are by racially minoritised authors, despite racially minoritised students comprising 38.0% of the student population. Drawing on Critical Race Theory (CRT), I investigated how 11 secondary school English teachers responded. Through thematic analysis of in",
+    "keywords": [
+      "Timeline",
+      "Transformative learning",
+      "Curriculum",
+      "Critical race theory",
+      "Dominance (genetics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70232",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:41.296285"
+  },
+  {
     "id": "https://openalex.org/W7165144002",
     "title": "When does GenAI feedback support learning? Trust calibration and verification in L2 writing assessment",
     "authors": [
@@ -1032,6 +1326,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-18T11:59:52.446222"
+  },
+  {
+    "id": "https://openalex.org/W7165018382",
+    "title": "New hats for parents? Reviewing parental roles in K-12 online and blended student engagement",
+    "authors": [
+      "Courtney Hanny",
+      "Richard E. West"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-17",
+    "doi": "10.1016/j.compedu.2026.105695",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105695",
+    "abstract": "",
+    "keywords": [
+      "Student engagement",
+      "User engagement",
+      "Public engagement",
+      "Online forum",
+      "Discussion board"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:53:57.385061"
   },
   {
     "id": "https://openalex.org/W7165017479",
@@ -2959,6 +3279,59 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-16T16:10:56.087584"
+  },
+  {
+    "id": "https://openalex.org/W7164764001",
+    "title": "Can media multitasking enhance creative performance? Insights from self-determination theory",
+    "authors": [
+      "Jing-Jing Zhang",
+      "Bo-Ren Bai",
+      "Zhou Xiang",
+      "Haining Zhang"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-14",
+    "doi": "10.1016/j.tsc.2026.102290",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102290",
+    "abstract": "",
+    "keywords": [
+      "Human multitasking",
+      "Creativity",
+      "Mental model",
+      "Variety (cybernetics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:17.335684"
+  },
+  {
+    "id": "https://openalex.org/W7164750248",
+    "title": "Creative and neurocognitive profile of adults with developmental dyslexia",
+    "authors": [
+      "Anastasiya Nekhamkin",
+      "Mark Leikin"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-14",
+    "doi": "10.1016/j.tsc.2026.102288",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102288",
+    "abstract": "",
+    "keywords": [
+      "Neurocognitive",
+      "Developmental dyslexia",
+      "Dyslexia",
+      "Biological theories of dyslexia",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-21T10:54:17.335699"
   },
   {
     "id": "https://openalex.org/W7164741426",
