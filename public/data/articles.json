@@ -1,5 +1,138 @@
 [
   {
+    "id": "https://openalex.org/W7165484438",
+    "title": "Evaluation indicator system for AI certificate programs",
+    "authors": [
+      "Zijing Wu",
+      "Qiang Li"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-06-21",
+    "doi": "10.1186/s41239-026-00604-x",
+    "url": "https://doi.org/10.1186/s41239-026-00604-x",
+    "abstract": "Abstract Despite the rapid proliferation of Artificial Intelligence (AI)certificate programs in higher education, systematic frameworks for evaluating their pedagogical transformation potential remain absent—in contrast to the rich literature on AI tool adoption, which seldom addresses how credentials reshape teaching at the program level—and existing assessments rely on unidimensional methods that overlook both expert judgment and cultural variation. Grounded in the Technological Pedagogical Co",
+    "keywords": [
+      "Competence (human resources)",
+      "Credential",
+      "Adaptability",
+      "Certificate",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00604-x",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-22T16:13:50.552220"
+  },
+  {
+    "id": "https://openalex.org/W7165479384",
+    "title": "AI as a thinking partner: rethinking human cognitive processes in the age of generative AI",
+    "authors": [
+      "Tianlong Zhong",
+      "Gaoxia Zhu"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-21",
+    "doi": "10.1080/10494820.2026.2680598",
+    "url": "https://doi.org/10.1080/10494820.2026.2680598",
+    "abstract": "Generative AI (GAI) tools are increasingly integrated into education. However, existing research has primarily examined their effects through performance outcomes, offering limited insight into how they change learners’ cognitive processes. Grounded in information processing theory, this study investigates how students distribute cognitive processes between themselves and GAI during programming tasks and how such distributions relate to cognitive load, attention allocation, and programming perfo",
+    "keywords": [
+      "Cognition",
+      "Mode (computer interface)",
+      "Generative grammar",
+      "Cluster analysis",
+      "Information processing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-22T16:14:02.731317"
+  },
+  {
+    "id": "https://openalex.org/W7165481917",
+    "title": "Queers Queering <scp>STEM</scp> : Reimagining Inclusive <scp>STEM</scp> Education",
+    "authors": [
+      "Nelly K. M. Marosi",
+      "Lucy Avraamidou",
+      "Mónica López López"
+    ],
+    "journal": "Journal of Research In Science Teaching",
+    "jif": 4.5,
+    "published_date": "2026-06-21",
+    "doi": "10.1002/tea.70058",
+    "url": "https://doi.org/10.1002/tea.70058",
+    "abstract": "ABSTRACT Grounded in queer theory, this study explores the intersections of queerness and STEM trajectories through the lived experiences of three queer adults with postgraduate degrees in STEM and contributes their insights for queering STEM education. We used artifacts, in‐depth semi‐structured interviews, and a focus group to identify aspects of STEM education that constrained or supported participants' trajectories and to offer strategies for queering STEM educational spaces. We analyzed ver",
+    "keywords": [
+      "Queer",
+      "Transformative learning",
+      "Queer theory",
+      "Curriculum",
+      "Focus group"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/tea.70058",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-22T16:14:12.841962"
+  },
+  {
+    "id": "https://openalex.org/W7165484050",
+    "title": "Support or symbol? Tokenism in teacher leader peer support",
+    "authors": [
+      "Norma Ghamrawi",
+      "Norma Ghamrawi",
+      "Tarek Shal",
+      "Najah A.R. Ghamrawi",
+      "Najah A.R. Ghamrawi"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-21",
+    "doi": "10.1016/j.tate.2026.105704",
+    "url": "https://doi.org/10.1016/j.tate.2026.105704",
+    "abstract": "This qualitative study examines how teacher leaders and classroom teachers interpret teacher leader-enacted peer support. While peer support is often framed as developmental, less is known about how it is experienced by those who provide and receive it. Using tokenism as an analytic lens, the study draws on semi-structured interviews with 23 participants and reflexive thematic analysis. Findings show that peer support was understood as a relational exchange shaped by reciprocity, obligation, emo",
+    "keywords": [
+      "Tokenism",
+      "Peer support",
+      "Thematic analysis",
+      "Reflexivity",
+      "Qualitative research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105704",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-22T16:14:18.159439"
+  },
+  {
+    "id": "https://openalex.org/W7165480943",
+    "title": "Nudging dialogic pedagogical design of peer feedback towards exploratory collaboration: a four-year educational design research study",
+    "authors": [
+      "Tellervo Härkki"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-21",
+    "doi": "10.1080/02619768.2026.2689642",
+    "url": "https://doi.org/10.1080/02619768.2026.2689642",
+    "abstract": "",
+    "keywords": [
+      "Dialogic",
+      "Exploratory research",
+      "Research design",
+      "Educational research",
+      "Peer feedback"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/02619768.2026.2689642",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-22T16:14:32.979161"
+  },
+  {
     "id": "https://openalex.org/W7165371351",
     "title": "Individual agency and sustainability initiatives in STEM careers and education: a scoping review",
     "authors": [
