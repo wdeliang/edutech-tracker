@@ -1,5 +1,569 @@
 [
   {
+    "id": "https://openalex.org/W7165547400",
+    "title": "From keystrokes to scores: Toward a multidimensional predictive model of writing evaluation by humans and large language models across linguistic, cognitive, and social dimensions",
+    "authors": [
+      "Qiao Gan",
+      "Benjamin Adams"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.asw.2026.101090",
+    "url": "https://doi.org/10.1016/j.asw.2026.101090",
+    "abstract": "",
+    "keywords": [
+      "Dimensional modeling",
+      "Language model",
+      "Multidimensional analysis",
+      "Language proficiency",
+      "Data modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.asw.2026.101090",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:27.693707"
+  },
+  {
+    "id": "https://openalex.org/W7165543968",
+    "title": "Unlocking inclusive practices in China: How elementary teachers’ background, inclusion-related knowledge, and beliefs shape their efficacy profiles",
+    "authors": [
+      "Weihao Xin",
+      "Li J",
+      "Wenyuan Liu",
+      "Zhenzhen Zhang",
+      "Weina Ma"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.tate.2026.105694",
+    "url": "https://doi.org/10.1016/j.tate.2026.105694",
+    "abstract": "",
+    "keywords": [
+      "Inclusion (mineral)",
+      "Qualitative research",
+      "Higher education",
+      "Self-efficacy",
+      "Primary education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:42.185678"
+  },
+  {
+    "id": "https://openalex.org/W7165550406",
+    "title": "STEMing evidence-based study strategies: a systematic review of literature",
+    "authors": [
+      "Elizabeth Yuriev",
+      "Shuqi Chen",
+      "Kimberly Vo",
+      "Alice E. Terrill",
+      "Judith Gomes"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-22",
+    "doi": "10.1186/s40594-026-00632-z",
+    "url": "https://doi.org/10.1186/s40594-026-00632-z",
+    "abstract": "Despite substantial evidence supporting the efficacy of evidence-based study strategies in enhancing student learning outcomes, research reporting their integration into Science, Technology, Engineering, and Mathematics (STEM) higher education courses remains limited. This gap often arises from educators’ limited familiarity with study strategy practices, as well as the challenges in adapting general principles to diverse disciplinary contexts. To address this challenge, this systematic review e",
+    "keywords": [
+      "Systematic review",
+      "Adaptation (eye)",
+      "Psychological intervention",
+      "Discipline",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00632-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:22.866482"
+  },
+  {
+    "id": "https://openalex.org/W7165570353",
+    "title": "Exploring L2 learners’ self-regulation and engagement with Corpus-GenAI data-driven learning in academic writing revision",
+    "authors": [
+      "Yanhong Liu",
+      "Hongliang Yu",
+      "Shanhua He",
+      "Li Yang"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-06-22",
+    "doi": "10.1080/09588221.2026.2685746",
+    "url": "https://doi.org/10.1080/09588221.2026.2685746",
+    "abstract": "",
+    "keywords": [
+      "Academic writing",
+      "English for academic purposes",
+      "Higher education",
+      "Language proficiency",
+      "Language acquisition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:24.690378"
+  },
+  {
+    "id": "https://openalex.org/W7165547613",
+    "title": "Integrating Digital Tools into the DMCR Framework to Enhance Upper-Primary Students’ Scientific Reasoning",
+    "authors": [
+      "Yulong Zhang",
+      "Shiyang Pang",
+      "Ruyi Jiang"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-22",
+    "doi": "10.1007/s10956-026-10346-0",
+    "url": "https://doi.org/10.1007/s10956-026-10346-0",
+    "abstract": "",
+    "keywords": [
+      "Curriculum",
+      "Scratch",
+      "Science education",
+      "Scientific reasoning",
+      "Scientific modelling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:28.315355"
+  },
+  {
+    "id": "https://openalex.org/W7165550581",
+    "title": "Educational relevance and implications of spatial development in early childhood",
+    "authors": [
+      "Anke Maria Weber",
+      "Wenke Möhring",
+      "Benjamin D. Jee",
+      "Samuel Greiff",
+      "Roberta Michnick Golinkoff"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-22",
+    "doi": "10.1016/j.learninstruc.2026.102389",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102389",
+    "abstract": "",
+    "keywords": [
+      "Relevance (law)",
+      "Early childhood",
+      "Child development",
+      "Early childhood education",
+      "Spatial ability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:33.247792"
+  },
+  {
+    "id": "https://openalex.org/W7165571620",
+    "title": "An afforded elaboration mechanism of judgment of learning reactivity",
+    "authors": [
+      "Florian Scholten",
+      "Zachary Adolph Niese"
+    ],
+    "journal": "Metacognition and Learning",
+    "jif": 4.8,
+    "published_date": "2026-06-22",
+    "doi": "10.1007/s11409-026-09478-w",
+    "url": "https://doi.org/10.1007/s11409-026-09478-w",
+    "abstract": "",
+    "keywords": [
+      "Reactivity (psychology)",
+      "Elaboration",
+      "Word (group theory)",
+      "Mechanism (biology)",
+      "Metacognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:34.492805"
+  },
+  {
+    "id": "https://openalex.org/W7165519433",
+    "title": "Explaining Second Language Learners’ Willingness to Communicate with GenAI Voice Chatbots via SEM and fsQCA: The Role of Dark Personality and Motivational Dispositions",
+    "authors": [
+      "Hanwei Wu",
+      "Gurpinder Singh Lalli",
+      "X Y Yang"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-06-22",
+    "doi": "10.1007/s40299-026-01127-9",
+    "url": "https://doi.org/10.1007/s40299-026-01127-9",
+    "abstract": "",
+    "keywords": [
+      "Machiavellianism",
+      "Regulatory focus theory",
+      "Structural equation modeling",
+      "Personality",
+      "Leverage (statistics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:35.121702"
+  },
+  {
+    "id": "https://openalex.org/W7165561994",
+    "title": "Supporting children’s engagement through learning experience design, situational interest, and user experience: implementing a blended learning math experience in the classroom",
+    "authors": [
+      "Joseph T. Wong",
+      "Jessica Cai",
+      "Isabelle S. Lerner",
+      "J Lee",
+      "Lindsey E. Richland"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-22",
+    "doi": "10.1007/s11423-026-10637-8",
+    "url": "https://doi.org/10.1007/s11423-026-10637-8",
+    "abstract": "Abstract With the prevalence of digital technologies in the classrooms, educators continue to seek ways to augment traditional in-person teaching with the benefits of educational technologies, utilizing blended learning approaches. This study investigates the role of learning experience design (LXD) in supporting children’s engagement in blended, video-based math lessons on proportional reasoning. The research focuses on operationalizing LXD through the integration of instructional design (ID) t",
+    "keywords": [
+      "Blended learning",
+      "Situational ethics",
+      "Operationalization",
+      "Educational technology",
+      "Student engagement"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10637-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:38.419601"
+  },
+  {
+    "id": "https://openalex.org/W7165520897",
+    "title": "Dual empowerment in VR-based technical training: longitudinal evidence of developmental dynamics in learning outcomes and skill transfer",
+    "authors": [
+      "Min Jou",
+      "Yungwei Hao"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-22",
+    "doi": "10.1007/s11423-026-10654-7",
+    "url": "https://doi.org/10.1007/s11423-026-10654-7",
+    "abstract": "Abstract Virtual reality (VR) has become an important tool in vocational education, particularly for supporting procedural rehearsal, real-time feedback, and safe skill practice. Although prior studies have explored the combination of VR and hands-on training, less is known about how these modalities should be systematically integrated within an instructional model to support both learning and sustained skill transfer. To address this gap, this study proposes a dual empowerment (DE) framework th",
+    "keywords": [
+      "Transfer of training",
+      "Vocational education",
+      "Modalities",
+      "Cognition",
+      "Instructional design"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10654-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:38.419683"
+  },
+  {
+    "id": "https://openalex.org/W7165557324",
+    "title": "How former beginning teachers reach the final decision to quit: A temporal analysis",
+    "authors": [
+      "Huixuan Xu",
+      "Zhuoran Li",
+      "Jiaxin Wang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-22",
+    "doi": "10.1016/j.tate.2026.105703",
+    "url": "https://doi.org/10.1016/j.tate.2026.105703",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Teaching method",
+      "Statistical analysis",
+      "Student teacher"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:42.185695"
+  },
+  {
+    "id": "https://openalex.org/W7165517454",
+    "title": "Deciding to engage: Understanding teachers’ justifications for addressing unplanned controversial issues",
+    "authors": [
+      "Charlot Cassar",
+      "Ida Oosterheert",
+      "Paulien C. Meijer"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-22",
+    "doi": "10.1016/j.tate.2026.105702",
+    "url": "https://doi.org/10.1016/j.tate.2026.105702",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Criticism"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105702",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:42.185700"
+  },
+  {
+    "id": "https://openalex.org/W7165567831",
+    "title": "Empowering Inclusive Learning in Industry–Education Partnerships: How Curricula, Internships and Credentials Reshape Opportunity",
+    "authors": [
+      "Xi Zhang",
+      "Qing Lu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-22",
+    "doi": "10.1111/ejed.70732",
+    "url": "https://doi.org/10.1111/ejed.70732",
+    "abstract": "ABSTRACT Industry–education partnerships are widely promoted as inclusive solutions to skills shortages and employability challenges. Yet enterprise involvement does not automatically widen access to valued learning opportunities. This paper examines how industry participation reshapes the distribution of opportunity through three linked institutional gateways—curricula, internships/work‐based learning (WBL) and credentials—and identifies the governance conditions under which partnerships expand",
+    "keywords": [
+      "Credential",
+      "Curriculum",
+      "Corporate governance",
+      "General partnership",
+      "Internship"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:45.930825"
+  },
+  {
+    "id": "https://openalex.org/W7165534053",
+    "title": "Dual Battles: A Case Study of Lecturers Working Across Further and Higher Education",
+    "authors": [
+      "Aarron Armstrong‐Craddock",
+      "Gurpinder Singh Lalli"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-22",
+    "doi": "10.1111/ejed.70736",
+    "url": "https://doi.org/10.1111/ejed.70736",
+    "abstract": "ABSTRACT This paper presents data from a small‐scale case study which reviewed the roles, pedagogies and identities of lecturers in dual positions working across further and higher education in England, UK. The following research questions were designed and framed with Bronfenbrenner's (1979) ecological model: (1) how do the roles of lecturers working across further and higher education in dual positions differ? (2) what pedagogical differences exist for lecturers working in dual positions? (3) ",
+    "keywords": [
+      "Higher education",
+      "Dual (grammatical number)",
+      "Function (biology)",
+      "Dual purpose",
+      "Dual function"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70736",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:45.930878"
+  },
+  {
+    "id": "https://openalex.org/W7165562433",
+    "title": "Sentipensar [ <i>Feel‐Thinking</i> ] Cultivates Collective Scientific Sensemaking and Worldbuilding Within and Beyond Ecological Despair",
+    "authors": [
+      "Kelsie Fowler"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-06-22",
+    "doi": "10.1002/sce.70080",
+    "url": "https://doi.org/10.1002/sce.70080",
+    "abstract": "ABSTRACT Educating youth about environmental and climate justice is crucial in realizing a sustainable and flourishing future. Yet this can be challenging given the intense eco‐emotions youth experience and express while learning about these consequential realities and their implications. However, strong emotions are not to be ignored, feared, or controlled, as they play a powerful role in science learning. To explore how emotions support deep sensemaking, I centered Latina Eco‐feminist and Anti",
+    "keywords": [
+      "Flourishing",
+      "Sensemaking",
+      "Science education",
+      "Environmental education",
+      "Philosophy of science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:47.170859"
+  },
+  {
+    "id": "https://openalex.org/W7165531830",
+    "title": "Understanding the Relational Dimensions of Classroom Modeling Conversations",
+    "authors": [
+      "Eve Manz",
+      "Annabel Stoler"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-06-22",
+    "doi": "10.1002/sce.70087",
+    "url": "https://doi.org/10.1002/sce.70087",
+    "abstract": "ABSTRACT As youth and teachers engage in modeling conversations, they are simultaneously negotiating how knowledge is generated and how people are accountable to each other in a community. Typically, design and analysis have privileged the epistemic focus, focusing on how to support young people to take up specific knowledge construction purposes and processes. The relational aspects of modeling conversations have received less attention. In this paper, we explore epistemic and relational work a",
+    "keywords": [
+      "Framing (construction)",
+      "Negotiation",
+      "Relation (database)",
+      "Science education",
+      "Co-construction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:47.170910"
+  },
+  {
+    "id": "https://openalex.org/W7165521779",
+    "title": "Broadening Queering: Centering Queer and Trans Cultural Praxis in Science Education Research",
+    "authors": [
+      "K. Rende Mendoza",
+      "Khanh Q. Tran"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-06-22",
+    "doi": "10.1002/sce.70076",
+    "url": "https://doi.org/10.1002/sce.70076",
+    "abstract": "Abstract In this commentary, we respond to the persistent deficit framing of queer and trans life in science education research and call for a reorientation of queer‐ and trans‐inclusive scholarship towards more joyful commitments. We trace the “joy deficit” in scholarship on gender and sexual diversity in science education through Wright and Delgado's (2023) three paradigms —safety, equity, and critical—and examine both their contributions and their limits for research and pedagogy. While each ",
+    "keywords": [
+      "Queer",
+      "Cognitive reframing",
+      "Praxis",
+      "Scholarship",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/sce.70076",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:47.170953"
+  },
+  {
+    "id": "https://openalex.org/W7165529757",
+    "title": "Founders’ trajectories, capital and market-oriented framings of education in the French EdTech market",
+    "authors": [
+      "Éléonore Vrillon"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-06-22",
+    "doi": "10.1080/17439884.2026.2688829",
+    "url": "https://doi.org/10.1080/17439884.2026.2688829",
+    "abstract": "This article examines the French EdTech market through the social properties of its founders, shifting attention from technologies and policy agendas to the actors shaping legitimate forms of technological intervention in education. Drawing on a Bourdieusian framework combined with science and technology studies, it analyses how founders’ trajectories, resources, and dispositions structure access to the EdTech field and influence the ways educational issues are framed through technology. The stu",
+    "keywords": [
+      "Situated",
+      "Legitimacy",
+      "Field (mathematics)",
+      "Intervention (counseling)",
+      "Entrepreneurship"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:53.554492"
+  },
+  {
+    "id": "https://openalex.org/W7165531664",
+    "title": "When rhythm speaks: Exploring linguistic identity in Saudi Arabia's kindergarten Auditory Arts Program",
+    "authors": [
+      "Lina Bashatah",
+      "Hanadi Fahad Alothman",
+      "Abdullah Almutairi",
+      "Abdulaziz Salem Aldossari",
+      "Abdulrahman A. Alshuaibi"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-22",
+    "doi": "10.1002/berj.70206",
+    "url": "https://doi.org/10.1002/berj.70206",
+    "abstract": "Abstract This study explores the role of auditory arts—particularly music, rhythm and sound‐based activities—in shaping linguistic identity within Saudi Arabian early childhood education (ECE). Grounded in the philosophical insights of Al‐Farabi and the contemporary framework of Gert Biesta's World‐Centred Education theory, the research examines how audio–musical experiences support children's linguistic, cognitive, social and aesthetic development. Using a qualitative descriptive design, the st",
+    "keywords": [
+      "Curriculum",
+      "The arts",
+      "Creativity",
+      "Identity (music)",
+      "Music education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:57.682781"
+  },
+  {
+    "id": "https://openalex.org/W7165550832",
+    "title": "Technology, language learning, and identity: A scoping review",
+    "authors": [
+      "Wanying Zhong",
+      "Chun Lai",
+      "Lin Liu"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-21",
+    "doi": "10.1080/17501229.2026.2684314",
+    "url": "https://doi.org/10.1080/17501229.2026.2684314",
+    "abstract": "Language learner identity is increasingly intertwined with technology in the post-digital era of language education. Despite growing research interest, reviews that systematically map this relationship remain limited. Therefore, this scoping review synthesises 57 empirical studies published between 2005 and 2025 to examine the reciprocal relationship between technology and identity in language education. Studies were identified through searches of Web of Science and Scopus. Thematic analysis was",
+    "keywords": [
+      "Sociocultural evolution",
+      "Identity (music)",
+      "Thematic analysis",
+      "Conceptual framework",
+      "Sociocultural perspective"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:35.751419"
+  },
+  {
+    "id": "https://openalex.org/W7165547088",
+    "title": "Otherwise engaged? Learning from non‐participation in research with care‐experienced students",
+    "authors": [
+      "Lynette Shotton",
+      "Tom Disney",
+      "Andrea Carrick",
+      "Laura Thurman"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-21",
+    "doi": "10.1002/berj.70236",
+    "url": "https://doi.org/10.1002/berj.70236",
+    "abstract": "Abstract This paper explores what can be learned when educational research “fails.” Drawing on a Welland Trust–funded project in the North East of England that aimed to support care‐experienced students transitioning from further to higher education, we reflect on why, despite sustained effort, there was a lack of engagement. We situate this “failure” within wider debates on participation and ethics in research with marginalised people. Rather than treating non‐participation as absence or dis‐en",
+    "keywords": [
+      "Agency (philosophy)",
+      "Gatekeeping",
+      "Silence",
+      "Educational research",
+      "Corporate governance"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70236",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-23T22:57:57.682835"
+  },
+  {
     "id": "https://openalex.org/W7165484438",
     "title": "Evaluation indicator system for AI certificate programs",
     "authors": [
