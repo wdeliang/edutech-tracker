@@ -1,5 +1,585 @@
 [
   {
+    "id": "https://openalex.org/W7165660665",
+    "title": "Shaping responsible GenAI use in research through AI literacy-oriented guidelines: insights from postgraduate students",
+    "authors": [
+      "Wei Dai",
+      "Cecilia Ka Yuk Chan"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-06-23",
+    "doi": "10.1186/s41239-026-00609-6",
+    "url": "https://doi.org/10.1186/s41239-026-00609-6",
+    "abstract": "Abstract The widespread adoption of generative Artificial Intelligence (GenAI) among researchers has intensified the need for guidelines that safeguard academic integrity and ethical scholarly practice. However, existing GenAI policies tend to focus on teaching, learning and assessment rather than on research, where ethical concerns are considerably more complex. Given this complexity, such guidelines should move beyond rule enforcement to scaffold the AI literacy researchers need when deciding ",
+    "keywords": [
+      "Thematic analysis",
+      "Literacy",
+      "Enforcement",
+      "Focus group",
+      "Categorization"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00609-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:45.985977"
+  },
+  {
+    "id": "https://openalex.org/W7165677771",
+    "title": "Design and effectiveness of professional development programmes to support teachers in promoting students’ scientific inquiry competencies: a critical and systematic review of empirical studies",
+    "authors": [
+      "Richard Sannert",
+      "Armin Baur",
+      "Moritz Krell"
+    ],
+    "journal": "Studies In Science Education",
+    "jif": 9.9,
+    "published_date": "2026-06-23",
+    "doi": "10.1080/03057267.2026.2688670",
+    "url": "https://doi.org/10.1080/03057267.2026.2688670",
+    "abstract": "",
+    "keywords": [
+      "Empirical research",
+      "Professional development",
+      "Faculty development",
+      "Professional studies",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03057267.2026.2688670",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:47.853328"
+  },
+  {
+    "id": "https://openalex.org/W7165671936",
+    "title": "Learning to disagree professionally: genAI roleplay and L2 business communication development",
+    "authors": [
+      "Shuai Wang",
+      "Binbin Chen",
+      "Tao Zhang",
+      "Huiqin Lv"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-06-23",
+    "doi": "10.1080/09588221.2026.2684583",
+    "url": "https://doi.org/10.1080/09588221.2026.2684583",
+    "abstract": "This study investigated whether generative artificial intelligence (GenAI) roleplay practice facilitates the development of professional disagreement strategies among second language (L2) business English learners. Although GenAI tools have attracted growing interest in language education, controlled experimental evidence for their effectiveness in developing specific pragmatic competencies remains scarce, with most existing research reporting learner perceptions rather than measured learning ou",
+    "keywords": [
+      "Competence (human resources)",
+      "Pragmatics",
+      "Language acquisition",
+      "Empirical research",
+      "Business communication"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:50.996455"
+  },
+  {
+    "id": "https://openalex.org/W7165676980",
+    "title": "“Investigating the impact of ChatGPT-assisted self-assessment on college students’ writing development: Insights from diverse linguistic backgrounds”",
+    "authors": [
+      "Hamidreza Moeiniasl"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.asw.2026.101092",
+    "url": "https://doi.org/10.1016/j.asw.2026.101092",
+    "abstract": "",
+    "keywords": [
+      "Linguistic diversity",
+      "Writing assessment",
+      "Diversity (politics)",
+      "Computational linguistics",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:53.977810"
+  },
+  {
+    "id": "https://openalex.org/W7165624509",
+    "title": "Creating educational digital content: experiences of high school teachers",
+    "authors": [
+      "Tanya Bekker",
+      "Hüseyin Kocasaraç",
+      "Mark Hayter"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s10639-026-14066-1",
+    "url": "https://doi.org/10.1007/s10639-026-14066-1",
+    "abstract": "Abstract The digital transformation in education is not a mere shift in tools or methods; it is a profound change that permeates every facet of learning and teaching. Digital transformation has redefined teaching practices globally, yet the experiences of teachers in navigating this transition remain underexplored. This qualitative comparative study investigates the lived experiences of high school teachers in Türkiye and South Africa as they create digital educational content. Using Complexity ",
+    "keywords": [
+      "Thematic analysis",
+      "Agency (philosophy)",
+      "Educational technology",
+      "Technology integration",
+      "Curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14066-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:55.181304"
+  },
+  {
+    "id": "https://openalex.org/W7165618671",
+    "title": "Professional learning communities make a difference: impact of leadership style on ICT use in teaching",
+    "authors": [
+      "Chuan-Chung Hsieh",
+      "Yurou Song",
+      "Hui-Chieh Li",
+      "Meng-Hsueh Lee"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s10639-026-14059-0",
+    "url": "https://doi.org/10.1007/s10639-026-14059-0",
+    "abstract": "In the context of the growing integration of digital technologies into classroom instruction, understanding how school-level conditions shape elementary school teachers’ use of information and communication technology (ICT) has become an important issue in educational technology research. This study examines the influence of school leadership on elementary school teachers’ ICT use in teaching, with particular attention to the mediating role of professional learning communities. Using data from p",
+    "keywords": [
+      "Information and Communications Technology",
+      "Technology integration",
+      "Leadership style",
+      "Educational technology",
+      "Educational leadership"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14059-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:55.181363"
+  },
+  {
+    "id": "https://openalex.org/W7165613655",
+    "title": "How positive minds embrace AI: serial mediation via psychological capital and emotional reactivity and the Turkish validation of the AI-Interaction Positivity Scale in Turkish university students",
+    "authors": [
+      "Mehmet Emin Turan",
+      "Fatıma Firdevs ADAM KARDUZ",
+      "Christian Montag"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-23",
+    "doi": "10.1080/10494820.2026.2679722",
+    "url": "https://doi.org/10.1080/10494820.2026.2679722",
+    "abstract": "",
+    "keywords": [
+      "Turkish",
+      "Scale (ratio)",
+      "Mediation",
+      "Reactivity (psychology)",
+      "Capital (architecture)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:55.866053"
+  },
+  {
+    "id": "https://openalex.org/W7165670815",
+    "title": "Identifying Structural Inequity During COVID-19: Teachers’ Workload and Resources by Instructional Mode",
+    "authors": [
+      "Motoko Akiba",
+      "Xiaonan Jiang",
+      "Sakiko Ikoma"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-06-23",
+    "doi": "10.3102/0013189x261457389",
+    "url": "https://doi.org/10.3102/0013189x261457389",
+    "abstract": "The COVID-19 pandemic has disproportionately affected students in segregated Black and Latine communities, highlighting the need for equitable workload and resources for teachers to support these students effectively. Analyzing the 2020–2021 National Teacher and Principal Survey data and guided by a critical quantitative framework, we found that teachers in predominantly Black and Latine schools had heavier workloads and were given less adequate resources than their counterparts in predominantly",
+    "keywords": [
+      "Workload",
+      "Principal (computer security)",
+      "Mode (computer interface)",
+      "Survey data collection",
+      "Pandemic"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:58.322169"
+  },
+  {
+    "id": "https://openalex.org/W7165676432",
+    "title": "Exploring cognitive processes of professional vision: The role of student-oriented goals and visual attention in preservice teachers’ reasoning about classroom interactions",
+    "authors": [
+      "Ricardo Böheim",
+      "Martin Daumiller",
+      "Aldin Alijagic",
+      "Doris Lewalter",
+      "Andreas Gegenfurtner"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.learninstruc.2026.102404",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102404",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "Visual attention",
+      "Protocol analysis",
+      "Cognitive load",
+      "Selective attention"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102404",
+    "cited_by_count": 1,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:59.576491"
+  },
+  {
+    "id": "https://openalex.org/W7165635624",
+    "title": "Conceptualizing Humanizing STEM through Scientist-Teacher-Student Partnership (STSP) Toward Sustainable University-School Collaboration and Pedagogical Innovation",
+    "authors": [
+      "Napisah Yahya",
+      "Hidayah Mohd Fadzil",
+      "Mohd Nor Syahrir Abdullah",
+      "Rohaida Mohd Saat",
+      "Mohamad Hisyam Ismail"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s40299-026-01124-y",
+    "url": "https://doi.org/10.1007/s40299-026-01124-y",
+    "abstract": "Abstract Sustainable university-school partnerships are increasingly recognized as critical for teacher development and pedagogical innovation; however, existing STEM partnership models often privilege technical expertise over ethical, cultural, and human-centered dimensions of learning. Addressing this gap, this study conceptualizes humanizing STEM education through an expanded Scientist-Teacher-Student Partnership (STSP) framework that integrates STEM and humanities perspectives within seconda",
+    "keywords": [
+      "General partnership",
+      "Operationalization",
+      "Curriculum",
+      "Scholarship",
+      "Reflexivity"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s40299-026-01124-y",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:01.431712"
+  },
+  {
+    "id": "https://openalex.org/W7165645419",
+    "title": "The effect of the 5E-ICH model on elementary school students’ computational thinking and block-based programming ability: a quasi-experimental study",
+    "authors": [
+      "Min Wang"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11423-026-10643-w",
+    "url": "https://doi.org/10.1007/s11423-026-10643-w",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Computational thinking",
+      "Control (management)",
+      "Educational technology",
+      "Test (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:04.530173"
+  },
+  {
+    "id": "https://openalex.org/W7165632422",
+    "title": "Designing AI systems to support a productive-failure-based learning: insights from adult learners on AI applications and AI system design principles",
+    "authors": [
+      "Jinhee Kim",
+      "Xi Lin",
+      "Seongryeong Yu",
+      "Rita Detrick"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11423-026-10655-6",
+    "url": "https://doi.org/10.1007/s11423-026-10655-6",
+    "abstract": "Abstract Emerging capabilities of generative artificial intelligence (GenAI) offer significant potential to support productive failure (PF)-based learning, which engages adult learners (ALs) in exploring problems before instruction and learning from their initial attempts. However, the effective use of AI to support multifaceted areas of PF-based learning, including problem generation, exploration, consolidation, and knowledge assembly, is limited. Furthermore, AI design principles to support PF",
+    "keywords": [
+      "Instructional design",
+      "Usability",
+      "Educational technology",
+      "Ambiguity",
+      "Learning sciences"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10655-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:04.530443"
+  },
+  {
+    "id": "https://openalex.org/W7165672860",
+    "title": "Exploring cognitive engagement in guided ChatGPT-supported collaborative lesson plan refinement for preservice teachers",
+    "authors": [
+      "Yanyan Sun",
+      "Yingfen Huang"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11423-026-10657-4",
+    "url": "https://doi.org/10.1007/s11423-026-10657-4",
+    "abstract": "",
+    "keywords": [
+      "Plan (archaeology)",
+      "Educational technology",
+      "Lesson plan",
+      "Cognition",
+      "Technology integration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:04.530451"
+  },
+  {
+    "id": "https://openalex.org/W7165672294",
+    "title": "Navigating Identity Tensions Through Perezhivanie: Language Teacher Metamotivation in Chinese Private Vocational Colleges",
+    "authors": [
+      "Panpan Zhang",
+      "Yang Gao",
+      "Hailing Wei"
+    ],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-06-23",
+    "doi": "10.1111/modl.70079",
+    "url": "https://doi.org/10.1111/modl.70079",
+    "abstract": "ABSTRACT Language teachers in marketized educational contexts face identity tensions that generate sustained motivational struggles, yet how teachers monitor and regulate motivation through the cognitive‐emotional dialectic ( perezhivanie ) remains undertheorized. This qualitative multiple‐case study examined the identity tensions that 11 language teachers in Chinese private vocational colleges experienced and how perezhivanie refracted these tensions to shape metamotivational responses within t",
+    "keywords": [
+      "Identity (music)",
+      "Vocational education",
+      "Dialectic",
+      "Face (sociological concept)",
+      "Field (mathematics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:07.516826"
+  },
+  {
+    "id": "https://openalex.org/W7165640534",
+    "title": "Validation of the creative educational practices scale: Measuring teachers’ everyday creativity",
+    "authors": [
+      "Tasuku Isshiki"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.tate.2026.105693",
+    "url": "https://doi.org/10.1016/j.tate.2026.105693",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Everyday life",
+      "Higher education",
+      "Educational research",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:08.151928"
+  },
+  {
+    "id": "https://openalex.org/W7165672296",
+    "title": "Framing intuitive ideas in physics: A proposal grounded in frame semantics",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-06-23",
+    "doi": "10.1103/kffj-lvhz",
+    "url": "https://doi.org/10.1103/kffj-lvhz",
+    "abstract": "",
+    "keywords": [
+      "Framing (construction)",
+      "Frame problem",
+      "Semantics (computer science)",
+      "Frame (networking)",
+      "Frame analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/kffj-lvhz",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:11.144619"
+  },
+  {
+    "id": "https://openalex.org/W7165655083",
+    "title": "Student views on EMI effectiveness: A Q methodology investigation",
+    "authors": [
+      "Trung Bui"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.jeap.2026.101732",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101732",
+    "abstract": "",
+    "keywords": [
+      "Varimax rotation",
+      "Vietnamese",
+      "EMI",
+      "Face (sociological concept)",
+      "Centroid"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:12.471822"
+  },
+  {
+    "id": "https://openalex.org/W7165613506",
+    "title": "Identification of factors driving the sustainability quotient of higher education institutions: a critical review and qualitative inquiry",
+    "authors": [
+      "S. Gupta"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-23",
+    "doi": "10.1108/ijshe-08-2025-0991",
+    "url": "https://doi.org/10.1108/ijshe-08-2025-0991",
+    "abstract": "Purpose This study aims to investigate the key factors driving the sustainability quotient (SQ) of higher education institutions (HEIs), while focusing on how curriculum, governance, technological interventions and community engagement contribute to embedding sustainability into the institutional fabric. Design/methodology/approach A qualitative research design was used using semi-structured interviews with 30 participants, including faculty members, administrators and student leaders across fiv",
+    "keywords": [
+      "Higher education",
+      "Sustainability",
+      "Thematic analysis",
+      "Qualitative research",
+      "Sustainable development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:14.938367"
+  },
+  {
+    "id": "https://openalex.org/W7165611983",
+    "title": "Gender gaps in academic promotions: does parenthood matter? An event history analysis of academic careers in Italian universities",
+    "authors": [
+      "Olga Gorodetskaya",
+      "Agnese Vitali"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1080/03075079.2026.2692623",
+    "url": "https://doi.org/10.1080/03075079.2026.2692623",
+    "abstract": "A substantial body of literature highlights the existence of persistent gender gaps in academia, where women are underrepresented in senior positions and experience slower career progression than men. Among the factors contributing to these disparities, the motherhood penalty is frequently cited. However, less is known about how gender disparities unfold across successive stages of the academic career, at which transitions they become most salient, and whether the role of parenthood in career ad",
+    "keywords": [
+      "Promotion (chess)",
+      "Gender gap",
+      "Fertility",
+      "Higher education",
+      "Career development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:17.987396"
+  },
+  {
+    "id": "https://openalex.org/W7165628116",
+    "title": "Professional Growth of Pre-service Teachers in Socioscientific Issues Instruction: Insights from a Multiple Case Study",
+    "authors": [
+      "Çiğdem Han-Tosunoğlu",
+      "Oya Ağlarcı Özdemir",
+      "Özgür Kıvılcan Doğan"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11191-026-00760-6",
+    "url": "https://doi.org/10.1007/s11191-026-00760-6",
+    "abstract": "Abstract This study aimed to explore how pre-service biology teachers develop professionally through the implementation of socioscientific issue (SSI) instruction. A multiple case study design was employed, with data collected through interviews, classroom video recordings, and lesson plans. The participants consisted of two pre-service biology teachers, and the analyses were conducted using both deductive and inductive approaches. Cross-case analysis revealed distinct developmental paths. Melis",
+    "keywords": [
+      "Adaptability",
+      "Professional development",
+      "Faculty development",
+      "Domain (mathematical analysis)",
+      "Teaching method"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00760-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:21.073422"
+  },
+  {
+    "id": "https://openalex.org/W7165661862",
+    "title": "Editorial Note: June 2026",
+    "authors": [
+      "Cristiano B. Moura"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11191-026-00763-3",
+    "url": "https://doi.org/10.1007/s11191-026-00763-3",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:21.073434"
+  },
+  {
+    "id": "https://openalex.org/W7165673426",
+    "title": "Opening the Black Box of Scientific Practices ",
+    "authors": [
+      "Katharina Düsing",
+      "Vanessa van den Bogaert",
+      "Miriam Brandt",
+      "Till Bruckermann",
+      "Hannah Greving"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1007/s11191-026-00755-3",
+    "url": "https://doi.org/10.1007/s11191-026-00755-3",
+    "abstract": "Abstract Understanding scientific practices is fundamental to modern society and to science education. Concepts such as Scientific Reasoning (SR) and the Nature of Science (NOS) are important to operationalize different aspects of these practices. Educational policy organizations and international standards require science education to provide insights into the activities and thought processes of scientists to improve science learning. The implementation of these requirements in the classroom is",
+    "keywords": [
+      "Operationalization",
+      "Next Generation Science Standards",
+      "Context (archaeology)",
+      "Science education",
+      "Best practice"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00755-3",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:21.073492"
+  },
+  {
     "id": "https://openalex.org/W7165547400",
     "title": "From keystrokes to scores: Toward a multidimensional predictive model of writing evaluation by humans and large language models across linguistic, cognitive, and social dimensions",
     "authors": [
@@ -53,6 +633,110 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-23T22:57:42.185678"
+  },
+  {
+    "id": "https://openalex.org/W7165632057",
+    "title": "Understanding students’ learning regulation, metacognitive strategies, and cross-cultural learning in metaverse-supported collaboration: a process-oriented mixed-method study",
+    "authors": [
+      "Suwandi Suwandi",
+      "Darmawansah Darmawansah",
+      "Benni Ichsanda Rahman Hz"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-22",
+    "doi": "10.1080/10494820.2026.2687031",
+    "url": "https://doi.org/10.1080/10494820.2026.2687031",
+    "abstract": "",
+    "keywords": [
+      "Metacognition",
+      "Educational technology",
+      "Experiential learning",
+      "Active learning (machine learning)",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:57:55.866063"
+  },
+  {
+    "id": "https://openalex.org/W7165684528",
+    "title": "Preliminary Evaluation of the Psychometric Properties of the Italian Version of the Mathematics Motivation Questionnaire",
+    "authors": [
+      "Linda Messineo"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-22",
+    "doi": "10.1111/ejed.70748",
+    "url": "https://doi.org/10.1111/ejed.70748",
+    "abstract": "ABSTRACT The Mathematics Motivation Questionnaire is a self‐report measure aimed to assess motivational factors related to mathematics learning. The aim of this study was to explore the psychometric properties of the Italian version of the Mathematics Motivation Questionnaire in a sample of first‐year psychology undergraduate students. A confirmatory factor analysis was computed to test the factor structure of the questionnaire. The reliability of the scale was evaluated. The relationship betwee",
+    "keywords": [
+      "Convergent validity",
+      "Confirmatory factor analysis",
+      "Scale (ratio)",
+      "Anxiety",
+      "Test (biology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70748",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:11.831589"
+  },
+  {
+    "id": "https://openalex.org/W7165617129",
+    "title": "Placement stress and year-level differences in pre-service teachers’ use of generative AI: a mixed-methods study in an Irish initial teacher education programme",
+    "authors": [
+      "Hsiao-Ping Hsu",
+      "Alan Gorman"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-22",
+    "doi": "10.1080/02619768.2026.2692979",
+    "url": "https://doi.org/10.1080/02619768.2026.2692979",
+    "abstract": "Generative Artificial Intelligence (GenAI) is increasingly visible in teacher education, with pre-service teachers (PSTs) using tools such as ChatGPT for lesson planning and workload management. Yet prior studies treat PSTs as a homogeneous group, overlooking how year-group context and placement stress relate to perceptions and uses of GenAI during placement. This study addresses this gap using an explanatory sequential mixed-methods design, combining survey and follow-up interviews. Quantitativ",
+    "keywords": [
+      "Irish",
+      "Context (archaeology)",
+      "Teacher education",
+      "Stress (linguistics)",
+      "Semi-structured interview"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:19.812741"
+  },
+  {
+    "id": "https://openalex.org/W7165691630",
+    "title": "Reconceptualising ‘agency in mobility’: Agency for becoming and other forms of agency in study abroad",
+    "authors": [
+      "Lý Thị Trần",
+      "Thinh Huynh"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-22",
+    "doi": "10.1002/berj.70137",
+    "url": "https://doi.org/10.1002/berj.70137",
+    "abstract": "Abstract Study‐abroad programs are increasingly adopted and supported by institutions and governments as a strategic tool for deepening internationalisation and public diplomacy through people‐to‐people, institution‐to‐institution and country‐to‐country connections. Yet, the agency of study‐abroad students who are engaged in outbound mobility as part of their study program in their home institution has long been neglected. This article draws on a study of the New Colombo Plan (NCP) to explore ho",
+    "keywords": [
+      "Agency (philosophy)",
+      "Study abroad",
+      "Competence (human resources)",
+      "Internationalization",
+      "Intercultural competence"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70137",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:22.957350"
   },
   {
     "id": "https://openalex.org/W7165550406",
@@ -860,6 +1544,34 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-21T10:54:42.073104"
+  },
+  {
+    "id": "https://openalex.org/W7165395304",
+    "title": "Where are we in the integration of design thinking and project-based learning? A systematic review in design higher education",
+    "authors": [
+      "Zhiyi Guo",
+      "Asyiek Desa",
+      "Muhizam Mustafa",
+      "Yueyue Ning"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-19",
+    "doi": "10.1016/j.tsc.2026.102293",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102293",
+    "abstract": "With the continuous exploration of interdisciplinary integration and innovative education models in the field of education, the curriculum model combining design thinking (DT) and project-based learning (PBL) has been gradually applied in higher education. However, despite a large number of reviews on DT or PBL individually, very few studies systematically integrate DT and PBL as teaching models in higher education, especially within design disciplines. Existing syntheses mainly focus on broad t",
+    "keywords": [
+      "Higher education",
+      "Standardization",
+      "Curriculum",
+      "Identification (biology)",
+      "Thematic analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tsc.2026.102293",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-24T22:58:03.277648"
   },
   {
     "id": "https://openalex.org/W7165361696",
