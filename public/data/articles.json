@@ -1,5 +1,727 @@
 [
   {
+    "id": "https://openalex.org/W7165773018",
+    "title": "Classroom digital game integration practices framework: exploring science teachers’ constructivist beliefs and digital game-based learning practices",
+    "authors": [
+      "Iqbal Ainur Rizki",
+      "Anne Yates"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-25",
+    "doi": "10.1007/s10639-026-14062-5",
+    "url": "https://doi.org/10.1007/s10639-026-14062-5",
+    "abstract": "Abstract Despite growing evidence of the effectiveness of digital game-based learning (DGBL) and the recognised influence of teachers’ pedagogical beliefs on technology integration, research on how constructivist beliefs are enacted in actual classroom DGBL practices is still needed. This study explores how science teachers’ student-centred pedagogical beliefs are enacted in their integration of DGBL within classroom practices. By employing a multiple case study design, five Indonesian high scho",
+    "keywords": [
+      "Constructivist teaching methods",
+      "Thematic analysis",
+      "Transformative learning",
+      "Educational technology",
+      "Technology integration"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14062-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:50.045457"
+  },
+  {
+    "id": "https://openalex.org/W7165794956",
+    "title": "How Strongly Is Teachers’ Burnout Related to Teacher Absenteeism, Teacher–Student Interactions, and Student Motivation and Achievement: A Meta-Analysis and Systematic Review",
+    "authors": [
+      "Gyde Wartenberg",
+      "Karen Aldrup",
+      "Simon Grund",
+      "Uta Klusmann"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-06-24",
+    "doi": "10.3102/00346543261455273",
+    "url": "https://doi.org/10.3102/00346543261455273",
+    "abstract": "Teacher burnout is assumed to impair the cognitive, motivational, and social functioning of teachers, thereby hindering their professional behavior. Although this is a rapidly growing field of research, a systematic research synthesis is still lacking. Therefore, we meta-analytically summarized primary studies on the work-related correlates of teacher burnout symptoms in terms of absenteeism, the quality of teacher–student interactions (i.e., emotional support, classroom management, and instruct",
+    "keywords": [
+      "Burnout",
+      "Absenteeism",
+      "Intervention (counseling)",
+      "Perspective (graphical)",
+      "Emotional exhaustion"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00346543261455273",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:42.659504"
+  },
+  {
+    "id": "https://openalex.org/W7165746936",
+    "title": "The Untested Component: A Scoping Review of Parental Engagement in School-Based Social-Emotional Learning Programs",
+    "authors": [
+      "Anna Segura",
+      "Kimberly A. Rhoades",
+      "Tymaa Alqatari",
+      "Shu Ting Lin",
+      "J. Mark Eddy"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-06-24",
+    "doi": "10.3102/00346543261449215",
+    "url": "https://doi.org/10.3102/00346543261449215",
+    "abstract": "This scoping review documents the content and outcomes of parental engagement components within school-based social-emotional learning (SEL) programs for pre-K through 12th grade. Of 83 programs reviewed, 45 included parental engagement components and were analyzed for format, rationale, and evidence. Findings showed that although the need for parental engagement is widely recognized, implementation and effectiveness data remain limited. Common formats included standalone written materials, such",
+    "keywords": [
+      "Student engagement",
+      "Generalization",
+      "Public engagement",
+      "User engagement",
+      "Multimethodology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:42.659550"
+  },
+  {
+    "id": "https://openalex.org/W7165728729",
+    "title": "Centering Youth in the Healing Process Through Participatory Action Research: A Systematic Review",
+    "authors": [
+      "Adam Alvarez",
+      "Addison Duane"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-06-24",
+    "doi": "10.3102/00346543261457441",
+    "url": "https://doi.org/10.3102/00346543261457441",
+    "abstract": "This systematic review explores the intersection of youth participatory action research (YPAR) and trauma-informed practices (TIP) in U.S. schools. Drawing on 19 empirical studies, we analyze how YPAR has been leveraged to support the healing of trauma-exposed youth, particularly youth of color. Using a race-conscious, trauma-informed framework—CARS (critical, agentic, relational, and strengths-based)—we synthesize findings and demonstrate that YPAR fosters individual and collective healing by p",
+    "keywords": [
+      "Participatory action research",
+      "Transformative learning",
+      "Action research",
+      "Citizen journalism",
+      "Process (computing)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:42.659584"
+  },
+  {
+    "id": "https://openalex.org/W7165793323",
+    "title": "The Supremacy of Whiteness in Local Educational Politics: A Review of Literature",
+    "authors": [
+      "Cassandra F. Rubinstein"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-06-24",
+    "doi": "10.3102/00346543261451890",
+    "url": "https://doi.org/10.3102/00346543261451890",
+    "abstract": "The field of education has renewed its focus on whiteness and white supremacy as constitutive forces in local educational politics. Using integrative literature review methods, this article examines what scholarship on local educational politics reveals about how whiteness operates in specific contexts and how the field theorizes whiteness. Five themes emerged: the mechanisms of whiteness, the power and disempowerment of parents and communities, segregation and isolation, the hegemonic power of ",
+    "keywords": [
+      "Scholarship",
+      "Hegemony",
+      "White supremacy",
+      "Field (mathematics)",
+      "Power (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:42.659618"
+  },
+  {
+    "id": "https://openalex.org/W7165735986",
+    "title": "Adaptive reorganization in knowledge building research (2014–2025): Continuity and change across the pandemic and post-AI era",
+    "authors": [
+      "Li-Jen Wang"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-06-24",
+    "doi": "10.1007/s11412-026-09490-x",
+    "url": "https://doi.org/10.1007/s11412-026-09490-x",
+    "abstract": "",
+    "keywords": [
+      "Discipline",
+      "Baseline (sea)",
+      "Citation",
+      "Generative grammar",
+      "Analytics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:46.492158"
+  },
+  {
+    "id": "https://openalex.org/W7165738611",
+    "title": "Measuring engagement in technology-supported collaborative argumentative writing: Development and validation of the T-CLEA scale",
+    "authors": [
+      "Li-Jen Wang",
+      "Ying‐Tien Wu",
+      "Teng-Yao Cheng"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-06-24",
+    "doi": "10.1016/j.asw.2026.101089",
+    "url": "https://doi.org/10.1016/j.asw.2026.101089",
+    "abstract": "",
+    "keywords": [
+      "Argumentative",
+      "Argumentation theory",
+      "Construct (python library)",
+      "Confirmatory factor analysis",
+      "Scale (ratio)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:48.117205"
+  },
+  {
+    "id": "https://openalex.org/W7165769744",
+    "title": "The role of Visuospatial Working Memory in Chemistry Learning Assessed in a Sample of Italian Undergraduate Students",
+    "authors": [
+      "Francesca De Vita",
+      "Elena Ghibaudi",
+      "Barbara Sini",
+      "Renato Lombardo",
+      "Antonella Maggio"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-24",
+    "doi": "10.1007/s10956-026-10336-2",
+    "url": "https://doi.org/10.1007/s10956-026-10336-2",
+    "abstract": "Abstract Chemistry learning and understanding depends on the ability to think circularly at three levels: the macroscopic, the sub-microscopic, and the symbolic level. This ability is mostly given for granted in higher education, although many students struggle in representing the sub-microscopic level, which is outside their range of experience. In addition, handling these three levels at a time may easily overload the Working Memory (WM), thus hindering meaningful learning. It has been demonst",
+    "keywords": [
+      "Working memory",
+      "Task (project management)",
+      "Cognition",
+      "Active listening",
+      "Chemistry education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10956-026-10336-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:49.001126"
+  },
+  {
+    "id": "https://openalex.org/W7165779806",
+    "title": "Facilitating adaptive learning: A QCA study on conditions for learning in simulation games",
+    "authors": [
+      "Marieke de Wijse-van Heeswijk",
+      "Sander Meijerink",
+      "Etiënne Rouwette",
+      "Emma Avoyan"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-06-24",
+    "doi": "10.1016/j.learninstruc.2026.102380",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102380",
+    "abstract": "Background Research on how facilitation design and facilitator interventions influence adaptive learning outcomes in simulation games remains limited. While previous studies have examined individual learning conditions in simulation games, less is known about how these conditions operate in combination to support adaptive learning. Aims This study investigates which combinations of facilitation design conditions and facilitator interventions enhance adaptive learning outcomes in simulation games",
+    "keywords": [
+      "Debriefing",
+      "Facilitator",
+      "Facilitation",
+      "Session (web analytics)",
+      "Psychological intervention"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102380",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:55.855398"
+  },
+  {
+    "id": "https://openalex.org/W7165751497",
+    "title": "How <scp>AI</scp> ‐Generated Feedback Hinders or Helps Learning: A Heterogeneous <scp>TNA</scp> Study of Learning Dynamics",
+    "authors": [
+      "Sonsoles López‐Pernas",
+      "Kamila Misiejuk",
+      "Mohammed Saqr"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-06-24",
+    "doi": "10.1002/jcal.70285",
+    "url": "https://doi.org/10.1002/jcal.70285",
+    "abstract": "ABSTRACT Background Despite growing integration of generative AI in educational settings, little is known about whether and to what extent AI‐generated real‐time feedback can support first‐grade students in solving multimodal mathematical tasks. Objectives Our study aims to examine student–AI feedback dynamics from a process‐oriented perspective, focusing on how students interact with AI feedback after incorrectly solving multimodal mathematical tasks and which interaction patterns lead to succe",
+    "keywords": [
+      "Situated",
+      "Generative grammar",
+      "Dynamics (music)",
+      "Affordance",
+      "Corrective feedback"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70285",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:00.347767"
+  },
+  {
+    "id": "https://openalex.org/W7165806673",
+    "title": "The promise and limits of artificial intelligence in writing assessment and instruction: a systematic review",
+    "authors": [
+      "Yue‐Liang Pan",
+      "Peng-fei Yu",
+      "Xiang-lin Yin",
+      "Yang Hong-sheng",
+      "Xin‐zhou Long"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-24",
+    "doi": "10.1007/s11423-026-10659-2",
+    "url": "https://doi.org/10.1007/s11423-026-10659-2",
+    "abstract": "",
+    "keywords": [
+      "Task (project management)",
+      "USable",
+      "Systematic review",
+      "Applications of artificial intelligence",
+      "Reliability (semiconductor)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:03.230941"
+  },
+  {
+    "id": "https://openalex.org/W7165786799",
+    "title": "How Awareness of Orthographic Transparency Benefits the Lexical Encoding of Second Language Vowels",
+    "authors": [
+      "Hunter Brakovec",
+      "Isabelle Darcy"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-06-24",
+    "doi": "10.1111/lang.70043",
+    "url": "https://doi.org/10.1111/lang.70043",
+    "abstract": "Abstract We investigated the influence of orthographic transparency, and learners’ awareness of it, on the second language (L2) phonolexical encoding of Brazilian Portuguese (BP) mid‐vowel contrasts. In BP, accent marks indicate vowel quality (mid‐closed vs. mid‐open), resulting in transparent grapheme–phoneme correspondences, whereas words without accents are opaque. To test whether transparency benefits phonolexical encoding of vowel quality, 20 native speakers of American English learning BP ",
+    "keywords": [
+      "Vowel",
+      "Stress (linguistics)",
+      "Transparency (behavior)",
+      "Orthography",
+      "Second language"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/lang.70043",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:04.773184"
+  },
+  {
+    "id": "https://openalex.org/W7165726734",
+    "title": "Teaching competencies as a key element for educational achievement and equity: a PISA-based study",
+    "authors": [
+      "Fernando Martínez Abad",
+      "Amparo Jiménez",
+      "María José Rodríguez Conde"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-24",
+    "doi": "10.1016/j.tate.2026.105712",
+    "url": "https://doi.org/10.1016/j.tate.2026.105712",
+    "abstract": "Teaching competencies are a fundamental element in promoting quality, equitable education. This paper aims to analyse how teaching competencies relate to academic achievement and educational equity. Using the PISA 2018 database, comprising a representative sample of 35,943 students and 21,621 teachers in Spain, the study proposes a multilevel predictive model of academic performance (at the student and school levels) based on teaching-related factors. In relation to academic performance, the res",
+    "keywords": [
+      "Element (criminal law)",
+      "Socioeconomic status",
+      "Multilevel model",
+      "Academic achievement",
+      "Adaptation (eye)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105712",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:08.114181"
+  },
+  {
+    "id": "https://openalex.org/W7165735932",
+    "title": "Pronunciation for Less Commonly Taught Languages: Teaching Beliefs and Practices",
+    "authors": [
+      "Amanda Huensch",
+      "Minjin Kim",
+      "Dustin Crowther"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-24",
+    "doi": "10.1177/13621688261451407",
+    "url": "https://doi.org/10.1177/13621688261451407",
+    "abstract": "Evidence has mounted for the effectiveness of second language pronunciation instruction. Given the critical role instructors play in implementing effective instruction, one line of inquiry has been to better understand instructors’ beliefs and practices as they relate to second language pronunciation teaching and learning. A critical gap, however, is that such research has focused primarily on English, with only limited focus on languages other than English. Amongst languages other than English,",
+    "keywords": [
+      "Pronunciation",
+      "Class (philosophy)",
+      "Language education",
+      "Language acquisition",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825008"
+  },
+  {
+    "id": "https://openalex.org/W7165773947",
+    "title": "Enhancing EAP students’ repertoires of evaluative language expressions through an innovative teaching sequence with redesigned course materials",
+    "authors": [
+      "Tien Phung Nguyen",
+      "Thu Ngo",
+      "Len Unsworth"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-24",
+    "doi": "10.1016/j.jeap.2026.101728",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101728",
+    "abstract": "",
+    "keywords": [
+      "Course (navigation)",
+      "Sequence (biology)",
+      "English for academic purposes",
+      "Online course",
+      "Graduate students"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:14.093385"
+  },
+  {
+    "id": "https://openalex.org/W7165789671",
+    "title": "Socio-economic inclusive pedagogy for sustainable higher education in Pakistan: an intersectional perspective",
+    "authors": [
+      "Abdul Basit Soomro",
+      "Sharik Zamir",
+      "Raja Bahar Khan Soomro",
+      "Zafarullah Sahito",
+      "Anna-Marie Pelser"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-24",
+    "doi": "10.1108/ijshe-09-2025-1172",
+    "url": "https://doi.org/10.1108/ijshe-09-2025-1172",
+    "abstract": "Purpose This study is inspired by the social justice theory which promotes equal provision of resources, opportunities and quality education for all students regardless of social or economic status and background. The purpose of this study is to explore the perceptions and practices of university teachers regarding socio-economic aspects of inclusive pedagogy and how it promotes sustainability in higher education in Pakistan. Design/methodology/approach The qualitative research approach with cas",
+    "keywords": [
+      "Higher education",
+      "Disadvantaged",
+      "Curriculum",
+      "Context (archaeology)",
+      "Inclusion (mineral)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:17.316186"
+  },
+  {
+    "id": "https://openalex.org/W7165798542",
+    "title": "Digital sovereignty as a political and economic struggle: the state and social movements in education",
+    "authors": [
+      "Geo Saura",
+      "Jordi Casas",
+      "Mateus Arguelho"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-06-24",
+    "doi": "10.1080/17439884.2026.2692954",
+    "url": "https://doi.org/10.1080/17439884.2026.2692954",
+    "abstract": "The concept of digital sovereignty is a key framework for analysing geopolitical, economic and ideological disputes over technological infrastructures in contemporary capitalism. From a critical perspective, digital sovereignty in education is a contested field where state, corporate and social-movement actors struggle to define how digital infrastructures should be governed, owned and operationalised. This article analyses two configurations of digital sovereignty in Spanish education policy: A",
+    "keywords": [
+      "Sovereignty",
+      "Autonomy",
+      "State (computer science)",
+      "Corporate governance",
+      "Transformative learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:22.883191"
+  },
+  {
+    "id": "https://openalex.org/W7165728049",
+    "title": "The limits of the research-teaching nexus: how teacher educators drawn from English literary studies view literature education research",
+    "authors": [
+      "Katherina Dodou",
+      "Anette Svensson"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-24",
+    "doi": "10.1080/02619768.2026.2693694",
+    "url": "https://doi.org/10.1080/02619768.2026.2693694",
+    "abstract": "Teacher educators play a crucial role in the educational research-teaching nexus, making it important to understand how they view research that bridges a subject discipline with school teaching, as well as how they use this research in initial teacher education (ITE). The present study contributes to this understanding by spotlighting the views of a cadre of teacher educators specialising in a subject discipline. Based on in-depth interviews with 21 teacher educators drawn from English literary ",
+    "keywords": [
+      "Subject (documents)",
+      "Educational research",
+      "Teacher education",
+      "Qualitative research",
+      "Literacy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/02619768.2026.2693694",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:23.795311"
+  },
+  {
+    "id": "https://openalex.org/W7165805661",
+    "title": "Doctoral Preparation in Mathematics Education: Graduates’ Perspectives on Program Features, Expertise Development, and Scholarly Learning Cultures",
+    "authors": [
+      "Scott A. Courtney",
+      "Anita Alexander"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-06-24",
+    "doi": "10.1007/s10763-026-10694-8",
+    "url": "https://doi.org/10.1007/s10763-026-10694-8",
+    "abstract": "Abstract This study examined doctoral preparation in mathematics education through graduates’ retrospective perspectives on program features, expertise development, and scholarly learning cultures. Using a convergent mixed-methods design, survey responses from 156 doctoral graduates representing 37 countries were integrated with in-depth interviews from 16 participants across ten national contexts. Quantitative analyses examined graduates’ ratings of 13 program features and their perceptions of ",
+    "keywords": [
+      "Reflexivity",
+      "Thematic analysis",
+      "Qualitative research",
+      "Grounded theory",
+      "Perception"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10763-026-10694-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:29.835504"
+  },
+  {
+    "id": "https://openalex.org/W7165762773",
+    "title": "Pronunciation Instruction as Pedagogical Decision Making in Multilingual European EFL Classrooms",
+    "authors": [
+      "Martin Lehrer"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261453671",
+    "url": "https://doi.org/10.1177/13621688261453671",
+    "abstract": "This study examines how English as a foreign language (EFL) teachers working across diverse European contexts understand and enact pronunciation instruction within increasingly multilingual classrooms. Drawing on an exploratory mixed-methods design, the study analyzes survey responses from 43 teachers across 22 European countries and follow-up interviews with 8 participants. Survey data identify patterns in teacher preparation, instructional techniques, and perceived challenges, while qualitativ",
+    "keywords": [
+      "Pronunciation",
+      "Curriculum",
+      "Metalinguistics",
+      "Exploratory research",
+      "English as a foreign language"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/13621688261453671?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825062"
+  },
+  {
+    "id": "https://openalex.org/W7165747898",
+    "title": "Teacher Perspectives on Ability Grouping in Israeli ESL Classrooms: Ethical Dilemmas and Alternative Strategies",
+    "authors": [
+      "Idan Saban",
+      "Yariv Feniger"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261455466",
+    "url": "https://doi.org/10.1177/13621688261455466",
+    "abstract": "Ability grouping in English as a second language (ESL) education remains contested, situated between instructional efficiency and educational equity. While existing research has largely focused on student outcomes and system-level effects, less attention has been paid to how teachers interpret and enact grouping arrangements in everyday ESL classrooms. This interpretivist comparative case study draws on semi-structured interviews with junior high school ESL teachers ( N = 10) in two Israeli scho",
+    "keywords": [
+      "CLARITY",
+      "Situated",
+      "Inclusion (mineral)",
+      "Task (project management)",
+      "Qualitative research"
+    ],
+    "open_access": true,
+    "oa_url": "https://meyda.education.gov.il/files/Mazkirut_Pedagogit/English/mixedability.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825106"
+  },
+  {
+    "id": "https://openalex.org/W7165732066",
+    "title": "An Integrated Perspective on a Second Language Writing Teacher’s Professional Growth: A Cross-Contextual, Career-Stage Analysis",
+    "authors": [
+      "Zhenjie Weng",
+      "Yu Zhao"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261455664",
+    "url": "https://doi.org/10.1177/13621688261455664",
+    "abstract": "This qualitative case study explores how a transnational second language writing teacher (Author 2) developed adaptive expertise across three career stages, early career in China, mid-career in the United States, and later career back in China as an experienced second language writing teacher, through the dynamic interplay of identity, agency, and emotion. Data from reflection journals and semi-structured interviews were analyzed using a framework grounded in four constructs: identity, agency, e",
+    "keywords": [
+      "Second language writing",
+      "Framing (construction)",
+      "Identity (music)",
+      "Interdependence",
+      "Agency (philosophy)"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/13621688261455664?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825148"
+  },
+  {
+    "id": "https://openalex.org/W7165728093",
+    "title": "Boundary Conditions of Retrieval-Enhanced Learning: Evidence from Contextual Learning and Retention of Second Language Multi-Word Expressions",
+    "authors": [
+      "Mojtaba Tadayonifar",
+      "Mahnaz Entezari"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261452314",
+    "url": "https://doi.org/10.1177/13621688261452314",
+    "abstract": "Previous research has demonstrated that retrieval practice and contextual inference are equally effective in learning and retention of first language words from reading, but their effectiveness for contextual learning of second language words has yet to be established. This study extends this line of inquiry, investigating the comparative effects of retrieval and contextual inference on contextual learning and retention of second language multi-word expressions. Eighty-five Iranian learners of E",
+    "keywords": [
+      "Inference",
+      "Recall",
+      "Second language",
+      "Contextual learning",
+      "Meaning (existential)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261452314",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825183"
+  },
+  {
+    "id": "https://openalex.org/W7165791727",
+    "title": "Can Well-Being Translate into Better Writing? A Chain Mediation Model of the Impact of Subjective Well-Being on L2 Writing Achievement",
+    "authors": [
+      "Zhaoyang Shan"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261451480",
+    "url": "https://doi.org/10.1177/13621688261451480",
+    "abstract": "This study investigates the relationship between subjective well-being (SWB) and second language (L2) writing achievement (WA), focusing on the sequential mediating roles of L2 writing enjoyment (L2WE) and L2 writing self-efficacy (L2WS). A sample of Chinese university EFL learners ( n = 322) participated in a survey measuring SWB, L2WE, L2WS, and L2WA. Structural equation modeling (SEM) was employed to test the hypothesized chain mediation model. Results revealed that SWB was positively associa",
+    "keywords": [
+      "Mediation",
+      "Structural equation modeling",
+      "Causal chain",
+      "Test (biology)",
+      "Subjective well-being"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825222"
+  },
+  {
+    "id": "https://openalex.org/W7165739202",
+    "title": "A Diachronic Investigation of Individual Differences and Writing Quality in Data-Driven Learning",
+    "authors": [
+      "Y J Zhao",
+      "Cao S",
+      "Jihua Dong"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-23",
+    "doi": "10.1177/13621688261449333",
+    "url": "https://doi.org/10.1177/13621688261449333",
+    "abstract": "This study examined variation in learners’ individual differences in data-driven learning, including foreign language enjoyment and anxiety, engagement, and autonomy, as well as learners’ writing quality and the impact of these individual differences on writing quality. Using a longitudinal mixed-methods design, this study tracked changes in the individual differences and writing quality of 15 English-major English-as-a-foreign-language undergraduates across 3 time points. Quantitative data were",
+    "keywords": [
+      "Quality (philosophy)",
+      "Autonomy",
+      "Variation (astronomy)",
+      "Foreign language",
+      "Learner autonomy"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/13621688261449333?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:09.825259"
+  },
+  {
+    "id": "https://openalex.org/W7165748115",
+    "title": "Strategic industry partnerships drive reform in vocational curriculum development",
+    "authors": [
+      "Y Zhang"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1108/et-06-2025-0442",
+    "url": "https://doi.org/10.1108/et-06-2025-0442",
+    "abstract": "Purpose This study examines how the strategic industry–institution partnerships influence vocational curriculum reform and graduate outcomes. It explores the mechanisms through which sustained collaboration enhances curriculum relevance, institutional responsiveness and alignment with evolving labour-market demands across different industry sectors. Design/methodology/approach A mixed-methods design was employed, combining survey data from 25 vocational institutions with semi-structured intervie",
+    "keywords": [
+      "Vocational education",
+      "Curriculum",
+      "General partnership",
+      "Qualitative property",
+      "Sustainability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:20.357713"
+  },
+  {
+    "id": "https://openalex.org/W7165810404",
+    "title": "Global competence in negotiating cultural differences: modeling the influences of cultural values and identity grafting processes",
+    "authors": [
+      "Daphnee Hui Lin Lee",
+      "Ming Ming Chiu",
+      "Wai Yam Yannis Hung",
+      "Lok Wai Peter Man"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-23",
+    "doi": "10.1080/03075079.2026.2689425",
+    "url": "https://doi.org/10.1080/03075079.2026.2689425",
+    "abstract": "This paper examines how cultural values of power distance and uncertainty avoidance influence students’ identities and receptivity toward global competence (GC). We developed identity grafting (IG) theory and measures to study these processes, characterizing them in diverse and manageable ways: blending, balancing, reversing, and repressing identity formations involved in negotiating differences. We collected data from 556 university students in Hong Kong to identify attributes and processes tha",
+    "keywords": [
+      "Negotiation",
+      "Receptivity",
+      "Competence (human resources)",
+      "Uncertainty avoidance",
+      "Structural equation modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03075079.2026.2689425?needAccess=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:21.272903"
+  },
+  {
     "id": "https://openalex.org/W7165660665",
     "title": "Shaping responsible GenAI use in research through AI literacy-oriented guidelines: insights from postgraduate students",
     "authors": [
@@ -1544,6 +2266,58 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-21T10:54:42.073104"
+  },
+  {
+    "id": "https://openalex.org/W7165397182",
+    "title": "Arts-based pedagogy as epistemic mediation in early childhood environmental and sustainability education: A mixed research systematic review and research agenda",
+    "authors": [
+      "Duyğu Demirtaş",
+      "Dilek Acer"
+    ],
+    "journal": "Educational Research Review",
+    "jif": 10.6,
+    "published_date": "2026-06-19",
+    "doi": "10.1016/j.edurev.2026.100811",
+    "url": "https://doi.org/10.1016/j.edurev.2026.100811",
+    "abstract": "",
+    "keywords": [
+      "Sustainability",
+      "Foregrounding",
+      "Mediation",
+      "Early childhood education",
+      "Agency (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:05:37.922591"
+  },
+  {
+    "id": "https://openalex.org/W7165391213",
+    "title": "The role of liberal and conservative thinking in innovation: a SEM analysis of physical education teachers",
+    "authors": [
+      "Mustafa Enes Işıkgöz",
+      "Abdullah Yüksel",
+      "Turan Sezan"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-19",
+    "doi": "10.1016/j.tsc.2026.102292",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102292",
+    "abstract": "",
+    "keywords": [
+      "Physical education",
+      "Higher education",
+      "Critical thinking",
+      "Component (thermodynamics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-25T23:06:01.420077"
   },
   {
     "id": "https://openalex.org/W7165395304",
