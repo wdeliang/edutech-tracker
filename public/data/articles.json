@@ -1,5 +1,275 @@
 [
   {
+    "id": "https://openalex.org/W7166313477",
+    "title": "Recontextualisation of SFL Appraisal analysis in the teaching of doctoral conclusion writing: The role of Attitude and Graduation in positively evaluating research contribution",
+    "authors": [
+      "Karin Whiteside",
+      "Nadya Yakovchuk"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-28",
+    "doi": "10.1016/j.jeap.2026.101705",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101705",
+    "abstract": "",
+    "keywords": [
+      "Graduation (instrument)",
+      "Genre analysis",
+      "Appraisal theory",
+      "Discourse analysis",
+      "Systemic functional linguistics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:58.737460"
+  },
+  {
+    "id": "https://openalex.org/W7166384104",
+    "title": "How EFL postgraduate students engage with automated written corrective feedback provided by Pigai in their academic writing?",
+    "authors": [
+      "B. Cai",
+      "Hong Fu",
+      "Ziyu He",
+      "Yue Wang",
+      "Yanjie Song"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-06-27",
+    "doi": "10.1080/09588221.2026.2685747",
+    "url": "https://doi.org/10.1080/09588221.2026.2685747",
+    "abstract": "",
+    "keywords": [
+      "Corrective feedback",
+      "English for academic purposes",
+      "Language proficiency",
+      "Peer feedback",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:36.568386"
+  },
+  {
+    "id": "https://openalex.org/W7166312341",
+    "title": "Immediate or delayed? Timing effects of metalinguistic written corrective feedback in classroom collaborative writing",
+    "authors": [
+      "Gabriel Michaud"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-06-27",
+    "doi": "10.1080/09588221.2026.2693788",
+    "url": "https://doi.org/10.1080/09588221.2026.2693788",
+    "abstract": "",
+    "keywords": [
+      "Corrective feedback",
+      "Metalinguistics",
+      "Written language",
+      "Teaching method",
+      "Task analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:36.568406"
+  },
+  {
+    "id": "https://openalex.org/W7166313163",
+    "title": "From Perception to Representation of Dynamic Models in Virtual Reality Simulations: Decoding Scientific and Embodied Knowing Through Gestures",
+    "authors": [
+      "Michelle Lui",
+      "Martha Mullally",
+      "Rhonda McEwen"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-27",
+    "doi": "10.1007/s10956-026-10339-z",
+    "url": "https://doi.org/10.1007/s10956-026-10339-z",
+    "abstract": "",
+    "keywords": [
+      "Gesture",
+      "Embodied cognition",
+      "Virtual reality",
+      "Perception",
+      "Immersion (mathematics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:40.295196"
+  },
+  {
+    "id": "https://openalex.org/W7166345052",
+    "title": "The (in)congruence of L2 grit and growth mindset in shaping engagement among Thai learners of Chinese as an additional language: a response surface approach",
+    "authors": [
+      "Xian Zhao",
+      "Mingzhe Wang",
+      "Mariusz Kruk",
+      "Mirosław Pawlak"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-27",
+    "doi": "10.1080/17501229.2026.2690028",
+    "url": "https://doi.org/10.1080/17501229.2026.2690028",
+    "abstract": "L2 grit and growth mindset (GM) are increasingly linked to engagement in language education, yet prior work has largely assumed linear effects and focused on English learning. This study examined whether the alignment between L2 grit and GM, along with their potential nonlinear joint effects, predicts engagement among Thai learners of Chinese in a Languages Other Than English (LOTE) context. Survey data from 325 Chinese-as-an-additional-language (CAL) learners in Thailand were analyzed using pol",
+    "keywords": [
+      "Grit",
+      "Mindset",
+      "Set (abstract data type)",
+      "Coping (psychology)",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:47.966246"
+  },
+  {
+    "id": "https://openalex.org/W7166306701",
+    "title": "‘From resistance to expressive drive’: how a domain-specific LLM enhances L2 writing outcomes through guided feedback",
+    "authors": [
+      "Yawen Zheng",
+      "Danyu Chen",
+      "Yuan Li"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-27",
+    "doi": "10.1080/17501229.2026.2687097",
+    "url": "https://doi.org/10.1080/17501229.2026.2687097",
+    "abstract": "Generic large language models (LLMs), including ChatGPT, have recently been applied in second language writing instruction due to their capability to provide immediate feedback on students’ writing. However, these models still exhibit limitations, including ‘hallucinations’ and overcorrection. In response, we developed Dr. Write, a domain-specific AI-powered writing feedback system trained on the world’s largest corpus of German writing by Chinese learners. This study outlines the pedagogical ra",
+    "keywords": [
+      "German",
+      "Second language writing",
+      "Corrective feedback",
+      "Peer feedback",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:47.966309"
+  },
+  {
+    "id": "https://openalex.org/W7166352346",
+    "title": "A longitudinal analysis of mediated contact and global competence and their interplay with EFL teachers’ enthusiasm for intercultural teaching",
+    "authors": [
+      "Chun Cao",
+      "Qian Meng"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-27",
+    "doi": "10.1016/j.tate.2026.105708",
+    "url": "https://doi.org/10.1016/j.tate.2026.105708",
+    "abstract": "",
+    "keywords": [
+      "Enthusiasm",
+      "Reciprocal",
+      "Competence (human resources)",
+      "Intercultural competence",
+      "English as a foreign language"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:54.263969"
+  },
+  {
+    "id": "https://openalex.org/W7166345666",
+    "title": "Design and Optimisation of Personalised Training Games for Special Education Based on Reinforcement Learning Algorithms",
+    "authors": [
+      "Xiaoshu Li",
+      "Rosalam Bin Che Me",
+      "Kang Ji",
+      "Han Dengfeng",
+      "Lin Du"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-27",
+    "doi": "10.1111/ejed.70715",
+    "url": "https://doi.org/10.1111/ejed.70715",
+    "abstract": "ABSTRACT Personalised training games have proven to be highly beneficial for children with autism spectrum disorder (ASD) due to the adaptive nature of the interventions in custom training games using reinforcement learning (RL). However, their wider applicability and implementation are hindered by issues such as low scalability, inability to adapt to real‐time changes, small training datasets and reliance on costly specialised equipment. A new framework to address these limitations is proposed ",
+    "keywords": [
+      "Reinforcement learning",
+      "Intervention (counseling)",
+      "Psychological intervention",
+      "Field (mathematics)",
+      "Special education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:58.108739"
+  },
+  {
+    "id": "https://openalex.org/W7166335635",
+    "title": "Building sustainable campuses through innovation in green infrastructure: a two-wave strategic and institutional perspective",
+    "authors": [
+      "Abhijeet Singh Chauhan",
+      "Jitender Pratap Singh",
+      "Sugandha Muduli"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-27",
+    "doi": "10.1108/ijshe-12-2025-1668",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1668",
+    "abstract": "Purpose This study aims to examine the role of Green Strategic Intent (GSI) in promoting Campus Environmental Sustainability (CES) in Higher Education Institutions (HEIs). It further investigates the mediating roles of Green Campus Innovation (GCI) and Green Institutional Capital (GIC). The study adopts the natural resource-based view (NRBV) as the theoretical perspective to understand how environmental resources and institutional capabilities contribute to sustainable outcomes in HEIs. Design/m",
+    "keywords": [
+      "Sustainability",
+      "Higher education",
+      "Perspective (graphical)",
+      "Institutional theory",
+      "Mediation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:52:01.276146"
+  },
+  {
+    "id": "https://openalex.org/W7166336238",
+    "title": "Mathematics Teacher Noticing Frameworks: Tensions and Synergies Across Foundations, Forms, and Functions",
+    "authors": [
+      "Thorsten Scheiner",
+      "Julie M. Amador"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-06-27",
+    "doi": "10.1007/s10763-026-10695-7",
+    "url": "https://doi.org/10.1007/s10763-026-10695-7",
+    "abstract": "Abstract Mathematics teacher noticing has attracted sustained research attention across diverse theoretical traditions, yet systematic analyses clarifying the internal logic of competing frameworks and the conditions for productive dialogue remain scarce. This paper analyzes mathematics teacher noticing frameworks from cognitive, socio-cultural, and ecological-embodied perspectives through the Foundation–Form–Function (3F) analytical lens—which examines theoretical assumptions, conceptual organi",
+    "keywords": [
+      "Pairwise comparison",
+      "Science education",
+      "Conceptual framework",
+      "Teaching method",
+      "Concept learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10763-026-10695-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:52:10.734479"
+  },
+  {
     "id": "https://openalex.org/W7166036096",
     "title": "Enacting global citizenship education through Islamic and Moral Education: A multi-university study of Malaysian teacher educators",
     "authors": [
@@ -2158,6 +2428,33 @@
     "fetched_at": "2026-06-25T23:06:29.835504"
   },
   {
+    "id": "https://openalex.org/W7165643004",
+    "title": "Equipping elementary school students with self-regulated learning through human-AI collaboration in online learning",
+    "authors": [
+      "Xinyi Luo",
+      "Sikai Wang",
+      "Khe Foon Hew"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-23",
+    "doi": "10.1016/j.compedu.2026.105697",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105697",
+    "abstract": "",
+    "keywords": [
+      "Online learning",
+      "Online course",
+      "Educational technology",
+      "Online assessment",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:32.684347"
+  },
+  {
     "id": "https://openalex.org/W7165617976",
     "title": "Creative thinking in artistic creation: Cognitive and emotional mechanisms of interaction-based thinking",
     "authors": [
@@ -3638,6 +3935,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-23T22:57:57.682781"
+  },
+  {
+    "id": "https://openalex.org/W7165481357",
+    "title": "The pre-service teachers’ conceptions of change in epistemological beliefs - phenomenographic approach",
+    "authors": [
+      "Dorota Zdybel"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-21",
+    "doi": "10.1016/j.tsc.2026.102296",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102296",
+    "abstract": "",
+    "keywords": [
+      "Narrative",
+      "Perception",
+      "Cognition",
+      "Interpretation (philosophy)",
+      "Context (archaeology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-28T22:51:49.245561"
   },
   {
     "id": "https://openalex.org/W7165550832",
