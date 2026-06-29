@@ -1,5 +1,169 @@
 [
   {
+    "id": "https://openalex.org/W7166468625",
+    "title": "Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms",
+    "authors": [
+      "Tahani Bin Bakheet",
+      "Hamdan Alamri",
+      "Fahad Suliman Alshaya"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-28",
+    "doi": "10.1186/s40594-026-00630-1",
+    "url": "https://doi.org/10.1186/s40594-026-00630-1",
+    "abstract": "",
+    "keywords": [
+      "Deep learning",
+      "Science education",
+      "Educational technology",
+      "Science learning",
+      "Electronic learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00630-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:44:40.434796"
+  },
+  {
+    "id": "https://openalex.org/W7166449025",
+    "title": "Inquiry-based learning in STEM education: the impact of generative AI-based Chatbots on primary school students’ problem posing ability in science",
+    "authors": [
+      "Zhicheng Dai",
+      "Feiyan Huang",
+      "Junxia Xiong",
+      "Yue Yang",
+      "Qian Zhang"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-28",
+    "doi": "10.1186/s40594-026-00631-0",
+    "url": "https://doi.org/10.1186/s40594-026-00631-0",
+    "abstract": "",
+    "keywords": [
+      "Science education",
+      "Generative grammar",
+      "Science learning",
+      "Educational technology",
+      "Generative model"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00631-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:44:40.434810"
+  },
+  {
+    "id": "https://openalex.org/W7166468911",
+    "title": "Student Perceptions of Flipped Learning in STEM Courses",
+    "authors": [
+      "C. Gopalan",
+      "Athavan Alias Anand Selvam",
+      "Charlie Blake",
+      "Sharon Locke",
+      "Julie Fickas"
+    ],
+    "journal": "Active Learning In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-28",
+    "doi": "10.1177/14697874261457090",
+    "url": "https://doi.org/10.1177/14697874261457090",
+    "abstract": "This study examined student perspectives on flipped learning (FL), a pedagogy that shifts lectures outside the classroom to promote active, hands-on engagement during class. Twenty-four Science, Technology, Engineering, and Mathematics (STEM) faculty members from a 4-year university and a 2-year community college implemented FL after receiving professional development. The research employed a longitudinal quasi-experimental design, tracking the implementation of FL over a 4-year period. A sample",
+    "keywords": [
+      "Ordered logit",
+      "Tracking (education)",
+      "Perception",
+      "Student engagement",
+      "Ordinal regression"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:45:16.643497"
+  },
+  {
+    "id": "https://openalex.org/W7166456039",
+    "title": "The primacy of care in teacher strategies for promoting student engagement: a mixed-methods study in Chinese institutions of higher education",
+    "authors": [
+      "Song Yan",
+      "Qingyu Xu",
+      "Di Hu"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-28",
+    "doi": "10.1080/03075079.2026.2696022",
+    "url": "https://doi.org/10.1080/03075079.2026.2696022",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Qualitative research",
+      "Exploratory research",
+      "Semi-structured interview"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:45:18.436938"
+  },
+  {
+    "id": "https://openalex.org/W7166469944",
+    "title": "How is teacher research conceptualised, and why does it remain a challenge? A scoping review",
+    "authors": [
+      "Montse Guinovart-Pedescoll",
+      "Ramón Palau",
+      "Sergi Fàbregues"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-06-28",
+    "doi": "10.1080/02619768.2026.2680940",
+    "url": "https://doi.org/10.1080/02619768.2026.2680940",
+    "abstract": "This scoping review focuses on the concept of teacher research in primary and secondary education, a practice increasingly acknowledged for its impact on teaching and professional development. Despite teacher research’s recognised advantages, consensus on its definition is lacking, and several barriers hinder teachers’ involvement in research. This review aims at examining how teacher research is conceptualised in the literature, identifying its characteristics, and analysing the factors that af",
+    "keywords": [
+      "Situated",
+      "Thematic analysis",
+      "Educational research",
+      "Teacher education",
+      "Professional development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:45:20.817955"
+  },
+  {
+    "id": "https://openalex.org/W7166446090",
+    "title": "What is a curriculum for life? Using youth participatory action research and applied arts to understand and amplify undergraduate students', children's and young people's mental health and wellbeing recommendations for education",
+    "authors": [
+      "Lisa Stephenson",
+      "Helen Young"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-28",
+    "doi": "10.1002/berj.70230",
+    "url": "https://doi.org/10.1002/berj.70230",
+    "abstract": "Abstract Mental health is a critical issue globally, with young people being one of the most affected groups. Young people have campaigned vehemently for a ‘curriculum for life,’ arguing that their education is failing to meet their needs (British Council, 2022). The International Survey of Children's Wellbeing reports that children and young people feel adults do not listen to them. As academics working in the Education Department of a University, our research aimed to generate a greater unders",
+    "keywords": [
+      "Mental health",
+      "Cognitive reframing",
+      "Curriculum",
+      "Participatory action research",
+      "Action research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70230",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:45:24.625648"
+  },
+  {
     "id": "https://openalex.org/W7166313477",
     "title": "Recontextualisation of SFL Appraisal analysis in the teaching of doctoral conclusion writing: The role of Attitude and Graduation in positively evaluating research contribution",
     "authors": [
@@ -295,6 +459,34 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-27T22:51:43.240526"
+  },
+  {
+    "id": "https://openalex.org/W7166164013",
+    "title": "Teacher cognition of integrating higher-order thinking into EFL writing in a high school in China",
+    "authors": [
+      "Zhao Defang",
+      "Tingshu Hu",
+      "Yuanyuan Zhang",
+      "Lei Zhao"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-26",
+    "doi": "10.1016/j.tsc.2026.102300",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102300",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "China",
+      "Metacognition",
+      "Teaching method",
+      "Cognitive style"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:44:58.309426"
   },
   {
     "id": "https://openalex.org/W7166142993",
@@ -1055,6 +1247,61 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-26T22:57:46.669073"
+  },
+  {
+    "id": "https://openalex.org/W7165916747",
+    "title": "Unlocking the potential of resources: An examination of sharing and uptake signs in educational online communities",
+    "authors": [
+      "Fitore Morina",
+      "Tim Fütterer",
+      "Jeffrey P. Carpenter",
+      "Joshua M. Rosenberg",
+      "Christian Fischer"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-25",
+    "doi": "10.1016/j.compedu.2026.105703",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105703",
+    "abstract": "Educational resources like teaching materials, worksheets, and other instructional content are an essential source of teachers’ classroom practice. Prior research suggests that teachers use social media to acquire and share such resources, yet little is known about whether social media interaction indicate teacher’s resource-uptake for classroom practice. Drawing on an affinity-space perspective, this study examines how teacher-oriented educational resources are shared and responded to in four G",
+    "keywords": [
+      "Social media",
+      "German",
+      "Centrality",
+      "Educational resources",
+      "Sentiment analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.compedu.2026.105703",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:44:38.149678"
+  },
+  {
+    "id": "https://openalex.org/W7165871147",
+    "title": "Enriched algebra instruction in middle school: effects of virtual and concrete manipulatives on algebra achievement, algebraic thinking, and learning retention",
+    "authors": [
+      "Osman Birgin",
+      "Kayhan DEMİRÖREN"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-06-25",
+    "doi": "10.1016/j.tsc.2026.102299",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102299",
+    "abstract": "",
+    "keywords": [
+      "Algebra over a field",
+      "Algebraic number",
+      "Algebraic structure",
+      "Abstract algebra",
+      "Algebra representation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-29T22:44:58.309443"
   },
   {
     "id": "https://openalex.org/W7166065818",
