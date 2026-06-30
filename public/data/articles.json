@@ -1,5 +1,810 @@
 [
   {
+    "id": "https://openalex.org/W7166570877",
+    "title": "Navigating the emotional journey of writing feedback: A scoping review of empirical studies (2005–2025)",
+    "authors": [
+      "Wenlei Zhu",
+      "Yao Zheng"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.asw.2026.101091",
+    "url": "https://doi.org/10.1016/j.asw.2026.101091",
+    "abstract": "",
+    "keywords": [
+      "Empirical research",
+      "Qualitative research",
+      "Empirical evidence",
+      "Narrative"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:41.978220"
+  },
+  {
+    "id": "https://openalex.org/W7166578506",
+    "title": "Integrated 5E Learning Cycle Model with Mobile Technology: An Effective Laboratory Approach for Future Educators",
+    "authors": [
+      "Murat Okur",
+      "Hatice Güngör Seyhan"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s10956-026-10348-y",
+    "url": "https://doi.org/10.1007/s10956-026-10348-y",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Science education",
+      "Mobile device",
+      "Learning cycle",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:42.811430"
+  },
+  {
+    "id": "https://openalex.org/W7166567750",
+    "title": "Drawing the line: A mixed-methods study of Chinese children's retrospective teacher images from kindergarten to primary school",
+    "authors": [
+      "Li Zeng",
+      "Wenjie Yu",
+      "Yuqi Gui",
+      "Zhaocun Li",
+      "Hongyu Gao"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.tate.2026.105700",
+    "url": "https://doi.org/10.1016/j.tate.2026.105700",
+    "abstract": "",
+    "keywords": [
+      "Primary education",
+      "Primary (astronomy)",
+      "Qualitative research",
+      "Teaching method",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:00.620978"
+  },
+  {
+    "id": "https://openalex.org/W7166586938",
+    "title": "Meaningful internationalization towards sustainable partnerships: the case of a Hungarian university",
+    "authors": [
+      "Anita Kéri",
+      "Ildikó Pusztai-Varga"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-06-30",
+    "doi": "10.1108/ijshe-07-2025-0669",
+    "url": "https://doi.org/10.1108/ijshe-07-2025-0669",
+    "abstract": "Purpose This study aims to examine what constitutes meaningful internationalization and sustainable partnerships in the context of an Eastern European, non-capital-city university. It explores how international partners conceptualize partnership value, how Sustainable Development Goals (SDGs) shape collaboration and which partnership modalities are considered both impactful and feasible in a region facing political, financial and linguistic constraints. Design/methodology/approach This research ",
+    "keywords": [
+      "General partnership",
+      "Context (archaeology)",
+      "Sustainability",
+      "Internationalization",
+      "Curriculum"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:09.654629"
+  },
+  {
+    "id": "https://openalex.org/W7166579481",
+    "title": "STEAM education for AI literacy: a systematic literature review",
+    "authors": [
+      "Gala Niri",
+      "T. W. Chiu",
+      "Angel Mae O. Ombid",
+      "Dennis Lee Jarvis B. Ybañez",
+      "Sebastian Dennerlein"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-29",
+    "doi": "10.1186/s40594-026-00629-8",
+    "url": "https://doi.org/10.1186/s40594-026-00629-8",
+    "abstract": "Abstract As K-12 education prepare learners for an AI-driven society, the interdisciplinary STEAM approach is widely presented as a pathway to AI literacy, yet evidence on where, how, and how well it advances distinct literacy areas remains fragmented. Following PRISMA procedures, we systematically reviewed 39 studies (2016–2025) from four databases that addressed AI as content within STEAM contexts. We conducted (1) descriptive mapping of publication year, region, educational level, research de",
+    "keywords": [
+      "Literacy",
+      "Science education",
+      "Systematic review",
+      "Discipline",
+      "Curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00629-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:35.798025"
+  },
+  {
+    "id": "https://openalex.org/W7166537620",
+    "title": "Keyword captions enhance intentional L2 vocabulary phonological learning and video comprehension: evidence from Japanese learners of Chinese",
+    "authors": [
+      "Xiaomei Su",
+      "T X Li",
+      "Xiaohan Zhen",
+      "Ying Huang",
+      "Tongquan Zhou"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-06-29",
+    "doi": "10.1080/09588221.2026.2693994",
+    "url": "https://doi.org/10.1080/09588221.2026.2693994",
+    "abstract": "",
+    "keywords": [
+      "Vocabulary",
+      "Vocabulary learning",
+      "Vocabulary development",
+      "Phonology",
+      "Mandarin Chinese"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:38.188417"
+  },
+  {
+    "id": "https://openalex.org/W7166539788",
+    "title": "How students engage in opportunistic collaboration: A process-oriented study in a knowledge-building community",
+    "authors": [
+      "Yujie Chen",
+      "Suping Yi",
+      "Yibing Zhang"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-06-29",
+    "doi": "10.1007/s11412-026-09491-w",
+    "url": "https://doi.org/10.1007/s11412-026-09491-w",
+    "abstract": "",
+    "keywords": [
+      "Thematic analysis",
+      "Process (computing)",
+      "Qualitative research",
+      "Movement (music)",
+      "Collaborative learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:40.396810"
+  },
+  {
+    "id": "https://openalex.org/W7166533608",
+    "title": "Stage-specific generative AI use and dependency in learning: associations with test performance, perceived learning, and learning satisfaction",
+    "authors": [
+      "Somi Joo",
+      "Changjun Lee",
+      "Daeho Lee"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-29",
+    "doi": "10.1080/10494820.2026.2676669",
+    "url": "https://doi.org/10.1080/10494820.2026.2676669",
+    "abstract": "",
+    "keywords": [
+      "Dependency (UML)",
+      "Test (biology)",
+      "Generative model",
+      "Generative grammar",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:44.556710"
+  },
+  {
+    "id": "https://openalex.org/W7166533667",
+    "title": "AI as a cognitive partner in learning: Emerging epistemic practices of reflective thought",
+    "authors": [
+      "Christian Dalsgaard",
+      "Christopher Neil Prilop"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-06-29",
+    "doi": "10.1080/15391523.2026.2695013",
+    "url": "https://doi.org/10.1080/15391523.2026.2695013",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "Reflection (computer programming)",
+      "Metacognition",
+      "Reflective practice",
+      "Socially distributed cognition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/15391523.2026.2695013",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:45.327106"
+  },
+  {
+    "id": "https://openalex.org/W7166572309",
+    "title": "Developmental Timing of Educational Opportunities for Children in Low-Income Households",
+    "authors": [
+      "Eric Dearing",
+      "Henrik Daae Zachrisson",
+      "Andres S. Bustamante",
+      "Deborah Lowe Vandell"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-06-29",
+    "doi": "10.3102/0013189x261463238",
+    "url": "https://doi.org/10.3102/0013189x261463238",
+    "abstract": "Extending findings from a 26-year longitudinal study of educational opportunity, we examine whether opportunities are related to the educational attainment and earnings of children from lower-income households ( n = 226) as a function of when in a child’s development they occur. We compare the predictive power of opportunities accrued within three key developmental stages—early childhood, middle childhood, or adolescence—with the combined power of opportunities accrued across these stages. Our f",
+    "keywords": [
+      "Educational attainment",
+      "Earnings",
+      "Longitudinal study",
+      "Predictive power",
+      "Power (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:47.658083"
+  },
+  {
+    "id": "https://openalex.org/W7166590732",
+    "title": "Teacher agency in GenAI-mediated writing assessment: a duoethnography in Vietnamese higher education",
+    "authors": [
+      "Lê Thanh Thảo",
+      "Phạm Trút Thùy"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-06-29",
+    "doi": "10.1080/17501229.2026.2692487",
+    "url": "https://doi.org/10.1080/17501229.2026.2692487",
+    "abstract": "",
+    "keywords": [
+      "Vietnamese",
+      "Higher education",
+      "Agency (philosophy)",
+      "Qualitative research",
+      "Teacher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:52.348986"
+  },
+  {
+    "id": "https://openalex.org/W7166525497",
+    "title": "How tutors scaffold learning during puzzle game play",
+    "authors": [
+      "Craig G. Anderson",
+      "Zack Carpenter",
+      "Basel Hussein",
+      "Shima Salehi",
+      "David DeLiema"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-29",
+    "doi": "10.1007/s11423-026-10658-3",
+    "url": "https://doi.org/10.1007/s11423-026-10658-3",
+    "abstract": "",
+    "keywords": [
+      "Scaffold",
+      "Educational technology",
+      "Game based learning",
+      "Educational game",
+      "Computer-Assisted Instruction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:55.799742"
+  },
+  {
+    "id": "https://openalex.org/W7166556277",
+    "title": "Identity-in-action through preservice teachers’ engagement with robotics",
+    "authors": [
+      "Emre Dinç",
+      "Anna Y. Zhang"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-29",
+    "doi": "10.1007/s11423-026-10656-5",
+    "url": "https://doi.org/10.1007/s11423-026-10656-5",
+    "abstract": "",
+    "keywords": [
+      "Robotics",
+      "Identity (music)",
+      "Robot",
+      "Educational technology",
+      "Educational robotics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:55.799758"
+  },
+  {
+    "id": "https://openalex.org/W7166587502",
+    "title": "Generative AI, visual scaffolds, and metacognition in EFL writing",
+    "authors": [
+      "Mei‐Rong Alice Chen"
+    ],
+    "journal": "Language Learning & Technology",
+    "jif": 4.1,
+    "published_date": "2026-06-29",
+    "doi": "10.64152/10125/73695",
+    "url": "https://doi.org/10.64152/10125/73695",
+    "abstract": "Fostering metacognitive awareness and reflective thinking remains a challenge in English as a Foreign Language (EFL) writing instruction. These cognitive processes are essential for enabling learners to monitor, evaluate, and engage in meaningful self-reflection throughout the writing cycle. Using Flower and Hayes’s cognitive process model and Jasper’s Experience-Reflection-Action framework, this study proposes a Generative AI-assisted Visually Guided Progressive (GAI-VGP) writing approach. This",
+    "keywords": [
+      "Metacognition",
+      "Reflection (computer programming)",
+      "Cognition",
+      "Agency (philosophy)",
+      "Process (computing)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.64152/10125/73695",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:58.065384"
+  },
+  {
+    "id": "https://openalex.org/W7166555234",
+    "title": "A Large-Scale Study on Teachers’ Knowledge of Common Student Struggles in Mathematics",
+    "authors": [
+      "Jingxian Li",
+      "John Ezaki",
+      "Yasemin Copur‐Gencturk"
+    ],
+    "journal": "Journal of Teacher Education",
+    "jif": 4.1,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/00224871261460900",
+    "url": "https://doi.org/10.1177/00224871261460900",
+    "abstract": "Teachers’ knowledge of common student struggles is widely recognized as a key component of teacher knowledge across subject areas. However, most large-scale research has focused on measuring teachers’ awareness of student struggles, with little attention paid to how teachers interpret their underlying reasons. This study examined 743 mathematics teachers’ knowledge of common student struggles with ratios and proportional relationships, an important content area in the middle school mathematics c",
+    "keywords": [
+      "Knowledge level",
+      "Subject (documents)",
+      "Multilevel model",
+      "Student teacher",
+      "Common knowledge (logic)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:58.845947"
+  },
+  {
+    "id": "https://openalex.org/W7166571163",
+    "title": "Beyond Level Labels: Profiling Vertical Grammar Salience in Taiwan’s CEFR-Referencing K–12 EFL Textbooks",
+    "authors": [
+      "Tzu-Fen Nellie Yeh",
+      "Mei-Chen Julia Chu"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261460188",
+    "url": "https://doi.org/10.1177/13621688261460188",
+    "abstract": "The Common European Framework of Reference for Languages (CEFR) provides widely used proficiency labels, but these labels do not specify how grammar is materially distributed, sustained, or reweighted across school textbooks. This study profiles vertical grammar salience in Taiwan’s CEFR-referencing K–12 English-as-a-foreign-language (EFL) textbook ecology by examining the relationship between English Grammar Profile (EGP) benchmark placement and textbook distributional salience. The corpus cons",
+    "keywords": [
+      "Grammar",
+      "Salience (neuroscience)",
+      "Cluster analysis",
+      "Operationalization",
+      "Profiling (computer programming)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.422921"
+  },
+  {
+    "id": "https://openalex.org/W7166594986",
+    "title": "Notes on Contributors",
+    "authors": [],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261461605",
+    "url": "https://doi.org/10.1177/13621688261461605",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.422938"
+  },
+  {
+    "id": "https://openalex.org/W7166591717",
+    "title": "Phrasal Verb Use and Development Among Japanese Learners of English",
+    "authors": [
+      "Brian Strong",
+      "Elif Büşra Önce",
+      "Mohammad Reza Montazeri"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261459668",
+    "url": "https://doi.org/10.1177/13621688261459668",
+    "abstract": "Phrasal verbs are a frequent and essential feature of English vocabulary. However, they pose persistent challenges for second language (L2) learners, particularly those from verb-framed languages like Japanese, due to structural and semantic differences. While their difficulty is well established, little is known about how phrasal verb usage develops across different proficiency levels in authentic learner writing. This corpus-based study examines how Japanese learners of English use phrasal ver",
+    "keywords": [
+      "Polysemy",
+      "Verb",
+      "Feature (linguistics)",
+      "Language proficiency",
+      "Semantic feature"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261459668",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.422996"
+  },
+  {
+    "id": "https://openalex.org/W7166504442",
+    "title": "Doing Digital Multimodal Composing with Generative Artificial Intelligence: Towards an Integrated Critical Digital Literacies Model",
+    "authors": [
+      "Christoph A. Hafner",
+      "Wing Yee Jenifer Ho"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261459662",
+    "url": "https://doi.org/10.1177/13621688261459662",
+    "abstract": "The widespread availability of generative artificial intelligence tools has had a dramatic effect on language education, transforming how we think about and go about writing. This includes ‘multimodal composing’, which combines moving image, soundtrack, speech, and on-screen writing in digital communication. In this article, we focus on the potentials and pitfalls of generative artificial intelligence in a pedagogy of digital multimodal composing. The article aims to explore how the affordances ",
+    "keywords": [
+      "Generative grammar",
+      "Affordance",
+      "Multimodal learning",
+      "Process (computing)",
+      "Multimodality"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261459662",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.423065"
+  },
+  {
+    "id": "https://openalex.org/W7166550667",
+    "title": "Reframing Engagement, Emotion, and Interaction in Contemporary L2 Learning Research",
+    "authors": [
+      "Marı́a del Pilar Garcı́a Mayo"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261461361",
+    "url": "https://doi.org/10.1177/13621688261461361",
+    "abstract": "",
+    "keywords": [
+      "Cognitive reframing",
+      "Language acquisition",
+      "Teaching method",
+      "Qualitative research",
+      "Discourse analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.423070"
+  },
+  {
+    "id": "https://openalex.org/W7166549029",
+    "title": "L2 English Pronunciation Motivation among Spanish Young Learners: A Focus on CLIL and Gender",
+    "authors": [
+      "Pedro Humánez-Berral",
+      "Francisco Gallardo del Puerto"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-29",
+    "doi": "10.1177/13621688261459654",
+    "url": "https://doi.org/10.1177/13621688261459654",
+    "abstract": "Research on young learners’ motivation in second language (L2) acquisition has expanded considerably, yet pronunciation-specific motivation remains largely overlooked, particularly in Content and Language Integrated Learning (CLIL) contexts. At the same time, gender has frequently been claimed as a source of variation in L2 motivation and pronunciation attainment, although recent evidence from primary-school CLIL settings suggests that such differences may be far less pronounced than traditional",
+    "keywords": [
+      "Pronunciation",
+      "Exploratory research",
+      "Language acquisition",
+      "Sample (material)",
+      "Variation (astronomy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.423137"
+  },
+  {
+    "id": "https://openalex.org/W7166562055",
+    "title": "From search to GenAI queries: Global trends in physics information-seeking across topics and regions",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-06-29",
+    "doi": "10.1103/g1vh-fl9s",
+    "url": "https://doi.org/10.1103/g1vh-fl9s",
+    "abstract": "",
+    "keywords": [
+      "Field (mathematics)",
+      "Feature (linguistics)",
+      "Key (lock)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/g1vh-fl9s",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:04.849706"
+  },
+  {
+    "id": "https://openalex.org/W7166553111",
+    "title": "Examining factors influencing the development and evolution of self-efficacy and sense of belonging in a physics class",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-06-29",
+    "doi": "10.1103/lkdr-cz49",
+    "url": "https://doi.org/10.1103/lkdr-cz49",
+    "abstract": "",
+    "keywords": [
+      "Class (philosophy)",
+      "Development (topology)",
+      "Identity (music)",
+      "Term (time)",
+      "Qualitative research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/lkdr-cz49",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:04.849721"
+  },
+  {
+    "id": "https://openalex.org/W7166504628",
+    "title": "Teachers’ acceptance and understanding of a reduced Dirac formalism and the Bloch sphere",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-06-29",
+    "doi": "10.1103/zwh6-84p5",
+    "url": "https://doi.org/10.1103/zwh6-84p5",
+    "abstract": "",
+    "keywords": [
+      "Formalism (music)",
+      "Dirac (video compression format)",
+      "Singularity",
+      "Field (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/zwh6-84p5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:04.849725"
+  },
+  {
+    "id": "https://openalex.org/W7166524095",
+    "title": "Move patterns, metadiscourse use, and move-metadiscourse connection in ChatGPT-generated and human-written research article abstracts",
+    "authors": [
+      "Liming Deng",
+      "Longsheng Li",
+      "Xiaoping Gao"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-06-29",
+    "doi": "10.1016/j.jeap.2026.101731",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101731",
+    "abstract": "",
+    "keywords": [
+      "Metadiscourse",
+      "Rhetorical question",
+      "Connection (principal bundle)",
+      "Research article",
+      "Frame (networking)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:06.661087"
+  },
+  {
+    "id": "https://openalex.org/W7166580426",
+    "title": "The ecosystem of constraints: faculty collaboration in resource-constrained higher education",
+    "authors": [
+      "Samuel Getnet Abate"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-06-29",
+    "doi": "10.1080/03075079.2026.2693746",
+    "url": "https://doi.org/10.1080/03075079.2026.2693746",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Ecosystem",
+      "Environmental education",
+      "Qualitative research",
+      "Productivity"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:13.571033"
+  },
+  {
+    "id": "https://openalex.org/W7166520873",
+    "title": "Special Issue: What place for activism in, for and as education?",
+    "authors": [
+      "Laura Colucci‐Gray",
+      "Donald Gray",
+      "Claire Cassidy"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-29",
+    "doi": "10.1002/berj.70240",
+    "url": "https://doi.org/10.1002/berj.70240",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Qualitative research",
+      "Discourse analysis",
+      "Educational research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:19.747114"
+  },
+  {
+    "id": "https://openalex.org/W7166577899",
+    "title": "Dynamic Feedback Mechanisms in Technology-Enhanced Language Learning: Examining Learner Engagement and Second Language Writing Outcomes",
+    "authors": [
+      "Li Sun",
+      "Chris Jordan"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-28",
+    "doi": "10.1177/13621688261451408",
+    "url": "https://doi.org/10.1177/13621688261451408",
+    "abstract": "This 8-week randomized controlled experiment tested the different effects of adaptive artificial intelligence-based feedback versus static rule-based feedback on learner engagement and the acquisition of second language writing in 216 undergraduate students of English as a foreign language. The respondents were randomly divided into a control group that used standard automated feedback and an artificial intelligence-adaptive feedback group in which the responses were customized according to indi",
+    "keywords": [
+      "Rubric",
+      "Peer feedback",
+      "Second-language acquisition",
+      "Second language writing",
+      "Corrective feedback"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:02.423212"
+  },
+  {
+    "id": "https://openalex.org/W7166589218",
+    "title": "Articulating Concerns in School Rezoning: Disrupted Expectations, Discursivity, and Voting Outcomes",
+    "authors": [
+      "Andrene J. Castro",
+      "Jeffrey Wooten"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-06-28",
+    "doi": "10.3102/00028312261457764",
+    "url": "https://doi.org/10.3102/00028312261457764",
+    "abstract": "School rezoning often generates concerns that drive resistance to boundary changes, but how this resistance translates into voting outcomes is less understood. This study introduces a three-part concerns framework for interpreting how families publicly articulate rezoning opposition. We examined concerns as responses to disrupted expectations, as discursive constructions, and as voting processes. Thematic analysis of more than 6,000 survey comments revealed that concerns about neighborhood dynam",
+    "keywords": [
+      "Voting",
+      "Opposition (politics)",
+      "Politics",
+      "Resistance (ecology)",
+      "Thematic analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:03.996068"
+  },
+  {
+    "id": "https://openalex.org/W7166562020",
+    "title": "Educators in Ethnoburbs: How Race and Place Shape Educator Narratives of a Latino-Majority Suburban School District",
+    "authors": [
+      "Julia Szabo"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-06-28",
+    "doi": "10.3102/00028312261455486",
+    "url": "https://doi.org/10.3102/00028312261455486",
+    "abstract": "As suburbs racially change, they are increasingly a place where Latino students learn and Latino teachers teach. Latino-majority suburbs provide a strategic case to better understand how Latino and white educators make sense of race and place in the suburbs both when deciding where to teach and when engaging with Latino students and families. Drawing on interviews with 40 educators in a Latino-majority suburban school district in Texas, I demonstrate that narratives of choosing the district and ",
+    "keywords": [
+      "Narrative",
+      "School district",
+      "Race (biology)",
+      "White (mutation)",
+      "Inner city"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00028312261455486",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:03.996110"
+  },
+  {
+    "id": "https://openalex.org/W7166506750",
+    "title": "‘What's the Essence of This Profession?’ Spanish Teacher Educators' Post‐Pandemic Conceptualizations of Work, Pre‐Service Teachers and Emotions",
+    "authors": [
+      "Beth A. Wassell",
+      "María Fernández Hawrylak"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-28",
+    "doi": "10.1111/ejed.70742",
+    "url": "https://doi.org/10.1111/ejed.70742",
+    "abstract": "ABSTRACT This paper reports on an interpretive phenomenological study that examined the lived experiences of teacher educators in Spain. Responding to a lack of research on teacher educators, the study sought to make sense of the participants' work in the current, post‐pandemic context. A framework that emphasized the dialectical relationship between agency and structures was used to interpret the participants' narratives. Three themes emerged to illustrate the essence of their work: wrestling w",
+    "keywords": [
+      "Phenomenology (philosophy)",
+      "Dialectic",
+      "Teacher education",
+      "Interpretative phenomenological analysis",
+      "Agency (philosophy)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70742",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:02:05.820879"
+  },
+  {
     "id": "https://openalex.org/W7166468625",
     "title": "Developing deep learning in science through an adaptive AI-based STEM instructional program: evidence from sixth-grade classrooms",
     "authors": [
@@ -188,6 +993,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-28T22:51:58.737460"
+  },
+  {
+    "id": "https://openalex.org/W7166536219",
+    "title": "STEM joiners and STEM leavers in transfer pathways: predictors of undergraduate degree attainment",
+    "authors": [
+      "Jue Wu",
+      "Yu Chen"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-06-27",
+    "doi": "10.1186/s40594-026-00627-w",
+    "url": "https://doi.org/10.1186/s40594-026-00627-w",
+    "abstract": "Transfer students are a growing group within U.S. higher education, yet their post‑transfer trajectories in Science, Technology, Engineering, and Mathematics (STEM) fields are understudied. Using a longitudinal dataset of 3416 transfer students who earned a bachelor’s degree from a large public university in Louisiana (2012–2018), we examined patterns of STEM degree attainment among all transfer students, STEM joiners (those who entered a STEM major after transfer) and STEM leavers (those who le",
+    "keywords": [
+      "Outreach",
+      "Diversity (politics)",
+      "Educational attainment",
+      "Stem cell",
+      "Multinomial logistic regression"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00627-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:35.798276"
   },
   {
     "id": "https://openalex.org/W7166384104",
@@ -2158,6 +2989,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-25T23:05:50.045457"
+  },
+  {
+    "id": "https://openalex.org/W7165773435",
+    "title": "Cheating or not cheating? Rethinking AI-giarism and academic integrity through secondary students’ ethical reasoning",
+    "authors": [
+      "Cecilia Ka Yuk Chan"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-24",
+    "doi": "10.1016/j.compedu.2026.105698",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105698",
+    "abstract": "The increasing use of generative artificial intelligence (GenAI) in education has complicated traditional understandings of academic integrity, particularly in relation to student cheating. This qualitative study explores how secondary school students’ reason about the ethicality of using AI in homework, moving beyond binary interpretations of cheating. Drawing on Waltzer and Dahl’s moral-developmental framework, the study analysed open-ended responses from 133 students aged 14–16 who participat",
+    "keywords": [
+      "Cheating",
+      "Academic integrity",
+      "Personal Integrity",
+      "Data integrity",
+      "Ethical issues"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.compedu.2026.105698",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-06-30T23:01:33.396875"
   },
   {
     "id": "https://openalex.org/W7165842748",
