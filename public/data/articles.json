@@ -1,5 +1,437 @@
 [
   {
+    "id": "https://openalex.org/W7166739786",
+    "title": "How motivation and roles influence metacognitive engagement in student-GenAI interaction",
+    "authors": [
+      "Yiran Cui",
+      "Wanxin Yan",
+      "Thomas K. F. Chiu",
+      "Taira Nakajima"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-06-30",
+    "doi": "10.1186/s41239-026-00610-z",
+    "url": "https://doi.org/10.1186/s41239-026-00610-z",
+    "abstract": "Abstract Understanding how students cognitively engage with generative artificial intelligence (GenAI) has become a pressing concern in educational technology research. This study investigated how motivational orientations and GenAI role perceptions are associated with the quality and structure of metacognitive engagement in authentic student-GenAI dialogues. Using purposive sampling, 24 Chinese undergraduates drawn from 20 academic disciplines participated in individual retrospective interviews",
+    "keywords": [
+      "Metacognition",
+      "Perception",
+      "Context (archaeology)",
+      "Quality (philosophy)",
+      "Student engagement"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00610-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:16.357563"
+  },
+  {
+    "id": "https://openalex.org/W7166682064",
+    "title": "How vocalization affects spoken word acquisition: The moderating role of phonological working memory",
+    "authors": [
+      "Xin Yuan",
+      "Xuan Tang"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.system.2026.104097",
+    "url": "https://doi.org/10.1016/j.system.2026.104097",
+    "abstract": "",
+    "keywords": [
+      "Working memory",
+      "Word (group theory)",
+      "Baddeley's model of working memory",
+      "Lexical access",
+      "Spoken word"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:24.241250"
+  },
+  {
+    "id": "https://openalex.org/W7166649617",
+    "title": "Adaptive prompting for virtual reality learning: a multimodal study grounded in construal level theory",
+    "authors": [
+      "Tony Gutentag",
+      "Anat Pinko Naor",
+      "Revital Medenitzki",
+      "Ilana Dubovi"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s10639-026-14077-y",
+    "url": "https://doi.org/10.1007/s10639-026-14077-y",
+    "abstract": "Abstract As virtual reality (VR) becomes more widely adopted for instructional purposes, research also shows that VR-based learning can be emotionally involving and cognitively demanding, creating a need for instructional supports that respond to learners’ changing cognitive-emotional states. This two-group quasi-experimental quantitative study examined whether adaptively delivered proximity-framed prompts support emotional engagement during VR-based learning. Grounded in construal level theory,",
+    "keywords": [
+      "Surprise",
+      "Construal level theory",
+      "Grounded theory",
+      "Virtual reality",
+      "Facial expression"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14077-y",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:26.306866"
+  },
+  {
+    "id": "https://openalex.org/W7166672996",
+    "title": "Assessing perceived creative fluency in gifted high school students: development and validation of a technology-enhanced learning scale (PCFS-GHS)",
+    "authors": [
+      "Mahmoud Gharaibeh",
+      "Mohammad Nayef Ayasrah",
+      "Amal Jamal Al Khatib",
+      "Mohamad Ahmad Saleem Khasawneh"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s10639-026-14067-0",
+    "url": "https://doi.org/10.1007/s10639-026-14067-0",
+    "abstract": "",
+    "keywords": [
+      "Fluency",
+      "Confirmatory factor analysis",
+      "Discriminant validity",
+      "Exploratory factor analysis",
+      "Scale (ratio)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:26.306886"
+  },
+  {
+    "id": "https://openalex.org/W7166641308",
+    "title": "Promoting multimedia learning by positive emotional design: moderation of visual salience and self-pacing",
+    "authors": [
+      "Wenjing Zhao",
+      "MA Xiao-fang",
+      "Jian Guan"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s10639-025-13319-9",
+    "url": "https://doi.org/10.1007/s10639-025-13319-9",
+    "abstract": "",
+    "keywords": [
+      "Salience (neuroscience)",
+      "Moderation",
+      "Pace",
+      "Cognition",
+      "Instructional design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:26.306891"
+  },
+  {
+    "id": "https://openalex.org/W7166708468",
+    "title": "Enhancing peer-led project-based learning with collaborative AI agents in virtual classrooms",
+    "authors": [
+      "Han Yimeng",
+      "Haytham F. Isleem",
+      "Ghanshyam G. Tejani",
+      "Ahmed Sayed M. Metwally"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-06-30",
+    "doi": "10.1080/10494820.2026.2684500",
+    "url": "https://doi.org/10.1080/10494820.2026.2684500",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Electronic learning",
+      "Collaborative learning",
+      "Teaching method",
+      "Virtual learning environment"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:27.031223"
+  },
+  {
+    "id": "https://openalex.org/W7166677859",
+    "title": "Enhancing programming learning with the peer-adaptive-clustering learning approach in virtual learning environments",
+    "authors": [
+      "Jui-Hung Chang",
+      "Hua-Xu Zhong",
+      "Chin‐Feng Lai"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s11423-026-10645-8",
+    "url": "https://doi.org/10.1007/s11423-026-10645-8",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Instructional simulation",
+      "Virtual learning environment",
+      "Synchronous learning",
+      "Active learning (machine learning)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:36.444536"
+  },
+  {
+    "id": "https://openalex.org/W7166740198",
+    "title": "Pathways to learning: exploring high school students’ learning of AI-powered educational robotics",
+    "authors": [
+      "G. McLaughlin",
+      "E. Novak",
+      "S. Ahmadi",
+      "Jian‐Bin Li",
+      "Y. Guo"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-06-30",
+    "doi": "10.1007/s11423-026-10651-w",
+    "url": "https://doi.org/10.1007/s11423-026-10651-w",
+    "abstract": "Abstract As Artificial Intelligence (AI) becomes more embedded in daily life, it is also reshaping educational tools, including robotics in K-12 settings. AI-powered robots offer new opportunities in educational robotics by enabling capabilities such as perceiving their surroundings, understanding movement patterns, recognizing images, and responding to user input. While prior research highlights the positive impact of educational robots on learners’ computer science attitudes and skills, less i",
+    "keywords": [
+      "Robotics",
+      "Educational robotics",
+      "Robot",
+      "Educational technology",
+      "Thematic analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10651-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:36.444794"
+  },
+  {
+    "id": "https://openalex.org/W7166738513",
+    "title": "Differential Effects of Age, Linguistic Distance, Gender, and Education on English Proficiency: A Comparative Crosslinguistic Study of Immersion and Nonimmersion Learners",
+    "authors": [
+      "Frans van der Slik",
+      "Roeland van Hout"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-06-30",
+    "doi": "10.1111/lang.70046",
+    "url": "https://doi.org/10.1111/lang.70046",
+    "abstract": "Abstract Do immersion and nonimmersion learners’ English grammaticality judgment test (GJT) scores reflect the same underlying processes in language learning? Drawing on data from Chen and Hartshorne's (2021) study, we argue that they do not. Using generalized additive mixed models (GAMMs), we found that age of onset was the strongest predictor of GJT performance among immersion learners, whereas linguistic distance was the most influential variable for nonimmersion learners. Moreover, the nonli",
+    "keywords": [
+      "Grammaticality",
+      "Differential effects",
+      "Immersion (mathematics)",
+      "French immersion",
+      "Theoretical linguistics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:37.789224"
+  },
+  {
+    "id": "https://openalex.org/W7166679811",
+    "title": "The roles of self-efficacy and teacher-student relationship in job satisfaction among teachers of students with disabilities in China: A multigroup analysis",
+    "authors": [
+      "Jiaqi Li",
+      "Zhengli Xie"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.tate.2026.105711",
+    "url": "https://doi.org/10.1016/j.tate.2026.105711",
+    "abstract": "",
+    "keywords": [
+      "Closeness",
+      "Job satisfaction",
+      "Path analysis (statistics)",
+      "Mediation",
+      "Inclusion (mineral)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:40.548981"
+  },
+  {
+    "id": "https://openalex.org/W7166644716",
+    "title": "Mapping in-service teacher AI literacy: A systematic review of empirical studies",
+    "authors": [
+      "Mehmet Kokoç",
+      "Şermin Ağırman",
+      "Berfin Nur Yağmurlugil"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.tate.2026.105707",
+    "url": "https://doi.org/10.1016/j.tate.2026.105707",
+    "abstract": "",
+    "keywords": [
+      "Literacy",
+      "Competence (human resources)",
+      "Empirical research",
+      "Dimension (graph theory)",
+      "Empirical evidence"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:40.549006"
+  },
+  {
+    "id": "https://openalex.org/W7166637463",
+    "title": "Strategically Informed Machine Translation Post-Editing: Enhancing Translation Performance among Intermediate Chinese EFL Learners",
+    "authors": [
+      "Z Li"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-06-30",
+    "doi": "10.1177/13621688261453596",
+    "url": "https://doi.org/10.1177/13621688261453596",
+    "abstract": "Machine translation (MT) errors may be seen as a limitation, but it is precisely these imperfections that provide learners with valuable opportunities for error-driven practice through post-editing (PE), thus developing their language proficiency and, in turn, supporting translation performance. However, little is known about how machine translation post-editing (MTPE) benefits intermediate learners of English as a foreign language (EFL). This empirical study explores the role of strategically i",
+    "keywords": [
+      "Competence (human resources)",
+      "Machine translation",
+      "Selection (genetic algorithm)",
+      "Language proficiency",
+      "Foreign language"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:41.946408"
+  },
+  {
+    "id": "https://openalex.org/W7166685260",
+    "title": "The Changing Landscape of Supplementary Education in China: Historical Trajectories and Institutional Typologies",
+    "authors": [
+      "Zhang Wei"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-06-30",
+    "doi": "10.1111/ejed.70712",
+    "url": "https://doi.org/10.1111/ejed.70712",
+    "abstract": "ABSTRACT Since the foundation of the People's Republic of China in 1949, supplementary education has been shaped by three very different paradigms. At the outset were Communist traditions in which China learned from the Soviet Union. Subsequently, these were mixed with, or perhaps subverted by, the market economy; and then the State reasserted itself. Each era had its archetypes, albeit with overlaps. First were forms of public outside‐school education institutions, including Palaces for Childre",
+    "keywords": [
+      "Typology",
+      "China",
+      "Government (linguistics)",
+      "Corporate governance",
+      "State (computer science)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:44.740963"
+  },
+  {
+    "id": "https://openalex.org/W7166726635",
+    "title": "The kind of curriculum we need to develop integrated skills in technical and vocational training",
+    "authors": [
+      "Morteza Karami",
+      "Mehrnaz Rezvanian"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-06-30",
+    "doi": "10.1108/et-04-2025-0280",
+    "url": "https://doi.org/10.1108/et-04-2025-0280",
+    "abstract": "Purpose Technical and vocational education and training (TVET) plays a critical role in preparing learners for participation in the labor market by integrating practical skills with professional competencies. This study aimed to explore experts' experiences in technical and vocational curriculum development in order to design a holistic curriculum model for formal technical and vocational education. Design/methodology/approach A qualitative research design was employed using in-depth semi-struct",
+    "keywords": [
+      "Curriculum",
+      "Vocational education",
+      "Curriculum mapping",
+      "Curriculum theory",
+      "Emergent curriculum"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:50.745140"
+  },
+  {
+    "id": "https://openalex.org/W7166704413",
+    "title": "Understanding teachers’ professional dialogue in an inquiry community: discursive patterns for research-informed inclusive practice",
+    "authors": [
+      "Carla Meneses-Pinto",
+      "Eva Liesa",
+      "Paula Mayoral"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-06-30",
+    "doi": "10.1080/19415257.2026.2692415",
+    "url": "https://doi.org/10.1080/19415257.2026.2692415",
+    "abstract": "",
+    "keywords": [
+      "Professional development",
+      "Qualitative research",
+      "Inclusion (mineral)",
+      "Discourse analysis",
+      "Faculty development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:54.149285"
+  },
+  {
+    "id": "https://openalex.org/W7166731361",
+    "title": "Children's food activism: Reflections on knowledge and responsibility",
+    "authors": [
+      "Sharon Hunter",
+      "Claire Cassidy",
+      "Laura Colucci‐Gray",
+      "Donald Gray",
+      "Kirsten Darling‐McQuistan"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-06-30",
+    "doi": "10.1002/berj.70239",
+    "url": "https://doi.org/10.1002/berj.70239",
+    "abstract": "Abstract Children as activists have become more prominent in recent years. Their activism is manifest in relation to conspicuously political topics such as Black Lives Matter, voting rights, being able to air their views or protesting against injustices related to race, culture and other identities. Less often, if at all, do children engage politically with issues related to food. In discussing questions of food activism, this article draws on reflections from the ‘Food activism in the schoolyar",
+    "keywords": [
+      "Conversation",
+      "Relation (database)",
+      "Sustainability",
+      "Politics",
+      "Voting"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70239",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:56.863976"
+  },
+  {
     "id": "https://openalex.org/W7166570877",
     "title": "Navigating the emotional journey of writing feedback: A scoping review of empirical studies (2005–2025)",
     "authors": [
@@ -104,6 +536,34 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-30T23:02:09.654629"
+  },
+  {
+    "id": "https://openalex.org/W7166667471",
+    "title": "Chatbot Versus Human Peer: Effects on College English as a Foreign Language Learners’ Interactional Competence Development",
+    "authors": [
+      "Yaru Meng",
+      "Chen Shen",
+      "Xi Qian",
+      "Chuang Wang"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-06-29",
+    "doi": "10.1111/lang.70044",
+    "url": "https://doi.org/10.1111/lang.70044",
+    "abstract": "Abstract Interactional competence (IC) is a core component of oral proficiency; however, opportunities to practice and develop IC in second language (L2) classrooms are often limited. Generative artificial intelligence chatbots provide easily accessible avenues for communicative practice. Employing a quasiexperimental design, this study compared chatbot interactions with face‐to‐face peer interactions to investigate the potential of both modes for eliciting and developing English as a foreign la",
+    "keywords": [
+      "Chatbot",
+      "Conversation",
+      "English as a foreign language",
+      "Competence (human resources)",
+      "Foreign language"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:37.789283"
   },
   {
     "id": "https://openalex.org/W7166579481",
@@ -995,6 +1455,33 @@
     "fetched_at": "2026-06-28T22:51:58.737460"
   },
   {
+    "id": "https://openalex.org/W7166293874",
+    "title": "Fostering digital confidence and collaborative creativity in pre-service teachers: Evaluating change through a convergence, divergence, and synergy lens",
+    "authors": [
+      "Mariam Osama Abdelkader",
+      "Jeya Amantha Kumar",
+      "Sharifah Osman",
+      "Scott Schopieray"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-27",
+    "doi": "10.1016/j.compedu.2026.105702",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105702",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Through-the-lens metering",
+      "Lens (geology)",
+      "Self-confidence"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:17.665635"
+  },
+  {
     "id": "https://openalex.org/W7166536219",
     "title": "STEM joiners and STEM leavers in transfer pathways: predictors of undergraduate degree attainment",
     "authors": [
@@ -1290,6 +1777,34 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-27T22:51:43.240526"
+  },
+  {
+    "id": "https://openalex.org/W7166066842",
+    "title": "Searching for predictors of presence, academic achievement and satisfaction in online adult education",
+    "authors": [
+      "Stefan Hrastinski",
+      "Stefan Stenbom",
+      "Helena Colliander",
+      "Andreas Fejes"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-06-26",
+    "doi": "10.1016/j.compedu.2026.105705",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105705",
+    "abstract": "Little attention has been paid to adults pursuing online education at the upper secondary level. The aim of this article is to identify and describe predictors of presence, academic achievement, and satisfaction in online upper secondary education for adults. The study is grounded in the Community of Inquiry (CoI) framework, which is based on three types of presence: teaching presence (TP), social presence (SP), and cognitive presence (CP). A survey was administered to adults who had completed, ",
+    "keywords": [
+      "Academic achievement",
+      "Exploratory factor analysis",
+      "Variance (accounting)",
+      "Construct (python library)",
+      "Exploratory research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.compedu.2026.105705",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-01T22:59:17.665874"
   },
   {
     "id": "https://openalex.org/W7166164013",
