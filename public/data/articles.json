@@ -1,5 +1,219 @@
 [
   {
+    "id": "https://openalex.org/W7167349383",
+    "title": "Readiness and adoption of generative AI in K-12 education: Perspectives from Australian teachers",
+    "authors": [
+      "Eleni Petraki",
+      "Beth Chapman",
+      "Andrew S. Ross"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-04",
+    "doi": "10.1007/s10639-026-14061-6",
+    "url": "https://doi.org/10.1007/s10639-026-14061-6",
+    "abstract": "Abstract The unprecedented evolution of generative artificial intelligence (GenAI) tools has had an enormous impact on educational practices, on teachers’ and students’ approaches to learning and their attitudes toward educational technologies. Emerging research reveals mixed perceptions among educators and learners, highlighting the potential of GenAI for transforming pedagogies, tailoring feedback and enhancing personalised learning while expressing concerns about data privacy and academic int",
+    "keywords": [
+      "Context (archaeology)",
+      "Educational technology",
+      "Perception",
+      "Literacy",
+      "Technology integration"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14061-6.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:34.026231"
+  },
+  {
+    "id": "https://openalex.org/W7167357873",
+    "title": "The adaptivity of classroom teaching: Comments from a teaching quality perspective",
+    "authors": [
+      "Eckhard Klieme"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1016/j.learninstruc.2026.102429",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102429",
+    "abstract": "This commentary discusses adaptivity from the point of view of classroom teaching. The concept of teaching quality is introduced with a focus on the model of three basic dimensions and two principles: opportunity vs. use, surface vs. deep structure of teaching and learning. Adaptivity is defined by diversity of learning opportunities, differentiation, diagnostics, and suitability, and two major research goals are stated: developing a generic measure of adaptivity and specifying the relationship ",
+    "keywords": [
+      "Perspective (graphical)",
+      "Quality (philosophy)",
+      "Point (geometry)",
+      "Diversity (politics)",
+      "Focus (optics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102429",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:38.417044"
+  },
+  {
+    "id": "https://openalex.org/W7167331430",
+    "title": "Longitudinal and differential effects of differentiated instruction on academic achievement and subjective well-being in inclusive secondary education",
+    "authors": [
+      "Carmen Zurbriggen",
+      "Marcela Pozas",
+      "Karin Gehrer",
+      "Lena Nusser"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1016/j.learninstruc.2026.102431",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102431",
+    "abstract": "",
+    "keywords": [
+      "Differential effects",
+      "Differentiated instruction",
+      "Academic achievement",
+      "Differential (mechanical device)",
+      "Secondary education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102431",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:38.417058"
+  },
+  {
+    "id": "https://openalex.org/W7167371482",
+    "title": "Does Class Ability Grouping in Secondary Schools Improve Students’ Literacy Scores on Australia’s NAPLAN Tests?",
+    "authors": [
+      "Olivia Johnston",
+      "Christa Norris",
+      "Peter Palamara"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-07-04",
+    "doi": "10.1007/s40299-026-01126-w",
+    "url": "https://doi.org/10.1007/s40299-026-01126-w",
+    "abstract": "Abstract Many schools choose to use ability grouping, despite longstanding evidence that it is inequitable and does not improve overall academic outcomes. One reason that the practice of grouping students by ‘ability’ continues is because of pressure to perform on standardised tests. Educators hold beliefs that grouping students for English classes, for example, will improve their literacy scores. This paper presents findings from a study about class ability grouping for English in Australia and",
+    "keywords": [
+      "Class (philosophy)",
+      "Literacy",
+      "Test (biology)",
+      "Academic achievement",
+      "Numeracy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s40299-026-01126-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:40.365282"
+  },
+  {
+    "id": "https://openalex.org/W7167341453",
+    "title": "Using a micro audio journaling tool to foster mentor teachers’ reflective habits",
+    "authors": [
+      "Cato Bjørndal"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1016/j.tate.2026.105727",
+    "url": "https://doi.org/10.1016/j.tate.2026.105727",
+    "abstract": "",
+    "keywords": [
+      "Journaling file system",
+      "Audio equipment",
+      "Reflection (computer programming)",
+      "Work (physics)",
+      "Semi-structured interview"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105727",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:47.259855"
+  },
+  {
+    "id": "https://openalex.org/W7167331254",
+    "title": "Early career teachers’ professional agency in the professional community and their perceived teacher-working environment fit",
+    "authors": [
+      "E Liyuan",
+      "Jenni Sullanmaa",
+      "Auli Toom",
+      "Kirsi Pyhältö"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1016/j.tate.2026.105720",
+    "url": "https://doi.org/10.1016/j.tate.2026.105720",
+    "abstract": "",
+    "keywords": [
+      "Agency (philosophy)",
+      "Professional development",
+      "Professional studies",
+      "Professional learning community",
+      "Professional association"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105720",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:47.259861"
+  },
+  {
+    "id": "https://openalex.org/W7167330268",
+    "title": "Understanding Chinese English-as-a-Foreign-Language Learners’ Self-Regulated Learning: Insights from Q Methodology",
+    "authors": [
+      "Ziqian Lin",
+      "Wang Zhi-jie",
+      "Bin Shen"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-04",
+    "doi": "10.1177/13621688261451636",
+    "url": "https://doi.org/10.1177/13621688261451636",
+    "abstract": "From a social cognitive perspective, self-regulated learning is essentially and increasingly recognized as a complex and dynamic experience. The use of self-regulated learning strategies is also inherently subjective, shaped by individuals’ experiences, beliefs, learning styles, and environmental influences. Although existing research has explored self-regulated learning via a complex dynamic system theory lens, relevant studies that depart from a learner’s point of view and elucidate complexity",
+    "keywords": [
+      "Varimax rotation",
+      "Language acquisition",
+      "Experiential learning",
+      "Social learning",
+      "Cooperative learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261451636",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:48.521901"
+  },
+  {
+    "id": "https://openalex.org/W7167336921",
+    "title": "Understanding Verbal Probability Expressions: How Secondary School Students Interpret Probability Language",
+    "authors": [
+      "Ran Peleg",
+      "Rosalyn Hyde",
+      "Christian Bokhove"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-07-04",
+    "doi": "10.1007/s10763-026-10692-w",
+    "url": "https://doi.org/10.1007/s10763-026-10692-w",
+    "abstract": "Abstract Verbal Probability Expressions (VPEs), such as “likely” or “rarely,” are often used to communicate scientific information that is uncertain and are often preferred over numerical expressions despite a higher risk of misinterpretation (mode preference paradox). Prior research has focused on adult interpretations of VPEs, with only few studies focusing on how young people understand them. This study investigates how secondary school students in England interpret 29 common VPEs using a sli",
+    "keywords": [
+      "Certainty",
+      "Preference",
+      "Science education",
+      "Benchmarking",
+      "Discipline"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10763-026-10692-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:48:03.629971"
+  },
+  {
     "id": "https://openalex.org/W7167246115",
     "title": "Professional development through the lens of educator well-being: A meta-analysis in early childhood education",
     "authors": [
@@ -1371,6 +1585,83 @@
     "fetched_at": "2026-07-02T22:54:48.746646"
   },
   {
+    "id": "https://openalex.org/W7167378112",
+    "title": "Cognitive Diagnosis of EFL Integrated Writing under Interactive Noise Input Conditions: A G-DINA Model Approach",
+    "authors": [
+      "Kezhen Li"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-07-01",
+    "doi": "10.1016/j.system.2026.104104",
+    "url": "https://doi.org/10.1016/j.system.2026.104104",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "Noise (video)",
+      "Computational linguistics",
+      "Cognitive model",
+      "Cognitive load"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:32.140648"
+  },
+  {
+    "id": "https://openalex.org/W7167376654",
+    "title": "The Effect of STEM Applications Based on the OCIPSE Learning Model on Primary School Students' Academic Achievement and Scientific Creativity",
+    "authors": [
+      "Muhammed Akif Kurtuluş"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-01",
+    "doi": "10.1016/j.tsc.2026.102309",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102309",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Academic achievement",
+      "Achievement test",
+      "Learning development",
+      "Primary (astronomy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:42.257068"
+  },
+  {
+    "id": "https://openalex.org/W7167331383",
+    "title": "Examining Action-Based Imagination as a Facilitator of Perspective-taking in Social Issues: A Foundation for Transformational Creativity",
+    "authors": [
+      "Mizuki Harano",
+      "Kazuki Matsumoto",
+      "Takeshi Okada"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-01",
+    "doi": "10.1016/j.tsc.2026.102313",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102313",
+    "abstract": "",
+    "keywords": [
+      "Facilitator",
+      "Transformational leadership",
+      "Creativity",
+      "Foundation (evidence)",
+      "Imagination"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tsc.2026.102313",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:42.257073"
+  },
+  {
     "id": "https://openalex.org/W7167284693",
     "title": "Fluent, Confident, Wrong: Why LLMs' Most Underexploited Pedagogical Use Is Producing Errors",
     "authors": [
@@ -2503,6 +2794,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-02T22:55:05.008974"
+  },
+  {
+    "id": "https://openalex.org/W7166655654",
+    "title": "The paradox of inclusion: Generative AI and the center-periphery divide in language education",
+    "authors": [
+      "Shi KaiQi"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-06-30",
+    "doi": "10.1016/j.system.2026.104103",
+    "url": "https://doi.org/10.1016/j.system.2026.104103",
+    "abstract": "The emergence of Generative Artificial Intelligence (GenAI) marks an infrastructural transformation in Computer-Assisted Language Learning (CALL), yet the rapid expansion of the field reveals a fundamental tension between pedagogical optimization and structural inequality. This article presents a theory-informed critical scoping review of 53 studies (2020-2026) to map the uneven landscape of GenAI in language education. Using a Center-Periphery framework, the study analyzes how GenAI functions a",
+    "keywords": [
+      "Generative grammar",
+      "Language acquisition",
+      "Generative model",
+      "Comprehension approach",
+      "Language understanding"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.system.2026.104103",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-05T22:47:32.140737"
   },
   {
     "id": "https://openalex.org/W7166744159",
