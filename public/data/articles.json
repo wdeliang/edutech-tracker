@@ -1,5 +1,34 @@
 [
   {
+    "id": "https://openalex.org/W7167408096",
+    "title": "Learning to work: University internships and the transition to employment in Spain",
+    "authors": [
+      "Gisela Di Meglio",
+      "Jorge Gallego",
+      "Andrés Barge‐Gil",
+      "García Moreno",
+      "Ester Camiña"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-05",
+    "doi": "10.1108/et-07-2025-0528",
+    "url": "https://doi.org/10.1108/et-07-2025-0528",
+    "abstract": "Purpose This study examines the relationship between curricular university internships and labour market outcomes for university graduates in Spain. It investigates both short- and long-term associations across two graduate cohorts. Design/methodology/approach The analysis draws on microdata from two cohorts (2014 and 2010) of the Spanish University Graduate Job Placement Survey. Linear probability models are estimated to assess the relationship between internship participation and several labou",
+    "keywords": [
+      "Internship",
+      "Salary",
+      "Microdata (statistics)",
+      "Higher education",
+      "Wage"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-06T22:57:38.762560"
+  },
+  {
     "id": "https://openalex.org/W7167349383",
     "title": "Readiness and adoption of generative AI in K-12 education: Perspectives from Australian teachers",
     "authors": [
@@ -1583,6 +1612,63 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-02T22:54:48.746646"
+  },
+  {
+    "id": "https://openalex.org/W7167414277",
+    "title": "Indonesian Students' Performance in Cryptarithm Problem-Solving: Rasch Analysis",
+    "authors": [
+      "Elizar Elizar",
+      "Anwar Anwar",
+      "Imam Rofiki",
+      "Puguh Darmawan",
+      "Yumiati"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-01",
+    "doi": "10.1016/j.tsc.2026.102306",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102306",
+    "abstract": "",
+    "keywords": [
+      "Rasch model",
+      "Differential item functioning",
+      "Test (biology)",
+      "Reliability (semiconductor)",
+      "Indonesian"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-06T22:57:19.285554"
+  },
+  {
+    "id": "https://openalex.org/W7167428688",
+    "title": "The Effect of AI–Supported Reading Comprehension Instruction on Students' 4C Skills: A Systematic Review",
+    "authors": [
+      "Birjan Duygu ÇELIK",
+      "S. Doǧan",
+      "Bayram Baş",
+      "Mazhar Bal"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-01",
+    "doi": "10.1016/j.tsc.2026.102310",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102310",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Reading comprehension",
+      "Context (archaeology)",
+      "Reading (process)",
+      "Comprehension"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-06T22:57:19.285611"
   },
   {
     "id": "https://openalex.org/W7167378112",
