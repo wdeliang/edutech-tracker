@@ -1,5 +1,542 @@
 [
   {
+    "id": "https://openalex.org/W7167713528",
+    "title": "How AI literacy fuels student engagement among doctoral students: a multigroup analysis based on an extended UTAUT theory",
+    "authors": [
+      "Xuqi Chen",
+      "Sanfa Cai",
+      "Hao Yao"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s10639-026-14064-3",
+    "url": "https://doi.org/10.1007/s10639-026-14064-3",
+    "abstract": "",
+    "keywords": [
+      "Expectancy theory",
+      "Literacy",
+      "Unified theory of acceptance and use of technology",
+      "Cognition",
+      "Social cognitive theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.087340"
+  },
+  {
+    "id": "https://openalex.org/W7167701661",
+    "title": "Effects of GenAI-assisted 5E inquiry-based learning on university students’ problem-solving skills, service planning competencies, and self-efficacy",
+    "authors": [
+      "Hui‐Chun Chu",
+      "Chengjiu Yin",
+      "Ching‐Yi Chang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s10639-026-14076-z",
+    "url": "https://doi.org/10.1007/s10639-026-14076-z",
+    "abstract": "",
+    "keywords": [
+      "Service-learning",
+      "Instructional design",
+      "Educational technology",
+      "Service (business)",
+      "Service design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.087358"
+  },
+  {
+    "id": "https://openalex.org/W7167713457",
+    "title": "Research on the application of interactive social robot in english vocabulary learning in primary school",
+    "authors": [
+      "WU Su-qin",
+      "Mingyong Pang",
+      "Xuemei Sun",
+      "Xinjian Wang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s10639-026-14063-4",
+    "url": "https://doi.org/10.1007/s10639-026-14063-4",
+    "abstract": "",
+    "keywords": [
+      "Vocabulary",
+      "Feature (linguistics)",
+      "Educational technology",
+      "Digital learning",
+      "Session (web analytics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.087364"
+  },
+  {
+    "id": "https://openalex.org/W7167722582",
+    "title": "What impact does AI literacy have on university students’ behavioral intention to use generative AI in art education? a quantitative analysis based on the UTAUT model",
+    "authors": [
+      "Ke Jia",
+      "Yizhen Gan"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s10639-026-14090-1",
+    "url": "https://doi.org/10.1007/s10639-026-14090-1",
+    "abstract": "",
+    "keywords": [
+      "Literacy",
+      "Expectancy theory",
+      "Unified theory of acceptance and use of technology",
+      "Educational technology",
+      "Digital literacy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.087370"
+  },
+  {
+    "id": "https://openalex.org/W7167734297",
+    "title": "Curating flexible learning spaces in museums with a virtual reality application",
+    "authors": [
+      "Gizéh Rangel‐de Lázaro",
+      "Josep M. Duart",
+      "Delsa Silva Amino Cufuna"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s10639-026-14083-0",
+    "url": "https://doi.org/10.1007/s10639-026-14083-0",
+    "abstract": "Abstract This study explores how pre-service teachers conceptualise and experience the design of flexible learning spaces in museums using Virtual Reality (VR). Grounded in phenomenological methodology and informed by Lefebvre (1991) spatial triad, it examines how immersive digital environments foster spatial literacy, pedagogical creativity, and professional identity. Participants enrolled in a Primary education programme engaged in a four-phase VR-based activity in which they designed a modula",
+    "keywords": [
+      "Embodied cognition",
+      "Virtual reality",
+      "Educational technology",
+      "Curriculum",
+      "Museum education"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14083-0.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.087608"
+  },
+  {
+    "id": "https://openalex.org/W7167675182",
+    "title": "A large-scale SEM study of the presence, process and achievement model for online learning in higher education",
+    "authors": [
+      "İbrahim Hakkı Bulut",
+      "Serkan Uçan"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/10494820.2026.2694690",
+    "url": "https://doi.org/10.1080/10494820.2026.2694690",
+    "abstract": "This study develops and tests an integrated model of how instructional context – teaching presence and social presence – relates to students’ online learning processes and perceived academic achievement. Survey data from 2874 university students were analysed using split-sample EFA/CFA and structural equation modelling. Teaching and social presence were positively associated with students’ regulation of motivation, which in turn predicted regulation of cognition. Teaching and social presence, al",
+    "keywords": [
+      "Higher education",
+      "Structural equation modeling",
+      "Context (archaeology)",
+      "Process (computing)",
+      "Collaborative learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:18.782010"
+  },
+  {
+    "id": "https://openalex.org/W7167729657",
+    "title": "Trust, Privacy, and Context Dependence of Large Language Models in Educational Contexts: Technical Challenges and Opportunities",
+    "authors": [
+      "Noah L. Schroeder",
+      "Shan Zhang",
+      "Jessica R. Gladstone",
+      "Suma Bhat"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-07-08",
+    "doi": "10.1177/07356331261467266",
+    "url": "https://doi.org/10.1177/07356331261467266",
+    "abstract": "Large language models (LLMs) are quickly being adopted in educational contexts. In this editorial, we draw attention to three technically-oriented challenges educators may face using LLMs in educational settings when considering student-facing deployment: trust, privacy, and context dependence. Although these challenges are not as well-known as others, such as hallucination and interpretability, they pose significant concerns in educational settings if they are not understood and mitigated befor",
+    "keywords": [
+      "Context (archaeology)",
+      "Face (sociological concept)",
+      "Educational research",
+      "Context effect",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:22.101846"
+  },
+  {
+    "id": "https://openalex.org/W7167728979",
+    "title": "Cross-fertilization of content and strategy knowledge: Bayesian insights into fostering scientific literacy in physics education",
+    "authors": [
+      "Christian Thurn",
+      "Sonja Peteranderl",
+      "Peter A. Edelsbrunner",
+      "Anne Deiglmayr",
+      "Juliana Keller"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-07-08",
+    "doi": "10.1016/j.learninstruc.2026.102425",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102425",
+    "abstract": "Background Scientific literacy entails domain-specific content knowledge and domain-general strategies for generating and evaluating evidence. The latter include the control-of-variables strategy (CVS). Aims We examined whether domain-specific physics curricula and CVS trainings complement and cross-fertilize one another. Sample In total, 189 primary school students (100 male, 89 female) participated. Method In a randomized controlled field trial with three intervention stages, we studied the in",
+    "keywords": [
+      "Scientific literacy",
+      "Curriculum",
+      "Sociology of scientific knowledge",
+      "Physics education",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102425",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:22.774046"
+  },
+  {
+    "id": "https://openalex.org/W7167739882",
+    "title": "Synthesizing eye-tracking research in L2 listening assessment: a human-AI collaborative systematic review",
+    "authors": [
+      "Jiayu Zhai",
+      "Vahid Aryadoust"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/17501229.2026.2698703",
+    "url": "https://doi.org/10.1080/17501229.2026.2698703",
+    "abstract": "Eye-tracking technology has been increasingly used to investigate the complex cognitive processes of L2 learners during listening assessments. Despite this growing body of research, the field still lacks a comprehensive synthesis of its diverse research foci, methodologies, and technical specifications. This study presents a systematic review of eye-tracking research in L2 listening assessment, conducted using a human-AI collaborative methodological approach. Following the SMART and PRISMA frame",
+    "keywords": [
+      "Active listening",
+      "Task (project management)",
+      "Coding (social sciences)",
+      "Cognition",
+      "Test (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:25.295163"
+  },
+  {
+    "id": "https://openalex.org/W7167672253",
+    "title": "Development and validation of a task-anchored scale of socially shared regulation of learning for online collaborative learning",
+    "authors": [
+      "Serkan Uçan",
+      "Sedat Şen"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s11423-026-10653-8",
+    "url": "https://doi.org/10.1007/s11423-026-10653-8",
+    "abstract": "",
+    "keywords": [
+      "Socioemotional selectivity theory",
+      "Collaborative learning",
+      "Scale (ratio)",
+      "Cooperative learning",
+      "Online discussion"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:27.985712"
+  },
+  {
+    "id": "https://openalex.org/W7167676703",
+    "title": "Exploring the effect of computational thinking levels on students' learning performance, cognition, and behavior when using AI coding assistants",
+    "authors": [
+      "Shu Zhao",
+      "Ziqi Wang",
+      "Tingting Chen",
+      "Chunchen Kang",
+      "Yu‐Ju Lan"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s11423-026-10663-6",
+    "url": "https://doi.org/10.1007/s11423-026-10663-6",
+    "abstract": "Abstract As artificial intelligence coding assistants (AICAs) are increasingly adopted in K–12 coding education, the role of students' computational thinking (CT) levels in the learning process remains under-explored. While existing research focuses on overall outcomes, this study explores the impact of CT levels on students’ learning performance, behavioral patterns, and cognitive patterns to reveal the underlying process-level mechanisms. 78 eighth-grade students (aged 13–15) from a public sec",
+    "keywords": [
+      "Coding (social sciences)",
+      "Python (programming language)",
+      "Cognition",
+      "Computational thinking",
+      "Reflection (computer programming)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10663-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:27.985994"
+  },
+  {
+    "id": "https://openalex.org/W7167715001",
+    "title": "Multifaceted Role of Multilevel Statistical and Linguistic Information From Target Language in Predicting Second Language Verb–Preposition and Verb–Particle Construction Production",
+    "authors": [
+      "Yanlu Zhong"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1111/lang.70053",
+    "url": "https://doi.org/10.1111/lang.70053",
+    "abstract": "Abstract This study explores how statistical properties of verb–preposition and verb–particle constructions (VPCs) and their interplay in the target language shape second language (L2) production across L2 proficiency levels. We compared phrasal frequency and three contingency measures—mutual information (MI), forward delta P (Δ P ), and backward Δ P —of VPCs in a self‐built L2 corpus of 649 Chinese learners with those in the British National Corpus (BNC). Mixed‐effects models showed that usage‐",
+    "keywords": [
+      "Contingency",
+      "Contingency table",
+      "Feature (linguistics)",
+      "Production (economics)",
+      "Second-language acquisition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/lang.70053",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:29.420655"
+  },
+  {
+    "id": "https://openalex.org/W7167716180",
+    "title": "Inhabiting the body through the arts in teacher education: The experience and relevance of an enhanced somatic dimension",
+    "authors": [
+      "Paula Murphy"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-08",
+    "doi": "10.1016/j.tate.2026.105732",
+    "url": "https://doi.org/10.1016/j.tate.2026.105732",
+    "abstract": "",
+    "keywords": [
+      "Dimension (graph theory)",
+      "Relevance (law)",
+      "The arts",
+      "Somatic cell"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105732",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:32.281706"
+  },
+  {
+    "id": "https://openalex.org/W7167680751",
+    "title": "Photovoice as an Active Learning Strategy for Cultivating Critical Consciousness in Undergraduate Education",
+    "authors": [
+      "Sascha Longstreth",
+      "Rachel Glovinsky",
+      "Saloni Patil",
+      "Manar Salahi"
+    ],
+    "journal": "Active Learning In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1177/14697874261459631",
+    "url": "https://doi.org/10.1177/14697874261459631",
+    "abstract": "This study investigates the use of photovoice as an active learning pedagogy to cultivate critical consciousness among undergraduate students in a College of Education course. Drawing on Freirean pedagogy and transformative learning theory, the semester-long project engaged students in documenting and analyzing social issues through photography, peer dialogue, and personal reflection. Using qualitative content analysis of student work, the study found that photovoice supported development across",
+    "keywords": [
+      "Photovoice",
+      "Critical consciousness",
+      "Transformative learning",
+      "Consciousness raising",
+      "Critical thinking"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:41.005053"
+  },
+  {
+    "id": "https://openalex.org/W7167730316",
+    "title": "Value-driven employability: How work values and ethics shape Generation Z's career preferences",
+    "authors": [
+      "Itziar Ramírez García",
+      "Albert Fornells",
+      "Gisela Dominguez Picart",
+      "Gonzalo Aza Blanc"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1108/et-06-2025-0419",
+    "url": "https://doi.org/10.1108/et-06-2025-0419",
+    "abstract": "Purpose This study examines how Generation Z's work values and ethics differ by gender, academic discipline, and prior work experience, and how these integrated value–ethic profiles shape early-career preferences. The aim is to support universities in improving person–organisation fit and designing value-informed career-guidance interventions that foster smoother and more sustainable school-to-work transitions. Design/methodology/approach A cross-sectional survey of 721 undergraduates combined t",
+    "keywords": [
+      "Employability",
+      "Psychological intervention",
+      "Ranking (information retrieval)",
+      "Work (physics)",
+      "Work ethic"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:41.651376"
+  },
+  {
+    "id": "https://openalex.org/W7167691891",
+    "title": "Experiences and perceptions of sexual violence in a UK university: results from the second iteration of the OUR SPACE survey",
+    "authors": [
+      "Bridget Steele",
+      "Victoria Tan",
+      "Deanna M. Giraldi",
+      "Michelle Degli Esposti",
+      "David K. Humphreys"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/03075079.2026.2693160",
+    "url": "https://doi.org/10.1080/03075079.2026.2693160",
+    "abstract": "",
+    "keywords": [
+      "Perception",
+      "Space (punctuation)",
+      "Sexual violence",
+      "Higher education",
+      "Sexual identity"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:42.278911"
+  },
+  {
+    "id": "https://openalex.org/W7167726769",
+    "title": "Making inclusive learning: how UDL shapes production culture in an EdTech company",
+    "authors": [
+      "Seong-Cheol Lee",
+      "Hyeon‐Seon Jeong",
+      "Sohyun Park"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/17439884.2026.2693921",
+    "url": "https://doi.org/10.1080/17439884.2026.2693921",
+    "abstract": "EdTech companies increasingly mobilise ‘inclusive learning’ and Universal Design for Learning (UDL), yet we know less about how these values are produced and stabilised inside platformed EdTech work. This article examines a South Korea–founded global early-childhood foundational learning company with a U.S. headquarters and Asia-based offices, serving families and schools across multiple Asian countries. Data comprise five semi-structured interviews across partnerships, product and accessibility",
+    "keywords": [
+      "Boundary object",
+      "Credibility",
+      "Boundary-work",
+      "Narrative",
+      "Production (economics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:43.489681"
+  },
+  {
+    "id": "https://openalex.org/W7167693147",
+    "title": "A Comparative Epistemic Network Analysis of the Nature of Science in Turkish National Physics Curriculum and International Baccalaureate Diploma Programme Physics Curriculum",
+    "authors": [
+      "Osman Akşit",
+      "Ulku Seher Budak"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-07-08",
+    "doi": "10.1007/s11191-026-00761-5",
+    "url": "https://doi.org/10.1007/s11191-026-00761-5",
+    "abstract": "Abstract This study aimed to analyze and compare the nature of science (NOS) aspects represented in the most recent editions of the International Baccalaureate Diploma Programme (IB DP) physics curriculum and the Turkish national physics curriculum. The Family Resemblance Approach (FRA) was employed as the theoretical framework for identifying and coding the NOS aspects, while epistemic network analysis (ENA) was used to model and compare the relational structure among these aspects across the t",
+    "keywords": [
+      "Turkish",
+      "Curriculum",
+      "Nature of Science",
+      "Science education",
+      "National curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00761-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:45.616838"
+  },
+  {
+    "id": "https://openalex.org/W7167663637",
+    "title": "Digital frugality as a pedagogical component for regulating personal learning environments. An exploratory study in an end-of-school internship",
+    "authors": [
+      "Lionel Alvarez",
+      "Joris Felder"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/1475939x.2026.2695865",
+    "url": "https://doi.org/10.1080/1475939x.2026.2695865",
+    "abstract": "",
+    "keywords": [
+      "Exploratory research",
+      "Internship",
+      "Frugality",
+      "Component (thermodynamics)",
+      "Electronic learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/1475939x.2026.2695865",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:46.273285"
+  },
+  {
+    "id": "https://openalex.org/W7167675912",
+    "title": "University folk dance education versus modern online education courses: which is more effective in learning folk dance in China?",
+    "authors": [
+      "Jing Chen"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-07-08",
+    "doi": "10.1080/1475939x.2026.2695863",
+    "url": "https://doi.org/10.1080/1475939x.2026.2695863",
+    "abstract": "",
+    "keywords": [
+      "Dance education",
+      "Folk dance",
+      "Folk culture",
+      "Dance",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:46.273298"
+  },
+  {
     "id": "https://openalex.org/W7167607714",
     "title": "Teaching in the wild: Dilemmas experienced by formal educators in adapting to facilitating nature-based learning",
     "authors": [
@@ -27,6 +564,60 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-08T22:53:57.499769"
+  },
+  {
+    "id": "https://openalex.org/W7167661887",
+    "title": "Postsecondary Gaps in Recovery From the COVID-19 Pandemic: Evidence From Public Colleges and Universities",
+    "authors": [
+      "Dora Gicheva",
+      "Julie Edmunds",
+      "Bryan C. Hutchins",
+      "Nir Eilam",
+      "Nina Arshavsky"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-07-07",
+    "doi": "10.3102/0013189x261462499",
+    "url": "https://doi.org/10.3102/0013189x261462499",
+    "abstract": "We study changes in postsecondary student performance during and after the COVID-19 pandemic using administrative data on all 2015–2022 high school graduates in North Carolina who enrolled in an in-state public institution. Successful course completion rates increased briefly at 4-year institutions at the start of the pandemic, but at both 2- and 4-year institutions, success rates and credit earning decreased for later cohorts. These declines have persisted for certain groups, including students",
+    "keywords": [
+      "Disadvantaged",
+      "Postsecondary education",
+      "Ethnic group",
+      "Higher education",
+      "Academic achievement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:21.476074"
+  },
+  {
+    "id": "https://openalex.org/W7167664906",
+    "title": "Digitally Empowered Assessment of Interactional Competence in a Second Language: Commentary",
+    "authors": [
+      "Naoko Taguchi"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-07-07",
+    "doi": "10.1111/lang.70049",
+    "url": "https://doi.org/10.1111/lang.70049",
+    "abstract": "Abstract This commentary underscores the common themes that emerged in the papers in this volume. Based on the themes, three specific areas of future directions are highlighted: (a) going beyond practicality arguments when using digital assessment tools, (b) developing rubric descriptors specific to interactional competence in digital spaces, and (c) promoting intersubjectivity with artificial intelligence (AI)‐powered conversation partners in interactional competence assessment tasks.",
+    "keywords": [
+      "Rubric",
+      "Competence (human resources)",
+      "Conversation",
+      "Intersubjectivity",
+      "Conversation analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-09T23:00:29.420687"
   },
   {
     "id": "https://openalex.org/W7167628468",
