@@ -1,5 +1,552 @@
 [
   {
+    "id": "https://openalex.org/W7167842785",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/s0360-1315(26)00151-x",
+    "url": "https://doi.org/10.1016/s0360-1315(26)00151-x",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:47:49.830333"
+  },
+  {
+    "id": "https://openalex.org/W7167843777",
+    "title": "Attentional characteristics and learning mode recognition of different learning patterns in video-based learning",
+    "authors": [
+      "Yang Peng",
+      "Han Bai",
+      "Riman Ga",
+      "Qing Lai",
+      "Zheng Liang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-09",
+    "doi": "10.1007/s10639-026-14084-z",
+    "url": "https://doi.org/10.1007/s10639-026-14084-z",
+    "abstract": "",
+    "keywords": [
+      "Constructive",
+      "Cognition",
+      "Mediation",
+      "Mode (computer interface)",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:47:58.033665"
+  },
+  {
+    "id": "https://openalex.org/W7167801811",
+    "title": "Integrating IoT-based intelligent classrooms for learning quality enhancement: An empirical study",
+    "authors": [
+      "Zaid A. F. Alhaboobi",
+      "Manjit Singh Sidhu"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-09",
+    "doi": "10.1007/s10639-026-14091-0",
+    "url": "https://doi.org/10.1007/s10639-026-14091-0",
+    "abstract": "",
+    "keywords": [
+      "Empirical research",
+      "Context (archaeology)",
+      "Educational technology",
+      "Quality (philosophy)",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:47:58.033689"
+  },
+  {
+    "id": "https://openalex.org/W7167819906",
+    "title": "How does generative AI affect self-regulated learning in learners with varying knowledge levels? The role of chatbot design and support timing",
+    "authors": [
+      "Yuchen Jiang",
+      "Xiumei Feng",
+      "Yifei Liu",
+      "Bowen Liu",
+      "Lei Bao"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-09",
+    "doi": "10.1080/10494820.2026.2691907",
+    "url": "https://doi.org/10.1080/10494820.2026.2691907",
+    "abstract": "",
+    "keywords": [
+      "Chatbot",
+      "Affect (linguistics)",
+      "Generative grammar",
+      "Generative model",
+      "Instructional design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:47:58.783280"
+  },
+  {
+    "id": "https://openalex.org/W7167791717",
+    "title": "GenAI-enabled versus human assessment of written assignments",
+    "authors": [
+      "Shuheng Lin",
+      "Grace Ngai",
+      "P. Lee",
+      "Alison K. Y. Ip",
+      "Kam Por Kwan"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-09",
+    "doi": "10.1080/14703297.2026.2699254",
+    "url": "https://doi.org/10.1080/14703297.2026.2699254",
+    "abstract": "This study examines the consistency and agreement between generative AI (GenAI)-enabled and human assessments of written assignments in a teacher development course on service-learning. Using a rubric with nine elements, thirty-seven proposals were independently graded by human assessors and OpenAI GPT-4.1. Results show that GenAI tended to assign higher grades than humans, particularly in elements requiring nuanced judgement, such as civic learning and project feasibility. While overall scores ",
+    "keywords": [
+      "Rubric",
+      "Grading (engineering)",
+      "Consistency (knowledge bases)",
+      "Generative grammar",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2699254",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:00.079746"
+  },
+  {
+    "id": "https://openalex.org/W7167847140",
+    "title": "Professional vision and medical education: dividing diagnoses into categories to support more effective learning in dermatology",
+    "authors": [
+      "Salla Skön",
+      "Ilona Södervik",
+      "Alexander Salava",
+      "Auli Toom",
+      "Viljami Salmela"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/j.learninstruc.2026.102434",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102434",
+    "abstract": "",
+    "keywords": [
+      "Medical diagnosis",
+      "MEDLINE",
+      "Interpretation (philosophy)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102434",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:02.722644"
+  },
+  {
+    "id": "https://openalex.org/W7167802803",
+    "title": "Driving theories along the developmental path toward improved learning and instruction: A road less traveled",
+    "authors": [
+      "Patricia A. Alexander"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/j.learninstruc.2026.102430",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102430",
+    "abstract": "",
+    "keywords": [
+      "Trajectory",
+      "Path (computing)",
+      "Learning theory",
+      "Developmental stage theories",
+      "Child development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:02.722664"
+  },
+  {
+    "id": "https://openalex.org/W7167827078",
+    "title": "Word Predictability as a Measure of Second Language Proficiency",
+    "authors": [
+      "Langdon Holmes",
+      "SCOTT CROSSLEY",
+      "Wesley Morris",
+      "Joon Suh Choi"
+    ],
+    "journal": "Language Learning",
+    "jif": 4.2,
+    "published_date": "2026-07-09",
+    "doi": "10.1111/lang.70037",
+    "url": "https://doi.org/10.1111/lang.70037",
+    "abstract": "Abstract This study introduces predictability BERT , a novel metric for assessing second language (L2) proficiency based on the predictability of word choices in learner language production. Using BERT (Devlin et al., 2019), we calculated the conditional probability of each word in a text given its surrounding context. We evaluated predictability BERT on two datasets: the Lexical Proficiency Corpus ( N = 480), containing analytic ratings of lexical proficiency, and TOEFL 11 ( N = 11,000; Blancha",
+    "keywords": [
+      "Predictability",
+      "Language proficiency",
+      "Test of English as a Foreign Language",
+      "Collocation (remote sensing)",
+      "Lexical density"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/lang.70037",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:09.231204"
+  },
+  {
+    "id": "https://openalex.org/W7167847443",
+    "title": "More than just teaching: A group concept mapping study on classroom management challenges in higher education",
+    "authors": [
+      "Hanneke Theelen",
+      "Maartje Henderikx"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/j.tate.2026.105736",
+    "url": "https://doi.org/10.1016/j.tate.2026.105736",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Concept map",
+      "Classroom management",
+      "Group (periodic table)",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:11.952202"
+  },
+  {
+    "id": "https://openalex.org/W7167823396",
+    "title": "From form to substance: Rethinking teacher professional development in Vietnam",
+    "authors": [
+      "Thao Phuong Nguyen",
+      "Ni Thi Ha Nguyen",
+      "Nguyễn Văn Biên",
+      "Nguyễn Thị Tố Khuyên",
+      "Son Duc Nguyen"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/j.tate.2026.105721",
+    "url": "https://doi.org/10.1016/j.tate.2026.105721",
+    "abstract": "",
+    "keywords": [
+      "Agency (philosophy)",
+      "Negotiation",
+      "Performative utterance",
+      "Cornerstone",
+      "Professional development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:11.952223"
+  },
+  {
+    "id": "https://openalex.org/W7167839239",
+    "title": "Outcome-Based Language Teaching in EMI Listening: Balancing Accountability With Ungraded Supports for Low-Proficiency Learners",
+    "authors": [
+      "Camik Wanhassan"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261457415",
+    "url": "https://doi.org/10.1177/13621688261457415",
+    "abstract": "Listening plays a critical yet undertheorized role in English-medium instruction (EMI), where subject courses are taught through English rather than learners’ first language, and access to disciplinary knowledge relies heavily on real-time comprehension of lectures and academic tasks not designed for language development. For low-proficiency students enrolled in science, technology, engineering, and mathematics (STEM) programmes, this creates a high-stakes learning condition in which assessment-",
+    "keywords": [
+      "Accountability",
+      "Active listening",
+      "Thematic analysis",
+      "EMI",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:13.330964"
+  },
+  {
+    "id": "https://openalex.org/W7167810524",
+    "title": "Instructional Practices for Signed Literacy: Observations of 38 Deaf Education Classrooms",
+    "authors": [
+      "Leala Holcomb",
+      "Leah Oakes"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261459327",
+    "url": "https://doi.org/10.1177/13621688261459327",
+    "abstract": "This mixed-methods study examined how signed literacy instruction is currently taught in United States deaf education classrooms (PreK-3) and to what extent that instruction reflects evidence-based composing instruction. Signed literacy instruction means teaching students to view, analyze, and compose texts in a signed language. A composing-forward approach treats students’ production of signed texts as the central instructional activity, with language skills taught in service of that compositio",
+    "keywords": [
+      "Deaf education",
+      "Literacy",
+      "Sign language",
+      "American Sign Language",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:13.331035"
+  },
+  {
+    "id": "https://openalex.org/W7167809815",
+    "title": "Enhancing English-as-a-Foreign-Language Speaking Performance through Self-Regulated Strategy Instruction: Evidence from Chinese University Learners",
+    "authors": [
+      "Yawen Wang",
+      "Peijian Paul Sun"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261459664",
+    "url": "https://doi.org/10.1177/13621688261459664",
+    "abstract": "The present study investigated the effects of self-regulated strategy-based speaking instruction on English-as-a-foreign-language learners’ speaking performance and strategy use. Despite extensive research on self-regulated learning in various educational contexts, its application to second language speaking development remains underexplored. This explanatory mixed-methods quasi-experimental study employed self-report questionnaires, speaking assessments, and semi-structured interviews for data ",
+    "keywords": [
+      "Language proficiency",
+      "Control (management)",
+      "Learner autonomy",
+      "Second language",
+      "Intervention (counseling)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:13.331079"
+  },
+  {
+    "id": "https://openalex.org/W7167803596",
+    "title": "Embarking on Virtual Exchange for English as a Multilingua Franca Context: Comparing Virtual Reality and Non-Virtual Reality Approaches to Enhance Second Language Speaking Fluency",
+    "authors": [
+      "Van Huynh Ha Le",
+      "Denchai Prabjandee",
+      "Punwalai Kewara"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261457582",
+    "url": "https://doi.org/10.1177/13621688261457582",
+    "abstract": "Many learners of English as a foreign language struggle to develop second language speaking fluency because of limited opportunities for authentic communication with linguistically diverse English users in English as a multilingua franca context. This study aims to address this problem by investigating the effects of communication strategy instruction, an approach believed to facilitate communication in English as a multilingua franca contexts. This study compared two approaches of communication",
+    "keywords": [
+      "Fluency",
+      "Virtual reality",
+      "Affordance",
+      "Vietnamese",
+      "Foreign language"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:13.331148"
+  },
+  {
+    "id": "https://openalex.org/W7167850979",
+    "title": "Does residential gentrification lead to school gentrification? Evidence from the Paris metropolitan area, methodological challenges and diversity of configuration",
+    "authors": [
+      "Lise Lécuyer",
+      "Marco Oberti"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-07-09",
+    "doi": "10.1080/00131911.2026.2687080",
+    "url": "https://doi.org/10.1080/00131911.2026.2687080",
+    "abstract": "",
+    "keywords": [
+      "Gentrification",
+      "Metropolitan area",
+      "Diversity (politics)",
+      "Lead (geology)",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:17.859297"
+  },
+  {
+    "id": "https://openalex.org/W7167801844",
+    "title": "Governance model for sustainable development in higher education institutions",
+    "authors": [
+      "Paulo Guilherme Fuchs",
+      "Lucas Veiga Ãvila",
+      "Luciana Brandli",
+      "Ana Regina de Aguiar Dutra",
+      "José Baltazar Salgueirinho Osório de Andrade Guerra"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-09",
+    "doi": "10.1108/ijshe-11-2025-1356",
+    "url": "https://doi.org/10.1108/ijshe-11-2025-1356",
+    "abstract": "Purpose This study aims to propose a governance model for sustainable development (SD) in higher education institutions (HEIs). Design/methodology/approach Based on a comprehensive literature review and questionnaires administered to subject-matter experts, the research employed a multicriteria methodology to validate the indicators proposed in the model. The fuzzy Delphi multicriteria decision-making method was applied to enhance the capacity to address uncertainty and subjectivity in expert as",
+    "keywords": [
+      "Corporate governance",
+      "Higher education",
+      "Sustainable development",
+      "Prosperity",
+      "Delphi method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:19.179440"
+  },
+  {
+    "id": "https://openalex.org/W7167821511",
+    "title": "Entrepreneurship education and graduate work-readiness: an employability-focused training perspective in higher education",
+    "authors": [
+      "Attah Emmanuel Yusuf",
+      "Purity Uzoamaka Ndubuisi-Okolo"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-09",
+    "doi": "10.1108/et-01-2026-0035",
+    "url": "https://doi.org/10.1108/et-01-2026-0035",
+    "abstract": "Purpose This study examines entrepreneurship education (EE) as a structured, employability-focused training mechanism in higher education. It aims to empirically test how EE pedagogies develop transferable competencies and enhance graduate work-readiness, addressing the disconnect between EE and employability scholarship. Design/methodology/approach A sequential explanatory mixed-methods design was employed. The quantitative phase involved a survey of 412 final-year students and recent graduates",
+    "keywords": [
+      "Employability",
+      "Entrepreneurship",
+      "Higher education",
+      "Experiential learning",
+      "Curriculum"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:21.790491"
+  },
+  {
+    "id": "https://openalex.org/W7167819651",
+    "title": "International academic mobility and the temporality of contribution: a morphogenetic analysis of returnee scholars’ engagement in higher education",
+    "authors": [
+      "Ahmad Akkad",
+      "Natalya Hanley"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-09",
+    "doi": "10.1080/03075079.2026.2695258",
+    "url": "https://doi.org/10.1080/03075079.2026.2695258",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Temporality",
+      "Qualitative research",
+      "Perspective (graphical)",
+      "Internationalization of Higher Education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2695258",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:22.463840"
+  },
+  {
+    "id": "https://openalex.org/W4214584435",
+    "title": "Chemistry Education Research and Practice",
+    "authors": [],
+    "journal": "Chemistry Education Research and Practice",
+    "jif": 3.2,
+    "published_date": "2026-07-09",
+    "doi": "10.1039/1756-1108/2000",
+    "url": "http://dx.doi.org/10.1039/1756-1108/2000",
+    "abstract": "The journal for teachers, researchers and other practitioners in chemistry education. CERP is a diamond open access journal.<br/><br/>Time to first decision: 14 days <br/><br/>Editor-in-chief: Scott Lewis<br/>Chair: Gwen Lawrie",
+    "keywords": [
+      "Chemistry",
+      "Mathematics education",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://repozitorij.uni-lj.si/IzpisGradiva.php?id=51233",
+    "cited_by_count": 229,
+    "type": "paratext",
+    "fetched_at": "2026-07-10T22:48:23.095196"
+  },
+  {
+    "id": "https://openalex.org/W7167831100",
+    "title": "Correction to: Korean In-service Science Teachers’ Perceptions of NOS: Focusing on a Reconceptualized FRA-to-NOS",
+    "authors": [
+      "Seoung‐Hey Paik",
+      "Seonghye Kim",
+      "Young‐Mi Kim"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-07-09",
+    "doi": "10.1007/s11191-026-00769-x",
+    "url": "https://doi.org/10.1007/s11191-026-00769-x",
+    "abstract": "",
+    "keywords": [
+      "Perception",
+      "Mistake",
+      "Feature (linguistics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:25.749112"
+  },
+  {
+    "id": "https://openalex.org/W7167783469",
+    "title": "Critical Race Aesthetics as a Lens to Notice, Challenge, and Change Images That Undermine the Sense of Belonging Among Minoritized Students",
+    "authors": [
+      "ChanMin Kim"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-07-08",
+    "doi": "10.3102/0013189x261457608",
+    "url": "https://doi.org/10.3102/0013189x261457608",
+    "abstract": "In this review/essay article, the author argues that education researchers and educators should attend to visual elements in classrooms as ambient identity cues to allow for socio-spatial belonging among minoritized students. The author proposes the application of critical race aesthetics to notice, challenge, and change inequitable ambient cues that (re)create oppression and privilege. The author presents case vignettes from research with elementary STEM teachers and Black and Brown students to",
+    "keywords": [
+      "Critical race theory",
+      "Oppression",
+      "Race (biology)",
+      "Critical theory",
+      "Identity (music)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/0013189x261457608",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-10T22:48:01.389416"
+  },
+  {
     "id": "https://openalex.org/W7167713528",
     "title": "How AI literacy fuels student engagement among doctoral students: a multigroup analysis based on an extended UTAUT theory",
     "authors": [
