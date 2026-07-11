@@ -1,176 +1,220 @@
-📅 运行时间：2026-07-10 22:48
-📊 本次新增文章：21 篇
-📚 数据库总文章数：1116 篇
-🔍 查询范围：2026-07-03 至 2026-07-10
+📅 运行时间：2026-07-11 22:35
+📊 本次新增文章：27 篇
+📚 数据库总文章数：1143 篇
+🔍 查询范围：2026-07-04 至 2026-07-11
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Language Teaching Research: 4 篇
-  • Education and Information Technologies: 2 篇
-  • Learning and Instruction: 2 篇
-  • Teaching and Teacher Education: 2 篇
-  • Computers & Education: 1 篇
-  • Interactive Learning Environments: 1 篇
-  • Innovations In Education and Teaching International: 1 篇
+  • Innovations In Education and Teaching International: 9 篇
+  • Interactive Learning Environments: 5 篇
+  • Education and Information Technologies: 3 篇
+  • Language Teaching Research: 2 篇
+  • System: 1 篇
+  • Journal of Science Education and Technology: 1 篇
+  • Journal of Research on Technology In Education: 1 篇
   • Educational Researcher: 1 篇
-  • Language Learning: 1 篇
-  • Educational Review: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
-  • Education and Training: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • European Journal of Education: 1 篇
+  • European Physical Education Review: 1 篇
   • Studies In Higher Education: 1 篇
-  • Chemistry Education Research and Practice: 1 篇
-  • Science & Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Editorial Board
-    期刊：Computers & Education (JIF: 10.5)
-    日期：2026-07-09
-    DOI：https://doi.org/10.1016/s0360-1315(26)00151-x
+[1] Holding presenters accountable for their posters during post-presentation discussions in a project-based EFL classroom
+    期刊：System (JIF: 5.6)
+    作者：Marwa Amri
+    日期：2026-07-10
+    关键词：Conversation, Meaning (existential), Conversation analysis, Task (project management), Ask price
+    DOI：https://doi.org/10.1016/j.system.2026.104098
+    🔓 开放获取
 
-[2] Attentional characteristics and learning mode recognition of different learning patterns in video-based learning
+[2] How to Improve TPACK in Science Education: Systematic Literature Review of Empirical Studies
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Mohd Zaidi Bin Amiruddin, Nanang Winarno, Achmad Samsudin 等(5人)
+    日期：2026-07-10
+    关键词：Systematic review, Science education, Empirical research, Educational technology, Higher education
+    DOI：https://doi.org/10.1007/s10956-026-10349-x
+
+[3] Interactive learning dashboards: rethinking learning visualisations as engagement tools
     期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Yang Peng, Han Bai, Riman Ga 等(5人)
-    日期：2026-07-09
-    关键词：Constructive, Cognition, Mediation, Mode (computer interface), Educational technology
-    DOI：https://doi.org/10.1007/s10639-026-14084-z
+    作者：Laura Graf, Patrick Bassner, Maximilian Anzinger 等(5人)
+    日期：2026-07-11
+    关键词：Learning analytics, Metacognition, Educational technology, Interactive Learning, Judgement
+    DOI：https://doi.org/10.1007/s10639-026-14082-1
+    🔓 开放获取
 
-[3] Integrating IoT-based intelligent classrooms for learning quality enhancement: An empirical study
+[4] Ethically situated AI integration in higher education: A mixed-methods latent profile analysis of faculty adoption
     期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Zaid A. F. Alhaboobi, Manjit Singh Sidhu
-    日期：2026-07-09
-    关键词：Empirical research, Context (archaeology), Educational technology, Quality (philosophy), Higher education
-    DOI：https://doi.org/10.1007/s10639-026-14091-0
+    作者：Mohammed Alwaqdani
+    日期：2026-07-11
+    关键词：Situated, Educational technology, Technology integration, Higher education, Electronic learning
+    DOI：https://doi.org/10.1007/s10639-026-14095-w
 
-[4] How does generative AI affect self-regulated learning in learners with varying knowledge levels? The role of chatbot design and support timing
+[5] Effects of the question wait time and question positions on scientific concept learning from video
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Hongyan Wang, Zhuoni Xue, Youbin Zhang 等(4人)
+    日期：2026-07-10
+    关键词：Cognition, Process (computing), Cognitive load, Educational technology, Concept learning
+    DOI：https://doi.org/10.1007/s10639-026-14094-x
+
+[6] Enhancing graduate students’ academic writing through AI, peer, and instructor based multi-source feedback model
     期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Yuchen Jiang, Xiumei Feng, Yifei Liu 等(5人)
-    日期：2026-07-09
-    关键词：Chatbot, Affect (linguistics), Generative grammar, Generative model, Instructional design
-    DOI：https://doi.org/10.1080/10494820.2026.2691907
+    作者：Ömer Arpacık, Melike Aydemir, Sevda Küçük 等(4人)
+    日期：2026-07-10
+    关键词：Graduate students, Academic writing, Higher education, Peer feedback, Educational technology
+    DOI：https://doi.org/10.1080/10494820.2026.2699331
 
-[5] GenAI-enabled versus human assessment of written assignments
+[7] AI-enhanced feedback and its effects on student motivation, self-regulation, and learning outcomes in higher education
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Man Zhai, Muhammad Farhan
+    日期：2026-07-10
+    关键词：Higher education, Electronic learning, Educational technology, Academic achievement, Student engagement
+    DOI：https://doi.org/10.1080/10494820.2026.2687874
+
+[8] Revealing how learning strategies emerge: a human-centered reinforcement learning perspective
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Tong Liu, Longwei Zheng, Haoxin Xu 等(5人)
+    日期：2026-07-10
+    关键词：Perspective (graphical), Experiential learning, Reinforcement learning, Educational technology, Active learning (machine learning)
+    DOI：https://doi.org/10.1080/10494820.2026.2690106
+
+[9] Exploring how generative AI usage modes induce distinct learning pathways and specific creativity outcomes
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Zhang Yingying, Hui Zhang, Yao Chi
+    日期：2026-07-10
+    关键词：Creativity, Generative grammar, Generative model, Educational technology, Cognition
+    DOI：https://doi.org/10.1080/10494820.2026.2693963
+
+[10] The impact of politeness on challenges in students’ online debates: a statistical discourse analysis
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Ming Ming Chiu, Allan Jeong
+    日期：2026-07-10
+    关键词：Politeness, Discourse analysis, Statistical analysis, Computer-mediated communication, Conversation analysis
+    DOI：https://doi.org/10.1080/10494820.2026.2674176
+
+[11] Exploring psychological pathways to pedagogical AI overreliance among chinese teachers through cognitive–affective–conative framework
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Kai Cui, Jinlong Li, Huimin He 等(5人)
+    日期：2026-07-10
+    关键词：Electronic learning, Educational technology, Technology integration, Teaching method, Qualitative research
+    DOI：https://doi.org/10.1080/15391523.2026.2700717
+
+[12] Human-AI co-learning in gamified environments: Rethinking motivation and engagement in the age of intelligent education
     期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Shuheng Lin, Grace Ngai, P. Lee 等(5人)
-    日期：2026-07-09
-    关键词：Rubric, Grading (engineering), Consistency (knowledge bases), Generative grammar, Higher education
-    DOI：https://doi.org/10.1080/14703297.2026.2699254
+    作者：Puyan Jin
+    日期：2026-07-10
+    关键词：Transformative learning, Perception, Association (psychology), Structural equation modeling, Student engagement
+    DOI：https://doi.org/10.1080/14703297.2026.2702451
+
+[13] Tensions between relational supervision pedagogy and researcher independence
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Cally Guerin, Meagan Tyler, Katherine Firth 等(4人)
+    日期：2026-07-04
+    关键词：Affordance, Supervisor, Independence (probability theory), Workforce, Reflexivity
+    DOI：https://doi.org/10.1080/14703297.2026.2687864
     🔓 开放获取
 
-[6] Critical Race Aesthetics as a Lens to Notice, Challenge, and Change Images That Undermine the Sense of Belonging Among Minoritized Students
+[14] Expectations of independence from the outset? The discourse of researcher independence in the pre-application stage of doctoral admissions
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：James Burford, Susan Deeb, Dangeni 等(5人)
+    日期：2026-07-04
+    关键词：Independence (probability theory), Reflexivity, Discourse analysis, Quality (philosophy), Doctoral studies
+    DOI：https://doi.org/10.1080/14703297.2026.2617864
+
+[15] Doctoral writing as a promoter for researcher development and independence: A conceptual analysis
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Anna Sala‐Bubaré, Montserrat Castelló
+    日期：2026-07-04
+    关键词：Perspective (graphical), Salient, Task (project management), Academic writing, Leverage (statistics)
+    DOI：https://doi.org/10.1080/14703297.2026.2653826
+
+[16] Different journeys: Cultivating doctoral researcher independence, with distance and professional practice-oriented researchers through intercultural research supervision, the hidden curriculum and cohort-based provision
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Gina Wisker
+    日期：2026-07-04
+    关键词：Flexibility (engineering), Variety (cybernetics), Curriculum, Higher education, Professional development
+    DOI：https://doi.org/10.1080/14703297.2026.2685601
+    🔓 开放获取
+
+[17] Fostering researcher independence: What are the educational and professional development consequences in the doctoral context?
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Dely Lazarte Elliot, Søren Smedegaard Ernst Bengtsen, Inge van der Weijden 等(4人)
+    日期：2026-07-04
+    关键词：Professional development, Faculty development, Qualitative research, Focus group, Educational research
+    DOI：https://doi.org/10.1080/14703297.2026.2688019
+
+[18] A delicate balance: The interplay of supervision, academic context, motivation, and emotions in doctoral education
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Patrícia Alves, Amélia Lopes, Ricardo Cruz‐Correia 等(4人)
+    日期：2026-07-04
+    关键词：Transformative learning, Autonomy, Higher education, Balance (ability), Process (computing)
+    DOI：https://doi.org/10.1080/14703297.2026.2679627
+
+[19] Stages of competence in doctoral researcher development: Insights from a collective autoethnographic study of Journal Club participation
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Kara A. Makara, Chenyao Duan, Karen Gordon 等(5人)
+    日期：2026-07-04
+    关键词：Competence (human resources), Autoethnography, Summative assessment, Journal club, Conceptual framework
+    DOI：https://doi.org/10.1080/14703297.2026.2629483
+    🔓 开放获取
+
+[20] Reconsidering researcher independence in an era of AI enabled learning
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Liezel Frick, Nompilo Tshuma
+    日期：2026-07-04
+    关键词：Competence (human resources), Independence (probability theory), Context (archaeology), Maturity (psychological), Originality
+    DOI：https://doi.org/10.1080/14703297.2026.2631580
+
+[21] Necessary but Not Sufficient: School Administrator Support and Teacher Safety, Anxiety/Stress, Retention, and Victimization
     期刊：Educational Researcher (JIF: 4.9)
-    作者：ChanMin Kim
-    日期：2026-07-08
-    关键词：Critical race theory, Oppression, Race (biology), Critical theory, Identity (music)
-    DOI：https://doi.org/10.3102/0013189x261457608
-    🔓 开放获取
+    作者：Andrew H. Perry, Linda A. Reddy, Andrew Martinez 等(5人)
+    日期：2026-07-10
+    关键词：Anxiety, Path analysis (statistics), Sample (material), Human factors and ergonomics, Social support
+    DOI：https://doi.org/10.3102/0013189x261457851
 
-[7] Professional vision and medical education: dividing diagnoses into categories to support more effective learning in dermatology
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Salla Skön, Ilona Södervik, Alexander Salava 等(5人)
-    日期：2026-07-09
-    关键词：Medical diagnosis, MEDLINE, Interpretation (philosophy)
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102434
-    🔓 开放获取
-
-[8] Driving theories along the developmental path toward improved learning and instruction: A road less traveled
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Patricia A. Alexander
-    日期：2026-07-09
-    关键词：Trajectory, Path (computing), Learning theory, Developmental stage theories, Child development
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102430
-
-[9] Word Predictability as a Measure of Second Language Proficiency
-    期刊：Language Learning (JIF: 4.2)
-    作者：Langdon Holmes, SCOTT CROSSLEY, Wesley Morris 等(4人)
-    日期：2026-07-09
-    关键词：Predictability, Language proficiency, Test of English as a Foreign Language, Collocation (remote sensing), Lexical density
-    DOI：https://doi.org/10.1111/lang.70037
-    🔓 开放获取
-
-[10] More than just teaching: A group concept mapping study on classroom management challenges in higher education
+[22] Assessing the impact of hybrid school visits in initial teacher education: A mixed-methods randomised controlled trial and process evaluation
     期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Hanneke Theelen, Maartje Henderikx
-    日期：2026-07-09
-    关键词：Higher education, Concept map, Classroom management, Group (periodic table), Student engagement
-    DOI：https://doi.org/10.1016/j.tate.2026.105736
+    作者：Lydia Lymperis, Ellen Turner, David Aldridge 等(5人)
+    日期：2026-07-10
+    关键词：Randomized controlled trial, Process (computing), Program evaluation
+    DOI：https://doi.org/10.1016/j.tate.2026.105731
 
-[11] From form to substance: Rethinking teacher professional development in Vietnam
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Thao Phuong Nguyen, Ni Thi Ha Nguyen, Nguyễn Văn Biên 等(5人)
-    日期：2026-07-09
-    关键词：Agency (philosophy), Negotiation, Performative utterance, Cornerstone, Professional development
-    DOI：https://doi.org/10.1016/j.tate.2026.105721
-
-[12] Outcome-Based Language Teaching in EMI Listening: Balancing Accountability With Ungraded Supports for Low-Proficiency Learners
+[23] Exploring Teacher Agency in Conducting Peer Feedback Activities in English-as-a-Foreign-Language Writing: An Ecological Perspective
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Camik Wanhassan
+    作者：Yao Lu, Ying Gao, Tiantian Xu
     日期：2026-07-09
-    关键词：Accountability, Active listening, Thematic analysis, EMI, Student engagement
-    DOI：https://doi.org/10.1177/13621688261457415
+    关键词：Peer feedback, Affordance, Agency (philosophy), Perspective (graphical), Process (computing)
+    DOI：https://doi.org/10.1177/13621688261459082
 
-[13] Instructional Practices for Signed Literacy: Observations of 38 Deaf Education Classrooms
+[24] The Production Effect in Second Language Verb–Noun Idiom Learning: Evidence From Pure-List Designs and Transfer-Appropriate Processing
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Leala Holcomb, Leah Oakes
+    作者：Ryotaro Hashizaki
     日期：2026-07-09
-    关键词：Deaf education, Literacy, Sign language, American Sign Language, Teaching method
-    DOI：https://doi.org/10.1177/13621688261459327
+    关键词：Reading (process), Test (biology), Recall, Meaning (existential), Language proficiency
+    DOI：https://doi.org/10.1177/13621688261454077
 
-[14] Enhancing English-as-a-Foreign-Language Speaking Performance through Self-Regulated Strategy Instruction: Evidence from Chinese University Learners
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Yawen Wang, Peijian Paul Sun
-    日期：2026-07-09
-    关键词：Language proficiency, Control (management), Learner autonomy, Second language, Intervention (counseling)
-    DOI：https://doi.org/10.1177/13621688261459664
+[25] Intersectionality as Curricular Infrastructure in Language Teacher Education
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Darío Luis Banegas, Veronico N. Tarrayo
+    日期：2026-07-10
+    关键词：Practicum, Intersectionality, Curriculum, Social justice, Teacher education
+    DOI：https://doi.org/10.1111/ejed.70768
+    🔓 开放获取
 
-[15] Embarking on Virtual Exchange for English as a Multilingua Franca Context: Comparing Virtual Reality and Non-Virtual Reality Approaches to Enhance Second Language Speaking Fluency
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Van Huynh Ha Le, Denchai Prabjandee, Punwalai Kewara
-    日期：2026-07-09
-    关键词：Fluency, Virtual reality, Affordance, Vietnamese, Foreign language
-    DOI：https://doi.org/10.1177/13621688261457582
+[26] Physical education teacher education matters – This is how!
+    期刊：European Physical Education Review (JIF: 3.3)
+    作者：Christopher Engdahl, Mikael Quennerstedt, Håkan Larsson 等(5人)
+    日期：2026-07-10
+    关键词：Subjectification, Physical education, Teacher education, Scholarship, Professional development
+    DOI：https://doi.org/10.1177/1356336x261463138
+    🔓 开放获取
 
-[16] Does residential gentrification lead to school gentrification? Evidence from the Paris metropolitan area, methodological challenges and diversity of configuration
-    期刊：Educational Review (JIF: 3.4)
-    作者：Lise Lécuyer, Marco Oberti
-    日期：2026-07-09
-    关键词：Gentrification, Metropolitan area, Diversity (politics), Lead (geology), Higher education
-    DOI：https://doi.org/10.1080/00131911.2026.2687080
-
-[17] Governance model for sustainable development in higher education institutions
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Paulo Guilherme Fuchs, Lucas Veiga Ãvila, Luciana Brandli 等(5人)
-    日期：2026-07-09
-    关键词：Corporate governance, Higher education, Sustainable development, Prosperity, Delphi method
-    DOI：https://doi.org/10.1108/ijshe-11-2025-1356
-
-[18] Entrepreneurship education and graduate work-readiness: an employability-focused training perspective in higher education
-    期刊：Education and Training (JIF: 3.2)
-    作者：Attah Emmanuel Yusuf, Purity Uzoamaka Ndubuisi-Okolo
-    日期：2026-07-09
-    关键词：Employability, Entrepreneurship, Higher education, Experiential learning, Curriculum
-    DOI：https://doi.org/10.1108/et-01-2026-0035
-
-[19] International academic mobility and the temporality of contribution: a morphogenetic analysis of returnee scholars’ engagement in higher education
+[27] University student agency in genre-sensitive writing: a longitudinal mixed-methods multi-case study of teacher and GenAI feedback
     期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Ahmad Akkad, Natalya Hanley
-    日期：2026-07-09
-    关键词：Higher education, Temporality, Qualitative research, Perspective (graphical), Internationalization of Higher Education
-    DOI：https://doi.org/10.1080/03075079.2026.2695258
+    作者：Huican Huo, Lawrence Jun Zhang, Donglan Zhang
+    日期：2026-07-10
+    关键词：Agency (philosophy), Peer feedback, Task (project management), Higher education, Feedback regulation
+    DOI：https://doi.org/10.1080/03075079.2026.2691927
     🔓 开放获取
-
-[20] Chemistry Education Research and Practice
-    期刊：Chemistry Education Research and Practice (JIF: 3.2)
-    日期：2026-07-09
-    关键词：Chemistry, Mathematics education, Psychology
-    DOI：https://doi.org/10.1039/1756-1108/2000
-    🔓 开放获取
-
-[21] Correction to: Korean In-service Science Teachers’ Perceptions of NOS: Focusing on a Reconceptualized FRA-to-NOS
-    期刊：Science & Education (JIF: 2.5)
-    作者：Seoung‐Hey Paik, Seonghye Kim, Young‐Mi Kim
-    日期：2026-07-09
-    关键词：Perception, Mistake, Feature (linguistics)
-    DOI：https://doi.org/10.1007/s11191-026-00769-x

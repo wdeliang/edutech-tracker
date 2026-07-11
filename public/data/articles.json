@@ -1,5 +1,521 @@
 [
   {
+    "id": "https://openalex.org/W7167913194",
+    "title": "Interactive learning dashboards: rethinking learning visualisations as engagement tools",
+    "authors": [
+      "Laura Graf",
+      "Patrick Bassner",
+      "Maximilian Anzinger",
+      "Felix Dietrich",
+      "Stephan Krusche"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-11",
+    "doi": "10.1007/s10639-026-14082-1",
+    "url": "https://doi.org/10.1007/s10639-026-14082-1",
+    "abstract": "Abstract Learning Analytics Dashboards (LADs) have shown limited impact on student outcomes, often functioning as static visualizations. In this paper, we present a case study reimagining LADs as interactive tools that promote student engagement. Namely, we extend a conventional LAD with a Large Language Model (LLM)-powered pedagogical agent and an interactive Judgement of Learning (JoL) feature to support students’ awareness of their study progress. The pedagogical agent engaged students in con",
+    "keywords": [
+      "Learning analytics",
+      "Metacognition",
+      "Educational technology",
+      "Interactive Learning",
+      "Judgement"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10639-026-14082-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:16.528443"
+  },
+  {
+    "id": "https://openalex.org/W7167951723",
+    "title": "Ethically situated AI integration in higher education: A mixed-methods latent profile analysis of faculty adoption",
+    "authors": [
+      "Mohammed Alwaqdani"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-11",
+    "doi": "10.1007/s10639-026-14095-w",
+    "url": "https://doi.org/10.1007/s10639-026-14095-w",
+    "abstract": "",
+    "keywords": [
+      "Situated",
+      "Educational technology",
+      "Technology integration",
+      "Higher education",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:16.528462"
+  },
+  {
+    "id": "https://openalex.org/W7167905983",
+    "title": "Holding presenters accountable for their posters during post-presentation discussions in a project-based EFL classroom",
+    "authors": [
+      "Marwa Amri"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-07-10",
+    "doi": "10.1016/j.system.2026.104098",
+    "url": "https://doi.org/10.1016/j.system.2026.104098",
+    "abstract": "This study examines follow-up discussions after students' poster presentations in a project-based English-as-a-foreign-language (EFL) classroom at an upper-secondary school in Sweden. As part of this project, students designed posters based on George Orwell's Animal Farm , presented them in a whole-class setting, and then engaged in post-presentation question–answer exchanges. Drawing on conversation analysis, the study shows how audience members (i.e., peers) hold presenters accountable for mee",
+    "keywords": [
+      "Conversation",
+      "Meaning (existential)",
+      "Conversation analysis",
+      "Task (project management)",
+      "Ask price"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.system.2026.104098",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:14.699496"
+  },
+  {
+    "id": "https://openalex.org/W7167922539",
+    "title": "How to Improve TPACK in Science Education: Systematic Literature Review of Empirical Studies",
+    "authors": [
+      "Mohd Zaidi Bin Amiruddin",
+      "Nanang Winarno",
+      "Achmad Samsudin",
+      "Andi Suhandi",
+      "Bayram Çoştu"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-07-10",
+    "doi": "10.1007/s10956-026-10349-x",
+    "url": "https://doi.org/10.1007/s10956-026-10349-x",
+    "abstract": "",
+    "keywords": [
+      "Systematic review",
+      "Science education",
+      "Empirical research",
+      "Educational technology",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:15.892493"
+  },
+  {
+    "id": "https://openalex.org/W7167927781",
+    "title": "Effects of the question wait time and question positions on scientific concept learning from video",
+    "authors": [
+      "Hongyan Wang",
+      "Zhuoni Xue",
+      "Youbin Zhang",
+      "Weiping Hu"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-10",
+    "doi": "10.1007/s10639-026-14094-x",
+    "url": "https://doi.org/10.1007/s10639-026-14094-x",
+    "abstract": "",
+    "keywords": [
+      "Cognition",
+      "Process (computing)",
+      "Cognitive load",
+      "Educational technology",
+      "Concept learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:16.528468"
+  },
+  {
+    "id": "https://openalex.org/W7167923865",
+    "title": "Enhancing graduate students’ academic writing through AI, peer, and instructor based multi-source feedback model",
+    "authors": [
+      "Ömer Arpacık",
+      "Melike Aydemir",
+      "Sevda Küçük",
+      "Hatice Yıldız Durak"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/10494820.2026.2699331",
+    "url": "https://doi.org/10.1080/10494820.2026.2699331",
+    "abstract": "",
+    "keywords": [
+      "Graduate students",
+      "Academic writing",
+      "Higher education",
+      "Peer feedback",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.159874"
+  },
+  {
+    "id": "https://openalex.org/W7167907488",
+    "title": "AI-enhanced feedback and its effects on student motivation, self-regulation, and learning outcomes in higher education",
+    "authors": [
+      "Man Zhai",
+      "Muhammad Farhan"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/10494820.2026.2687874",
+    "url": "https://doi.org/10.1080/10494820.2026.2687874",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Electronic learning",
+      "Educational technology",
+      "Academic achievement",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.159892"
+  },
+  {
+    "id": "https://openalex.org/W7167907518",
+    "title": "Revealing how learning strategies emerge: a human-centered reinforcement learning perspective",
+    "authors": [
+      "Tong Liu",
+      "Longwei Zheng",
+      "Haoxin Xu",
+      "Bingqian Jiang",
+      "Xiaoqing Gu"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/10494820.2026.2690106",
+    "url": "https://doi.org/10.1080/10494820.2026.2690106",
+    "abstract": "",
+    "keywords": [
+      "Perspective (graphical)",
+      "Experiential learning",
+      "Reinforcement learning",
+      "Educational technology",
+      "Active learning (machine learning)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.159897"
+  },
+  {
+    "id": "https://openalex.org/W7167942934",
+    "title": "Exploring how generative AI usage modes induce distinct learning pathways and specific creativity outcomes",
+    "authors": [
+      "Zhang Yingying",
+      "Hui Zhang",
+      "Yao Chi"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/10494820.2026.2693963",
+    "url": "https://doi.org/10.1080/10494820.2026.2693963",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Generative grammar",
+      "Generative model",
+      "Educational technology",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.159902"
+  },
+  {
+    "id": "https://openalex.org/W7167894425",
+    "title": "The impact of politeness on challenges in students’ online debates: a statistical discourse analysis",
+    "authors": [
+      "Ming Ming Chiu",
+      "Allan Jeong"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/10494820.2026.2674176",
+    "url": "https://doi.org/10.1080/10494820.2026.2674176",
+    "abstract": "",
+    "keywords": [
+      "Politeness",
+      "Discourse analysis",
+      "Statistical analysis",
+      "Computer-mediated communication",
+      "Conversation analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.159906"
+  },
+  {
+    "id": "https://openalex.org/W7167899990",
+    "title": "Exploring psychological pathways to pedagogical AI overreliance among chinese teachers through cognitive–affective–conative framework",
+    "authors": [
+      "Kai Cui",
+      "Jinlong Li",
+      "Huimin He",
+      "Chenghao Wang",
+      "Bin Zou"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/15391523.2026.2700717",
+    "url": "https://doi.org/10.1080/15391523.2026.2700717",
+    "abstract": "",
+    "keywords": [
+      "Electronic learning",
+      "Educational technology",
+      "Technology integration",
+      "Teaching method",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:17.833037"
+  },
+  {
+    "id": "https://openalex.org/W7167904167",
+    "title": "Human-AI co-learning in gamified environments: Rethinking motivation and engagement in the age of intelligent education",
+    "authors": [
+      "Puyan Jin"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/14703297.2026.2702451",
+    "url": "https://doi.org/10.1080/14703297.2026.2702451",
+    "abstract": "This cross-sectional survey examines associations between perceived human – AI co-learning and learners’ intrinsic motivation, relatedness, and multidimensional engagement in gamified university environments, grounded in Self-Determination Theory (SDT). SEM analyses of survey data from 357 Chinese university students indicated that perceived co-learning positively predicted intrinsic motivation (β = .314, p < .001) and relatedness (β = .352, p < .001). Gamification mechanism perception partially",
+    "keywords": [
+      "Transformative learning",
+      "Perception",
+      "Association (psychology)",
+      "Structural equation modeling",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.508890"
+  },
+  {
+    "id": "https://openalex.org/W7167922754",
+    "title": "Necessary but Not Sufficient: School Administrator Support and Teacher Safety, Anxiety/Stress, Retention, and Victimization",
+    "authors": [
+      "Andrew H. Perry",
+      "Linda A. Reddy",
+      "Andrew Martinez",
+      "Susan D. McMahon",
+      "Ron Avi Astor"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-07-10",
+    "doi": "10.3102/0013189x261457851",
+    "url": "https://doi.org/10.3102/0013189x261457851",
+    "abstract": "With growing concerns about school violence and teacher victimization in U.S. schools, it remains unclear if administrator support is enough to address teacher safety, anxiety and stress, and retention. Using a national sample of 5,550 pre-K–12th-grade teachers, we examined the effect of administrative support on retention intentions, the mediating effect of perceived safety and anxiety and stress, and how teacher victimization by students moderates associations between administrator support and",
+    "keywords": [
+      "Anxiety",
+      "Path analysis (statistics)",
+      "Sample (material)",
+      "Human factors and ergonomics",
+      "Social support"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:19.763004"
+  },
+  {
+    "id": "https://openalex.org/W7167920424",
+    "title": "Assessing the impact of hybrid school visits in initial teacher education: A mixed-methods randomised controlled trial and process evaluation",
+    "authors": [
+      "Lydia Lymperis",
+      "Ellen Turner",
+      "David Aldridge",
+      "Emily Beach",
+      "Mudabira Fayaz"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-10",
+    "doi": "10.1016/j.tate.2026.105731",
+    "url": "https://doi.org/10.1016/j.tate.2026.105731",
+    "abstract": "",
+    "keywords": [
+      "Randomized controlled trial",
+      "Process (computing)",
+      "Program evaluation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:29.504903"
+  },
+  {
+    "id": "https://openalex.org/W7167909196",
+    "title": "Intersectionality as Curricular Infrastructure in Language Teacher Education",
+    "authors": [
+      "Darío Luis Banegas",
+      "Veronico N. Tarrayo"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-10",
+    "doi": "10.1111/ejed.70768",
+    "url": "https://doi.org/10.1111/ejed.70768",
+    "abstract": "ABSTRACT The aim of this conceptual‐reflective article is to discuss how we could (re)imagine language teacher education (LTE) for challenging contexts by adopting social justice as a philosophy of education and the notion of intersectionality as a framework to inform LTE. The article first conceptualises social justice as a philosophy and then proceeds to make a distinction between social justice LTE and social justice in LTE. This conceptualisation reviews the recent literature at the seams of",
+    "keywords": [
+      "Practicum",
+      "Intersectionality",
+      "Curriculum",
+      "Social justice",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70768",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:33.223794"
+  },
+  {
+    "id": "https://openalex.org/W7167901132",
+    "title": "Physical education teacher education matters – This is how!",
+    "authors": [
+      "Christopher Engdahl",
+      "Mikael Quennerstedt",
+      "Håkan Larsson",
+      "Erik Backman",
+      "Maria Howding"
+    ],
+    "journal": "European Physical Education Review",
+    "jif": 3.3,
+    "published_date": "2026-07-10",
+    "doi": "10.1177/1356336x261463138",
+    "url": "https://doi.org/10.1177/1356336x261463138",
+    "abstract": "Previous research has presented contrasting notions of the potential impact of physical education teacher education (PETE) on professional teaching practice. Despite growing scholarship on PETE, work is needed to better understand how PETE can matter to would-be physical education (PE) teachers and teaching in the subject. This article aims to provide insights into when and how PETE matters to further understand how programmes can prepare preservice teachers (PSTs) for their future profession. T",
+    "keywords": [
+      "Subjectification",
+      "Physical education",
+      "Teacher education",
+      "Scholarship",
+      "Professional development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/1356336x261463138",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:36.837124"
+  },
+  {
+    "id": "https://openalex.org/W7167907893",
+    "title": "University student agency in genre-sensitive writing: a longitudinal mixed-methods multi-case study of teacher and GenAI feedback",
+    "authors": [
+      "Huican Huo",
+      "Lawrence Jun Zhang",
+      "Donglan Zhang"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-10",
+    "doi": "10.1080/03075079.2026.2691927",
+    "url": "https://doi.org/10.1080/03075079.2026.2691927",
+    "abstract": "Learner agency is central to effective writing, and yet little is known about how students mobilize evaluative judgement when coordinating teacher feedback with feedback from generative artificial intelligence (GenAI) tools. This longitudinal mixed-methods multiple-case study (N = 10) traced how EFL university learners engaged with hybrid instructor–GenAI feedback across three genre-sequenced tasks (argumentative essay, AE; analytical report, AR; research proposal, RP) and three successive revis",
+    "keywords": [
+      "Agency (philosophy)",
+      "Peer feedback",
+      "Task (project management)",
+      "Higher education",
+      "Feedback regulation"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/03075079.2026.2691927?needAccess=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:39.310820"
+  },
+  {
+    "id": "https://openalex.org/W7167946763",
+    "title": "Exploring Teacher Agency in Conducting Peer Feedback Activities in English-as-a-Foreign-Language Writing: An Ecological Perspective",
+    "authors": [
+      "Yao Lu",
+      "Ying Gao",
+      "Tiantian Xu"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261459082",
+    "url": "https://doi.org/10.1177/13621688261459082",
+    "abstract": "Although the learning benefits of peer feedback in English-as-a-foreign-language writing instruction have been well recognized, the process and effects of peer feedback are largely reliant on teacher agency in conducting such activities. However, inadequate research has been conducted on this issue, leaving the dynamic features and causes of teacher agency in peer feedback largely unknown. Drawing on an ecological perspective, this comparative case study examined how two English-as-a-foreign-lan",
+    "keywords": [
+      "Peer feedback",
+      "Affordance",
+      "Agency (philosophy)",
+      "Perspective (graphical)",
+      "Process (computing)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:30.747857"
+  },
+  {
+    "id": "https://openalex.org/W7167926844",
+    "title": "The Production Effect in Second Language Verb–Noun Idiom Learning: Evidence From Pure-List Designs and Transfer-Appropriate Processing",
+    "authors": [
+      "Ryotaro Hashizaki"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-09",
+    "doi": "10.1177/13621688261454077",
+    "url": "https://doi.org/10.1177/13621688261454077",
+    "abstract": "Learners of a second language often vocalize newly learned items, and previous studies have shown that this practice facilitates the learning of single words and multiword expressions. However, these effects have been demonstrated only in mixed-list designs, where a single list of items is learned using multiple learning methods, and have not been tested in pure-list designs, where each list is learned with one consistent method. Moreover, prior research has relied almost exclusively on written ",
+    "keywords": [
+      "Reading (process)",
+      "Test (biology)",
+      "Recall",
+      "Meaning (existential)",
+      "Language proficiency"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:30.747915"
+  },
+  {
     "id": "https://openalex.org/W7167842785",
     "title": "Editorial Board",
     "authors": [],
@@ -2600,6 +3116,225 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-06T22:57:38.762560"
+  },
+  {
+    "id": "https://openalex.org/W7167924049",
+    "title": "Tensions between relational supervision pedagogy and researcher independence",
+    "authors": [
+      "Cally Guerin",
+      "Meagan Tyler",
+      "Katherine Firth",
+      "Dan Bendrups"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2687864",
+    "url": "https://doi.org/10.1080/14703297.2026.2687864",
+    "abstract": "Extensive research into doctoral education repeatedly demonstrates that the relationship between supervisors and candidates is key to successful outcomes. Simultaneously, successful doctoral candidates need to demonstrate significant independence. Given widespread interest in relational supervision pedagogy, we consider the possible tension around relationality in supervision where it might foster dependence rather than independence. How can such dependence or over-reliance on a supervisor be mi",
+    "keywords": [
+      "Affordance",
+      "Supervisor",
+      "Independence (probability theory)",
+      "Workforce",
+      "Reflexivity"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2687864",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.508979"
+  },
+  {
+    "id": "https://openalex.org/W7167940096",
+    "title": "Expectations of independence from the outset? The discourse of researcher independence in the pre-application stage of doctoral admissions",
+    "authors": [
+      "James Burford",
+      "Susan Deeb",
+      "Dangeni",
+      "Emily F. Henderson",
+      "Sophia Kier-Byfield"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2617864",
+    "url": "https://doi.org/10.1080/14703297.2026.2617864",
+    "abstract": "This paper explores how the discourse of ‘researcher independence’ operates in the pre-application stage of doctoral recruitment. Drawing on semi-structured interview data from an institutional case study of pre-admissions practice at a UK Russell Group university, we examine how doctoral programme officers and academic directors of doctoral programmes interact with enquiries from pre-applicants. Our Foucauldian-inspired analysis demonstrates that researcher independence functions as a powerful ",
+    "keywords": [
+      "Independence (probability theory)",
+      "Reflexivity",
+      "Discourse analysis",
+      "Quality (philosophy)",
+      "Doctoral studies"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509017"
+  },
+  {
+    "id": "https://openalex.org/W7167912060",
+    "title": "Doctoral writing as a promoter for researcher development and independence: A conceptual analysis",
+    "authors": [
+      "Anna Sala‐Bubaré",
+      "Montserrat Castelló"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2653826",
+    "url": "https://doi.org/10.1080/14703297.2026.2653826",
+    "abstract": "The doctorate is a learning process that aims to develop new understanding, with the ultimate goal of acquiring research-related skills and competencies required to become an independent researcher capable of autonomous work within teams. However, doctoral candidates often face numerous challenges throughout this journey. Writing is frequently identified as one of the most salient challenges. We leverage a Cultural-Historical Activity Theory (CHAT) perspective and draw upon previous studies on d",
+    "keywords": [
+      "Perspective (graphical)",
+      "Salient",
+      "Task (project management)",
+      "Academic writing",
+      "Leverage (statistics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509053"
+  },
+  {
+    "id": "https://openalex.org/W7167894913",
+    "title": "Different journeys: Cultivating doctoral researcher independence, with distance and professional practice-oriented researchers through intercultural research supervision, the hidden curriculum and cohort-based provision",
+    "authors": [
+      "Gina Wisker"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2685601",
+    "url": "https://doi.org/10.1080/14703297.2026.2685601",
+    "abstract": "Supporting and enabling doctoral researchers, their achievement and independence, is not just an aim for higher education institutions but a necessity. This is particularly true in current contexts of differences across time, space, culturally inflected research learning and the variety of outcomes sought through doctorates. This conceptual and experience-based essay argues that flexibility and imaginative, responsive change in university systems, in supervision practices, modes of study and sup",
+    "keywords": [
+      "Flexibility (engineering)",
+      "Variety (cybernetics)",
+      "Curriculum",
+      "Higher education",
+      "Professional development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2685601",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509085"
+  },
+  {
+    "id": "https://openalex.org/W7167977275",
+    "title": "Fostering researcher independence: What are the educational and professional development consequences in the doctoral context?",
+    "authors": [
+      "Dely Lazarte Elliot",
+      "Søren Smedegaard Ernst Bengtsen",
+      "Inge van der Weijden",
+      "Hatice Nuriler"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2688019",
+    "url": "https://doi.org/10.1080/14703297.2026.2688019",
+    "abstract": "The idea for this Special Issue started at a conference organised by the European Association for Research on Learning and Instruction (EARLI) Special Interest Group (SIG) 24 ‘Researcher Education ...",
+    "keywords": [
+      "Professional development",
+      "Faculty development",
+      "Qualitative research",
+      "Focus group",
+      "Educational research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509098"
+  },
+  {
+    "id": "https://openalex.org/W7167936747",
+    "title": "A delicate balance: The interplay of supervision, academic context, motivation, and emotions in doctoral education",
+    "authors": [
+      "Patrícia Alves",
+      "Amélia Lopes",
+      "Ricardo Cruz‐Correia",
+      "Isabel Menezes"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2679627",
+    "url": "https://doi.org/10.1080/14703297.2026.2679627",
+    "abstract": "Doctoral education may be experienced as a transformative process through which PhD candidates progressively develop and come to be recognised as autonomous researchers. Supervision relationships can be spaces for the development of autonomy; however, supervisors’ support may be complex and multidimensional, drawing on constant struggles for balance. Drawing on a perspectivist approach and adopting a mixed-methods design, this study explored the interplay between the supervisory relationship, th",
+    "keywords": [
+      "Transformative learning",
+      "Autonomy",
+      "Higher education",
+      "Balance (ability)",
+      "Process (computing)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509136"
+  },
+  {
+    "id": "https://openalex.org/W7167916165",
+    "title": "Stages of competence in doctoral researcher development: Insights from a collective autoethnographic study of Journal Club participation",
+    "authors": [
+      "Kara A. Makara",
+      "Chenyao Duan",
+      "Karen Gordon",
+      "Fanzhu Meng",
+      "Zhihan Wu"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2629483",
+    "url": "https://doi.org/10.1080/14703297.2026.2629483",
+    "abstract": "This study explores how doctoral scholars’ competencies evolve over time through their experiences of Journal Club (JC) participation. Using collective autoethnography and Framework Analysis, Higher Education and Psychology doctoral scholars at a UK research-intensive university produced monthly and summative reflections. Guided by the Stages of Competence theory, we examined how knowledge, skills, and attitudes developed through ongoing engagement in JC discussions and leadership. Findings reve",
+    "keywords": [
+      "Competence (human resources)",
+      "Autoethnography",
+      "Summative assessment",
+      "Journal club",
+      "Conceptual framework"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2629483",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509172"
+  },
+  {
+    "id": "https://openalex.org/W7167920040",
+    "title": "Reconsidering researcher independence in an era of AI enabled learning",
+    "authors": [
+      "Liezel Frick",
+      "Nompilo Tshuma"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-04",
+    "doi": "10.1080/14703297.2026.2631580",
+    "url": "https://doi.org/10.1080/14703297.2026.2631580",
+    "abstract": "This paper examines researcher independence in doctoral education, particularly in the context of an AI-enabled learning environment. Traditionally associated with intellectual autonomy, methodological competence and original knowledge production, researcher independence remains a central, yet often underdefined, expectation of the PhD journey. The integration of AI technologies can complicate existing assumptions about independence, thereby necessitating its redefinition—one that emphasises con",
+    "keywords": [
+      "Competence (human resources)",
+      "Independence (probability theory)",
+      "Context (archaeology)",
+      "Maturity (psychological)",
+      "Originality"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-11T22:35:18.509206"
   },
   {
     "id": "https://openalex.org/W7167349383",
