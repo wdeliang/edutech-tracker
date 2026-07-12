@@ -1,5 +1,271 @@
 [
   {
+    "id": "https://openalex.org/W7168023450",
+    "title": "Integrating AI into computational thinking: development and validation of an assessment tool for higher education students",
+    "authors": [
+      "Shile Zhang",
+      "Shile Zhang",
+      "Shuhan Zhang",
+      "Shuhan Zhang"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-07-11",
+    "doi": "10.1186/s40594-026-00623-0",
+    "url": "https://doi.org/10.1186/s40594-026-00623-0",
+    "abstract": "In the modern digital era, computational thinking (CT) is a fundamental skill that has been influenced by advances in artificial intelligence (AI). While there are various resources for teaching and evaluating CT, the integration of AI principles into CT education remains scarce. In this study, we proposed the Computational Thinking in AI Training Test (CTAT), tailored for higher education students in computer sciences (CS) and AI-related programs. The test was developed using the Evidence-Cente",
+    "keywords": [
+      "Context (archaeology)",
+      "Test (biology)",
+      "Higher education",
+      "Field (mathematics)",
+      "Vocational education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00623-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:30.328192"
+  },
+  {
+    "id": "https://openalex.org/W7168042408",
+    "title": "Rethinking Coding and Network Approaches in <scp>CSCL</scp> : From Words and Codes to Inferences in a Transactional Perspective",
+    "authors": [
+      "Peter Reimann"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-11",
+    "doi": "10.1002/jcal.70292",
+    "url": "https://doi.org/10.1002/jcal.70292",
+    "abstract": "Data sharing not applicable to this article as no datasets were generated or analysed during the current study.",
+    "keywords": [
+      "Perspective (graphical)",
+      "Coding (social sciences)",
+      "Transactional leadership",
+      "Transactional analysis",
+      "Inference"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:45.314087"
+  },
+  {
+    "id": "https://openalex.org/W7168042441",
+    "title": "Spanish‐Speaking Secondary Students Reading and Spelling in English as a Foreign Language",
+    "authors": [
+      "Paz Suárez‐Coalla",
+      "Luis Castejón",
+      "Marina Vega-Harwood",
+      "Cristina Martínez‐García"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-11",
+    "doi": "10.1111/ejed.70765",
+    "url": "https://doi.org/10.1111/ejed.70765",
+    "abstract": "ABSTRACT Proficiency in English reading and spelling is essential, as many professional environments require both spoken and written skills. Literacy development in English as a foreign language poses challenges for learners whose first language is transparent, such as Spanish, due to the complexity and inconsistency of English orthography. Spanish‐speaking students often struggle with these inconsistencies, adversely affecting their reading and spelling abilities. While prior research has prima",
+    "keywords": [
+      "Spelling",
+      "Hard rime",
+      "Reading (process)",
+      "Consistency (knowledge bases)",
+      "Literacy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70765",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:55.692859"
+  },
+  {
+    "id": "https://openalex.org/W7168037386",
+    "title": "Sexuality Education in Swedish School‐Age Educare: Teaching and Approaches in Informal Spatialities",
+    "authors": [
+      "Sara Planting-Bergloo"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-11",
+    "doi": "10.1111/ejed.70763",
+    "url": "https://doi.org/10.1111/ejed.70763",
+    "abstract": "ABSTRACT This study investigates the somewhat underexplored field of sexuality education in Swedish school‐age educare and is part of a larger practice‐based research project on sexuality education in primary school. This paper aims to identify how and where sexuality education in school‐age educare could be enacted, and what it might include. Empirical data consist of example stories from the everyday work life of a school‐age educare teacher that have been analysed using the work of Annemarie ",
+    "keywords": [
+      "Human sexuality",
+      "Sexuality education",
+      "Perspective (graphical)",
+      "Qualitative research",
+      "Field (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70763",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:55.692913"
+  },
+  {
+    "id": "https://openalex.org/W7168021050",
+    "title": "A Scoping Review of Research on Teachers' Mindsets in English Language Teaching Contexts",
+    "authors": [
+      "Nguyen Trong Nguyen",
+      "Nguyễn Văn Lợi"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-11",
+    "doi": "10.1111/ejed.70767",
+    "url": "https://doi.org/10.1111/ejed.70767",
+    "abstract": "ABSTRACT Mindset research has contributed to a growing body of literature in English language education, especially research on teachers' mindsets in recent years. Despite this, a comprehensive view to advance this line of research is lacking. This scoping review aims to map past research on teachers' mindsets in English language teaching contexts, identify gaps, and provide future research directions. Following PRISMA guidelines, a search query was applied to Scopus, WoS, ProQuest, and ERIC, yi",
+    "keywords": [
+      "Mindset",
+      "English language",
+      "Inclusion (mineral)",
+      "Educational research",
+      "Language education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70767",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:55.692955"
+  },
+  {
+    "id": "https://openalex.org/W7168020013",
+    "title": "“When results become striking”: Promotional adjectives in STEM research articles (1995–2025)",
+    "authors": [
+      "Lingyu Yi",
+      "Zhongqing He"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-07-11",
+    "doi": "10.1016/j.jeap.2026.101740",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101740",
+    "abstract": "",
+    "keywords": [
+      "Novelty",
+      "Promotion (chess)",
+      "Rhetorical question",
+      "Rhetorical device",
+      "Rhetoric"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:56.356239"
+  },
+  {
+    "id": "https://openalex.org/W7168040932",
+    "title": "The Transformational STEM Consciousness Scale: A QuantCrit Measure of a Liberatory STEM Outcome",
+    "authors": [
+      "Juan C. Garibay",
+      "Lindsay B. Wheeler"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-07-11",
+    "doi": "10.1002/sce.70089",
+    "url": "https://doi.org/10.1002/sce.70089",
+    "abstract": "ABSTRACT Guided by QuantCrit, we introduce and validate the Transformational STEM Consciousness (TSC) scale, which fuses students' motivation to pursue racial and social justice through STEM with a critique of STEM's historic complicity in inequity. Surveying 255 undergraduate and graduate students in 18 justice‐integrated STEM courses across 11 US institutions, confirmatory factor analysis supported a unidimensional structure. Results also showed evidence of convergent (with equity‐ethic career",
+    "keywords": [
+      "Transformational leadership",
+      "Consciousness",
+      "Big Five personality traits",
+      "Enculturation",
+      "Prestige"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:35:57.040080"
+  },
+  {
+    "id": "https://openalex.org/W7168027396",
+    "title": "A Critical Religious Education Perspective on Argumentation in Science and Religious Education",
+    "authors": [
+      "Ayşe Demirel Uçan",
+      "J. Bryan Henderson"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-07-11",
+    "doi": "10.1007/s11191-026-00765-1",
+    "url": "https://doi.org/10.1007/s11191-026-00765-1",
+    "abstract": "Abstract Argumentation is a core pedagogical strategy in education, often supported by established frameworks such as Toulmin’s model. Although it is most frequently used in science education research, Toulmin articulated his model as a general framework for representing justificatory reasoning across multiple interpretive fields. However, structured approaches remain less developed in religious education (RE), which can leave students with the misconception that religious claims are merely subj",
+    "keywords": [
+      "Argumentation theory",
+      "Articulation (sociology)",
+      "Perspective (graphical)",
+      "Normative",
+      "Religious education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00765-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:36:05.913603"
+  },
+  {
+    "id": "https://openalex.org/W7168043363",
+    "title": "‘I was treated as a deficit’: Immigrant teachers' career progression in Australia",
+    "authors": [
+      "Ching Ting Tany Kwee",
+      "Hoa Thi Mai Nguyen",
+      "Tony Loughland"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-11",
+    "doi": "10.1002/berj.70245",
+    "url": "https://doi.org/10.1002/berj.70245",
+    "abstract": "Abstract Immigrant teachers have long been recruited through skilled and employer‐sponsored migration schemes to address teacher shortages in Australia, yet their career trajectories remain constrained by systemic inequities that limit their integration and professional development opportunities. Using a Longitudinal Interpretative Phenomenological Approach (LIPA), this study examines immigrant teachers' lived experiences of career progression within the Australian education system through the l",
+    "keywords": [
+      "Immigration",
+      "Career development",
+      "Economic shortage",
+      "Professional development",
+      "Qualitative research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70245",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:36:08.081193"
+  },
+  {
+    "id": "https://openalex.org/W7168037794",
+    "title": "Effects of Preservice Teachers’ Perception and Professional Knowledge on their Attending to Students’ Mathematics following Different Prompts for Noticing",
+    "authors": [
+      "Karl W. Kosko",
+      "Christine Austin",
+      "Maryam Zolfaghari",
+      "Rajan Maharjan",
+      "Qiang Guan"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-07-11",
+    "doi": "10.1007/s10763-026-10706-7",
+    "url": "https://doi.org/10.1007/s10763-026-10706-7",
+    "abstract": "Abstract This study investigated the influence of mathematical knowledge for teaching (MKT) and perceptual attention on preservice teachers’ (PSTs) attending to students’ mathematical thinking when the prompts scaffolding their noticing differed. Using a grounded cognitive framework, we analyzed 44 PSTs’ noticing following two separate prompts. Results from ordinal regression models indicated that both MKT and time spent observing students significantly predicted higher quality noticing. Merging",
+    "keywords": [
+      "Perception",
+      "Affect (linguistics)",
+      "Cognition",
+      "Quality (philosophy)",
+      "Knowledge level"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10763-026-10706-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-12T22:36:09.506908"
+  },
+  {
     "id": "https://openalex.org/W7167913194",
     "title": "Interactive learning dashboards: rethinking learning visualisations as engagement tools",
     "authors": [
