@@ -1,5 +1,111 @@
 [
   {
+    "id": "https://openalex.org/W7168083755",
+    "title": "Negotiating belonging: a constructivist grounded theory of transfer students’ experiences in STEM",
+    "authors": [
+      "Katya Hernández Holliday",
+      "Saya Shahoy",
+      "Stanley M. Lo",
+      "Ashley Juavinett"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-07-12",
+    "doi": "10.1186/s40594-026-00633-y",
+    "url": "https://doi.org/10.1186/s40594-026-00633-y",
+    "abstract": "Abstract Background A sense of belonging has been identified as a crucial predictor of persistence in undergraduate degrees. This construct is especially significant within the chilly environment of STEM fields since students’ sense of belonging and recognition as rightful members of the academic community ultimately shape their educational trajectories. However, it has rarely been studied among community college (CC) transfer students attending highly selective universities. This population is ",
+    "keywords": [
+      "Negotiation",
+      "Sense of community",
+      "Grounded theory",
+      "Construct (python library)",
+      "Population"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00633-y",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-13T22:42:16.666883"
+  },
+  {
+    "id": "https://openalex.org/W7168098584",
+    "title": "Positioning Positionality in Research on Novice Teachers of Color: Current Practices and Future Directions",
+    "authors": [
+      "Christopher J. Cormier",
+      "Kristabel Stark"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-07-12",
+    "doi": "10.3102/00346543261462167",
+    "url": "https://doi.org/10.3102/00346543261462167",
+    "abstract": "This paper offers a systematic review of researcher positionality in 94 studies addressing the experiences of novice teachers of color in K-12 settings. We explore how explicitly these studies articulated researcher positionality, the types of information included, and how researchers linked their positionality to the topics, methods, data, and analyses of their studies. We discuss the importance of critical reflection on researcher positionality in future research on novice teachers of color de",
+    "keywords": [
+      "Diversity (politics)",
+      "Reflection (computer programming)",
+      "Table (database)",
+      "Visual methods",
+      "Data collection"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-13T22:42:17.361418"
+  },
+  {
+    "id": "https://openalex.org/W7168079889",
+    "title": "Engagement without attainment? Exploring AI-assisted language learning through SLA theories",
+    "authors": [
+      "Murod Ismailov",
+      "Yuichi Ono",
+      "Thomas K. F. Chiu"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1080/09588221.2026.2699241",
+    "url": "https://doi.org/10.1080/09588221.2026.2699241",
+    "abstract": "Artificial Intelligence (AI) is increasingly used in second language acquisition (SLA), yet its pedagogical value remains contested. While most research focuses on mainstream chatbots, less is known about interactive AI tools that could be used for active, task-based learning. This study examined four experimental Google AI tools (Quick Draw, XYZ Toy, Say What You See, and GenChess) through core SLA theories. Sixty-four Japanese university students used the tools over two semesters, and their re",
+    "keywords": [
+      "Second-language acquisition",
+      "Language acquisition",
+      "Vocabulary",
+      "Mainstream",
+      "Interlanguage"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-13T22:42:18.682603"
+  },
+  {
+    "id": "https://openalex.org/W4414420117",
+    "title": "Comparing the use of linking adverbials in academic writing by L1 and L2 English student writers: A corpus-based study",
+    "authors": [
+      "Nguyễn Thùy Dương"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-07-11",
+    "doi": "10.1016/j.jeap.2026.101736",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101736",
+    "abstract": "",
+    "keywords": [
+      "Academic writing",
+      "Discipline",
+      "Cohesion (chemistry)",
+      "Preference",
+      "Academic year"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.2139/ssrn.5520819",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-13T22:42:47.347248"
+  },
+  {
     "id": "https://openalex.org/W7168023450",
     "title": "Integrating AI into computational thinking: development and validation of an assessment tool for higher education students",
     "authors": [
