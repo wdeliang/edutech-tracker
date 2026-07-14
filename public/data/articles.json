@@ -1,5 +1,785 @@
 [
   {
+    "id": "https://openalex.org/W7168127757",
+    "title": "The effectiveness of computerized dynamic assessment in improving L2 performance: A three-level meta-analysis",
+    "authors": [
+      "Qi Lu",
+      "Mengqi Chen",
+      "Lianrui Yang",
+      "Shaofeng Li",
+      "Ying Chen"
+    ],
+    "journal": "Recall",
+    "jif": 5.7,
+    "published_date": "2026-07-13",
+    "doi": "10.1017/s0958344026100561",
+    "url": "https://doi.org/10.1017/s0958344026100561",
+    "abstract": "Abstract The growing body of research on the effects of computerized dynamic assessment (C-DA) on second language (L2) learning underscores the need for a comprehensive research synthesis to identify future research directions and inform the application of C-DA in L2 educational contexts. This meta-analysis employed a three-level modeling approach to examine the effectiveness of C-DA in improving L2 learners’ performance. It synthesized 27 effect sizes from cake format designs, in which mediatio",
+    "keywords": [
+      "Moderation",
+      "Mediation",
+      "Test (biology)",
+      "Dynamic assessment",
+      "Yield (engineering)"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E8F52C171FD3F53DF71826531E4DBD02/S0958344026100561a.pdf/div-class-title-the-effectiveness-of-computerized-dynamic-assessment-in-improving-l2-performance-a-three-level-meta-analysis-div.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:55.392196"
+  },
+  {
+    "id": "https://openalex.org/W7168161638",
+    "title": "Fostering generative AI-supported self-regulated learning (GenAI-SRL) in informal digital language learning through literacy and interactions: A two-stage PLS-SEM-ANN approach",
+    "authors": [
+      "Xiaoqi Wang",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Recall",
+    "jif": 5.7,
+    "published_date": "2026-07-13",
+    "doi": "10.1017/s0958344026100524",
+    "url": "https://doi.org/10.1017/s0958344026100524",
+    "abstract": "Abstract Generative artificial intelligence (GenAI) enables foreign language learners to extend their learning beyond formal instruction and develop their autonomy. However, research has not adequately examined how learners regulate their learning with GenAI or how their GenAI literacy and multiple types of interactions influence their self-regulated learning (SRL) in GenAI-supported informal digital language learning settings. We address this gap by analyzing data from 343 Chinese university fo",
+    "keywords": [
+      "Mediation",
+      "Generative grammar",
+      "Structural equation modeling",
+      "Literacy",
+      "Language acquisition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1017/s0958344026100524",
+    "cited_by_count": 1,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:55.392251"
+  },
+  {
+    "id": "https://openalex.org/W7168131731",
+    "title": "Predicting user satisfaction and performance impact of AI-generated visuals in instruction with a hybrid SEM-ANN approach",
+    "authors": [
+      "Ismail Mohamed Ali",
+      "İbrahim Arpacı"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s10639-026-14087-w",
+    "url": "https://doi.org/10.1007/s10639-026-14087-w",
+    "abstract": "",
+    "keywords": [
+      "Key (lock)",
+      "Teaching method",
+      "Educational technology",
+      "Technology integration",
+      "User satisfaction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:58.417236"
+  },
+  {
+    "id": "https://openalex.org/W7168167827",
+    "title": "Teaching preparedness and digital instructional practices in technology-enhanced learning environments: testing a moderated mediation model within the ability-motivation-opportunity framework",
+    "authors": [
+      "Mengting Qian",
+      "Yufei Fang",
+      "Chunshun Yan"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/10494820.2026.2696365",
+    "url": "https://doi.org/10.1080/10494820.2026.2696365",
+    "abstract": "",
+    "keywords": [
+      "Moderated mediation",
+      "Preparedness",
+      "Electronic learning",
+      "Test (biology)",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:59.044117"
+  },
+  {
+    "id": "https://openalex.org/W7168123933",
+    "title": "Human, AI, and collaborative writing in computer science: a multilayer linguistic analysis of university students’ prompt-driven text production",
+    "authors": [
+      "Ömer Faruk Ursavaş",
+      "Aytuğ Onan",
+      "Hatice Yıldız Durak",
+      "İrem AKÇAYIR"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/10494820.2026.2693955",
+    "url": "https://doi.org/10.1080/10494820.2026.2693955",
+    "abstract": "",
+    "keywords": [
+      "Linguistic analysis",
+      "Collaborative writing",
+      "Production (economics)",
+      "Discourse analysis",
+      "Genre analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:59.044127"
+  },
+  {
+    "id": "https://openalex.org/W7168169252",
+    "title": "Integrating generative artificial intelligence into medical education: effects of prompt instruction on self-directed learning",
+    "authors": [
+      "Qinglin Zhang",
+      "Guangjie Chen",
+      "XC Wu",
+      "Xiaoyin Niu",
+      "Feng‐Kuang Chiang"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/10494820.2026.2680593",
+    "url": "https://doi.org/10.1080/10494820.2026.2680593",
+    "abstract": "",
+    "keywords": [
+      "Generative grammar",
+      "Computer-Assisted Instruction",
+      "Educational technology",
+      "Generative model",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:59.044132"
+  },
+  {
+    "id": "https://openalex.org/W7168154685",
+    "title": "From passive responders to active creators: A case study of student engagement with SRSs in a postgraduate context",
+    "authors": [
+      "Didi Liu",
+      "Samiullah Paracha"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/14703297.2026.2703709",
+    "url": "https://doi.org/10.1080/14703297.2026.2703709",
+    "abstract": "",
+    "keywords": [
+      "Student engagement",
+      "Context (archaeology)",
+      "Higher education",
+      "Graduate students",
+      "Context effect"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2703709",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:00.383188"
+  },
+  {
+    "id": "https://openalex.org/W7168168039",
+    "title": "Chinese Learner Engagement in AI-Mediated Informal Digital Learning of English: A Self-Determination Theory Perspective",
+    "authors": [
+      "Cheng Yang",
+      "Rui Li",
+      "Dan Feng"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s40299-026-01132-y",
+    "url": "https://doi.org/10.1007/s40299-026-01132-y",
+    "abstract": "",
+    "keywords": [
+      "Competence (human resources)",
+      "Autonomy",
+      "Perspective (graphical)",
+      "Learner autonomy",
+      "Informal learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:04.710417"
+  },
+  {
+    "id": "https://openalex.org/W7168149360",
+    "title": "Why Can’t I Stop Procrastinating? Exploring the Roles of AI-Assisted Writing use and Writing Self-efficacy in Writing Procrastination Among Chinese as a Second Language Learners",
+    "authors": [
+      "Fangwei Huang",
+      "Yang Zhao"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s40299-026-01130-0",
+    "url": "https://doi.org/10.1007/s40299-026-01130-0",
+    "abstract": "",
+    "keywords": [
+      "Procrastination",
+      "Second language writing",
+      "Task (project management)",
+      "Second language",
+      "Interpretation (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:04.710426"
+  },
+  {
+    "id": "https://openalex.org/W7168150982",
+    "title": "Using LLM chatbots for feedback in L2 English academic writing: a scoping review",
+    "authors": [
+      "Nu Nhu Y. Ho",
+      "Natasha Anne Rappa",
+      "Jeannine Wishart"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/17501229.2026.2698704",
+    "url": "https://doi.org/10.1080/17501229.2026.2698704",
+    "abstract": "Conventional practices of language teaching and learning are going through a substantial shift with the advent of Large Language Model (LLM) chatbots, such as ChatGPT. LLM chatbots have been increasingly examined as a provider of academic writing feedback for second language (L2) English learners. This review aims to explore the current literature on using LLM chatbots for academic writing feedback in higher education contexts and identify research gaps in this nascent field. Following the SMART",
+    "keywords": [
+      "Second language writing",
+      "English for academic purposes",
+      "Principal (computer security)",
+      "English language",
+      "Academic writing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:05.335600"
+  },
+  {
+    "id": "https://openalex.org/W7168152583",
+    "title": "‘Chinese is at my fingertips’: heritage language practices in digitalscapes",
+    "authors": [
+      "Jinyao Chang",
+      "Xiao Lan Curdt-Christiansen"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/17501229.2026.2700607",
+    "url": "https://doi.org/10.1080/17501229.2026.2700607",
+    "abstract": "",
+    "keywords": [
+      "Heritage language",
+      "Language acquisition",
+      "Foreign language",
+      "Field (mathematics)",
+      "Cultural heritage"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17501229.2026.2700607",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:05.335610"
+  },
+  {
+    "id": "https://openalex.org/W7168142923",
+    "title": "Enjoyment and second/foreign language learning: a three-level meta-analysis",
+    "authors": [
+      "Xinjie Chen",
+      "Jean-Marc Dewaele",
+      "Zhenyi Zhou"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/17501229.2026.2699419",
+    "url": "https://doi.org/10.1080/17501229.2026.2699419",
+    "abstract": "",
+    "keywords": [
+      "Language acquisition",
+      "Comprehension approach",
+      "Qualitative research",
+      "Language assessment",
+      "Affect (linguistics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17501229.2026.2699419",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:05.335615"
+  },
+  {
+    "id": "https://openalex.org/W7168158373",
+    "title": "Improving the transfer of inquiry strategies by using short instructional videos",
+    "authors": [
+      "Ana Saavedra",
+      "Daniel Schwartz"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s11423-026-10648-5",
+    "url": "https://doi.org/10.1007/s11423-026-10648-5",
+    "abstract": "Abstract Five experiments compared the effectiveness of different instructional videos and a no-video control group for the learning and transfer of inquiry strategies. In each experiment, students first tried to discover the laws governing a balance scale simulation. Afterwards, most students watched one of several instructional videos. The most complete video taught the effective strategy of converting each weight into a base-weight equivalent (e.g., blue = 2 reds). It also described a common ",
+    "keywords": [
+      "Transfer of learning",
+      "Scale (ratio)",
+      "Educational technology",
+      "Transfer (computing)",
+      "Control (management)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10648-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:07.795682"
+  },
+  {
+    "id": "https://openalex.org/W7168153161",
+    "title": "Prompting self-explanation in different gameplay contexts: effects on response quality and content learning",
+    "authors": [
+      "Xiaotong Yang",
+      "Seyedahmad Rahimi"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s11423-026-10672-5",
+    "url": "https://doi.org/10.1007/s11423-026-10672-5",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Educational technology",
+      "Quality (philosophy)",
+      "Qualitative research",
+      "Reflection (computer programming)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:07.795693"
+  },
+  {
+    "id": "https://openalex.org/W7168135280",
+    "title": "Comparison of impact between block-based and text-based cognitive tool on data inquiry competence in data science education",
+    "authors": [
+      "Yu Hu",
+      "Hui Zhang",
+      "Bian Wu"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s11423-026-10673-4",
+    "url": "https://doi.org/10.1007/s11423-026-10673-4",
+    "abstract": "",
+    "keywords": [
+      "Competence (human resources)",
+      "Cognition",
+      "Test (biology)",
+      "Capstone",
+      "Science education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:07.795698"
+  },
+  {
+    "id": "https://openalex.org/W7168201647",
+    "title": "Empowering teachers for artificial intelligence integration in gifted education: Evidence from a professional development program",
+    "authors": [
+      "Gamze İNCİ",
+      "Yakup Işıker",
+      "Halis Sakız",
+      "Halil Karadaş",
+      "Şükrü Aykat"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-13",
+    "doi": "10.1016/j.tate.2026.105739",
+    "url": "https://doi.org/10.1016/j.tate.2026.105739",
+    "abstract": "",
+    "keywords": [
+      "Professional development",
+      "Faculty development",
+      "Professional studies",
+      "Professional learning community",
+      "Program evaluation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:11.621008"
+  },
+  {
+    "id": "https://openalex.org/W7168141069",
+    "title": "The impact of organizational inertia on teacher well-being under the background of educational digital transformation: The chain mediating role of techno-overload and techno-inefficacy",
+    "authors": [
+      "Yunkai Chen",
+      "Zhehao Huang",
+      "Menglin Zhang",
+      "Ye Li"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-13",
+    "doi": "10.1016/j.tate.2026.105738",
+    "url": "https://doi.org/10.1016/j.tate.2026.105738",
+    "abstract": "",
+    "keywords": [
+      "Chain (unit)",
+      "Inertia",
+      "Higher education",
+      "Causal chain",
+      "Organizational commitment"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:11.621024"
+  },
+  {
+    "id": "https://openalex.org/W7168155674",
+    "title": "Developing sustainability competencies through a graduate capstone innovation",
+    "authors": [
+      "Sheila K. Schueller",
+      "Michaela Zint",
+      "Michal Russo",
+      "M’Lis Bartlett",
+      "Mike Shriberg"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-13",
+    "doi": "10.1108/ijshe-09-2025-1181",
+    "url": "https://doi.org/10.1108/ijshe-09-2025-1181",
+    "abstract": "Purpose Graduate sustainability programs continue to innovate to ensure graduates master the competencies needed to address complex sustainability challenges. The purpose of this paper is to introduce and assess a multi-semester, theme-based Sustainability Capstone Innovation (SCI) implemented by a leading US sustainability graduate program as an alternative to its traditional capstone requirement. Design/methodology/approach The SCI is structured as a three-semester course in which multiple int",
+    "keywords": [
+      "Capstone",
+      "Sustainability",
+      "Experiential learning",
+      "Scholarship",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:18.687753"
+  },
+  {
+    "id": "https://openalex.org/W7168217223",
+    "title": "An exploratory methodological pilot of Likert Scale for Dual Identities as a reflective elicitation tool in further education identity research",
+    "authors": [
+      "Abbie Cairns"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1108/et-08-2025-0613",
+    "url": "https://doi.org/10.1108/et-08-2025-0613",
+    "abstract": "Purpose This paper explores the intersection between workforce development and dual professionalism in the UK further education (FE) sector, foregrounding teacher identity as a site of both conflict and transformation. It addresses the under-theorisation of FE practitioners' dual roles, as subject specialists and pedagogues, particularly in the context of recent policy imperatives such as the Skills for Jobs White Paper and the Labour Party’s national missions. Design/methodology/approach The st",
+    "keywords": [
+      "Reflexivity",
+      "Context (archaeology)",
+      "Workforce",
+      "Identity (music)",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:21.194910"
+  },
+  {
+    "id": "https://openalex.org/W7168131229",
+    "title": "Artificial intelligence drivers for business education: a systematic review using the ADO framework",
+    "authors": [
+      "Veland Ramadani",
+      "Mohammad Atiqul Basher",
+      "Md. Mizanur Rahman",
+      "Md. Fazla Mohiuddin"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1108/et-01-2026-0051",
+    "url": "https://doi.org/10.1108/et-01-2026-0051",
+    "abstract": "Purpose This systematic literature review (SLR) aims to comprehensively examine previously published articles on the drivers of artificial intelligence (AI) to identify the key drivers and develop a future agenda for AI in business education. Design/methodology/approach In this study, using The Population, Intervention, Comparison, and Outcome (PICO) and Preferred Reporting Items For Systematic Reviews and Meta-Analyses (PRISMA) protocols, we selected 35 published articles, and the researchers e",
+    "keywords": [
+      "Business intelligence",
+      "Systematic review",
+      "Applications of artificial intelligence",
+      "Profiling (computer programming)",
+      "Key (lock)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:21.195019"
+  },
+  {
+    "id": "https://openalex.org/W7168127773",
+    "title": "Governing across deep differences: the inclusive governance model in higher education",
+    "authors": [
+      "Aleem Bharwani",
+      "Lorian Hardcastle",
+      "Dana Hayward",
+      "Bonnie Lashewicz",
+      "Michael Hart"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/03075079.2026.2669852",
+    "url": "https://doi.org/10.1080/03075079.2026.2669852",
+    "abstract": "How can universities govern across deep differences in an era of polarization and frayed epistemic trust? Higher education governance too often frames diversity as a risk to be managed rather than a generative force. This article introduces a novel Inclusive Governance Model, co-designed and implemented at a Canadian research university, which operationalizes ethical space, pluralism, and relational accountability. Using participatory action research, 300+ Indigenous Elders and scholars, civil-s",
+    "keywords": [
+      "Higher education",
+      "Indigenous",
+      "Corporate governance",
+      "Accountability",
+      "Participatory action research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2669852",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:21.808414"
+  },
+  {
+    "id": "https://openalex.org/W7168138254",
+    "title": "AI in rural classrooms: digital discretion, teacher agency, and student engagement in Vermont high schools",
+    "authors": [
+      "Turner Britz",
+      "Fulya Pinar"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-07-13",
+    "doi": "10.1080/17439884.2026.2698577",
+    "url": "https://doi.org/10.1080/17439884.2026.2698577",
+    "abstract": "This qualitative study examines how teachers and students in two rural Vermont high schools navigate the delegation of cognitive and pedagogical work to GenAI. Drawing on open-ended student surveys, interviews, a teacher focus group, and limited participant observation, we develop digital discretion to describe value-laden judgments about what work can be delegated, under what conditions, and with what limits. Teachers practice bounded delegation across platform-specific tools, while students en",
+    "keywords": [
+      "Qualitative research",
+      "Delegation",
+      "Discretion",
+      "Focus group",
+      "Work (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:23.057884"
+  },
+  {
+    "id": "https://openalex.org/W7168153513",
+    "title": "Negotiation Strategies and Barriers to Consensus: A Micro-level Analysis of Students’ Discursive Processes in Socioscientific Issue",
+    "authors": [
+      "Yuehua Chen",
+      "Na Yu"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-07-13",
+    "doi": "10.1007/s10763-026-10704-9",
+    "url": "https://doi.org/10.1007/s10763-026-10704-9",
+    "abstract": "",
+    "keywords": [
+      "Negotiation",
+      "Operationalization",
+      "Qualitative research",
+      "Science education",
+      "Opposition (politics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:28.023232"
+  },
+  {
+    "id": "https://openalex.org/W7168136812",
+    "title": "The effects of metacognitive strategy instruction in collaborative digital multimodal composing on students’ writing development",
+    "authors": [
+      "Meilu Liu",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1080/17501229.2026.2695226",
+    "url": "https://doi.org/10.1080/17501229.2026.2695226",
+    "abstract": "Purpose This study focuses on how a metacognitive strategy-based instructional collaborative digital multimodal composing (CDMC) program would promote Chinese English as a foreign language (EFL) learners’ writing development.Design A total of 40 postgraduate non-English major students from a university in East China participated in our study. The experimental group of students received three weeks of metacognitive strategy-based instruction, while the control group was taught with regular instru",
+    "keywords": [
+      "Argumentative",
+      "Metacognition",
+      "Fluency",
+      "Second language writing",
+      "English as a foreign language"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/17501229.2026.2695226?needAccess=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:05.335657"
+  },
+  {
+    "id": "https://openalex.org/W7168136926",
+    "title": "Intelligent multimodal feedback and teacher-learner dynamics in GenAI-enhanced language classrooms",
+    "authors": [
+      "Dexing Yang",
+      "Hang Li"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1080/17501229.2026.2700613",
+    "url": "https://doi.org/10.1080/17501229.2026.2700613",
+    "abstract": "The rapid integration of generative artificial intelligence (GenAI) into language education has foregrounded the need to understand how intelligent feedback systems interact with teacher–learner dynamics to shape learning outcomes. This study examined the structural relationships among intelligent multimodal feedback quality, behavioral engagement, learner self-confidence and emotional state, trust and perceived fairness of AI feedback, teacher influence and classroom climate, teacher readiness ",
+    "keywords": [
+      "Structural equation modeling",
+      "Dynamics (music)",
+      "Process (computing)",
+      "Language acquisition",
+      "Quality (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:05.335709"
+  },
+  {
+    "id": "https://openalex.org/W7168178824",
+    "title": "Elementary Students’ Conceptualizations of Disability in Written and Illustrated Forms",
+    "authors": [
+      "John Freer",
+      "Monique Somma",
+      "Erica Miklas",
+      "Lillian Scibetta"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-07-12",
+    "doi": "10.3102/00028312261460584",
+    "url": "https://doi.org/10.3102/00028312261460584",
+    "abstract": "Children often develop (mis)understandings of disability at young ages. Forming stereotypes about disability can contribute to ableist attitudes and social exclusion of peers with disabilities. The purpose of this qualitative study was to investigate children’s conceptualizations of disability in written and illustrated forms. Students in grades three to seven from 10 classes ( n = 192) at a midsize inclusive school in Ontario, Canada, were prompted to define the term disability and to draw a ch",
+    "keywords": [
+      "Qualitative research",
+      "Learning disability",
+      "Character (mathematics)",
+      "Physical disability",
+      "Qualitative analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:14.185658"
+  },
+  {
+    "id": "https://openalex.org/W7168139648",
+    "title": "Effects of Servant Leadership on Secondary Teachers' Well‐Being Through Basic Psychological Needs Satisfaction: A Longitudinal Study",
+    "authors": [
+      "Hailin He",
+      "Yungui Guo"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1111/ejed.70770",
+    "url": "https://doi.org/10.1111/ejed.70770",
+    "abstract": "ABSTRACT Despite growing interest in teacher well‐being, longitudinal evidence linking servant leadership to multidimensional well‐being through distinct psychological needs remains scarce. Grounded in Self‐Determination Theory (SDT), which identifies autonomy, competence, and relatedness as universal psychological needs for human flourishing, this study examines the mediating role of basic psychological needs satisfaction between servant leadership and three dimensions of teacher well‐being (wo",
+    "keywords": [
+      "Servant leadership",
+      "Competence (human resources)",
+      "Autonomy",
+      "Longitudinal study",
+      "Structural equation modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70770",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:15.458785"
+  },
+  {
+    "id": "https://openalex.org/W7168158986",
+    "title": "Social, Motivational, and Methodological Pathways to Behavioural Engagement and Psychological Regulation in <scp>AI</scp> ‐Enhanced <scp>EFL</scp> Learning: The Roles of Self‐Efficacy and Perceived Fairness",
+    "authors": [
+      "Yanyang Jin",
+      "Jijun Wang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1111/ejed.70764",
+    "url": "https://doi.org/10.1111/ejed.70764",
+    "abstract": "ABSTRACT The growing use of artificial intelligence (AI) in English as a Foreign Language (EFL) education contexts has reshaped how learners interact, stay motivated and manage their learning experiences. However, limited empirical work has examined how social, motivational, and methodological factors operate together to explain learner engagement and emotional regulation in AI‐enhanced EFL education contexts. This study explored the relationships among social interaction quality, learner self‐e",
+    "keywords": [
+      "Task (project management)",
+      "Structural equation modeling",
+      "Cognition",
+      "Test (biology)",
+      "Empirical research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70764",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:15.458842"
+  },
+  {
+    "id": "https://openalex.org/W7168126153",
+    "title": "Large Language Models in Electrical and Computer Engineering Education: Opportunities, Challenges and the Road Ahead",
+    "authors": [
+      "Abdulmalik Alwarafy"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-12",
+    "doi": "10.1111/ejed.70761",
+    "url": "https://doi.org/10.1111/ejed.70761",
+    "abstract": "ABSTRACT Electrical and Computer Engineering (EE/CE) education encompasses the rigorous study of electronic systems, computing architectures, embedded platforms, signal processing and hardware–software integration. Its inherently multidisciplinary nature demands mastery of mathematical modelling and experimental validation skills that pose substantial cognitive and logistical challenges to learners and instructors alike. The rapid emergence of Large Language Models (LLMs) offers transformative p",
+    "keywords": [
+      "Capstone",
+      "Transformative learning",
+      "Multidisciplinary approach",
+      "Corporate governance",
+      "Scarcity"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70761",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:44:15.458892"
+  },
+  {
     "id": "https://openalex.org/W7168083755",
     "title": "Negotiating belonging: a constructivist grounded theory of transfer students’ experiences in STEM",
     "authors": [
@@ -834,6 +1614,33 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-11T22:35:39.310820"
+  },
+  {
+    "id": "https://openalex.org/W7167808838",
+    "title": "Empathy, executive function, and dynamic L2 lexical inferencing in emotionally charged contexts: Predicting performance, inferencing potential, and retention",
+    "authors": [
+      "Bangxin HU",
+      "Yanhui Zhang",
+      "Haitao Zhang"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-07-09",
+    "doi": "10.1016/j.system.2026.104106",
+    "url": "https://doi.org/10.1016/j.system.2026.104106",
+    "abstract": "",
+    "keywords": [
+      "Stroop effect",
+      "Vocabulary",
+      "Cognition",
+      "Perspective (graphical)",
+      "Empathy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-14T22:43:56.585206"
   },
   {
     "id": "https://openalex.org/W7167946763",
