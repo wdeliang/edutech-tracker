@@ -1,5 +1,519 @@
 [
   {
+    "id": "https://openalex.org/W7169611074",
+    "title": "Navigating AI in STEM: what secondary students actually do with generative AI-driven tools",
+    "authors": [
+      "Martin Lněnička",
+      "Petr Coufal"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-07-17",
+    "doi": "10.1186/s40594-026-00637-8",
+    "url": "https://doi.org/10.1186/s40594-026-00637-8",
+    "abstract": "The rapid proliferation of generative Artificial Intelligence (AI) into secondary education has outpaced formal institutional guidance, creating an expansive array of unsupervised, independent student digital practices. Moving beyond simplistic assumptions of technological affordances, this cross-sectional study empirically analyses the self-reported behavioral distributions of secondary students’ interaction with generative AI-driven tools across four STEM subjects: computer science, mathematic",
+    "keywords": [
+      "Generative grammar",
+      "Transparency (behavior)",
+      "Discipline",
+      "Conscientiousness",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1186/s40594-026-00637-8.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:00.005996"
+  },
+  {
+    "id": "https://openalex.org/W7169599041",
+    "title": "The effect of high-immersion virtual reality environments on L2 learners’ socio-emotional variables: A meta-analysis",
+    "authors": [
+      "Yulia Khoruzhaya",
+      "Kara Moranski",
+      "Alexandra Neuenschwander",
+      "Nicole Ziegler"
+    ],
+    "journal": "Recall",
+    "jif": 5.7,
+    "published_date": "2026-07-17",
+    "doi": "10.1017/s0958344026100548",
+    "url": "https://doi.org/10.1017/s0958344026100548",
+    "abstract": "Abstract The effect of high-immersion virtual reality (HiVR) on second language (L2) learners’ socio-emotional responses has gained increasing attention in recent years, though findings remain mixed. This study meta-analyzed 18 primary studies (31 effect sizes, n = 996) published between 2019 and 2024 to examine (a) the overall effect of HiVR on L2 learners’ socio-emotional variables as compared with low-immersion (2D) language instruction and (b) the extent to which this effect varies as a func",
+    "keywords": [
+      "Moderation",
+      "Sense of presence",
+      "Virtual reality",
+      "Language proficiency",
+      "Differential effects"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1017/s0958344026100548",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-07-18T22:36:03.140136"
+  },
+  {
+    "id": "https://openalex.org/W4415961074",
+    "title": "Integrating metaverse technologies in medical education: examining acceptance factors among current and future healthcare providers",
+    "authors": [
+      "Seckin Damar",
+      "Gülşah Hançerlioğulları Köksalmış"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s10639-026-14097-8",
+    "url": "https://doi.org/10.1007/s10639-026-14097-8",
+    "abstract": "",
+    "keywords": [
+      "Usability",
+      "Technology acceptance model",
+      "Structural equation modeling",
+      "Metaverse",
+      "Variance (accounting)"
+    ],
+    "open_access": true,
+    "oa_url": "https://arxiv.org/pdf/2510.16984",
+    "cited_by_count": 1,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:06.340977"
+  },
+  {
+    "id": "https://openalex.org/W7169562947",
+    "title": "Prioritizing the core dimensions of teacher AI literacy for AI-empowered teaching capability in higher education: a Delphi study",
+    "authors": [
+      "H.P. Li",
+      "Ziting Suo",
+      "Chengxuan Liu",
+      "Hua He",
+      "Hao Wu"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-17",
+    "doi": "10.1080/10494820.2026.2700007",
+    "url": "https://doi.org/10.1080/10494820.2026.2700007",
+    "abstract": "",
+    "keywords": [
+      "Delphi method",
+      "Core (optical fiber)",
+      "Delphi",
+      "Literacy",
+      "Technology integration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:07.152549"
+  },
+  {
+    "id": "https://openalex.org/W7169559633",
+    "title": "Generative AI and motivational pathways in informal English learning: the role of enjoyment and flow",
+    "authors": [
+      "Xiaowei Zhang",
+      "Lianrui Yang",
+      "Yu Cui",
+      "Lingjie Tang",
+      "Xiaolan Liu"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s11423-026-10668-1",
+    "url": "https://doi.org/10.1007/s11423-026-10668-1",
+    "abstract": "",
+    "keywords": [
+      "Generative grammar",
+      "Flow (mathematics)",
+      "Generative model",
+      "Educational technology",
+      "Instructional design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:16.694543"
+  },
+  {
+    "id": "https://openalex.org/W7169609275",
+    "title": "Developing pre-service teachers’ TPACK for programming simulations",
+    "authors": [
+      "Niklas Karlsen",
+      "Siv Aalbergsjø"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s11423-026-10674-3",
+    "url": "https://doi.org/10.1007/s11423-026-10674-3",
+    "abstract": "Abstract Modeling using simulations is a promising approach for integrating programming into science education. In this paper we use the technological pedagogical and content knowledge (TPACK) framework developed by Mishra and Koehler (2006) to examine and develop pre-service teachers’ (PSTs’) knowledge of integrating computational thinking into science education in the context of programming simulations in Scratch. We have used design-based research to develop a learning sequence for PSTs conce",
+    "keywords": [
+      "Context (archaeology)",
+      "Educational technology",
+      "Computational thinking",
+      "Instructional design",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10674-3",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:16.694605"
+  },
+  {
+    "id": "https://openalex.org/W7169567603",
+    "title": "Exploration of how teacher education programs prepare pre-service teachers to teach difficult knowledge in Japan, Korea, and Taiwan",
+    "authors": [
+      "Yu-Han Hung",
+      "Hiromi Kawaguchi",
+      "Jongsung Kim"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-17",
+    "doi": "10.1016/j.tate.2026.105741",
+    "url": "https://doi.org/10.1016/j.tate.2026.105741",
+    "abstract": "",
+    "keywords": [
+      "Teacher education",
+      "Student teacher",
+      "Higher education",
+      "Teacher preparation",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:20.537381"
+  },
+  {
+    "id": "https://openalex.org/W7169611370",
+    "title": "Uniting generic and content-specific instructional quality: A profile analysis of pre-service teachers' learning experiences and its relevance for TPACK development",
+    "authors": [
+      "Anne-Kathrin Hirsch",
+      "Jo Tondeur",
+      "Charlott Rubach"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-17",
+    "doi": "10.1016/j.tate.2026.105620",
+    "url": "https://doi.org/10.1016/j.tate.2026.105620",
+    "abstract": "",
+    "keywords": [
+      "Relevance (law)",
+      "Higher education",
+      "Instructional design",
+      "Development (topology)",
+      "Teaching method"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105620",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:20.537392"
+  },
+  {
+    "id": "https://openalex.org/W7169541771",
+    "title": "Not the Artificial Intelligence, but the Sequence: Instructional Design and Oral Communication Strategy Development",
+    "authors": [
+      "Zola Chi-Chin Lai"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-17",
+    "doi": "10.1177/13621688261463373",
+    "url": "https://doi.org/10.1177/13621688261463373",
+    "abstract": "This study examines how instructional design shapes the development of oral communication strategies in an 18-week English-as-a-foreign-language speaking course, at a time when generative artificial intelligence is often assumed to enhance speaking performance. All three classes worked with the same curriculum and speaking tasks. One class learned through a BOPPPS (Bridge-In, Objective, Pre-Assessment, Participatory Learning, Post-Assessment, and Summary) based sequence in which students prepare",
+    "keywords": [
+      "Class (philosophy)",
+      "Fluency",
+      "Hierarchy",
+      "Creativity",
+      "Nonverbal communication"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:21.851691"
+  },
+  {
+    "id": "https://openalex.org/W7169597500",
+    "title": "Open versus closed-response methods of measuring students’ reasoning: A case study using the physics measurement questionnaire",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-07-17",
+    "doi": "10.1103/z9n2-tfr9",
+    "url": "https://doi.org/10.1103/z9n2-tfr9",
+    "abstract": "",
+    "keywords": [
+      "Measure (data warehouse)",
+      "Field (mathematics)",
+      "Measuring instrument",
+      "Data collection"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/z9n2-tfr9",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:23.883281"
+  },
+  {
+    "id": "https://openalex.org/W7169547871",
+    "title": "Resource-saving campus construction and university green innovation: evidence from the establishment of demonstration units for conservation-oriented public institutions",
+    "authors": [
+      "X J Liu",
+      "Jingyuan Yu",
+      "Chen You",
+      "Danyang Di",
+      "Di Li"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-17",
+    "doi": "10.1108/ijshe-01-2026-0132",
+    "url": "https://doi.org/10.1108/ijshe-01-2026-0132",
+    "abstract": "Purpose Public institutions are the main contributors to carbon emissions, and their resource conservation demonstration construction plays a vital role in guiding and advancing the country’s green transformation. Universities, as crucial components of public institutions and sources of advanced knowledge, serve as critical drivers of energy conservation and emission reduction. Exploiting the Establishment of Conservation-oriented Public Institution (COPI) Demonstration Units, this study manuall",
+    "keywords": [
+      "Incentive",
+      "Institution",
+      "Public institution",
+      "Work (physics)",
+      "Sustainability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:28.031329"
+  },
+  {
+    "id": "https://openalex.org/W7169554876",
+    "title": "Digital feedback and waste separation behaviour in university sport venues: a multi-method investigation of environmental innovation in higher education infrastructure",
+    "authors": [
+      "Jing Zhao",
+      "Zhouliang Qiu",
+      "Rende Li"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-17",
+    "doi": "10.1108/ijshe-12-2025-1674",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1674",
+    "abstract": "Purpose This study aims to examine whether digital feedback interventions can change spectator waste separation behaviour in university sport venues and how social influence processes amplify these effects, contributing to the broader understanding of environmental management innovations within higher education institutions. Design/methodology/approach Survey data were collected from 4,847 spectators at a university arena in Shanghai across 312 events over 18 months (September 2023 to February 2",
+    "keywords": [
+      "Higher education",
+      "Sustainability",
+      "Psychological intervention",
+      "Environmental education",
+      "Context (archaeology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:28.031384"
+  },
+  {
+    "id": "https://openalex.org/W7169497029",
+    "title": "Higher education green innovation and regional digitalization: spatiotemporal evolution and drivers",
+    "authors": [
+      "Hong Wu",
+      "Xuewei Wen",
+      "Bowen Chen",
+      "Lin Qiao"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-17",
+    "doi": "10.1108/ijshe-01-2026-0095",
+    "url": "https://doi.org/10.1108/ijshe-01-2026-0095",
+    "abstract": "Purpose This study aims to examine how higher education green innovation (HEGI) and regional digital development (RDD) evolve across Chinese provinces, how their spatial inequality changes and which regional conditions are associated with stronger coordination. Design/methodology/approach Using provincial panel data for China from 2014 to 2023, this study applies improved entropy-weighted TOPSIS, a revised coupling coordination degree model, Dagum Gini decomposition, the standard deviational ell",
+    "keywords": [
+      "Spatial inequality",
+      "Inequality",
+      "China",
+      "Empirical research",
+      "Panel data"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:28.031432"
+  },
+  {
+    "id": "https://openalex.org/W7169528824",
+    "title": "The engagement–capability gap in higher education: evidence from UK and Türkiye students",
+    "authors": [
+      "Hristos Karahalios",
+      "Emre Akyuz"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-17",
+    "doi": "10.1108/et-01-2026-0103",
+    "url": "https://doi.org/10.1108/et-01-2026-0103",
+    "abstract": "Purpose This study examines students’ self-reported digital and soft skills, together with learning-related communication practices in higher education, and explores whether these profiles differ by programme and year of study in the United Kingdom and Türkiye. Design/methodology/approach Survey data were collected from the United Kingdom (N = 85) and Türkiye (N = 122). Items captured learning resource use, communication practices, digital skills (DigComp 2.2-aligned) and soft skills on 5-point ",
+    "keywords": [
+      "Likert scale",
+      "Test (biology)",
+      "Replicate",
+      "Data collection",
+      "Digital divide"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:30.661563"
+  },
+  {
+    "id": "https://openalex.org/W7169575036",
+    "title": "Extracurricular work experiences and soft skills development among pre-service teachers",
+    "authors": [
+      "Iraia Urkia-Basterra",
+      "Ainara Imaz Agirre",
+      "Paula Álvarez‐Huerta"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-17",
+    "doi": "10.1108/et-09-2025-0764",
+    "url": "https://doi.org/10.1108/et-09-2025-0764",
+    "abstract": "Purpose This study explores how extracurricular work experiences relate to the development of soft skills among pre-service teachers. Soft skills such as social competences, communication, flexibility, efficacy beliefs and lifelong learning are crucial for addressing complex classroom challenges and supporting professional growth, yet whether work experiences may help foster them remains underexplored. Design/methodology/approach A quantitative cross-sectional design was employed with 709 pre-se",
+    "keywords": [
+      "Experiential learning",
+      "Soft skills",
+      "Lifelong learning",
+      "Work (physics)",
+      "Professional development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:30.661615"
+  },
+  {
+    "id": "https://openalex.org/W7169550979",
+    "title": "Exploring student-AI interaction in assessment through the lens of learner agency: case studies in UK higher education",
+    "authors": [
+      "Xianghan O’Dea",
+      "Yuan-Li Tiffany Chiu",
+      "Richard Bale",
+      "Monika Pazio"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-17",
+    "doi": "10.1080/03075079.2026.2700435",
+    "url": "https://doi.org/10.1080/03075079.2026.2700435",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Through-the-lens metering",
+      "Lens (geology)",
+      "Qualitative research",
+      "Semi-structured interview"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:31.351295"
+  },
+  {
+    "id": "https://openalex.org/W7169548347",
+    "title": "Embodied, Epistemic Cognition in Higher Science Education: Advances from the Chemistry Laboratory",
+    "authors": [
+      "Hendra Y. Agustian",
+      "Bente Gammelgaard",
+      "Muhammad Aswin Rangkuti",
+      "Magdalena Kersting"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s11191-026-00768-y",
+    "url": "https://doi.org/10.1007/s11191-026-00768-y",
+    "abstract": "Abstract This study synthesises two pivotal philosophical notions related to student learning in higher science education, i.e., embodied cognition and epistemic cognition, employing theoretical and empirical inquiries into epistemic practices in teaching laboratories. We conceptualise laboratory work as an authentic context for embodied, epistemic practices and critically review both philosophical notions in light of recent developments in science education. Through a multimethod approach combi",
+    "keywords": [
+      "Embodied cognition",
+      "Cognition",
+      "Perspective (graphical)",
+      "Philosophy of science",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-026-00768-y.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:34.636567"
+  },
+  {
+    "id": "https://openalex.org/W7169558085",
+    "title": "Exploring interactions of the dimensions of agency through the experiences of aspiring school leaders in Scotland, <scp>UK</scp>",
+    "authors": [
+      "Romina Madrid",
+      "Andrea Priestley",
+      "Elizabeth A. C. Rushton"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-17",
+    "doi": "10.1002/berj.70247",
+    "url": "https://doi.org/10.1002/berj.70247",
+    "abstract": "Abstract Agency has increasingly become a central concept in educational leadership research, yet its application to those preparing to enter school leadership roles remains underexplored. Drawing on the conceptual framework of the ecological approach to teacher agency, we explored how and in what ways aspiring school leaders in Scotland ( n = 21) experience agency as they undertake a national programme of professional learning designed to support their entry into school leadership— Into Headshi",
+    "keywords": [
+      "Agency (philosophy)",
+      "Context (archaeology)",
+      "Educational leadership",
+      "Government (linguistics)",
+      "Structure and agency"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70247",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:36.601583"
+  },
+  {
+    "id": "https://openalex.org/W7169628809",
+    "title": "State-Trait Duality of Self-Efficacy in Mathematical Problem-Posing and Solving: Insights from Chinese Eighth Graders",
+    "authors": [
+      "Qimeng Liu",
+      "Tianxue Cui",
+      "Jian Liu"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s10763-026-10708-5",
+    "url": "https://doi.org/10.1007/s10763-026-10708-5",
+    "abstract": "",
+    "keywords": [
+      "Situational ethics",
+      "Context (archaeology)",
+      "Trait",
+      "Duality (order theory)",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:37.934569"
+  },
+  {
     "id": "https://openalex.org/W7168801700",
     "title": "Outspoken emotions – Emotion regulation during emotional challenges in collaborative learning",
     "authors": [
@@ -27,6 +541,147 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-17T22:37:47.994714"
+  },
+  {
+    "id": "https://openalex.org/W7169591275",
+    "title": "Designing pedagogical AI agents as digital twins of teachers: insights from a multi-cohort training program",
+    "authors": [
+      "Jie-Shu Hwang",
+      "Marissa Yi-Hsuan Wu",
+      "Yu‐Ju Lan",
+      "Nian‐Shing Chen",
+      "Hui‐Chin Yeh"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-16",
+    "doi": "10.1080/10494820.2026.2689532",
+    "url": "https://doi.org/10.1080/10494820.2026.2689532",
+    "abstract": "Recent advances in generative artificial intelligence (AI) have increased interest in supporting teachers’ meaningful integration of AI into instruction. Pedagogical AI agents (PAIAs) serve as digital twins of teachers, enabling educators to externalize their pedagogical reasoning into scalable AI environments; however, translating instructional intentions into executable AI agents remains a complex challenge. This study investigated teachers’ AI-related competencies and learning experiences wit",
+    "keywords": [
+      "Instructional design",
+      "Educational technology",
+      "Digital literacy",
+      "Thematic analysis",
+      "Generative grammar"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:07.152754"
+  },
+  {
+    "id": "https://openalex.org/W7169591315",
+    "title": "Comparing Teacher and Artificial Intelligence Scoring in Writing Assessment: A Generalizability Theory Analysis",
+    "authors": [
+      "Burak Asma"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-16",
+    "doi": "10.1177/13621688261463602",
+    "url": "https://doi.org/10.1177/13621688261463602",
+    "abstract": "This study examined the use of artificial intelligence tools, which have garnered significant attention in recent years, in the assessment and evaluation processes of language education. For this purpose, student essays were scored by Turkish middle school teachers and artificial intelligence tools both with and without the use of a rubric, and the findings were evaluated based on generalizability theory. Additionally, the research findings were shared with participants to gather qualitative dat",
+    "keywords": [
+      "Generalizability theory",
+      "Rubric",
+      "Thematic analysis",
+      "Consistency (knowledge bases)",
+      "Turkish"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261463602",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:21.851746"
+  },
+  {
+    "id": "https://openalex.org/W7169597419",
+    "title": "Chasing rainbows: An interview study of middle school principals’ whole-of-school physical activity beliefs",
+    "authors": [
+      "Collin A. Webster",
+      "Jongho Moon",
+      "Ben D. Kern",
+      "Julian A. Reed",
+      "Vega Becerra"
+    ],
+    "journal": "European Physical Education Review",
+    "jif": 3.3,
+    "published_date": "2026-07-16",
+    "doi": "10.1177/1356336x261464361",
+    "url": "https://doi.org/10.1177/1356336x261464361",
+    "abstract": "Despite the central importance of school leadership in the successful implementation of new programs, little research has explored administrators’ views concerning whole-of-school physical activity (PA) initiatives, which can support students’ academic performance and healthy development. A critical knowledge gap exists in the context of secondary education, where whole-of-school PA implementation may face nuanced challenges. The purpose of this U.S.-based study was to examine middle school prin",
+    "keywords": [
+      "Accountability",
+      "Perspective (graphical)",
+      "Context (archaeology)",
+      "Physical activity",
+      "Sample (material)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:28.701777"
+  },
+  {
+    "id": "https://openalex.org/W7169593628",
+    "title": "Constructivist pedagogy as a post-socialist modernization project: insights from higher education in Kazakhstan, Kyrgyzstan and Mongolia",
+    "authors": [
+      "Murod Ismailov",
+      "Thomas K. F. Chiu",
+      "Nigora Djalilova",
+      "Тимур Дадабаев",
+      "Dilshod Ismailov"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-16",
+    "doi": "10.1080/03075079.2026.2699815",
+    "url": "https://doi.org/10.1080/03075079.2026.2699815",
+    "abstract": "Internationalisation in higher education often promotes constructivist and student-centred pedagogy as evidence of teaching quality, institutional reform and academic modernisation. Yet less is known about how these ideas are interpreted in post-socialist higher education systems, where international reform agendas meet inherited academic cultures and local university conditions. This two-phase qualitative multiple-case study with a longitudinal element examines how university teachers (N = 35) ",
+    "keywords": [
+      "Higher education",
+      "Curriculum",
+      "Constructivist teaching methods",
+      "Internationalization",
+      "Social constructivism"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:31.351562"
+  },
+  {
+    "id": "https://openalex.org/W7169543803",
+    "title": "Exploring the early observations of parents supporting their children with school attendance problems ( <scp>SAPs</scp> ): A co‐produced study",
+    "authors": [
+      "Tereza Aidonopoulou‐Read",
+      "Michelle Pyer",
+      "Beth Bodycote",
+      "J. A. Campbell",
+      "Kirsteen Pyer"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-16",
+    "doi": "10.1002/berj.70222",
+    "url": "https://doi.org/10.1002/berj.70222",
+    "abstract": "Abstract School Attendance Problems (SAPs) represent a significant challenge requiring early identification and intervention. Current service provision often does not recognise early indicators that parents observe, creating gaps between when initial concerns are raised and formal support is provided. This paper presents an explorative study on early indicators of SAPs focusing on the lived experiences of parents in post‐pandemic England. The paper details the parental perspectives on what const",
+    "keywords": [
+      "Attendance",
+      "Identification (biology)",
+      "Early childhood",
+      "Psychological intervention",
+      "Exploratory research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70222",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:36.601659"
   },
   {
     "id": "https://openalex.org/W7169010324",
@@ -2762,6 +3417,35 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-13T22:42:18.682603"
+  },
+  {
+    "id": "https://openalex.org/W7168033134",
+    "title": "Strategies for enhancing creativity among geography elective students: A multilevel linear analysis of student teamwork, learning motivation, and teachers’ instructional innovation",
+    "authors": [
+      "Yuwei Yang",
+      "Yanhua Xu",
+      "Cheng Peng",
+      "Ruizhi Zhang",
+      "Jianlin Du"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-11",
+    "doi": "10.1016/j.tsc.2026.102315",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102315",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Multilevel model",
+      "Moderation",
+      "Teamwork",
+      "Causality (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-18T22:36:15.351374"
   },
   {
     "id": "https://openalex.org/W7168036249",
