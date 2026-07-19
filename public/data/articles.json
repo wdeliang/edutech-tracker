@@ -1,5 +1,412 @@
 [
   {
+    "id": "https://openalex.org/W7169687627",
+    "title": "Not a universal benefit: Examining the differential effects of emotional <scp>AI</scp> on <scp>L2</scp> pre‐service teachers' language learning",
+    "authors": [
+      "Zhuo Wang",
+      "Hui Pang"
+    ],
+    "journal": "British Journal of Educational Technology",
+    "jif": 8.1,
+    "published_date": "2026-07-18",
+    "doi": "10.1111/bjet.70078",
+    "url": "https://doi.org/10.1111/bjet.70078",
+    "abstract": "Abstract While emotional design in educational AI is often presented as a universal benefit, this study challenges that assumption, investigating when, for whom and how it impacts L2 vocabulary learning. This paper reports on the first phase of a larger project, analysing data from a quasi‐experimental study with 147 pre‐service teachers who interacted with either an emotional or a regular AI agent. Data included pre‐/post‐tests, questionnaires and complete AI chat histories. Quantitative analys",
+    "keywords": [
+      "Vocabulary",
+      "Cognition",
+      "Differential effects",
+      "Emotional intelligence",
+      "Vocabulary learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:00.663858"
+  },
+  {
+    "id": "https://openalex.org/W7169684941",
+    "title": "Modeling the reading-to-writing pipeline: Knowledge graph and LLM-based assessment framework for source-based writing",
+    "authors": [
+      "Byungyeon Yun",
+      "Miranda Moe",
+      "Lauren E. Flynn",
+      "Püren Öncel",
+      "Laura K. Allen"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-07-18",
+    "doi": "10.1016/j.asw.2026.101098",
+    "url": "https://doi.org/10.1016/j.asw.2026.101098",
+    "abstract": "",
+    "keywords": [
+      "Rubric",
+      "Tracing",
+      "Comprehension",
+      "TRACE (psycholinguistics)",
+      "Writing assessment"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:07.578923"
+  },
+  {
+    "id": "https://openalex.org/W7169657388",
+    "title": "Development of a CLIL-ESP course for art and design students using the ADDIE model",
+    "authors": [
+      "Han Zhang",
+      "Mu He",
+      "Yue You",
+      "Xina Du"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-18",
+    "doi": "10.1080/17501229.2026.2698696",
+    "url": "https://doi.org/10.1080/17501229.2026.2698696",
+    "abstract": "",
+    "keywords": [
+      "ADDIE Model",
+      "Course (navigation)",
+      "Instructional design",
+      "Development (topology)",
+      "Experiential learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:17.648254"
+  },
+  {
+    "id": "https://openalex.org/W7169682366",
+    "title": "Effectiveness of <scp>DGBL</scp> in Elementary Mathematics: A Meta‐Analysis of Simulation‐Based Games and Year Group Appropriateness",
+    "authors": [
+      "Seftia Kusumawardani",
+      "Ghanis Putra Widhanarto"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-18",
+    "doi": "10.1002/jcal.70295",
+    "url": "https://doi.org/10.1002/jcal.70295",
+    "abstract": "ABSTRACT Background This study investigates the overall effect of Digital Game‐Based Learning (DGBL) on mathematics achievement, with specific attention given to identifying potential moderating factors. Objectives To determine the impact of DGBL on mathematics achievement in primary education and to explore the moderating roles of game characteristics (game type, year group, duration, dimensions) and study characteristics (research design, level of integration, measurement type, and mathematics",
+    "keywords": [
+      "Game based learning",
+      "Curriculum",
+      "Intervention (counseling)",
+      "Psychological intervention",
+      "Scopus"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:18.490438"
+  },
+  {
+    "id": "https://openalex.org/W7169660472",
+    "title": "Impact of an educational robot-based intervention on second-graders computational thinking skills: experimental evaluation of the Irûmi program in Paraguay",
+    "authors": [
+      "Emma Näslund-Hadley",
+      "Juan Manuel Hernández-Agramonte",
+      "Humberto Santos",
+      "Pablo Zoido"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-07-18",
+    "doi": "10.1007/s11423-026-10675-2",
+    "url": "https://doi.org/10.1007/s11423-026-10675-2",
+    "abstract": "Abstract In this article, we present the impact evaluation of Irûmi , an educational robot-based intervention aimed at developing second-grade students' computational thinking (CT) skills in Paraguay. Our results indicate that the program had an effect of 0.089 standard deviations on the students' CT skills, focusing on abilities such as abstraction, algorithmic thinking, and evaluation. These findings suggest that with age-appropriate instructional design, young children could develop CT skills",
+    "keywords": [
+      "Novelty",
+      "Intervention (counseling)",
+      "Flexibility (engineering)",
+      "Computational thinking",
+      "Curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10675-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:20.873110"
+  },
+  {
+    "id": "https://openalex.org/W7169684340",
+    "title": "Lag Effects in L2 Phonetic Training: Longer Intersession Intervals Compensate for Auditory Individual Differences",
+    "authors": [
+      "Li Xp",
+      "Kazuya Saito"
+    ],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-07-18",
+    "doi": "10.1111/modl.70081",
+    "url": "https://doi.org/10.1111/modl.70081",
+    "abstract": "ABSTRACT In cognitive psychology, longer intersession intervals are thought to enhance long‐term retention (i.e., lag effects). Recently, scholars have begun to test the generalizability of the lag effect to L2 vocabulary and grammar acquisition. Following their step, the present study not only replicated the lag effect but also provided a more fine‐grained insight into L2 phonetic acquisition, investigating how individual differences at both perceptual (auditory processing [AP]) and cognitive (",
+    "keywords": [
+      "Lag",
+      "Generalizability theory",
+      "Vocabulary",
+      "Interval (graph theory)",
+      "Mandarin Chinese"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/modl.70081",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:24.322728"
+  },
+  {
+    "id": "https://openalex.org/W7169669366",
+    "title": "What students need and what teachers deliver: Diagnosing need-supportive teaching behaviors among pre-service physical education teachers",
+    "authors": [
+      "Tong Zhou",
+      "Xin Shen",
+      "Wei Chen"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-18",
+    "doi": "10.1016/j.tate.2026.105743",
+    "url": "https://doi.org/10.1016/j.tate.2026.105743",
+    "abstract": "",
+    "keywords": [
+      "Warrant",
+      "Physical education",
+      "Salience (neuroscience)",
+      "Competence (human resources)",
+      "Identification (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:25.213567"
+  },
+  {
+    "id": "https://openalex.org/W7169683518",
+    "title": "Humanizing online higher education: Equitable outcomes and increased support for traditionally academically marginalized students",
+    "authors": [
+      "Ekaterina Midgette",
+      "Olivia G. Stewart"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-07-18",
+    "doi": "10.1016/j.tate.2026.105747",
+    "url": "https://doi.org/10.1016/j.tate.2026.105747",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Qualitative research",
+      "Intersectionality",
+      "Online learning",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:25.213582"
+  },
+  {
+    "id": "https://openalex.org/W7169681013",
+    "title": "The Effect of Text Shadowing on English Language Learners’ Pronunciation Development: A Quasi-Experimental Study",
+    "authors": [
+      "Mishelle Kehoe-Seamons",
+      "Mark Tanner",
+      "K. James Hartshorn",
+      "Rob Martinsen"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-18",
+    "doi": "10.1177/13621688261462581",
+    "url": "https://doi.org/10.1177/13621688261462581",
+    "abstract": "Shadowing is a technique that has been shown to significantly improve English language learners’ (ELLs) oral fluency and comprehensibility. However, previous research showing dramatic gains over time for ELLs has varied in design, with some studies including control groups and others not, thus complicating interpretations of efficacy. These studies have also been conducted in English and other languages with attention to advanced-level ELLs and beginning-level ELLs. Additional research is needed",
+    "keywords": [
+      "Pronunciation",
+      "Ell",
+      "Fluency",
+      "Likert scale",
+      "Control (management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:26.711004"
+  },
+  {
+    "id": "https://openalex.org/W7169659951",
+    "title": "Before and After Remedial Classes: Students' Attitudes, Perceived Learning and Behavioural Intentions in Higher Education Accounting",
+    "authors": [
+      "Rui Silva",
+      "Margarida Rodrigues",
+      "Cidália Oliveira",
+      "Ana Garcez",
+      "Mário Franco"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-18",
+    "doi": "10.1111/ejed.70783",
+    "url": "https://doi.org/10.1111/ejed.70783",
+    "abstract": "ABSTRACT This study examines the role of remedial classes as a pedagogical intervention in higher education accounting. Specifically, it analyses how students' attitudes, perceived learning, continued‐use intention and word‐of‐mouth communication are shaped before and after participation in remedial classes. A quantitative pre‐ and post‐intervention design was adopted, with data collected from accounting students at two moments: before the implementation of the remedial classes and after their c",
+    "keywords": [
+      "Remedial education",
+      "Higher education",
+      "Perception",
+      "Cognitive reframing",
+      "Intervention (counseling)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70783",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:29.916508"
+  },
+  {
+    "id": "https://openalex.org/W7169650667",
+    "title": "Goals of Well‐Being in the Context of Finnish Comprehensive School Education",
+    "authors": [
+      "Hanna Saarinen",
+      "Raisa Ahtiainen",
+      "Tapio Lahtero",
+      "Lauri Heikonen"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-18",
+    "doi": "10.1111/ejed.70774",
+    "url": "https://doi.org/10.1111/ejed.70774",
+    "abstract": "ABSTRACT One of the central aims of education and educational policies is to promote well‐being. Laws and norms oblige Finnish schools to formulate the goals for improving the well‐being of the entire school community in the documents guiding the school's operations. However, little is known about how the policy shows up in the school‐level goals related to well‐being, and how the ambiguous concept of well‐being has been understood. This article examines the well‐being discourses that emerged in",
+    "keywords": [
+      "Context (archaeology)",
+      "Affect (linguistics)",
+      "School education",
+      "Education policy",
+      "Discourse analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70774",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:29.916564"
+  },
+  {
+    "id": "https://openalex.org/W7169652783",
+    "title": "Analyzing the Progression of Nature of Science Representations in Chemistry Textbooks Across School Stages: The Lens of Family Resemblance Approach",
+    "authors": [
+      "Bo Chen",
+      "Huinan Liu",
+      "Manting Zhang",
+      "Xiujin Zhu"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-07-18",
+    "doi": "10.1007/s11191-026-00764-2",
+    "url": "https://doi.org/10.1007/s11191-026-00764-2",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Curriculum",
+      "Science education",
+      "Nature of Science",
+      "Compulsory education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:41.191643"
+  },
+  {
+    "id": "https://openalex.org/W7169661847",
+    "title": "Breaking point: Identifying the factors that predict suspension from school",
+    "authors": [
+      "Stephanie Cahill",
+      "Roberto Vagnetti",
+      "Christopher Knowles",
+      "Emma Thornton",
+      "Qiqi Cheng"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-18",
+    "doi": "10.1002/berj.70250",
+    "url": "https://doi.org/10.1002/berj.70250",
+    "abstract": "Abstract School suspensions are associated with adverse educational and psychosocial outcomes, yet little is known about how structural disadvantage, relational factors, health behaviours, well‐being indicators and school‐level factors jointly predict suspension risk in England. To our knowledge, this is the first study in England to model structural, relational, health‐behaviour, well‐being and school‐level predictors of suspension simultaneously within a single ecological framework. We draw on",
+    "keywords": [
+      "Psychosocial",
+      "Disadvantage",
+      "Suspension (topology)",
+      "Receipt",
+      "Structural equation modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70250",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:43.495844"
+  },
+  {
+    "id": "https://openalex.org/W7169678686",
+    "title": "When Does it Really Matter? Exploring the Conditions under which Gestures Affect Students’ Language Recall, Pronunciation Accuracy, and Cognitive Load in the EFL classroom",
+    "authors": [
+      "Ying Wang"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-17",
+    "doi": "10.1177/13621688261459329",
+    "url": "https://doi.org/10.1177/13621688261459329",
+    "abstract": "Gestures are widely recognized as an integral aspect of multimodal communication and language learning. However, the conditions under which they effectively support learning remain unclear. This study investigated when gesture matters in English as a foreign language (EFL) learning through three controlled experiments. Experiment 1 (3 × 2 design) examined the effects of gesture type (iconic, deictic, metaphoric) and production mode (human tutor vs. virtual agent). Experiment 2 compared gesture e",
+    "keywords": [
+      "Gesture",
+      "Pronunciation",
+      "Embodied cognition",
+      "Affect (linguistics)",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:26.711129"
+  },
+  {
+    "id": "https://openalex.org/W4413028283",
+    "title": "Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications",
+    "authors": [
+      "Mikko Haavisto",
+      "Tomi Jaakkola"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-07-17",
+    "doi": "10.1007/s11251-026-09817-z",
+    "url": "https://doi.org/10.1007/s11251-026-09817-z",
+    "abstract": "Abstract Despite the prevalence of videos and illustrated texts in primary education, there is a limited understanding of how children study and review these materials, and how this impacts their learning performance. This study examined 97 tablet screen recordings, which captured the learning behaviors of fifth graders as they studied illustrated texts and videos in a within-subjects experiment. The screen recordings were coded frame-by-frame to assess the children’s studying rates and learning",
+    "keywords": [
+      "Mathematics education",
+      "Computer science",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11251-026-09817-z.pdf",
+    "cited_by_count": 1,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:44.289252"
+  },
+  {
     "id": "https://openalex.org/W7169611074",
     "title": "Navigating AI in STEM: what secondary students actually do with generative AI-driven tools",
     "authors": [
@@ -541,6 +948,33 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-17T22:37:47.994714"
+  },
+  {
+    "id": "https://openalex.org/W7168483100",
+    "title": "The (In)congruence between creative family and school environments and Chinese adolescents’ creative self-efficacy: The mediating role of growth mindset",
+    "authors": [
+      "Kaiwen Ren",
+      "Cheng Kar Pang",
+      "Jian Sun",
+      "Zhaoyang Xie"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-16",
+    "doi": "10.1016/j.tsc.2026.102317",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102317",
+    "abstract": "",
+    "keywords": [
+      "Mindset",
+      "Creativity",
+      "Ideation",
+      "Creative thinking"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tsc.2026.102317",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:19.238623"
   },
   {
     "id": "https://openalex.org/W7169591275",
@@ -2316,6 +2750,60 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-15T22:45:46.323870"
+  },
+  {
+    "id": "https://openalex.org/W7168175646",
+    "title": "Navigating language learning choices: How Chinese students adapt out-of-school English learning choices in a constrained EFL context",
+    "authors": [
+      "Yaqing Shi",
+      "Kevin Wai Ho Yung"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-07-13",
+    "doi": "10.1016/j.system.2026.104107",
+    "url": "https://doi.org/10.1016/j.system.2026.104107",
+    "abstract": "Out-of-school language learning, a crucial supplement to formal schooling, is shaped by many sociopolitical factors, such as macro-level policies that determine the availability of language resources. China’s ongoing Double Reduction Policy (DRP) has substantially reduced English private tutoring (EPT), reshaping out-of-school language learning landscapes. While existing research has largely examined impacts on the supply side (tutors and institutions), the decision-making processes governing st",
+    "keywords": [
+      "Context (archaeology)",
+      "Language acquisition",
+      "English language",
+      "Comprehension approach",
+      "Language assessment"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0346251X26001387/pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:06.567179"
+  },
+  {
+    "id": "https://openalex.org/W7168130044",
+    "title": "Using explainable artificial intelligence to investigate key factors predicting students’ creativity",
+    "authors": [
+      "Yingbin Zhang",
+      "Tianwei Peng",
+      "Yifan Li",
+      "Sijing Yu",
+      "Liang Ni"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-07-13",
+    "doi": "10.1016/j.tsc.2026.102316",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102316",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Key (lock)",
+      "Artificial neural network",
+      "Ideation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-19T22:39:19.238639"
   },
   {
     "id": "https://openalex.org/W7168152554",
