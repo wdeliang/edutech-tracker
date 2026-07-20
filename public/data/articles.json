@@ -1,5 +1,89 @@
 [
   {
+    "id": "https://openalex.org/W7169716284",
+    "title": "Bridging self-regulated learning gaps with large language models: designing metacognitive scaffolding in programming learning",
+    "authors": [
+      "Fangfang Zhu",
+      "Xinyu Ji",
+      "Zhijia Mou",
+      "Dahu Yan"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-19",
+    "doi": "10.1080/10494820.2026.2693681",
+    "url": "https://doi.org/10.1080/10494820.2026.2693681",
+    "abstract": "",
+    "keywords": [
+      "Bridging (networking)",
+      "Metacognition",
+      "Scaffold",
+      "Language acquisition",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-20T22:44:24.795542"
+  },
+  {
+    "id": "https://openalex.org/W7169717727",
+    "title": "An ICAP-informed rubric for analyzing students’ questions to generative AI: engagement patterns and dynamics exploration",
+    "authors": [
+      "Lu Ding",
+      "Rachel Rodenberg",
+      "Erkan Er",
+      "Ha Nguyen",
+      "Meehyun Yoon"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-19",
+    "doi": "10.1080/10494820.2026.2702559",
+    "url": "https://doi.org/10.1080/10494820.2026.2702559",
+    "abstract": "",
+    "keywords": [
+      "Rubric",
+      "Dynamics (music)",
+      "Generative grammar",
+      "Generative model",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-20T22:44:24.795561"
+  },
+  {
+    "id": "https://openalex.org/W7169727871",
+    "title": "Self‐Explanation‐Guided Virtual Museum Learning for Knowledge Co‐Construction Based on the Constructivist Framework: A Randomised Control Study",
+    "authors": [
+      "Yi-Chun Lu",
+      "Gwo‐Jen Hwang",
+      "Yun‐Fang Tu"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-19",
+    "doi": "10.1002/jcal.70296",
+    "url": "https://doi.org/10.1002/jcal.70296",
+    "abstract": "ABSTRACT Background Museum learning is an important approach to facilitating cross‐disciplinary knowledge integration. To expand the accessibility of museum education and to enhance learning efficiency, virtual museums are aiming to overcome the constraints of time, crowds, and the limited resources of physical venues by providing a more flexible and immersive digital learning environment. Objective Scholars have suggested using the 4C elements (i.e., context, construction, conversation, collabo",
+    "keywords": [
+      "Constructivist teaching methods",
+      "Collaborative learning",
+      "Construct (python library)",
+      "Control (management)",
+      "Educational technology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70296",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-20T22:44:36.217935"
+  },
+  {
     "id": "https://openalex.org/W7169687627",
     "title": "Not a universal benefit: Examining the differential effects of emotional <scp>AI</scp> on <scp>L2</scp> pre‐service teachers' language learning",
     "authors": [

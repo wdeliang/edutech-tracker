@@ -1,159 +1,35 @@
-📅 运行时间：2026-07-19 22:39
-📊 本次新增文章：18 篇
-📚 数据库总文章数：1303 篇
-🔍 查询范围：2026-07-12 至 2026-07-19
+📅 运行时间：2026-07-20 22:45
+📊 本次新增文章：3 篇
+📚 数据库总文章数：1306 篇
+🔍 查询范围：2026-07-13 至 2026-07-20
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Thinking Skills and Creativity: 2 篇
-  • Teaching and Teacher Education: 2 篇
-  • Language Teaching Research: 2 篇
-  • European Journal of Education: 2 篇
-  • British Journal of Educational Technology: 1 篇
-  • System: 1 篇
-  • Assessing Writing: 1 篇
-  • Innovation In Language Learning and Teaching: 1 篇
+  • Interactive Learning Environments: 2 篇
   • Journal of Computer Assisted Learning: 1 篇
-  • ETR&D-Educational Technology Research and Development: 1 篇
-  • Modern Language Journal: 1 篇
-  • Science & Education: 1 篇
-  • British Educational Research Journal: 1 篇
-  • Instructional Science: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Not a universal benefit: Examining the differential effects of emotional <scp>AI</scp> on <scp>L2</scp> pre‐service teachers' language learning
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Zhuo Wang, Hui Pang
-    日期：2026-07-18
-    关键词：Vocabulary, Cognition, Differential effects, Emotional intelligence, Vocabulary learning
-    DOI：https://doi.org/10.1111/bjet.70078
+[1] Bridging self-regulated learning gaps with large language models: designing metacognitive scaffolding in programming learning
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Fangfang Zhu, Xinyu Ji, Zhijia Mou 等(4人)
+    日期：2026-07-19
+    关键词：Bridging (networking), Metacognition, Scaffold, Language acquisition, Educational technology
+    DOI：https://doi.org/10.1080/10494820.2026.2693681
 
-[2] Navigating language learning choices: How Chinese students adapt out-of-school English learning choices in a constrained EFL context
-    期刊：System (JIF: 5.6)
-    作者：Yaqing Shi, Kevin Wai Ho Yung
-    日期：2026-07-13
-    关键词：Context (archaeology), Language acquisition, English language, Comprehension approach, Language assessment
-    DOI：https://doi.org/10.1016/j.system.2026.104107
-    🔓 开放获取
+[2] An ICAP-informed rubric for analyzing students’ questions to generative AI: engagement patterns and dynamics exploration
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Lu Ding, Rachel Rodenberg, Erkan Er 等(5人)
+    日期：2026-07-19
+    关键词：Rubric, Dynamics (music), Generative grammar, Generative model, Teaching method
+    DOI：https://doi.org/10.1080/10494820.2026.2702559
 
-[3] Modeling the reading-to-writing pipeline: Knowledge graph and LLM-based assessment framework for source-based writing
-    期刊：Assessing Writing (JIF: 5.5)
-    作者：Byungyeon Yun, Miranda Moe, Lauren E. Flynn 等(5人)
-    日期：2026-07-18
-    关键词：Rubric, Tracing, Comprehension, TRACE (psycholinguistics), Writing assessment
-    DOI：https://doi.org/10.1016/j.asw.2026.101098
-
-[4] Development of a CLIL-ESP course for art and design students using the ADDIE model
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Han Zhang, Mu He, Yue You 等(4人)
-    日期：2026-07-18
-    关键词：ADDIE Model, Course (navigation), Instructional design, Development (topology), Experiential learning
-    DOI：https://doi.org/10.1080/17501229.2026.2698696
-
-[5] Effectiveness of <scp>DGBL</scp> in Elementary Mathematics: A Meta‐Analysis of Simulation‐Based Games and Year Group Appropriateness
+[3] Self‐Explanation‐Guided Virtual Museum Learning for Knowledge Co‐Construction Based on the Constructivist Framework: A Randomised Control Study
     期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Seftia Kusumawardani, Ghanis Putra Widhanarto
-    日期：2026-07-18
-    关键词：Game based learning, Curriculum, Intervention (counseling), Psychological intervention, Scopus
-    DOI：https://doi.org/10.1002/jcal.70295
-
-[6] The (In)congruence between creative family and school environments and Chinese adolescents’ creative self-efficacy: The mediating role of growth mindset
-    期刊：Thinking Skills and Creativity (JIF: 4.5)
-    作者：Kaiwen Ren, Cheng Kar Pang, Jian Sun 等(4人)
-    日期：2026-07-16
-    关键词：Mindset, Creativity, Ideation, Creative thinking
-    DOI：https://doi.org/10.1016/j.tsc.2026.102317
-    🔓 开放获取
-
-[7] Using explainable artificial intelligence to investigate key factors predicting students’ creativity
-    期刊：Thinking Skills and Creativity (JIF: 4.5)
-    作者：Yingbin Zhang, Tianwei Peng, Yifan Li 等(5人)
-    日期：2026-07-13
-    关键词：Creativity, Key (lock), Artificial neural network, Ideation
-    DOI：https://doi.org/10.1016/j.tsc.2026.102316
-
-[8] Impact of an educational robot-based intervention on second-graders computational thinking skills: experimental evaluation of the Irûmi program in Paraguay
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Emma Näslund-Hadley, Juan Manuel Hernández-Agramonte, Humberto Santos 等(4人)
-    日期：2026-07-18
-    关键词：Novelty, Intervention (counseling), Flexibility (engineering), Computational thinking, Curriculum
-    DOI：https://doi.org/10.1007/s11423-026-10675-2
-    🔓 开放获取
-
-[9] Lag Effects in L2 Phonetic Training: Longer Intersession Intervals Compensate for Auditory Individual Differences
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Li Xp, Kazuya Saito
-    日期：2026-07-18
-    关键词：Lag, Generalizability theory, Vocabulary, Interval (graph theory), Mandarin Chinese
-    DOI：https://doi.org/10.1111/modl.70081
-    🔓 开放获取
-
-[10] What students need and what teachers deliver: Diagnosing need-supportive teaching behaviors among pre-service physical education teachers
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Tong Zhou, Xin Shen, Wei Chen
-    日期：2026-07-18
-    关键词：Warrant, Physical education, Salience (neuroscience), Competence (human resources), Identification (biology)
-    DOI：https://doi.org/10.1016/j.tate.2026.105743
-
-[11] Humanizing online higher education: Equitable outcomes and increased support for traditionally academically marginalized students
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Ekaterina Midgette, Olivia G. Stewart
-    日期：2026-07-18
-    关键词：Higher education, Qualitative research, Intersectionality, Online learning, Student engagement
-    DOI：https://doi.org/10.1016/j.tate.2026.105747
-
-[12] The Effect of Text Shadowing on English Language Learners’ Pronunciation Development: A Quasi-Experimental Study
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Mishelle Kehoe-Seamons, Mark Tanner, K. James Hartshorn 等(4人)
-    日期：2026-07-18
-    关键词：Pronunciation, Ell, Fluency, Likert scale, Control (management)
-    DOI：https://doi.org/10.1177/13621688261462581
-
-[13] When Does it Really Matter? Exploring the Conditions under which Gestures Affect Students’ Language Recall, Pronunciation Accuracy, and Cognitive Load in the EFL classroom
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Ying Wang
-    日期：2026-07-17
-    关键词：Gesture, Pronunciation, Embodied cognition, Affect (linguistics), Cognition
-    DOI：https://doi.org/10.1177/13621688261459329
-
-[14] Before and After Remedial Classes: Students' Attitudes, Perceived Learning and Behavioural Intentions in Higher Education Accounting
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Rui Silva, Margarida Rodrigues, Cidália Oliveira 等(5人)
-    日期：2026-07-18
-    关键词：Remedial education, Higher education, Perception, Cognitive reframing, Intervention (counseling)
-    DOI：https://doi.org/10.1111/ejed.70783
-    🔓 开放获取
-
-[15] Goals of Well‐Being in the Context of Finnish Comprehensive School Education
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Hanna Saarinen, Raisa Ahtiainen, Tapio Lahtero 等(4人)
-    日期：2026-07-18
-    关键词：Context (archaeology), Affect (linguistics), School education, Education policy, Discourse analysis
-    DOI：https://doi.org/10.1111/ejed.70774
-    🔓 开放获取
-
-[16] Analyzing the Progression of Nature of Science Representations in Chemistry Textbooks Across School Stages: The Lens of Family Resemblance Approach
-    期刊：Science & Education (JIF: 2.5)
-    作者：Bo Chen, Huinan Liu, Manting Zhang 等(4人)
-    日期：2026-07-18
-    关键词：Context (archaeology), Curriculum, Science education, Nature of Science, Compulsory education
-    DOI：https://doi.org/10.1007/s11191-026-00764-2
-
-[17] Breaking point: Identifying the factors that predict suspension from school
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Stephanie Cahill, Roberto Vagnetti, Christopher Knowles 等(5人)
-    日期：2026-07-18
-    关键词：Psychosocial, Disadvantage, Suspension (topology), Receipt, Structural equation modeling
-    DOI：https://doi.org/10.1002/berj.70250
-    🔓 开放获取
-
-[18] Fifth graders study videos faster than illustrated texts: Studying rate, review strategies, and learning implications
-    期刊：Instructional Science (JIF: 2.1)
-    作者：Mikko Haavisto, Tomi Jaakkola
-    日期：2026-07-17
-    关键词：Mathematics education, Computer science, Psychology
-    DOI：https://doi.org/10.1007/s11251-026-09817-z
+    作者：Yi-Chun Lu, Gwo‐Jen Hwang, Yun‐Fang Tu
+    日期：2026-07-19
+    关键词：Constructivist teaching methods, Collaborative learning, Construct (python library), Control (management), Educational technology
+    DOI：https://doi.org/10.1002/jcal.70296
     🔓 开放获取
