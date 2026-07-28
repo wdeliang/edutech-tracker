@@ -1,5 +1,827 @@
 [
   {
+    "id": "https://openalex.org/W7171391016",
+    "title": null,
+    "authors": [],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-28",
+    "doi": "10.1002/jcal.v42.5",
+    "url": "https://doi.org/10.1002/jcal.v42.5",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-07-28T22:48:56.052767"
+  },
+  {
+    "id": "https://openalex.org/W7171454466",
+    "title": "The impact of an LLM-based educational agent on learning achievement, cognitive dynamics, and student perceptions in computer science education",
+    "authors": [
+      "Xu Li",
+      "Liu Zh",
+      "Shiyan Jiang",
+      "Juanjuan Chen",
+      "Wenzhi Chen"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-07-27",
+    "doi": "10.1186/s40594-026-00641-y",
+    "url": "https://doi.org/10.1186/s40594-026-00641-y",
+    "abstract": "While Large Language Models (LLMs) are increasingly integrated into educational settings, the transition from passive chatbot to autonomous LLM-based agents—characterized by tool use, memory retention, and goal-directed reasoning—remains underexplored. To address this gap, this study designed a domain-specific educational agent (DBagent) for an undergraduate database course, and examined its impact on learning achievement, cognitive engagement patterns, and student perceptions. A large-scale qua",
+    "keywords": [
+      "Cognition",
+      "Student engagement",
+      "Educational technology",
+      "Perception",
+      "Science education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00641-y",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:42.884797"
+  },
+  {
+    "id": "https://openalex.org/W7171386175",
+    "title": "How STEM social capital shapes secondary school students’ STEM aspirations: the roles of STEM expectations and mathematics competency",
+    "authors": [
+      "Shiyu Xu",
+      "Jie Zhou",
+      "Yulian Cao"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-07-27",
+    "doi": "10.1186/s40594-026-00640-z",
+    "url": "https://doi.org/10.1186/s40594-026-00640-z",
+    "abstract": "Secondary students’ STEM aspirations strongly predict later STEM degrees and careers. Understanding how these aspirations are shaped is therefore critical. Family and school contexts are widely recognized as important influences, but the specific pathways through which these influences operate remain underexplored. Grounded in science capital theory, this study conceptualizes STEM social capital in terms of parental STEM occupations and homeroom teachers’ STEM backgrounds, and examines how these",
+    "keywords": [
+      "Social capital",
+      "Disadvantaged",
+      "Sample (material)",
+      "Science education",
+      "China"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00640-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:42.884901"
+  },
+  {
+    "id": "https://openalex.org/W7171385479",
+    "title": "Enhancing learning from video lectures with proactive AI chatbots",
+    "authors": [
+      "Zhongling Pi",
+      "Dan Zhou",
+      "Yuxuan Wei",
+      "Siyu Zheng",
+      "Xiying Li"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-27",
+    "doi": "10.1007/s10639-026-14081-2",
+    "url": "https://doi.org/10.1007/s10639-026-14081-2",
+    "abstract": "",
+    "keywords": [
+      "Chatbot",
+      "Flexibility (engineering)",
+      "Path (computing)",
+      "Educational technology",
+      "Hypermedia"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:48.739096"
+  },
+  {
+    "id": "https://openalex.org/W7171367350",
+    "title": "Exploring the potential of generative AI and teacher collaboration in evaluating academic papers",
+    "authors": [
+      "Qiuju Zhong",
+      "He Ji",
+      "Tianyi Liu",
+      "Fengxia Li",
+      "Xun Wang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-07-27",
+    "doi": "10.1007/s10639-025-13864-3",
+    "url": "https://doi.org/10.1007/s10639-025-13864-3",
+    "abstract": "",
+    "keywords": [
+      "Grading (engineering)",
+      "Consistency (knowledge bases)",
+      "Collaborative learning",
+      "Perception",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:48.739113"
+  },
+  {
+    "id": "https://openalex.org/W7171447836",
+    "title": "Reimagining teaching and curriculum in the age of AI: A multi-layer stewardship model for management education",
+    "authors": [
+      "Sandeep Puri",
+      "Rameshwar Dubey",
+      "Shweta Pandey",
+      "Raiswa Saha"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-07-27",
+    "doi": "10.1080/14703297.2026.2709762",
+    "url": "https://doi.org/10.1080/14703297.2026.2709762",
+    "abstract": "Generative AI is reshaping management education both as a classroom tool and a socio-technical actor that redistributes exposure, authority, and assessment across programmes. Integrating Actor–Network Theory and Critical Pedagogy, we conceptualise AI stewardship as a multi-layer governance-and-pedagogy framework that coordinates design choices at the infrastructure (procurement, platform defaults, recommender objectives, data rights), classroom (auditable and dialogical use through task and asse",
+    "keywords": [
+      "Stewardship (theology)",
+      "Dialogical self",
+      "Curriculum",
+      "Diversity (politics)",
+      "Task (project management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:50.555663"
+  },
+  {
+    "id": "https://openalex.org/W7171356241",
+    "title": "The journey of speaking German with ChatGPT: an experimental exploration of personalized language experiences",
+    "authors": [
+      "Merve Çıldır",
+      "Ferdiye Çobanoğulları"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1080/17501229.2026.2708151",
+    "url": "https://doi.org/10.1080/17501229.2026.2708151",
+    "abstract": "This study aims to investigate the impact of ChatGPT 3.5 on the German-language skills of university-level students primarily. Conducted using a quasi-experimental design, the study involved an experimental group that practiced speaking with ChatGPT and a control group that continued learning through traditional methods. The findings suggest that ChatGPT makes limited contributions to the development of speaking skills. While students found ChatGPT helpful for learning new vocabulary and improvi",
+    "keywords": [
+      "German",
+      "Vocabulary",
+      "Language acquisition",
+      "Control (management)",
+      "Language proficiency"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:55.405935"
+  },
+  {
+    "id": "https://openalex.org/W7171427487",
+    "title": "From Competency to Agency: Teachers' Views of the Purposes of <scp>AI</scp> Education",
+    "authors": [
+      "Janne Fagerlund",
+      "Pekka Mertala",
+      "Jukka Lehtoranta",
+      "Emilia Mattila",
+      "Laura Salo"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70302",
+    "url": "https://doi.org/10.1002/jcal.70302",
+    "abstract": "ABSTRACT Background As artificial intelligence (AI) becomes an increasingly prominent societal and educational phenomenon, teachers are required to determine not only how but also why students are educated about it in the classroom. Understanding teachers' thinking about the purposes of AI education is crucial, as they guide day‐to‐day choices about classroom uses of AI. Objectives This qualitative study investigates the purposes that teachers associate with AI education in primary and early chi",
+    "keywords": [
+      "Agency (philosophy)",
+      "Teacher education",
+      "Focus group",
+      "Educational technology",
+      "Semi-structured interview"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70302",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.052862"
+  },
+  {
+    "id": "https://openalex.org/W7171350380",
+    "title": "Research Trends on the <scp>TPACK</scp> in Science Education From 2009 to 2023: A Systematic Content Analysis",
+    "authors": [
+      "İdris Aktaş",
+      "Haluk Özmen"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70287",
+    "url": "https://doi.org/10.1002/jcal.70287",
+    "abstract": "ABSTRACT Background The number of TPACK studies has increased significantly in recent years, aiming to explore effective ways to support teachers. However, subject‐specific content has received limited attention, especially within review‐based research. Therefore, there is a need for a systematic analysis of TPACK studies in the context of subject content. Objectives This study aims to reveal the research trends of articles published on TPACK in science education from 2009 to 2023 through system",
+    "keywords": [
+      "Content analysis",
+      "Context (archaeology)",
+      "Science education",
+      "Professional development",
+      "Subject (documents)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70287",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.052931"
+  },
+  {
+    "id": "https://openalex.org/W7171423108",
+    "title": "Can Generative <scp>AI</scp> Empower Tibetan Students in English Writing? Exploring Performance Gains, Self‐Efficacy Enhancement and Cultural Expression",
+    "authors": [
+      "Ming Cheng"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70298",
+    "url": "https://doi.org/10.1002/jcal.70298",
+    "abstract": "ABSTRACT Background Tibetan university students often write in English within a complex multilingual environment involving Tibetan, Chinese and English. Previous studies have suggested that multilingual learners may experience challenges related to cross‐linguistic transfer, as well as difficulties in expressing culturally specific concepts in English writing. At the same time, limited research has examined how contextually relevant AI‐supported feedback is experienced in minority‐language educa",
+    "keywords": [
+      "Terminology",
+      "Expression (computer science)",
+      "Vocabulary",
+      "Intervention (counseling)",
+      "Scale (ratio)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.052992"
+  },
+  {
+    "id": "https://openalex.org/W7171427841",
+    "title": "Issue Information",
+    "authors": [],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70266",
+    "url": "https://doi.org/10.1002/jcal.70266",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-07-28T22:48:56.052996"
+  },
+  {
+    "id": "https://openalex.org/W7171435130",
+    "title": "The Effects of Out‐of‐Class <scp>AI</scp> ‐Generated Feedback on <scp>EFL</scp> Learners' Writing Achievement and Emotions: Evidence From a Quasi‐Experimental Study",
+    "authors": [
+      "Ge Qu",
+      "Zhenhua Lyu",
+      "Qing Yang"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70293",
+    "url": "https://doi.org/10.1002/jcal.70293",
+    "abstract": "ABSTRACT Background Research has investigated how AI‐generated feedback affects L2 writing development. Less attention has been paid, however, to students' emotional experiences when using generative AI tools in informal language learning or to how these experiences relate to writing outcomes. Objectives This study examined EFL learners' writing performance and emotional experiences in relation to their use of AI‐generated feedback beyond the classroom. Methods Guided by the broaden‐and‐build th",
+    "keywords": [
+      "Boredom",
+      "Second language writing",
+      "Class (philosophy)",
+      "Control (management)",
+      "Academic writing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.053082"
+  },
+  {
+    "id": "https://openalex.org/W7171362791",
+    "title": "Human or <scp>GenAI</scp> Support? Conditions Impacting Students' Strategy Choices in an Essay Revision Task",
+    "authors": [
+      "Sehrish Iqbal",
+      "Jelena Jovanović",
+      "Yizhou Fan",
+      "Mladen Raković",
+      "Xinyu Li"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70300",
+    "url": "https://doi.org/10.1002/jcal.70300",
+    "abstract": "ABSTRACT Background Students often struggle to effectively self‐regulate their learning strategies during writing tasks and typically require external support from teachers, peers or AI tools to overcome these challenges. While emerging research explores how generative AI can dialogically interact with students to support the writing process, little is known about how such AI support influences writing strategies during the essay‐revision task. Furthermore, there is limited understanding of how ",
+    "keywords": [
+      "Metacognition",
+      "Task (project management)",
+      "Cluster analysis",
+      "TRACE (psycholinguistics)",
+      "Generative model"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70300",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.053145"
+  },
+  {
+    "id": "https://openalex.org/W7171429312",
+    "title": "Development and Validation of the <scp>AI</scp> Learning, Metacognitive, and Epistemic Barriers Scale ( <scp>AIME</scp> ‐B) for Secondary School Principals in Jordan",
+    "authors": [
+      "Yusra Jadallah Abed Khasawneh",
+      "Najwa Ahmad Saleem Khasawneh",
+      "Mohamad Ahmad Saleem Khasawneh",
+      "Nabil Saleh Sufyan",
+      "Asma Jadallah Khasawneh"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/jcal.70301",
+    "url": "https://doi.org/10.1002/jcal.70301",
+    "abstract": "ABSTRACT Background Rapid adoption of artificial intelligence (AI) in education is reshaping teaching, learning, and administration. Beyond technical skills, AI integration requires cognitive, metacognitive/self‐regulatory, and epistemic preparedness; thus, latent barriers may constrain how secondary school principals interpret, evaluate, and use AI‐generated information in decision‐making, creating a need for a psychometrically sound instrument. Objectives This study aimed (1) to develop and (2",
+    "keywords": [
+      "Comparability",
+      "Generalizability theory",
+      "Scale (ratio)",
+      "Consistency (knowledge bases)",
+      "Item response theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:56.053205"
+  },
+  {
+    "id": "https://openalex.org/W7171436332",
+    "title": "Adaptive Teacher Professional Development: Crafting Coherence by Surfacing Tensions Through Co-Design With Teachers",
+    "authors": [
+      "Christina Kimmerling",
+      "Rossella Santagata",
+      "Patricia Fuentes Acevedo",
+      "Adriana Villavicencio"
+    ],
+    "journal": "Journal of Teacher Education",
+    "jif": 4.1,
+    "published_date": "2026-07-27",
+    "doi": "10.1177/00224871261465883",
+    "url": "https://doi.org/10.1177/00224871261465883",
+    "abstract": "Although coherence is widely cited as an important feature of professional development (PD), few initiatives provide teachers with agency to adapt PD to be coherent with their contexts and experiences. Through a research–practice partnership approach, teachers in this study were active contributors in negotiating PD adaptations in response to issues raised during a 2-year mathematics PD effort. Through qualitative analysis of audio transcripts from 29 co-design meetings at two elementary schools",
+    "keywords": [
+      "Negotiation",
+      "Coherence (philosophical gambling strategy)",
+      "General partnership",
+      "Agency (philosophy)",
+      "Professional development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/00224871261465883",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:00.163472"
+  },
+  {
+    "id": "https://openalex.org/W7171424964",
+    "title": "Exploring the Relationship Between Online Learning and Face-to-Face Communicative Competence: A Case of English-as-a-Foreign-Language Students in Vietnam",
+    "authors": [
+      "Thi Hoang Bau Nguyen",
+      "Nguyen Thi Phuong Lan"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-07-27",
+    "doi": "10.1177/13621688261464740",
+    "url": "https://doi.org/10.1177/13621688261464740",
+    "abstract": "This study investigates the relationship between online learning and face-to-face communicative competence among students of English as a foreign language in Vietnam. Drawing on the Community of Inquiry framework and Spitzberg and Cupach’s Model of Interpersonal Communication Competence, the study employed a mixed-methods design to examine students’ perceptions of online learning and the relationship between online learning frequency and speaking performance. Quantitative data were collected fro",
+    "keywords": [
+      "Vietnamese",
+      "Communicative competence",
+      "Online learning",
+      "Perception",
+      "Interpersonal communication"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:02.613721"
+  },
+  {
+    "id": "https://openalex.org/W7171379480",
+    "title": "Guest editorial: Transformative education for sustainable futures: leadership, curriculum development and pedagogical approaches in higher education and the UN agenda 2030",
+    "authors": [
+      "Alex Opoku",
+      "Chioma Okoro",
+      "Yaning Qiao"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-07-27",
+    "doi": "10.1108/ijshe-08-2026-992",
+    "url": "https://doi.org/10.1108/ijshe-08-2026-992",
+    "abstract": "From the agreement on the Millennium Development Goals (MDGs) in 2000 and the adoption of the 2030 Agenda for Sustainable Development in 2015, education plays a vital role in transforming society towards sustainable development (Avelar et al., 2023). The UN Sustainable Development Goals (SDGs) call for the simultaneous pursuit of economic, environmental and social goals and educating society about them is necessary to develop the knowledge, values, mindsets and skills needed to address social ch",
+    "keywords": [
+      "Transformative learning",
+      "Education for sustainable development",
+      "Curriculum",
+      "Higher education",
+      "Sustainable development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "editorial",
+    "fetched_at": "2026-07-28T22:49:08.127653"
+  },
+  {
+    "id": "https://openalex.org/W7171393348",
+    "title": "Pathways to self-employed reemployment: motivations and learning strategies among late baby boomers",
+    "authors": [
+      "Ya-Hui Lee",
+      "Yi Fen Wang"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-27",
+    "doi": "10.1108/et-01-2026-0105",
+    "url": "https://doi.org/10.1108/et-01-2026-0105",
+    "abstract": "Purpose This study explored the motivations and learning strategies through which older adults from the late baby boomer cohort in Taiwan pursue reemployment through self-employment. Design/methodology/approach Semi-structured in-depth interviews were conducted with 33 late baby boomers (born between 1946 and 1970) to explore their reemployment experiences and learning strategies. Findings Participants’ motivations for self-employed reemployment can be broadly categorized into intrinsic drivers ",
+    "keywords": [
+      "Baby boomers",
+      "Meaning (existential)",
+      "Informal learning",
+      "Lifelong learning",
+      "Aging in place"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:10.543504"
+  },
+  {
+    "id": "https://openalex.org/W7171365075",
+    "title": "Workforce preparedness in the K to 12 era: service sectors' preferred employability skills of accountancy, business and management graduates in the Philippines",
+    "authors": [
+      "Danzen Bondoc Olazo",
+      "Angelito Silvestre"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-27",
+    "doi": "10.1108/et-11-2025-0965",
+    "url": "https://doi.org/10.1108/et-11-2025-0965",
+    "abstract": "Purpose This study investigates the employability skills of K to 12 Accountancy, Business, and Management (ABM) senior high school graduates as desired by service-oriented companies in Angeles City, Philippines. Specifically, the study focuses on employer expectations of employability skills rather than the actual skill levels of graduates. It does not assess graduates’ competencies nor conduct a skills gap analysis but instead captures the perspectives of employers regarding the competencies th",
+    "keywords": [
+      "Employability",
+      "Preparedness",
+      "Workforce",
+      "Skills management",
+      "Context (archaeology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:10.543627"
+  },
+  {
+    "id": "https://openalex.org/W7171348880",
+    "title": "Guest editorial: From seeds to systems: research in further education and skills",
+    "authors": [
+      "Vikki Smith",
+      "Gary Husband",
+      "Michael Smith"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-07-27",
+    "doi": "10.1108/et-08-2026-959",
+    "url": "https://doi.org/10.1108/et-08-2026-959",
+    "abstract": "The global economic landscape is experiencing significant change, driven by a skills-first approach to workforce development (World Economic Forum, 2023). As nations address the requirements of de-carbonisation and the integration of generative artificial intelligence, the Technical and Vocational Education and Training (TVET) and Further Education (FE) sectors are increasingly central to policy discussions. These sectors are frequently identified as primary engines for economic resilience (Keep",
+    "keywords": [
+      "Workforce",
+      "Vocational education",
+      "Milestone",
+      "Proposition",
+      "Resilience (materials science)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "editorial",
+    "fetched_at": "2026-07-28T22:49:10.544274"
+  },
+  {
+    "id": "https://openalex.org/W7171391647",
+    "title": "The human cost of digitally-driven organisational change in higher education: a phenomenographic study of employee well-being",
+    "authors": [
+      "Jessica Lichy",
+      "Sara Hadleigh‐Dunn"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-07-27",
+    "doi": "10.1080/03075079.2026.2704763",
+    "url": "https://doi.org/10.1080/03075079.2026.2704763",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Organisational change",
+      "Phenomenography",
+      "Organizational change",
+      "Human resource management"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:11.133440"
+  },
+  {
+    "id": "https://openalex.org/W7171426762",
+    "title": "Bricks, knots, and bodies: Material encounters and the affective making of masculinity",
+    "authors": [
+      "Huw Berry-Downs"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-27",
+    "doi": "10.1002/berj.70251",
+    "url": "https://doi.org/10.1002/berj.70251",
+    "abstract": "Abstract This paper examines how creative research methods do not just capture boys' experiences of masculinity, but actively materialise them. Drawing on two arts‐based activities used in school‐based fieldwork (a mannequin‐based exercise with one participant and a Lego‐building workshop with a small peer group), the paper analyses how materials generate different affective conditions for the making of masculinity. Rather than treating arts‐based methods as conduits to boys' ‘voices’, the paper",
+    "keywords": [
+      "Masculinity",
+      "Situated",
+      "Meaning (existential)",
+      "Power (physics)",
+      "Field (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70251",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:15.871268"
+  },
+  {
+    "id": "https://openalex.org/W7171366230",
+    "title": "Investigating Students’ Collaborative Problem-Solving Interactions during Scaffolded and Non-Scaffolded Ill-Structured Tasks",
+    "authors": [
+      "Taylor Tucker",
+      "Saadeddine Shehab",
+      "Emma Mercier"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-07-27",
+    "doi": "10.1007/s11251-026-09816-0",
+    "url": "https://doi.org/10.1007/s11251-026-09816-0",
+    "abstract": "Abstract Understanding how groups interact with the task during face-to-face collaborative problem solving in STEM classrooms is central to the task design process of ill-structured tasks. We examine how the presence of hard scaffolds in the design of ill-structured tasks influences groups’ collaborative problem-solving interactions during the engineering task and final task solutions. Our findings indicate that these scaffolds help students structure the task and engage in collaborative problem",
+    "keywords": [
+      "Task (project management)",
+      "Educational psychology",
+      "Process (computing)",
+      "Collaborative learning",
+      "Task analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09816-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:16.471158"
+  },
+  {
+    "id": "https://openalex.org/W7171310214",
+    "title": "Anticipatory governance and leadership for AI implementation in higher education: A scoping review",
+    "authors": [
+      "Sandra Baroudi"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-07-26",
+    "doi": "10.1186/s41239-026-00616-7",
+    "url": "https://doi.org/10.1186/s41239-026-00616-7",
+    "abstract": "Abstract As the education sector attempts to address rapid changes caused by Artificial Intelligence (AI), it becomes crucial to examine approaches to leadership at the organizational and system levels. This scoping review explores how anticipatory models of governance are conceptualised and operationalised globally within higher education settings in the context of AI-related transformations. Using a scoping review design, academic and grey literature published between 2020 and 2025 was searche",
+    "keywords": [
+      "Futures studies",
+      "Corporate governance",
+      "Higher education",
+      "Leverage (statistics)",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1186/s41239-026-00616-7.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:39.869373"
+  },
+  {
+    "id": "https://openalex.org/W7171317296",
+    "title": "Generative AI-enhanced interactive learning environments in entrepreneurship education: personalization, ethical engagement, and entrepreneurial action tendency",
+    "authors": [
+      "Fei Sun",
+      "Muyan Li"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-07-26",
+    "doi": "10.1080/10494820.2026.2689104",
+    "url": "https://doi.org/10.1080/10494820.2026.2689104",
+    "abstract": "Generative artificial intelligence (GAI) is increasingly integrated into interactive learning environments (ILEs), yet its role in entrepreneurship education remains theoretically underexplored. Grounded in the Entrepreneurial Event Model and socio-cognitive perspectives, this mixed-methods study examines how GAI-enhanced ILEs relate to university students’ entrepreneurial action tendency through perceived desirability, perceived feasibility, and propensity to act, while considering the moderati",
+    "keywords": [
+      "Interactive Learning",
+      "Generative grammar",
+      "Entrepreneurship",
+      "Action (physics)",
+      "Generative model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:49.342809"
+  },
+  {
+    "id": "https://openalex.org/W7171312281",
+    "title": "From Simulation to Dialogue: A Quasi-Experimental Mixed-Methods Study of Conversational-AI Supported VR Fire Escape Training",
+    "authors": [
+      "Lei Cao",
+      "Kien Tsong Chau",
+      "Wan Ahmad Jaafar Wan Yahaya"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-07-26",
+    "doi": "10.1177/07356331261469058",
+    "url": "https://doi.org/10.1177/07356331261469058",
+    "abstract": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation. In this study, a Conversational AI Supported VR Fire Escape System ( CAVR) was developed as a Unity based virtual reality drill integrated with the Live Character API through Web Real-Time Communication (WebRTC) for low-latency speech interaction and with retrieval augmented generation grounded in a curated fire sa",
+    "keywords": [
+      "Dialog system",
+      "Embodied cognition",
+      "Virtual reality",
+      "Dialog box",
+      "Drill"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/07356331261469058?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:52.395568"
+  },
+  {
+    "id": "https://openalex.org/W7171316240",
+    "title": "Examining Chinese International Students’ Continuance Intention to Use AI Systems for Speaking Practice: Insights from Acculturative Stress and the Expectation–Confirmation Model",
+    "authors": [
+      "Bin Zou",
+      "Minyiyang Zhao",
+      "Haoxin Shen",
+      "Weizheng Zhang",
+      "Chenghao Wang"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-07-26",
+    "doi": "10.1007/s40299-026-01134-w",
+    "url": "https://doi.org/10.1007/s40299-026-01134-w",
+    "abstract": "Abstract This study examines Chinese international students’ continuance intention to use AI systems (e.g., EAP Talk) for English speaking practice by extending the Expectation–Confirmation Model (ECM) with selected dimensions of acculturative stress. Using a sequential explanatory mixed-methods design, survey data from 245 students in UK higher education were analysed with structural equation modelling, followed by interviews with 16 participants. Results show that confirmation, perceived usefu",
+    "keywords": [
+      "Continuance",
+      "Acculturation",
+      "Structural equation modeling",
+      "Stress (linguistics)",
+      "Explanatory model"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s40299-026-01134-w.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:54.790896"
+  },
+  {
+    "id": "https://openalex.org/W7171418037",
+    "title": "Embedding, Copilot, or Agent? <scp>L2</scp> Teachers Modes of Collaboration With Generative <scp>AI</scp> in Providing Feedback on Writing Assignments: Rubric Influences, Workload Dynamics, and Barriers to Integration",
+    "authors": [
+      "Wei Wei",
+      "Xi Zhang",
+      "Xinhua Zhu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-07-26",
+    "doi": "10.1111/ejed.70795",
+    "url": "https://doi.org/10.1111/ejed.70795",
+    "abstract": "ABSTRACT Drawing from the established human‐AI collaboration framework (Mosqueira‐Rey et al., 2023), this study investigated how L2 teachers at a research‐intensive university collaborated with Generative AI chatbots to provide feedback on tertiary‐level written assignments over 9 weeks. Data from thirteen teachers included 278 interactions with GenAI, 876 feedback instances, and reflective accounts of their experiences. Findings revealed three Teacher‐GenAI collaboration modes— embedding (human",
+    "keywords": [
+      "Rubric",
+      "Workload",
+      "Embedding",
+      "Task (project management)",
+      "Mode (computer interface)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70795",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:05.114033"
+  },
+  {
+    "id": "https://openalex.org/W7171287307",
+    "title": "Constructing knowledge through talk: a lesson study analysis of four discursive forms",
+    "authors": [
+      "Christina Chinas"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-07-26",
+    "doi": "10.1080/19415257.2026.2682236",
+    "url": "https://doi.org/10.1080/19415257.2026.2682236",
+    "abstract": "Teacher professional learning is dialogic and social, yet the specific discursive mechanisms through which it unfolds are often left implicit. This study examines a multi-site set of lesson study cycles in Cypriot primary schools to analyse how teachers construct professional knowledge through talk. Using sociocultural discourse analysis, four interrelated forms of teacher talk, empirical, creative, presentational, and contradictory, are identified and traced in relation to prior and new knowled",
+    "keywords": [
+      "Lesson study",
+      "Professional development",
+      "Discourse analysis",
+      "Qualitative research",
+      "Faculty development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/19415257.2026.2682236",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:13.497148"
+  },
+  {
+    "id": "https://openalex.org/W7171422721",
+    "title": "Governance of generative <scp>AI</scp> in higher education: A qualitative analysis of universities' policies and global insights",
+    "authors": [
+      "Abdullah E. Alotaibi",
+      "Ahmad Aseery",
+      "Abdulaziz A. Alfayez",
+      "Lina Bashatah",
+      "Safana Aseri"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-26",
+    "doi": "10.1002/berj.70256",
+    "url": "https://doi.org/10.1002/berj.70256",
+    "abstract": "Abstract As generative AI becomes increasingly integrated into higher education, institutions face challenges in balancing its benefits with potential risks, including plagiarism, misinformation, bias and privacy concerns. This study examines the policies and guidelines on generative AI usage implemented by leading US universities ranking based best colleges in the world in the US News List using a qualitative document analysis approach. The study identifies key themes in generative AI governanc",
+    "keywords": [
+      "Discretion",
+      "Generative grammar",
+      "Corporate governance",
+      "Policy analysis",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70256",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:49:15.871317"
+  },
+  {
+    "id": "https://openalex.org/W4414026947",
+    "title": "Unveiling the Cognitive and Affective Mechanisms of Virtual Museum Learning: A Partial Least Squares Analysis",
+    "authors": [
+      "Jingjing Ma",
+      "Xiaojuan Li",
+      "Guoqing Lu",
+      "Shufan Yu",
+      "Zhongfeng Liang"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-07-25",
+    "doi": "10.1177/07356331261469084",
+    "url": "https://doi.org/10.1177/07356331261469084",
+    "abstract": "Virtual museums, as important carriers of immersive learning environments, are changing traditional knowledge acquisition and cultural inheritance methods. However, existing research focuses on direct relationships between virtual museum design features and learning outcomes, lacking systematic revelation of cognitive and affective mechanism pathways in the learning process. Therefore, this study constructs a Cognitive-Affective Model of Virtual Museum Learning (CAMVML), aiming to reveal complex",
+    "keywords": [
+      "Partial least squares regression",
+      "Cognition",
+      "Psychology",
+      "Cognitive psychology",
+      "Computer science"
+    ],
+    "open_access": true,
+    "oa_url": "https://advance.sagepub.com/doi/pdf/10.31124/advance.175705116.65793986/v1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-07-28T22:48:52.395634"
+  },
+  {
     "id": "https://openalex.org/W7171107387",
     "title": "Enhancing programming learning in elementary school students through pair programming scripts based on productive failure theory",
     "authors": [
@@ -645,6 +1467,35 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-25T22:42:00.742132"
+  },
+  {
+    "id": "https://openalex.org/W4406845083",
+    "title": "The effectiveness of extended reality training programmes for improving psychomotor skill performance: A systematic review and meta-analysis",
+    "authors": [
+      "Samuel Paul Bateman",
+      "G. J. Meléndez‐Torres",
+      "David J. Harris",
+      "Gavin Buckingham",
+      "Mark Wilson"
+    ],
+    "journal": "Educational Research Review",
+    "jif": 10.6,
+    "published_date": "2026-07-23",
+    "doi": "10.1016/j.edurev.2026.100824",
+    "url": "https://doi.org/10.1016/j.edurev.2026.100824",
+    "abstract": "Organisations are increasingly implementing extended reality (XR) in education, organisationaltraining, and sports practice. However, the effectiveness of XR compared to conventional trainingmethods, and the potential improvements that additional sensory information such as hapticfeedback may offer are unclear. This systematic review and meta-analysis compared XR with non-XR training programmes in improving psychomotor skill performance and assessed whether hapticfeedback improved programmes' ef",
+    "keywords": [
+      "Psychomotor learning",
+      "Meta-analysis",
+      "Training (meteorology)",
+      "Psychology",
+      "Applied psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S1747938X26000631/pdf",
+    "cited_by_count": 2,
+    "type": "review",
+    "fetched_at": "2026-07-28T22:48:40.469498"
   },
   {
     "id": "https://openalex.org/W7170137263",
