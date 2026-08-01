@@ -1,248 +1,169 @@
-📅 运行时间：2026-07-31 22:49
-📊 本次新增文章：30 篇
-📚 数据库总文章数：1535 篇
-🔍 查询范围：2026-07-24 至 2026-07-31
+📅 运行时间：2026-08-01 22:42
+📊 本次新增文章：20 篇
+📚 数据库总文章数：1555 篇
+🔍 查询范围：2026-07-25 至 2026-08-01
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Language Teaching Research: 4 篇
-  • Journal of Engineering Education: 3 篇
-  • Education and Information Technologies: 2 篇
-  • Journal of Computer Assisted Learning: 2 篇
-  • European Journal of Education: 2 篇
-  • Studies In Higher Education: 2 篇
-  • International Journal of Educational Technology in Higher Education: 1 篇
-  • Educational Research Review: 1 篇
-  • British Journal of Educational Technology: 1 篇
-  • Review of Educational Research: 1 篇
-  • Recall: 1 篇
-  • Assessing Writing: 1 篇
+  • European Journal of Education: 6 篇
+  • Language Teaching Research: 3 篇
+  • International Journal of Sustainability In Higher Education: 3 篇
+  • Journal of Science Education and Technology: 2 篇
+  • International Journal of Computer-Supported Collaborative Learning: 1 篇
+  • Education and Information Technologies: 1 篇
   • Interactive Learning Environments: 1 篇
-  • Journal of Educational Computing Research: 1 篇
-  • Metacognition and Learning: 1 篇
-  • ETR&D-Educational Technology Research and Development: 1 篇
-  • Teaching and Teacher Education: 1 篇
-  • Physical Review Physics Education Research: 1 篇
-  • European Physical Education Review: 1 篇
-  • European Journal of Teacher Education: 1 篇
+  • Studies In Higher Education: 1 篇
+  • Professional Development In Education: 1 篇
   • Science & Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Differential engagement with generative artificial intelligence in higher education: Gender, motivation, and achievement trajectories
-    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
-    作者：Yuan‐Hsuan Lee, Jiun‐Yu Wu
-    日期：2026-07-30
-    关键词：Chatbot, Generative grammar, Student engagement, Function (biology), Generative model
-    DOI：https://doi.org/10.1186/s41239-026-00615-8
-    🔓 开放获取
-
-[2] How do digital tools support metacognition in mathematics learning? A systematic review of research on GeoGebra and problem-solving
-    期刊：Educational Research Review (JIF: 10.6)
-    作者：Amirul Mohamad Khairi Mannan, Mohd Razip Bajuri, Suzieleez Syrene Abdul Rahim 等(4人)
-    日期：2026-07-28
-    关键词：Metacognition, Affordance, Exploratory research, Empirical research, Cognition
-    DOI：https://doi.org/10.1016/j.edurev.2026.100827
-
-[3] Hybrid intelligence feedback systems in design thinking development: Stage‐specific insights on pedagogical effects and characteristics of generative <scp>AI</scp> and instructors
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Xiao Fei
-    日期：2026-07-30
-    关键词：Generative grammar, Task (project management), Perception, Generative model, Instructional design
-    DOI：https://doi.org/10.1111/bjet.70080
-
-[4] Reliability Generalization Meta-analysis of the Metacognition Awareness Inventory
-    期刊：Review of Educational Research (JIF: 7.4)
-    作者：María Sánchez Munilla, Belén Fernández‐Castilla, Enrique Navarro Asencio
-    日期：2026-07-30
-    关键词：Generalization, Reliability (semiconductor), Moderation, Metacognition, Dimension (graph theory)
-    DOI：https://doi.org/10.3102/00346543261466257
-
-[5] Effects of dialogic and monologic AI/non-AI feedback on L2 speaking development: Exploring learner achievements, feedback literacy, and interactional moves
-    期刊：Recall (JIF: 5.7)
-    作者：Hanieh Shafiee Rad
-    日期：2026-07-30
-    关键词：Dialogic, Corrective feedback, Literacy, Qualitative property, Qualitative research
-    DOI：https://doi.org/10.1017/s095834402610055x
-    🔓 开放获取
-
-[6] “Dialogue with texts” and the fusion of horizons: A hermeneutic approach to L2 learner engagement with written corrective feedback
-    期刊：Assessing Writing (JIF: 5.5)
-    作者：Mingfei Xu, Shi Pu, Yujie Guo
+[1] Exploring a constructive use of curriculum to sustain collective inquiry
+    期刊：International Journal of Computer-Supported Collaborative Learning (JIF: 5.7)
+    作者：Chew Lee Teo, Aloysius Ong
     日期：2026-07-31
-    关键词：Corrective feedback, Fusion, Higher education, Student engagement, Sensor fusion
-    DOI：https://doi.org/10.1016/j.asw.2026.101103
+    关键词：Curriculum, Vocabulary, Tag cloud, Collective intelligence, Relation (database)
+    DOI：https://doi.org/10.1007/s11412-026-09489-4
 
-[7] Effects of sustained attention and different video lecture types on learning and recall performance of pre-service science teachers
+[2] Enhancing Science Simulation-Based Learning with Dialogic Feedback from Generative AI Agents
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Cai-Ting Wen, Yi-Syuan Chu, Chih-Chung Hsu 等(5人)
+    日期：2026-07-31
+    关键词：Dialogic, Generative grammar, Science education, Educational technology, Science learning
+    DOI：https://doi.org/10.1007/s10956-025-10290-5
+
+[3] Seeing the Cell Through Different Lenses: A Comparison of IVR, AR, and Microscope-Based Learning Environments in Gifted Students
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Leyla Ayverdi
+    日期：2026-07-31
+    关键词：Educational technology, Concept learning, Science education, Cognition, Conceptual framework
+    DOI：https://doi.org/10.1007/s10956-026-10355-z
+
+[4] When university students’ insecurities drive them to rely excessively on Artificial Intelligence: Relationship between fear of failure, self-esteem, social support and ChatGPT dependence
     期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Şeyma Ulukök Yıldırım, Duygu Sönmez
-    日期：2026-07-30
-    关键词：Recall, Note-taking, Tracking (education), Cognition, Educational technology
-    DOI：https://doi.org/10.1007/s10639-026-14102-0
+    作者：Héctor Galindo‐Domínguez, Nahia Delgado, Daniel Losada Iglesias 等(4人)
+    日期：2026-07-31
+    关键词：Fear of failure, Dependency (UML), Social support, Mediation, Test (biology)
+    DOI：https://doi.org/10.1007/s10639-026-14106-w
+    🔓 开放获取
 
-[8] The role of AI avatars and human instructors in video-based learning: an eye-tracking study on cognitive load and social presence
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Hasan Celal Balıkçı, Mustafa Alpsülün
-    日期：2026-07-30
-    关键词：Cognitive load, Fixation (population genetics), Cognition, Social cognitive theory, Perception
-    DOI：https://doi.org/10.1007/s10639-026-14111-z
-
-[9] Insights into collaborative learning from discourse analysis: a scoping review
+[5] Designing AI-generated multi-format reading assessment across Bloom’s cognitive levels: effects on L2 reading comprehension, cognitive engagement, and motivation
     期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Junzhu Su, Shasha Li, Jin Liu
-    日期：2026-07-30
-    关键词：Collaborative learning, Educational technology, Computer-supported collaborative learning, Experiential learning, Electronic learning
-    DOI：https://doi.org/10.1080/10494820.2026.2704918
+    作者：Ari Kusmiatun, Bima Mhd Ghaluh
+    日期：2026-07-31
+    关键词：Reading (process), Cognition, Cognitive load, Cognitive style, Reading motivation
+    DOI：https://doi.org/10.1080/10494820.2026.2708237
 
-[10] Generative Scaffolding in Pre-Trip Games: Effects of a GenAI-Chatbot on Inquiry-Based Learning
-    期刊：Journal of Educational Computing Research (JIF: 4.9)
-    作者：陈勤, Yulin Gong, Minkai Wang 等(5人)
-    日期：2026-07-30
-    关键词：Control (management), Generative grammar, Exploratory research, Group (periodic table), Digital learning
-    DOI：https://doi.org/10.1177/07356331261474369
-
-[11] Awareness of belief change predicts information seeking
-    期刊：Metacognition and Learning (JIF: 4.8)
-    作者：Todd J. Williams, Michael Wolfe, Alexander J. Denison
-    日期：2026-07-30
-    关键词：Information seeking, Metacognition, Attitude change, Belief system, Self-efficacy
-    DOI：https://doi.org/10.1007/s11409-026-09486-w
-
-[12] A Study on the Role of Midjourney, A Generative Artificial Intelligence Tool, in Enhancing Student Creativity in Illustration Design Classes
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Shuaisen He
-    日期：2026-07-30
-    关键词：Creativity, Ideation, Rubric, Generative grammar, Originality
-    DOI：https://doi.org/10.1002/jcal.70305
-
-[13] Effects of Digital Technology on Creativity and Emotional Skills in Music Education: A Quantitative Study
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Ya Ni, Yingjin Shan
-    日期：2026-07-30
-    关键词：Creativity, Test (biology), Music education, Affect (linguistics), Confirmatory factor analysis
-    DOI：https://doi.org/10.1002/jcal.70303
-
-[14] Flipped classroom and learning outcomes: a second-order meta-analysis
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Weihao Wang, Yanan Wang, Jianting Mo 等(4人)
-    日期：2026-07-30
-    关键词：Moderation, Flipped classroom, Flipped learning, Educational technology, Blended learning
-    DOI：https://doi.org/10.1007/s11423-026-10686-z
-
-[15] The role of motivational beliefs in pre-service teachers’ technology integration intentions: Longitudinal findings over one year
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Veit Kubik, Svenja Matheis, Lena Keller 等(5人)
-    日期：2026-07-29
-    关键词：Competence (human resources), Structural equation modeling, Longitudinal study, Reciprocal, Technology integration
-    DOI：https://doi.org/10.1016/j.tate.2026.105757
-    🔓 开放获取
-
-[16] Engagement and Efficiency: A Study of Metadiscourse in Tibetan EFL Classrooms
+[6] Enhancing EFL Oral Proficiency through Video-Based Tasks Implemented in a Flipped Classroom
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Shouxian Guan, Xiao Chen
-    日期：2026-07-30
-    关键词：Metadiscourse, Foregrounding, Dialogic, Sociocultural evolution, Metalinguistics
-    DOI：https://doi.org/10.1177/13621688261466614
+    作者：Sophia Binnendyk, Mansye Sekewael, Hedyan Putra
+    日期：2026-07-31
+    关键词：Fluency, Flipped classroom, Indonesian, Task (project management), Foreign language
+    DOI：https://doi.org/10.1177/13621688261465078
 
-[17] Effects of Experience and Foreign-Accented Input on L1 Ecuadorian Spanish Speakers’ Production of English Vowels
+[7] Learning Motivation and Academic Satisfaction Among Spanish College Students Learning Chinese as a Foreign Language: An Empirical Analysis
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Alejandra Pesantez, Ronaldo Lima, Esteban Heras
-    日期：2026-07-30
-    关键词：Pronunciation, Optimal distinctiveness theory, Vowel, Second language, Production (economics)
-    DOI：https://doi.org/10.1177/13621688261452959
+    作者：Catalina Cheng-Lin
+    日期：2026-07-31
+    关键词：Foreign language, Statistical analysis, Higher education, Academic achievement, Point (geometry)
+    DOI：https://doi.org/10.1177/13621688261460884
 
-[18] Navigating Neoliberal Demands: Linguistic Entrepreneurship Among EMI Students in a Non-Elite Chinese University
+[8] Profiles of EFL Emotion Regulation Strategies and Associations With Regulatory Emotional Self-Efficacy and Burnout
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Griffin Guoxiong Qiu, Guangwei Hu
-    日期：2026-07-30
-    关键词：Ideology, Entrepreneurship, Neoliberalism (international relations), Foundation (evidence), Multilingualism
-    DOI：https://doi.org/10.1177/13621688261465992
-    🔓 开放获取
+    作者：Xia Wang, Yangyu Wang
+    日期：2026-07-31
+    关键词：Cynicism, Burnout, Group (periodic table), Group conflict, Emotional exhaustion
+    DOI：https://doi.org/10.1177/13621688261466100
 
-[19] Relationship Between Pre-Writing Task Perception and Post-Writing Feedback Handling: The Mediating Role of During-Writing Task Implementation Strategies and Moderating Role of Second Language Writing Proficiency
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Lin Yu-peng, Meihua Liu
-    日期：2026-07-30
-    关键词：Second language writing, Task (project management), Language proficiency, Perception, Task analysis
-    DOI：https://doi.org/10.1177/13621688261465781
-
-[20] Toward thinking quantumly: Student reasoning about the enigma of QM
-    期刊：Physical Review Physics Education Research (JIF: 3.6)
-    作者：Anonymous
-    日期：2026-07-30
-    关键词：Logical reasoning, Perspective (graphical), Process (computing), Interpretation (philosophy)
-    DOI：https://doi.org/10.1103/9ym4-5t4s
-    🔓 开放获取
-
-[21] Parental Support for Chinese Young Students' <scp>EFL</scp> Learning: A Perspective of Socio‐Economic Status
+[9] Localising Inclusion: Pre‐Service Teachers' Attitudes and Conceptualisations in Germany and Russia
     期刊：European Journal of Education (JIF: 3.6)
-    作者：H. Y. Chen, Yanqun Huang, Zhenhui Rao
-    日期：2026-07-30
-    关键词：Perspective (graphical), Context (archaeology), Perception, Foreign language, English as a foreign language
-    DOI：https://doi.org/10.1111/ejed.70808
+    作者：Бибигуль Сансызбаевна Искакова, Eva Kleinlein, Daria I. Prisiazhniuk 等(4人)
+    日期：2026-07-31
+    关键词：Inclusion (mineral), German, Curriculum, Exploratory research, Teacher education
+    DOI：https://doi.org/10.1111/ejed.70810
     🔓 开放获取
 
-[22] Humanising Web‐Based Learning for Academically Transitioning Students Through Their Voices
+[10] Influence of Audience, Performing Conditions and Mental Health on Music Performance Anxiety: A Mediated‐Moderated Model
     期刊：European Journal of Education (JIF: 3.6)
-    作者：Xiaodong Zhang
-    日期：2026-07-29
-    关键词：Thematic analysis, Qualitative research, Focus group, Psychological intervention, Higher education
-    DOI：https://doi.org/10.1111/ejed.70804
+    作者：Bin Liu
+    日期：2026-07-31
+    关键词：Mental health, Anxiety, Beijing, Simple random sample, Cognition
+    DOI：https://doi.org/10.1111/ejed.70805
     🔓 开放获取
 
-[23] None
-    期刊：Journal of Engineering Education (JIF: 3.4)
-    日期：2026-07-30
-    DOI：https://doi.org/10.1002/jee.v115.4
-
-[24] Issue Information
-    期刊：Journal of Engineering Education (JIF: 3.4)
-    日期：2026-07-29
-    DOI：https://doi.org/10.1002/jee.70069
-
-[25] Making sociotechnical doable: Cross‐disciplinary translations into engineering education
-    期刊：Journal of Engineering Education (JIF: 3.4)
-    作者：Desen Özkan, Kari Zacharias, Marie Stettler Kleine
-    日期：2026-07-29
-    关键词：Sociotechnical system, Operationalization, Boundary object, Engineering education, Politics
-    DOI：https://doi.org/10.1002/jee.70076
+[11] Serving More Than Food: Teachers' Perceptions of School Meals From a Socio‐Ecological Perspective
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Tuba Gökmenoğlu, Ceyda Durmus
+    日期：2026-07-31
+    关键词：Perception, Psychosocial, Turkish, Perspective (graphical), Stigma (botany)
+    DOI：https://doi.org/10.1111/ejed.70809
     🔓 开放获取
 
-[26] From barriers to facilitators: Examining views of schoolteachers on provision of school-based swimming and water safety education in Türkiye
-    期刊：European Physical Education Review (JIF: 3.3)
-    作者：Ali Işın, Amy E. Peden
-    日期：2026-07-30
-    关键词：Water safety, Government (linguistics), Curriculum, Occupational safety and health, Poison control
-    DOI：https://doi.org/10.1177/1356336x261469078
+[12] <scp>AI</scp> ‐Driven Instruction and Its Influence on <scp>EFL</scp> Learners' Self‐Efficacy, Self‐Regulation, and Grit
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Lu Li
+    日期：2026-07-31
+    关键词：Syllabus, Grit, Control (management), Intervention (counseling), Foreign language
+    DOI：https://doi.org/10.1111/ejed.70801
     🔓 开放获取
 
-[27] Team-based learning and student performance in undergraduate economics: evidence from a quasi-experimental study
+[13] The Interaction of Authentic Leadership With Organizational Change Readiness
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Na Li, Chunxi Liu, Lan Luo 等(5人)
+    日期：2026-07-31
+    关键词：Authentic leadership, Organizational commitment, Perspective (graphical), Structural equation modeling, Organizational change
+    DOI：https://doi.org/10.1111/ejed.70803
+    🔓 开放获取
+
+[14] Exploring the Mediation of <scp>EFL</scp> Learners' Perceptions of Teacher Fairness on the Association Between Learning Climate and Self‐Efficacy
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Shouhong Zhao
+    日期：2026-07-31
+    关键词：Mediation, Classroom climate, Association (psychology), Perception, Structural equation modeling
+    DOI：https://doi.org/10.1111/ejed.70749
+
+[15] An integrated design framework for sustainability-focused micro-credentials in higher education
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Niamh O’Brien, K. Byrne, Neill Wylie
+    日期：2026-07-31
+    关键词：Sustainability, Transformative learning, Higher education, Competence (human resources), Curriculum
+    DOI：https://doi.org/10.1108/ijshe-11-2025-1482
+    🔓 开放获取
+
+[16] An empirical exploration of a business school’s effect on students’ sustainability mindsets
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Limin Fu, Ananya Bhattacharya, George Derham 等(5人)
+    日期：2026-07-31
+    关键词：Sustainability, Sustainability organizations, Curriculum, Social sustainability, Identity (music)
+    DOI：https://doi.org/10.1108/ijshe-02-2026-0399
+
+[17] Environmental sustainability and climate action plans in higher education institutions
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Jade Winn, Sarah Tribelhorn, Dasmine Mcfarlin 等(4人)
+    日期：2026-07-31
+    关键词：Sustainability, Higher education, Equity (law), Sustainability science, Best practice
+    DOI：https://doi.org/10.1108/ijshe-09-2025-1081
+    🔓 开放获取
+
+[18] Institutional hiring strategies and research performance: alumni versus non-alumni faculty in business schools
     期刊：Studies In Higher Education (JIF: 3.2)
-    作者：giuseppe caruso, Chiara Strozzi
-    日期：2026-07-30
-    关键词：Tracking (education), Higher education, Academic achievement, Student engagement, Public university
-    DOI：https://doi.org/10.1080/03075079.2026.2708140
+    作者：Yueyan Dong, Nannan Yu, Martin de Jong
+    日期：2026-07-31
+    关键词：Human capital, Higher education, Exploratory research, Institutional research, Scope (computer science)
+    DOI：https://doi.org/10.1080/03075079.2026.2706704
 
-[28] A bridge too far? Replication, transparency, and the politics of evidence in higher education research
-    期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Büşra Kulakoğlu
-    日期：2026-07-30
-    关键词：Higher education, Politics, Bridge (graph theory), Qualitative research, Trend analysis
-    DOI：https://doi.org/10.1080/03075079.2026.2709652
+[19] Re-specialisation of out-of-field teachers of mathematics and science through a formal qualification
+    期刊：Professional Development In Education (JIF: 3.1)
+    作者：Russell Tytler, Jill Brown, Peta White 等(5人)
+    日期：2026-07-31
+    关键词：Professional development, Connected Mathematics, Faculty development, Reform mathematics, Science education
+    DOI：https://doi.org/10.1080/19415257.2026.2709864
+    🔓 开放获取
 
-[29] The association between teacher efficacy and teacher burnout expectancy among Swedish student teachers
-    期刊：European Journal of Teacher Education (JIF: 3.1)
-    作者：Henrik Lindqvist, Robert Thornberg, Linda Wänström 等(5人)
-    日期：2026-07-30
-    关键词：Expectancy theory, Burnout, Student teacher, Association (psychology), Self-efficacy
-    DOI：https://doi.org/10.1080/02619768.2026.2711228
-
-[30] Exploring Informal Reasoning Patterns and Argumentation Quality via Socioscientific Issue–Based Cartoons: A Cross-Grade Study
+[20] Editorial Note: August 2026
     期刊：Science & Education (JIF: 2.5)
-    作者：Ayşenur Ocak, Muammer Çalık
-    日期：2026-07-30
-    关键词：Argumentation theory, Informal logic, Quality (philosophy), Sample (material), Informal education
-    DOI：https://doi.org/10.1007/s11191-026-00757-1
-    🔓 开放获取
+    作者：Cristiano B. Moura
+    日期：2026-07-31
+    DOI：https://doi.org/10.1007/s11191-026-00774-0
