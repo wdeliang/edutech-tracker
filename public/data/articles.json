@@ -1,5 +1,218 @@
 [
   {
+    "id": "https://openalex.org/W7172137631",
+    "title": "Enhancing efficacy of multimodal glosses for mobile-mediated word learning through spaced practice",
+    "authors": [
+      "Haiyan Miao",
+      "Ziyu Wu"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-08-01",
+    "doi": "10.1080/09588221.2026.2710623",
+    "url": "https://doi.org/10.1080/09588221.2026.2710623",
+    "abstract": "A myriad of studies have highlighted the positive impact of spaced practice, a learning strategy that distributes learning over time, in mobile-mediated word learning through multimodal glosses. It remains, nevertheless, underexplored how different patterns of spaced practice influence vocabulary recognition and production. To address this gap, 60 Chinese high school English learners were randomly assigned to three groups of spaced practice with different spacing patterns: equal, expanding and c",
+    "keywords": [
+      "Vocabulary",
+      "Vocabulary learning",
+      "Word learning",
+      "Word (group theory)",
+      "Vocabulary development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:06.516125"
+  },
+  {
+    "id": "https://openalex.org/W7172137545",
+    "title": "The predictive role of frequency of use on teachers’ generative AI ethical reflection: Scale development and validation",
+    "authors": [
+      "Lihui Sun",
+      "Yiqi Zheng"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-08-01",
+    "doi": "10.1080/15391523.2026.2711656",
+    "url": "https://doi.org/10.1080/15391523.2026.2711656",
+    "abstract": "",
+    "keywords": [
+      "Scale (ratio)",
+      "Generative grammar",
+      "Generative model",
+      "Development (topology)",
+      "Item response theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:13.307239"
+  },
+  {
+    "id": "https://openalex.org/W7172120285",
+    "title": "Understanding students’ experiences with generative AI in Arabic language education at Islamic universities in Indonesia",
+    "authors": [
+      "Agus Tricahyo",
+      "Muhammad Rizal Falaqi",
+      "Shobirin",
+      "Inayah",
+      "Isnainiyah"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-08-01",
+    "doi": "10.1080/17501229.2026.2712408",
+    "url": "https://doi.org/10.1080/17501229.2026.2712408",
+    "abstract": "The rapid development of Generative Artificial Intelligence (GenAI) is reshaping language learning in higher education, yet its integration within Islamic Higher Education Institutions (HEIs) remains underexplored, particularly in relation to students’ ethical and spiritual experiences. This study investigates how students in Indonesian Islamic HEIs interpret and make meaning of GenAI use in Arabic language learning, and how this engagement shapes emerging learning competencies in the AI era. Em",
+    "keywords": [
+      "Foregrounding",
+      "Islam",
+      "Meaning (existential)",
+      "Experiential learning",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:19.865829"
+  },
+  {
+    "id": "https://openalex.org/W7172105841",
+    "title": "Exploring the evolution of emotion and agency: a narrative case study of a Chinese EFL teacher's research engagement",
+    "authors": [
+      "Junping Lu",
+      "Lei Zhang",
+      "Yuan Xu"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-01",
+    "doi": "10.1016/j.tate.2026.105760",
+    "url": "https://doi.org/10.1016/j.tate.2026.105760",
+    "abstract": "",
+    "keywords": [
+      "Narrative",
+      "Agency (philosophy)",
+      "Dialectic",
+      "Adaptation (eye)",
+      "Thematic analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:27.239066"
+  },
+  {
+    "id": "https://openalex.org/W7172125090",
+    "title": "Context matters: Variations in preschool teachers’ emotional labor strategies across interactions",
+    "authors": [
+      "Peishan Huang",
+      "Mingming Zhou"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-01",
+    "doi": "10.1016/j.tate.2026.105762",
+    "url": "https://doi.org/10.1016/j.tate.2026.105762",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Emotional labor",
+      "Context effect",
+      "Higher education",
+      "Early childhood education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:27.239083"
+  },
+  {
+    "id": "https://openalex.org/W7172128996",
+    "title": "Intercultural Education in Chinese University <scp>EFL</scp> Classrooms: Intercultural Communication Competence Profiles and the Predictive Roles of Teacher–Student Rapport and Classroom Engagement",
+    "authors": [
+      "Juan Gu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-01",
+    "doi": "10.1111/ejed.70811",
+    "url": "https://doi.org/10.1111/ejed.70811",
+    "abstract": "ABSTRACT Intercultural communication competence (ICC) is increasingly regarded as an important goal of intercultural education in university EFL classrooms, where students are expected to engage with diverse perspectives and communicate across cultural boundaries. However, previous research has often examined ICC through variable‐centred approaches, paying limited attention to how different ICC dimensions combine within individual learners and how classroom conditions differentiate students' int",
+    "keywords": [
+      "Intercultural communication",
+      "Intercultural competence",
+      "Competence (human resources)",
+      "Communicative competence",
+      "China"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70811",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:31.963881"
+  },
+  {
+    "id": "https://openalex.org/W7172094663",
+    "title": "Inscription of power dynamics in platformized classrooms. Exploring coded spaces of platform architectures through Participatory Action Research",
+    "authors": [
+      "Rebecca Schmidt"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-08-01",
+    "doi": "10.1080/17439884.2026.2708693",
+    "url": "https://doi.org/10.1080/17439884.2026.2708693",
+    "abstract": "Platforms contribute to the ‘world-making’ of education; they play a co-constitutive role by envisioning and inscribing the functionalities anticipated in education. As programmable digital architectures, they both shape and are shaped by teachers’ and students’ practices. Building on two Action Research projects in German schools, the article concentrates on the reproduction of inequality within platformized classroom settings. It uses the focus point of translation software usage to explore in",
+    "keywords": [
+      "Inscribed figure",
+      "German",
+      "Software",
+      "Participatory action research",
+      "Action research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17439884.2026.2708693",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:40.764279"
+  },
+  {
+    "id": "https://openalex.org/W7172116876",
+    "title": "Change fatigue, teacher exhaustion and work engagement: The buffering role of transformational leadership",
+    "authors": [
+      "Muhammed Çelik",
+      "İbrahim LİMON",
+      "Mahmut Polatcan",
+      "Ramazan ERTÜRK",
+      "Mehmet Şükrü Bellibaş"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-07-31",
+    "doi": "10.1002/berj.70253",
+    "url": "https://doi.org/10.1002/berj.70253",
+    "abstract": "Abstract Although constant changes driven by reforms, technological adaptations and shifts in formal rules and regulations have contributed to the emergence of change fatigue in education, the consequences and mitigating factors remain largely underexplored. This study examined the extent to which change fatigue was related to teacher emotional exhaustion and work engagement in Türkiye. Additionally, it examined transformational leadership as a buffering mechanism in the relationship between cha",
+    "keywords": [
+      "Transformational leadership",
+      "Emotional exhaustion",
+      "Work engagement",
+      "Work (physics)",
+      "Structural equation modeling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-02T22:43:45.269492"
+  },
+  {
     "id": "https://openalex.org/W7172003225",
     "title": "Exploring a constructive use of curriculum to sustain collective inquiry",
     "authors": [
