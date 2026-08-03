@@ -1,5 +1,152 @@
 [
   {
+    "id": "https://openalex.org/W7172206658",
+    "title": "Exploring computer-supported collaborative learning through proposed 20-year update of IS success model and hierarchy of quality dimensions theory",
+    "authors": [
+      "Maimoona Salam",
+      "Muhammad Shoaib Farooq"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-02",
+    "doi": "10.1080/10494820.2026.2709672",
+    "url": "https://doi.org/10.1080/10494820.2026.2709672",
+    "abstract": "",
+    "keywords": [
+      "Collaborative learning",
+      "Quality (philosophy)",
+      "Hierarchy",
+      "Computer-supported collaborative learning",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-03T22:49:30.913521"
+  },
+  {
+    "id": "https://openalex.org/W7172206734",
+    "title": "From TPACK to intelligent-TPACK: a conceptual framework for advancing ethical and AI-integrated pedagogy in higher education",
+    "authors": [
+      "Mohammad Younas",
+      "Uzma Noor"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-02",
+    "doi": "10.1080/10494820.2026.2707309",
+    "url": "https://doi.org/10.1080/10494820.2026.2707309",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Conceptual framework",
+      "Technology integration",
+      "Context (archaeology)",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-03T22:49:30.913537"
+  },
+  {
+    "id": "https://openalex.org/W7172223376",
+    "title": "Trust, transparency, and learning outcomes in AI-mediated language education platforms",
+    "authors": [
+      "Na Liu",
+      "Colin Ingram"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-02",
+    "doi": "10.1080/10494820.2026.2690105",
+    "url": "https://doi.org/10.1080/10494820.2026.2690105",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Language acquisition",
+      "Higher education",
+      "Electronic learning",
+      "Computer-Assisted Instruction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-03T22:49:30.913542"
+  },
+  {
+    "id": "https://openalex.org/W7172209327",
+    "title": "Legitimation before transformation: What short-cycle professional development achieves for pedagogical translanguaging",
+    "authors": [
+      "Yelena Zakharova",
+      "David Lasagabaster"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-02",
+    "doi": "10.1016/j.tate.2026.105756",
+    "url": "https://doi.org/10.1016/j.tate.2026.105756",
+    "abstract": "",
+    "keywords": [
+      "Legitimation",
+      "Translanguaging",
+      "Professional development",
+      "Faculty development",
+      "Work (physics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105756",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-03T22:49:45.489305"
+  },
+  {
+    "id": "https://openalex.org/W7172205937",
+    "title": "Preservice teachers’ development of professional vision for teaching practices on digital phenomena",
+    "authors": [
+      "Sergej Udarcev",
+      "Andrés Acher"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-02",
+    "doi": "10.1016/j.tate.2026.105749",
+    "url": "https://doi.org/10.1016/j.tate.2026.105749",
+    "abstract": "",
+    "keywords": [
+      "Professional development",
+      "Electronic learning",
+      "Educational technology",
+      "Higher education",
+      "Teaching method"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105749",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-03T22:49:45.489318"
+  },
+  {
+    "id": "https://openalex.org/W7172213675",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-08-01",
+    "doi": "10.1016/s0346-251x(26)00154-5",
+    "url": "https://doi.org/10.1016/s0346-251x(26)00154-5",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-08-03T22:49:27.684034"
+  },
+  {
     "id": "https://openalex.org/W7172137631",
     "title": "Enhancing efficacy of multimodal glosses for mobile-mediated word learning through spaced practice",
     "authors": [
