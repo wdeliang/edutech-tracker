@@ -1,56 +1,217 @@
-📅 运行时间：2026-08-03 22:50
-📊 本次新增文章：6 篇
-📚 数据库总文章数：1569 篇
-🔍 查询范围：2026-07-27 至 2026-08-03
+📅 运行时间：2026-08-04 22:52
+📊 本次新增文章：26 篇
+📚 数据库总文章数：1595 篇
+🔍 查询范围：2026-07-28 至 2026-08-04
 
 📊 各期刊新增统计：
 ----------------------------------------
   • Interactive Learning Environments: 3 篇
-  • Teaching and Teacher Education: 2 篇
+  • Teaching and Teacher Education: 3 篇
+  • Studies In Higher Education: 3 篇
+  • British Journal of Educational Technology: 2 篇
+  • Language Learning: 2 篇
+  • Science & Education: 2 篇
+  • Educational Research Review: 1 篇
+  • International Journal of Computer-Supported Collaborative Learning: 1 篇
   • System: 1 篇
+  • Journal of Science Education and Technology: 1 篇
+  • Journal of Research on Technology In Education: 1 篇
+  • Innovation In Language Learning and Teaching: 1 篇
+  • Journal of Research In Science Teaching: 1 篇
+  • ETR&D-Educational Technology Research and Development: 1 篇
+  • European Journal of Education: 1 篇
+  • Journal of English For Academic Purposes: 1 篇
+  • International Journal of Science and Mathematics Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Editorial Board
-    期刊：System (JIF: 5.6)
+[1] Fostering Computational Thinking through Robotics in Kindergarten: A Systematic Review of Learning Strategies, Frameworks, and Assessment
+    期刊：Educational Research Review (JIF: 10.6)
+    作者：Soultana Tsingidou, Theodosios Sapounidis
     日期：2026-08-01
-    DOI：https://doi.org/10.1016/s0346-251x(26)00154-5
-
-[2] Exploring computer-supported collaborative learning through proposed 20-year update of IS success model and hierarchy of quality dimensions theory
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Maimoona Salam, Muhammad Shoaib Farooq
-    日期：2026-08-02
-    关键词：Collaborative learning, Quality (philosophy), Hierarchy, Computer-supported collaborative learning, Electronic learning
-    DOI：https://doi.org/10.1080/10494820.2026.2709672
-
-[3] From TPACK to intelligent-TPACK: a conceptual framework for advancing ethical and AI-integrated pedagogy in higher education
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Mohammad Younas, Uzma Noor
-    日期：2026-08-02
-    关键词：Higher education, Conceptual framework, Technology integration, Context (archaeology), Qualitative research
-    DOI：https://doi.org/10.1080/10494820.2026.2707309
-
-[4] Trust, transparency, and learning outcomes in AI-mediated language education platforms
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Na Liu, Colin Ingram
-    日期：2026-08-02
-    关键词：Educational technology, Language acquisition, Higher education, Electronic learning, Computer-Assisted Instruction
-    DOI：https://doi.org/10.1080/10494820.2026.2690105
-
-[5] Legitimation before transformation: What short-cycle professional development achieves for pedagogical translanguaging
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Yelena Zakharova, David Lasagabaster
-    日期：2026-08-02
-    关键词：Legitimation, Translanguaging, Professional development, Faculty development, Work (physics)
-    DOI：https://doi.org/10.1016/j.tate.2026.105756
+    关键词：Computational thinking, Robotics, Educational robotics, Teaching method, Computational model
+    DOI：https://doi.org/10.1016/j.edurev.2026.100829
     🔓 开放获取
 
-[6] Preservice teachers’ development of professional vision for teaching practices on digital phenomena
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Sergej Udarcev, Andrés Acher
+[2] Unveiling patterns of socially shared regulation in relation to self‐regulated learning: The roles of individual profiles and group dynamics in online collaborative learning
+    期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Tao He, Xintong Wu, Mingzhu Li 等(5人)
     日期：2026-08-02
-    关键词：Professional development, Electronic learning, Educational technology, Higher education, Teaching method
-    DOI：https://doi.org/10.1016/j.tate.2026.105749
+    关键词：Collaborative learning, Computer-mediated communication, Online discussion, Dynamics (music), Relation (database)
+    DOI：https://doi.org/10.1111/bjet.70082
+
+[3] Not all collaboration benefits from competition: Collaboration modes in a computational thinking game
+    期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Ching‐Huei Chen, Kun Huang
+    日期：2026-08-02
+    关键词：Competition (biology), Collaborative learning, Cooperative learning, Metacognition, Mode (computer interface)
+    DOI：https://doi.org/10.1111/bjet.70081
+
+[4] Mapping behavioral dynamics in AI-supported CSCL: Analyzing cognitive, task, and emotional regulation patterns and their impact on performance
+    期刊：International Journal of Computer-Supported Collaborative Learning (JIF: 5.7)
+    作者：Shurui Gao, Weijia Chen, Fengwu Han 等(4人)
+    日期：2026-08-03
+    关键词：Dynamics (music), Behavioral pattern, Task (project management), Generative grammar, Group dynamic
+    DOI：https://doi.org/10.1007/s11412-026-09492-9
+
+[5] Development and validation of the Digital Trans-Literacies Scale (DTLS) for multilingual youth
+    期刊：System (JIF: 5.6)
+    作者：Shuting Zhang, Mingyue Gu
+    日期：2026-08-03
+    关键词：Conceptualization, Social media, Construct (python library), Scale (ratio), Confirmatory factor analysis
+    DOI：https://doi.org/10.1016/j.system.2026.104113
+
+[6] From Video to Analytics: A Design-based Study on Fostering Critical Collective Reflection for Pre-service Science Teachers
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Jimei Li, Dongchen Pan, Zhao Ya 等(4人)
+    日期：2026-08-03
+    关键词：Reflection (computer programming), Learning analytics, Science education, Set (abstract data type), Analytics
+    DOI：https://doi.org/10.1007/s10956-026-10356-y
+
+[7] Designing interactive industry–education learning environments: technology integration, knowledge transformation, self-efficacy, and innovation readiness
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Yanan Yu, Zhaoxia Huang, Yungwei Hao
+    日期：2026-08-03
+    关键词：Cognition, Process (computing), Capstone, Path analysis (statistics), Experiential learning
+    DOI：https://doi.org/10.1080/10494820.2026.2699326
+
+[8] Immersive head-mounted VR for K-12 second language learning: a systematic review of learning outcomes and instructional support
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：XiaCheng Song, Lu Sun, Jing Jin 等(5人)
+    日期：2026-08-03
+    关键词：Generalizability theory, Vocabulary, Scopus, Protocol (science), Virtual reality
+    DOI：https://doi.org/10.1080/10494820.2026.2690472
+
+[9] From artificial intelligence literacy to performance: the mediating role of teamwork processes in business education
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Yushan Zhao
+    日期：2026-08-02
+    关键词：Teamwork, Literacy, Information literacy, Process (computing), Knowledge sharing
+    DOI：https://doi.org/10.1080/10494820.2026.2710800
+
+[10] Unpacking the relationships among key factors in the effectiveness of inquiry-based learning: What changes does ChatGPT bring?
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Pin‐Hui Li, Kinshuk, Yueh‐Min Huang 等(4人)
+    日期：2026-08-03
+    关键词：Unpacking, Creativity, Mediation, Skepticism, Generative grammar
+    DOI：https://doi.org/10.1080/15391523.2026.2711652
+
+[11] Processing instruction and the acquisition of English causatives: accuracy, reaction time, and reading comprehension in the Indian context
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Litto Mathew, Tannistha Dasgupta
+    日期：2026-08-03
+    关键词：Grammar, Reading comprehension, Context (archaeology), Comprehension, Control (management)
+    DOI：https://doi.org/10.1080/17501229.2026.2709809
+
+[12] The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers
+    期刊：Journal of Research In Science Teaching (JIF: 4.5)
+    作者：Emily MacLeod, Allison J. Gonsalves, Emily Sprowls 等(4人)
+    日期：2026-08-03
+    关键词：Science education, Context (archaeology), Economic shortage, Nature of Science, Science, technology, society and environment education
+    DOI：https://doi.org/10.1002/tea.70061
     🔓 开放获取
+
+[13] Exploring AI-enhanced design education in China: a quasi-experimental study of traditional, chatbot-assisted, and fully integrated AIGC conditions
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Xizhen Li, Shu Chen
+    日期：2026-08-03
+    关键词：CLARITY, Instructional design, Workflow, Product (mathematics), Ambiguity
+    DOI：https://doi.org/10.1007/s11423-026-10685-0
+
+[14] Stimulated Recall Protocols: Field‐Specific Guidelines for Second Language Acquisition and Bilingualism Research
+    期刊：Language Learning (JIF: 4.2)
+    作者：J. Dylan Burton, So-Young Lim, Sneha Samuvel
+    日期：2026-08-03
+    关键词：Recall, Neuroscience of multilingualism, Introspection, Second-language acquisition, Set (abstract data type)
+    DOI：https://doi.org/10.1111/lang.70054
+
+[15] Input Variability in Foreign Language Verb–Argument Construction Learning: A Primary School Intervention
+    期刊：Language Learning (JIF: 4.2)
+    作者：Johannes Schulz, Victoria Murphy, Elizabeth Wonnacott
+    日期：2026-08-03
+    关键词：Generalization, German, Verb, Intervention (counseling), Grammar
+    DOI：https://doi.org/10.1111/lang.70051
+    🔓 开放获取
+
+[16] A comparative study of female teacher self-empowerment: The role of professional identity and cultural orientation
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Daniela Popa, Maria Adamuti‐Trache, Alina Raluca Turculet 等(5人)
+    日期：2026-08-04
+    关键词：Identity (music), Orientation (vector space), Cultural identity, Gender identity, Sexual orientation
+    DOI：https://doi.org/10.1016/j.tate.2026.105765
+
+[17] Teacher educators’ involvement in the internationalisation of teacher education in Vietnam
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Ngan Thi Lan Nguyen
+    日期：2026-08-03
+    关键词：Teacher education, Internationalization, Higher education, Student teacher, Study abroad
+    DOI：https://doi.org/10.1016/j.tate.2026.105764
+
+[18] Culturally diverse teachers navigating AI integration: Identity, pedagogy, and ethics in multicultural contexts
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Shira Soffer-Vital, Nayif Awad, Fatima Kaloti Hallak 等(5人)
+    日期：2026-08-03
+    关键词：Multiculturalism, Cultural diversity, Multicultural education, Cultural competence, Diversity (politics)
+    DOI：https://doi.org/10.1016/j.tate.2026.105763
+
+[19] A Time‐Centred Perspective on Classroom‐Based Physical Activity
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Fabian Herold, Myrto F. Mavilidi, Spyridoula Vazou 等(5人)
+    日期：2026-08-02
+    关键词：Perspective (graphical), Physical activity, Foundation (evidence), Set (abstract data type), Element (criminal law)
+    DOI：https://doi.org/10.1111/ejed.70752
+    🔓 开放获取
+
+[20] Enhancing academic English instruction through pedagogically integrated GenAI: Effects on students’ AI literacy and engagement
+    期刊：Journal of English For Academic Purposes (JIF: 3.4)
+    作者：Rita Gill Singh, Kin Chow, Hu Dong 等(5人)
+    日期：2026-08-03
+    关键词：Literacy, English for academic purposes, Autonomy, Learner autonomy, Thematic analysis
+    DOI：https://doi.org/10.1016/j.jeap.2026.101729
+    🔓 开放获取
+
+[21] Navigating the hidden curriculum: a systemic identity negotiation model of graduate employability
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Behnam Soltani
+    日期：2026-08-03
+    关键词：Employability, Negotiation, Scholarship, Identity (music), Ideology
+    DOI：https://doi.org/10.1080/03075079.2026.2704764
+
+[22] Navigating neoliberal ‘regimes of belonging’ as a doctoral student
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Benjamin Mulvey, Ewan Wright
+    日期：2026-08-03
+    关键词：Higher education, Qualitative research, Neoliberalism (international relations), Graduate students, Scholarship
+    DOI：https://doi.org/10.1080/03075079.2026.2711405
+    🔓 开放获取
+
+[23] Conceptualizing the process of interprofessional knowledge construction: multidisciplinary student groups addressing complex child welfare cases in higher education
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Anna Nikupeteri, Lauri Lantela, Maarit Hovila
+    日期：2026-08-03
+    关键词：Multidisciplinary approach, Interprofessional education, Construct (python library), Meaning (existential), Higher education
+    DOI：https://doi.org/10.1080/03075079.2026.2704760
+    🔓 开放获取
+
+[24] Conceptual Engineering and Science Education
+    期刊：Science & Education (JIF: 2.5)
+    作者：Kostas Kampourakis
+    日期：2026-08-03
+    DOI：https://doi.org/10.1007/s11191-026-00773-1
+
+[25] The Concept of Theory and the Nature of Science: Reframing Science Education within the Discipline–Culture Paradigm
+    期刊：Science & Education (JIF: 2.5)
+    作者：Igal Galili
+    日期：2026-08-03
+    关键词：Scientific theory, Hierarchy, Perspective (graphical), Science education, Philosophy of science
+    DOI：https://doi.org/10.1007/s11191-026-00766-0
+    🔓 开放获取
+
+[26] STEM Participation in Global Higher Education: Core–Periphery Structures and Scientific Capital in Fulbright Foreign Student Program
+    期刊：International Journal of Science and Mathematics Education (JIF: 2.1)
+    作者：Angga Hidayat, Ismu Sukamto, Johan Syahbrudin 等(5人)
+    日期：2026-08-01
+    关键词：Science education, Perspective (graphical), Inequality, Citizen science, Higher education
+    DOI：https://doi.org/10.1007/s10763-026-10709-4
