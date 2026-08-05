@@ -1,5 +1,448 @@
 [
   {
+    "id": "https://openalex.org/W7172402317",
+    "title": "Evaluating the role of AI in writing assessment development through the lens of the validity argument",
+    "authors": [
+      "Catherine J. Welch",
+      "Stephen B. Dunbar",
+      "Yen Vo"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-08-05",
+    "doi": "10.1016/j.asw.2026.101107",
+    "url": "https://doi.org/10.1016/j.asw.2026.101107",
+    "abstract": "",
+    "keywords": [
+      "Argument (complex analysis)",
+      "Writing assessment",
+      "Lens (geology)",
+      "Through-the-lens metering",
+      "Development (topology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:07.371281"
+  },
+  {
+    "id": "https://openalex.org/W7172385247",
+    "title": "Fostering the collaborative diagnosis of cross-domain skills in video-based simulations: An analysis of collaborative diagnostic activities",
+    "authors": [
+      "Amadeus J. Pickal",
+      "Katharina Engelmann",
+      "Clark A. Chinn",
+      "Birgit J. Neuhaus",
+      "Raimund Girwidz"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-08-04",
+    "doi": "10.1007/s11412-026-09494-7",
+    "url": "https://doi.org/10.1007/s11412-026-09494-7",
+    "abstract": "Abstract Teachers’ ability to assess pupils’ knowledge and skills is a crucial component of their daily responsibilities, as accurate diagnoses influence both the support provided to pupils and their learning outcomes. Traditionally, diagnosing pupils’ skills is an individual task, with little consideration given to the potential of collaborative diagnosis. However, collaboration may offer significant benefits, particularly when diagnosing cross-domain skills, such as scientific reasoning, where",
+    "keywords": [
+      "Medical diagnosis",
+      "Collaborative learning",
+      "Parallels",
+      "Diagnostic test",
+      "Scripting language"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11412-026-09494-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:06.193066"
+  },
+  {
+    "id": "https://openalex.org/W7172418181",
+    "title": "From experience to action: sequential dynamics of experiential learning in immersive virtual reality-supported safety training",
+    "authors": [
+      "Idowu David Awoyemi",
+      "Jewoong Moon",
+      "Stephen Abu",
+      "Siyuan Song"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-04",
+    "doi": "10.1080/10494820.2026.2709674",
+    "url": "https://doi.org/10.1080/10494820.2026.2709674",
+    "abstract": "",
+    "keywords": [
+      "Experiential learning",
+      "Dynamics (music)",
+      "Training (meteorology)",
+      "Virtual reality",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:09.192872"
+  },
+  {
+    "id": "https://openalex.org/W7172453095",
+    "title": "Correction: Development and validation of a writing self-assessment practice questionnaire for self-regulated learning",
+    "authors": [
+      "Linze Ou",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Metacognition and Learning",
+    "jif": 4.8,
+    "published_date": "2026-08-04",
+    "doi": "10.1007/s11409-026-09487-9",
+    "url": "https://doi.org/10.1007/s11409-026-09487-9",
+    "abstract": "",
+    "keywords": [
+      "Metacognition",
+      "Reliability (semiconductor)",
+      "Psychometrics",
+      "Self-regulated learning",
+      "Test validity"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11409-026-09487-9",
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-08-05T22:46:14.101709"
+  },
+  {
+    "id": "https://openalex.org/W7172379584",
+    "title": "From Metrics to Practice: Rethinking and Refining the AI Literacy Scale for Teachers",
+    "authors": [
+      "Yimin Ning",
+      "E. Anni",
+      "D Yao",
+      "Binyan Xu",
+      "Tommy Tanu Wijaya"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1007/s40299-026-01135-9",
+    "url": "https://doi.org/10.1007/s40299-026-01135-9",
+    "abstract": "",
+    "keywords": [
+      "Scale (ratio)",
+      "Refining (metallurgy)",
+      "Literacy",
+      "Process (computing)",
+      "Measure (data warehouse)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:14.704052"
+  },
+  {
+    "id": "https://openalex.org/W7172442512",
+    "title": "GenAI-supported multimodal design practices among Chinese primary EFL teachers: an explanatory mixed-methods study of adoption-related factors",
+    "authors": [
+      "Yunsong Wang",
+      "Zhiyi Zhang",
+      "Mehmet Şengül"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1080/17501229.2026.2713158",
+    "url": "https://doi.org/10.1080/17501229.2026.2713158",
+    "abstract": "Generative artificial intelligence (GenAI) is increasingly influencing English-as-a-foreign-language (EFL) teaching by enabling teachers to generate and adapt instructional resources across multiple modes. However, existing research has mainly focused on AI acceptance and behavioural intention, with less attention to how teachers integrate GenAI into actual multimodal design practices. Drawing on technology adoption perspectives and teacher-related cognitive and affective factors, this mixed-met",
+    "keywords": [
+      "Cognition",
+      "Multimodality",
+      "Instructional design",
+      "Literacy",
+      "Generative grammar"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:15.332231"
+  },
+  {
+    "id": "https://openalex.org/W7172384873",
+    "title": "Game-based learning for ethics: benefits, challenges, and dilemmas",
+    "authors": [
+      "Galina Zvereva",
+      "Georgina Guillén",
+      "Samaan Al‐Msallam",
+      "Juho Hamari",
+      "Nannan Xi"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-04",
+    "doi": "10.1007/s11423-026-10678-z",
+    "url": "https://doi.org/10.1007/s11423-026-10678-z",
+    "abstract": "Abstract Ethics is recognized as a foundational element of human decision-making and a critical competency across educational disciplines, especially in STEM, where solving authentic, complex problems is essential. Traditional methods of ethics instruction often fail to provide the engagement needed for learners to grasp abstract ethical challenges. In contrast, game-based learning offers an experiential approach capable of supporting ethical literacy. Yet, despite their potential, games may als",
+    "keywords": [
+      "Experiential learning",
+      "Popularity",
+      "Business ethics",
+      "Educational technology",
+      "Information ethics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10678-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:17.891983"
+  },
+  {
+    "id": "https://openalex.org/W7172426694",
+    "title": "Leveraging Onto-Epistemic Heterogeneity for “Outward” Exploration: Cultivating Critical AI Awareness in the ELA Classroom",
+    "authors": [
+      "Jennifer Higgs",
+      "Maria Kaimana",
+      "Mark Isero"
+    ],
+    "journal": "Journal of The Learning Sciences",
+    "jif": 3.9,
+    "published_date": "2026-08-04",
+    "doi": "10.1080/10508406.2026.2686084",
+    "url": "https://doi.org/10.1080/10508406.2026.2686084",
+    "abstract": "",
+    "keywords": [
+      "Perspective (graphical)",
+      "Context (archaeology)",
+      "Subject (documents)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:22.142552"
+  },
+  {
+    "id": "https://openalex.org/W7172414642",
+    "title": "Measuring fidelity of implementation of named active learning methods in physics",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1103/xcdt-txzh",
+    "url": "https://doi.org/10.1103/xcdt-txzh",
+    "abstract": "",
+    "keywords": [
+      "Active learning (machine learning)",
+      "Fidelity",
+      "High fidelity",
+      "Set (abstract data type)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/xcdt-txzh",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:24.677352"
+  },
+  {
+    "id": "https://openalex.org/W7172435958",
+    "title": "Effects of generative AI-mediated socratic dialogue on preservice physics teachers’ critical thinking in kinematics",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1103/x7vq-17rq",
+    "url": "https://doi.org/10.1103/x7vq-17rq",
+    "abstract": "",
+    "keywords": [
+      "Generative grammar",
+      "Kinematics",
+      "Critical thinking",
+      "Generative model",
+      "Socratic method"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/x7vq-17rq",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:24.677364"
+  },
+  {
+    "id": "https://openalex.org/W7172398988",
+    "title": "Interplay between mathematics and physics: Which aspects do instructors hope to convey in a master’s program for high-school teachers?",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1103/n6dy-hmdz",
+    "url": "https://doi.org/10.1103/n6dy-hmdz",
+    "abstract": "",
+    "keywords": [
+      "Curriculum",
+      "Key (lock)",
+      "Work (physics)",
+      "Field (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/n6dy-hmdz",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:24.677369"
+  },
+  {
+    "id": "https://openalex.org/W7172395165",
+    "title": "Material-based contextualization in physics: Student preference for household objects versus laboratory equipment in a resonance demonstration",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1103/6q11-82vh",
+    "url": "https://doi.org/10.1103/6q11-82vh",
+    "abstract": "",
+    "keywords": [
+      "Contextualization",
+      "Preference",
+      "Perception",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/6q11-82vh",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:24.677373"
+  },
+  {
+    "id": "https://openalex.org/W7172433440",
+    "title": "Can a controlled-not gate affect the control qubit? Student resources for understanding controlled not and entanglement",
+    "authors": [
+      "Anonymous"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-08-04",
+    "doi": "10.1103/6tn7-klxh",
+    "url": "https://doi.org/10.1103/6tn7-klxh",
+    "abstract": "",
+    "keywords": [
+      "Affect (linguistics)",
+      "Control (management)",
+      "Quantum entanglement",
+      "Action (physics)",
+      "Field (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/6tn7-klxh",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:24.677376"
+  },
+  {
+    "id": "https://openalex.org/W7172391870",
+    "title": "Learning for life and sustainability: a theory synthesis to sustainability mindset development in higher education institutions",
+    "authors": [
+      "S. Grobler",
+      "Wietske Boon",
+      "Marisa Verster"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-04",
+    "doi": "10.1108/ijshe-12-2025-1552",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1552",
+    "abstract": "Purpose This paper aims to explore the synthesis of transformative learning (TL) with curricular nuances and autonomy-supportive learning to develop sustainability mindsets in higher education institutions (HEIs), particularly in teacher education programs, in support of Agenda2030. By situating this exploration within a lifelong learning (LLL) perspective, the paper highlights the importance of fostering sustainability mindsets across the lifespan. Design/methodology/approach Jaakkola’s (2020) ",
+    "keywords": [
+      "Mindset",
+      "Sustainability",
+      "Transformative learning",
+      "Curriculum",
+      "Sustainability organizations"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:28.379356"
+  },
+  {
+    "id": "https://openalex.org/W7172443411",
+    "title": "Student sustainability trade-offs in higher education: how green consumption values relate to willingness to accept sustainability-related environmental costs",
+    "authors": [
+      "Szymon Cyfert",
+      "Waldemar Glabiszewski"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-04",
+    "doi": "10.1108/ijshe-01-2026-0225",
+    "url": "https://doi.org/10.1108/ijshe-01-2026-0225",
+    "abstract": "Purpose Accepting environmental sustainability costs is a recurring constraint in sustainable consumption and higher education, where students are increasingly exposed to sustainability-related trade-offs and cost-bearing measures. This study aims to examine how green consumption values (GCVs) and consciousness for sustainable consumption (CSC) relate to willingness to accept environmental sustainability costs (WAEs) among Polish Generation Z university students, and whether the GCV-WAE and CSC-",
+    "keywords": [
+      "Sustainability",
+      "Consumption (sociology)",
+      "Structural equation modeling",
+      "Mediation",
+      "Sustainable consumption"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:28.379434"
+  },
+  {
+    "id": "https://openalex.org/W7172401287",
+    "title": "Corrigendum: Artificial intelligence drivers for business education: a systematic review using the ADO framework",
+    "authors": [],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-08-04",
+    "doi": "10.1108/et-07-2026-1176",
+    "url": "https://doi.org/10.1108/et-07-2026-1176",
+    "abstract": "It has come to the attention of the publisher that the article Ramadani V, Basher MA, Rahman MM, Mohiuddin MF (2026), “Artificial intelligence drivers for business education: a systematic review using the ADO framework”. Education + Training, Vol. ahead-of-print No. ahead-of-print. Link to the DOI, was published with an error in the second author's name.The second author's name was presented as follows:Mohammad Atiqul Atiqul BasherThis has now been corrected to the following:Mohammad Atiqul Bash",
+    "keywords": [
+      "Business intelligence",
+      "Systematic review",
+      "Applications of artificial intelligence",
+      "Information system",
+      "Key (lock)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-08-05T22:46:30.787508"
+  },
+  {
+    "id": "https://openalex.org/W7172424903",
+    "title": "Synergy and complexity: How teacher support modifies motivational pathways from cognitive activation to mathematics achievement",
+    "authors": [
+      "Yuting Tan"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-08-04",
+    "doi": "10.1007/s11251-026-09811-5",
+    "url": "https://doi.org/10.1007/s11251-026-09811-5",
+    "abstract": "",
+    "keywords": [
+      "Mediation",
+      "Educational psychology",
+      "Reading (process)",
+      "Moderated mediation",
+      "Path analysis (statistics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:36.859620"
+  },
+  {
     "id": "https://openalex.org/W7172336755",
     "title": "A comparative study of female teacher self-empowerment: The role of professional identity and cultural orientation",
     "authors": [
@@ -27,6 +470,86 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-04T22:51:38.175631"
+  },
+  {
+    "id": "https://openalex.org/W7172445470",
+    "title": "Teacher Mediation and the Contingent Promise of Generative <scp>AI</scp> in Mathematics Education",
+    "authors": [
+      "Allan M. Canonigo"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-08-03",
+    "doi": "10.1002/jcal.70307",
+    "url": "https://doi.org/10.1002/jcal.70307",
+    "abstract": "ABSTRACT Background The integration of generative AI (GenAI) into education, specifically into teaching and learning, offers potential for personalised learning, but at the same time, it poses a challenge to whether it fosters student agency. Moreover, it also threatens to exacerbate entrenched inequalities, which have the potential to create new barriers for most of the learners. A gap exists in understanding how GenAI can be rethought as a dynamic scaffold that promotes cognitive struggle for ",
+    "keywords": [
+      "Generative grammar",
+      "Mediation",
+      "Equity (law)",
+      "Qualitative research",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:15.968941"
+  },
+  {
+    "id": "https://openalex.org/W7172454368",
+    "title": "The Impact of <scp>ChatGPT</scp> on Higher Education: A Systematic Review of Global Opportunities, Perceptions, and Challenges",
+    "authors": [
+      "Olukayode E. Apata",
+      "Oi‐Man Kwok",
+      "Segun Timothy Ajose"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-08-03",
+    "doi": "10.1002/jcal.70309",
+    "url": "https://doi.org/10.1002/jcal.70309",
+    "abstract": "ABSTRACT Background The advent of artificial intelligence (AI) has fundamentally changed how education is delivered and how students perform. Since its launch, ChatGPT, a popular generative AI tool, has generated mixed reactions. Objectives This research systematically reviews the opportunities, perceptions, and challenges of using ChatGPT among faculty members and students at higher education levels. Our review identified key themes and patterns in the literature and provided a comprehensive un",
+    "keywords": [
+      "CINAHL",
+      "Inclusion (mineral)",
+      "Thematic analysis",
+      "Higher education",
+      "Descriptive statistics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jcal.70309",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-08-05T22:46:15.969007"
+  },
+  {
+    "id": "https://openalex.org/W7172447931",
+    "title": "The Effects of K‐12 Artificial Intelligence Education in Enhancing <scp>AI</scp> Literacy: A Meta‐Analysis",
+    "authors": [
+      "Wonjin Yu",
+      "Nari Kim",
+      "Ammi Chang",
+      "Wanju Huang"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-08-03",
+    "doi": "10.1002/jcal.70308",
+    "url": "https://doi.org/10.1002/jcal.70308",
+    "abstract": "ABSTRACT Background The initiation of K‐12 artificial intelligence education has been led by numerous governments and institutions. However, most existing meta‐analyses have focused on the effectiveness of AI tools for learning support (AI in education; AIED), rather than AI education, and research on comprehensive evidence on how AI education improves learners' AI literacy remains limited. Objectives This meta‐analysis aims to provide an additional understanding of the future direction of K‐12 ",
+    "keywords": [
+      "Moderation",
+      "Inclusion (mineral)",
+      "Literacy",
+      "Psychological intervention",
+      "Educational research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:15.969066"
   },
   {
     "id": "https://openalex.org/W7172256884",
@@ -771,6 +1294,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-03T22:49:45.489318"
+  },
+  {
+    "id": "https://openalex.org/W7172400240",
+    "title": "Exploring the Generative Gateway to Computational Thinking (EGG Model): Reversing the Perspective from Outside-In to Inside-Out",
+    "authors": [
+      "Filiz Mumcu"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-08-01",
+    "doi": "10.1016/j.tsc.2026.102324",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102324",
+    "abstract": "",
+    "keywords": [
+      "Reversing",
+      "Perspective (graphical)",
+      "Gateway (web page)",
+      "Computational thinking",
+      "Generative grammar"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tsc.2026.102324",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-05T22:46:16.577169"
   },
   {
     "id": "https://openalex.org/W7172318878",
@@ -2234,6 +2782,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-31T22:48:57.701295"
+  },
+  {
+    "id": "https://openalex.org/W7171522921",
+    "title": "A systematic review of frameworks and measurement instruments for data literacy in higher and adult education",
+    "authors": [
+      "Marlene Ganz",
+      "Marco Kalz"
+    ],
+    "journal": "Educational Research Review",
+    "jif": 10.6,
+    "published_date": "2026-07-29",
+    "doi": "10.1016/j.edurev.2026.100828",
+    "url": "https://doi.org/10.1016/j.edurev.2026.100828",
+    "abstract": "The concept of data literacy suffers from a persistent theoretical and definitional fragmentation. To contribute to more coherence in the field, we introduce two systematic literature reviews. Together, they provide an integrated overview of how data literacy is conceptualized in competency frameworks and represented in measurement instruments. The first review analyzed 15 frameworks developed for higher education and related contexts after applying rigorous inclusion and exclusion criteria. The",
+    "keywords": [
+      "Adult literacy",
+      "Adult education",
+      "Data collection",
+      "Literacy",
+      "Item response theory"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.edurev.2026.100828",
+    "cited_by_count": 2,
+    "type": "review",
+    "fetched_at": "2026-08-05T22:46:00.178785"
   },
   {
     "id": "https://openalex.org/W4416104335",
