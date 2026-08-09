@@ -1,5 +1,192 @@
 [
   {
+    "id": "https://openalex.org/W7201950725",
+    "title": "Examining flipped learning effects on L2 learning outcomes, language-related problem-solving behaviors, and cognitive-emotional regulation: insights from EFL learners",
+    "authors": [
+      "Ehsan Namaziandost"
+    ],
+    "journal": "Computer Assisted Language Learning",
+    "jif": 6.6,
+    "published_date": "2026-08-08",
+    "doi": "10.1080/09588221.2026.2710615",
+    "url": "https://doi.org/10.1080/09588221.2026.2710615",
+    "abstract": "The present study investigated the effects of the flipped learning (FL) approach on Iranian EFL learners’ second language learning outcomes, their language-related problem-solving behaviors (LRPSBs), and their use of cognitive-emotional regulation (CER), as well as their perceptions of this instructional model. A mixed-methods design was employed, and 271 learners were randomly assigned to an experimental group (n = 138) receiving FL instruction or a control group (n = 133) receiving traditional",
+    "keywords": [
+      "Cognition",
+      "Perception",
+      "Qualitative property",
+      "Control (management)",
+      "Flipped learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:20.209145"
+  },
+  {
+    "id": "https://openalex.org/W7201974580",
+    "title": "When choice matters: Effects on interest and performance across mathematical problem types",
+    "authors": [
+      "Johanna Schoenherr",
+      "Amédee Marchand Martella"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-08-08",
+    "doi": "10.1016/j.learninstruc.2026.102452",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102452",
+    "abstract": "Background Given the decline in students’ interest in mathematics during secondary school, autonomy-supportive interventions such as choice may help counteract this trend. Aims This study investigates the effects of within-context choice on task-specific interest and performance in solving problems with and without real-world connections (termed real-world and intra-mathematical problems, respectively). Sample Participants were 132 ninth- and tenth-grade students who were randomly assigned to ei",
+    "keywords": [
+      "Task (project management)",
+      "Sample (material)",
+      "Multiple choice",
+      "Psychological intervention",
+      "Sample size determination"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102452",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:29.191246"
+  },
+  {
+    "id": "https://openalex.org/W7201974934",
+    "title": "Bridging strategy gaps in programming: the role of visual scaffolding for learners with low cognitive ability",
+    "authors": [
+      "Sora Chi-Fang Huang",
+      "Zhi Hong Chen",
+      "Yu-Tzu Lin",
+      "Martin K. Yeh"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-08",
+    "doi": "10.1007/s11423-026-10684-1",
+    "url": "https://doi.org/10.1007/s11423-026-10684-1",
+    "abstract": "Abstract As programming education gains global importance, learners often struggle due to the cognitive demands, particularly in textual environments. Visual programming tools have been developed to ease this burden, but learners’ cognitive abilities—specifically executive function (EF)—may still affect their programming process and strategies. This study investigates how visual scaffolding influences the programming strategies of learners with different EF levels. Thirty-two adult participants ",
+    "keywords": [
+      "Scaffold",
+      "Cognition",
+      "Visual programming language",
+      "Bridging (networking)",
+      "Cognitive strategy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10684-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:34.527144"
+  },
+  {
+    "id": "https://openalex.org/W7201980673",
+    "title": "The Politics of Platform Allocation: Commencement Speaker Selection at U.S. Universities, 1989–2024",
+    "authors": [
+      "David R. Johnson",
+      "Liang Zhang"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-08-08",
+    "doi": "10.3102/00028312261467392",
+    "url": "https://doi.org/10.3102/00028312261467392",
+    "abstract": "Campus speech conflicts have intensified scrutiny of university decisions about whom to publicly elevate and platform. We examine commencement speaker selection as an organizational practice shaped by institutional characteristics and political environments rather than as a simple expression of institutional ideology. To address this gap, we analyze the political orientations of 1,875 commencement speakers at 52 universities between 1989 and 2024. Findings indicate a rise in liberal speakers, pa",
+    "keywords": [
+      "Politics",
+      "Scrutiny",
+      "Selection (genetic algorithm)",
+      "Control (management)",
+      "State (computer science)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:41.049014"
+  },
+  {
+    "id": "https://openalex.org/W7201960519",
+    "title": "Theory and theoretical framework use for engineering education research: A systematic review of undergraduate disability research in the United States",
+    "authors": [
+      "Mariel A. Pfeifer",
+      "Ariel Chasen",
+      "Maura Borrego"
+    ],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-08-08",
+    "doi": "10.1002/jee.70078",
+    "url": "https://doi.org/10.1002/jee.70078",
+    "abstract": "Abstract Background Use of theory is a quality marker in engineering education research. However, it can be challenging to select an appropriate theoretical framework and explicate how that framework was used. Purpose Using undergraduate STEM disability research as an example, this systematic review develops a framework of theory use in engineering education research. We sought to understand what theoretical frameworks have been used, how frameworks are implemented, and what opportunities exist ",
+    "keywords": [
+      "Framing (construction)",
+      "Psychological intervention",
+      "Engineering education",
+      "Grounded theory",
+      "Educational research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/jee.70078",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-08-09T22:17:45.104188"
+  },
+  {
+    "id": "https://openalex.org/W7201950311",
+    "title": "Global Faculty Insights on Active Learning via Live Case Projects",
+    "authors": [
+      "Olga Kandinskaia",
+      "Anna Czegledi",
+      "Sonia Mehrotra"
+    ],
+    "journal": "Active Learning In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-08-08",
+    "doi": "10.1177/14697874261467043",
+    "url": "https://doi.org/10.1177/14697874261467043",
+    "abstract": "Active learning via Live Case Projects prepares business students for successful professional careers. In the age of AI, active learning has a new and critical role, as through direct engagement with real-world challenges presented by experienced managers, students learn to frame problems, develop hypotheses, propose data-driven solutions, and develop strategic mindset skills crucial for navigating an AI-driven business environment. This study focused on the Live Case Project (LCP) teaching stra",
+    "keywords": [
+      "Mindset",
+      "Active learning (machine learning)",
+      "Frame (networking)",
+      "Perception",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/14697874261467043?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:47.670213"
+  },
+  {
+    "id": "https://openalex.org/W7201995301",
+    "title": "A Study on the Changes in the Nature of Science in Chinese Junior High School Chemistry Textbooks",
+    "authors": [
+      "Jidong Yang",
+      "Yuqin Chen",
+      "Junying Chen",
+      "Hong Zhou"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-08-08",
+    "doi": "10.1007/s11191-026-00771-3",
+    "url": "https://doi.org/10.1007/s11191-026-00771-3",
+    "abstract": "",
+    "keywords": [
+      "Representation (politics)",
+      "Nature of Science",
+      "Curriculum",
+      "Period (music)",
+      "Process (computing)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:52.730097"
+  },
+  {
     "id": "https://openalex.org/W7201882342",
     "title": "Sequential patterns of challenges and socially shared regulation of learning: a comparison of pre-service and in-service teachers’ collaborative learning",
     "authors": [
@@ -27,6 +214,143 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-08T22:16:07.383077"
+  },
+  {
+    "id": "https://openalex.org/W7201988286",
+    "title": "From emotion regulation to academic success: A self‐determination theory‐based emotional agent‐mediated approach",
+    "authors": [
+      "Xiaoli Zheng",
+      "Zi‐Ying Lyu",
+      "Shi‐Ying Wang",
+      "Feng Wang",
+      "Xi Kong"
+    ],
+    "journal": "British Journal of Educational Technology",
+    "jif": 8.1,
+    "published_date": "2026-08-07",
+    "doi": "10.1111/bjet.70083",
+    "url": "https://doi.org/10.1111/bjet.70083",
+    "abstract": "Abstract Emotion regulation has been recognized as a key factor affecting students' academic success. However, in conventional school settings, it is challenging to foster students' emotion regulation owing to the involvement of complex factors that might influence students' conscious and unconscious behaviours. To address this issue, a self‐determination theory (SDT)‐based emotional agent framework was proposed, and an emotional agent (EmoAgent), capable of proactively detecting students' emoti",
+    "keywords": [
+      "Unconscious mind",
+      "Competence (human resources)",
+      "Emotional competence",
+      "Emotional regulation",
+      "Control (management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:17.734887"
+  },
+  {
+    "id": "https://openalex.org/W7201965390",
+    "title": "Effects of <scp>AI</scp> chatbot‐supported cooperative flipped classroom on student collaboration, self‐regulated learning and academic performance: A mastery learning perspective",
+    "authors": [
+      "Kai Wang",
+      "Sihan Qin",
+      "Yue Shen",
+      "Jianwen Guo",
+      "Qianqian Ruan"
+    ],
+    "journal": "British Journal of Educational Technology",
+    "jif": 8.1,
+    "published_date": "2026-08-07",
+    "doi": "10.1111/bjet.70079",
+    "url": "https://doi.org/10.1111/bjet.70079",
+    "abstract": "Abstract Despite the increasing application of AI chatbots, few studies have examined the effectiveness of AI chatbot‐supported cooperative‐flipped classrooms in university teaching. Based on mastery learning theory, this study employed a quasi‑experimental design to examine how an AI chatbot‐supported cooperative‑flipped classroom influences students' collaboration, self‐regulated learning and academic performance, and whether students with different prior knowledge levels demonstrate distinct ",
+    "keywords": [
+      "Flipped classroom",
+      "Perspective (graphical)",
+      "Cooperative learning",
+      "Academic achievement",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:17.735009"
+  },
+  {
+    "id": "https://openalex.org/W7201990810",
+    "title": "Contested Recognition: Schools' Binary‐Gendered Institutional Architecture and the Erasure of Trans, Intersex and Nonbinary Students",
+    "authors": [
+      "Tamás Jules Fütty"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-07",
+    "doi": "10.1111/ejed.70813",
+    "url": "https://doi.org/10.1111/ejed.70813",
+    "abstract": "ABSTRACT Although legal recognition and visibility of gender diversity have increased in Germany since 2019, schools still enforce binary gender norms, which excludes or marginalises trans, intersex and non‐binary (TIN) students. This article examines based on Grounded Theory analysis of interview data how gender diversity is simultaneously recognised and negated in everyday school practice in Germany: by (a) linguistic‐discursive practices and norms, (b) epistemic‐discursive content taught or o",
+    "keywords": [
+      "Inclusion (mineral)",
+      "Diversity (politics)",
+      "Visibility",
+      "Erasure",
+      "Gender diversity"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70813",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:42.512670"
+  },
+  {
+    "id": "https://openalex.org/W7201994895",
+    "title": "Predictors of Self‐Regulated Learning in AI‐Supported Language Education: A Social Cognitive Theory Perspective",
+    "authors": [
+      "Qian Wang",
+      "Yongliang Wang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-07",
+    "doi": "10.1111/ejed.70824",
+    "url": "https://doi.org/10.1111/ejed.70824",
+    "abstract": "ABSTRACT Guided by Social Cognitive Theory, this study explored how language learning curiosity, perceived teacher support, and AI literacy predict learners' self‐regulated learning (SRL) in AI‐supported language education, with grit and flow as mediators. Data collected from 1022 Chinese undergraduate students were analysed using descriptive statistics, confirmatory factor analysis, structural equation modelling with bootstrapped mediation analysis, and psychological network analysis via SPSS, ",
+    "keywords": [
+      "Mediation",
+      "Cognition",
+      "Antecedent (behavioral psychology)",
+      "Language acquisition",
+      "Structural equation modeling"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70824",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:42.512719"
+  },
+  {
+    "id": "https://openalex.org/W7201971555",
+    "title": "Educational philosophising in the <i>Everyday</i> : <scp>UK</scp> immigrant mothers navigating identity and praxis during <scp>COVID</scp> ‐19",
+    "authors": [
+      "Lavinia Kamphausen",
+      "Aliya Khalid",
+      "Nadia Uddin-Talukder",
+      "Uzma Dayan"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-08-07",
+    "doi": "10.1002/berj.70252",
+    "url": "https://doi.org/10.1002/berj.70252",
+    "abstract": "Abstract Debates surrounding motherhood have long centred on women's roles as carers. Although motherhood is now more widely recognised within feminist scholarship, it often remains conceptually separate from identities associated with formal educational discourse. Yet mothers frequently act not only as facilitators of learning but also as reflective actors who shape how education is understood and practised in everyday life. This paper engages with these debates to argue that, while mothers und",
+    "keywords": [
+      "Liminality",
+      "Agency (philosophy)",
+      "Identity (music)",
+      "Transformative learning",
+      "Praxis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70252",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-09T22:17:54.745367"
   },
   {
     "id": "https://openalex.org/W7196959844",
