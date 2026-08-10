@@ -1,5 +1,113 @@
 [
   {
+    "id": "https://openalex.org/W7202043167",
+    "title": "Effects of Syntactic Skill Interventions on Passage- and Sentence-Level Reading Comprehension in Pre-K–12 Students: A Meta-Analytic Review",
+    "authors": [
+      "Jieun Park",
+      "Amy M. Elleman",
+      "Cyrille Magne",
+      "Deborah A. Pingitore",
+      "Lauren M. MacDonell"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-08-09",
+    "doi": "10.3102/00346543261466253",
+    "url": "https://doi.org/10.3102/00346543261466253",
+    "abstract": "Reading comprehension is a complex cognitive process that entails the ongoing integration of textual units, guided by syntactic structures, to construct a coherent representation of a text. Understanding complex sentence structures and applying syntactic knowledge to construct meaning are crucial for comprehending challenging texts. Although previous research has highlighted the significant relationship between syntactic awareness and text comprehension, the effects of syntactic skill interventi",
+    "keywords": [
+      "Psychological intervention",
+      "Comprehension",
+      "Sentence",
+      "Construct (python library)",
+      "Meaning (existential)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-10T22:24:13.831798"
+  },
+  {
+    "id": "https://openalex.org/W7202037483",
+    "title": "Balancing altruism and egoism: Unpacking pre-service teachers’ trade-offs in after-school tutoring",
+    "authors": [
+      "Gui-ping Sun",
+      "Boyang Zheng",
+      "Shao-yong Wang",
+      "Wen-qing Luo"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-09",
+    "doi": "10.1016/j.tate.2026.105766",
+    "url": "https://doi.org/10.1016/j.tate.2026.105766",
+    "abstract": "",
+    "keywords": [
+      "Unpacking",
+      "Altruism (biology)",
+      "Prosocial behavior",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-10T22:24:32.212528"
+  },
+  {
+    "id": "https://openalex.org/W7202044993",
+    "title": "Exploring teacher resilience in developing EAP reading assessment materials with Gen-AI",
+    "authors": [
+      "Rongxin Lin",
+      "Jing Chen",
+      "Fei Deng"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-08-09",
+    "doi": "10.1016/j.jeap.2026.101757",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101757",
+    "abstract": "",
+    "keywords": [
+      "Resilience (materials science)",
+      "Reading (process)",
+      "Interpersonal communication",
+      "Psychological resilience",
+      "Professional development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-10T22:24:36.585911"
+  },
+  {
+    "id": "https://openalex.org/W7202032163",
+    "title": "The epistemic ceiling: Veteran practitioners' perspectives on primary qualification entry standards for teaching secondary mathematics in Scotland",
+    "authors": [
+      "Paul Argyle McDonald"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-08-09",
+    "doi": "10.1002/berj.70261",
+    "url": "https://doi.org/10.1002/berj.70261",
+    "abstract": "Abstract This paper presents an exploratory analysis of contemporary curricular and professional qualification policies in the Scottish education system, focusing on minimum qualification thresholds for mathematics teaching. The study examines how veteran secondary mathematics practitioners perceive the structural and pedagogical implications of using an SCQF Level 5 qualification baseline for primary and out‐of‐field educators within the Broad General Education. Grounded in Michael Young's ‘pow",
+    "keywords": [
+      "Reflexivity",
+      "Formative assessment",
+      "Curriculum",
+      "Thematic analysis",
+      "Notional amount"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70261",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-10T22:24:46.972776"
+  },
+  {
     "id": "https://openalex.org/W7201950725",
     "title": "Examining flipped learning effects on L2 learning outcomes, language-related problem-solving behaviors, and cognitive-emotional regulation: insights from EFL learners",
     "authors": [
