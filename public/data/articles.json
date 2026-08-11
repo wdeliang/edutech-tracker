@@ -1,5 +1,575 @@
 [
   {
+    "id": "https://openalex.org/W7202116683",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-08-11",
+    "doi": "10.1016/s0360-1315(26)00173-9",
+    "url": "https://doi.org/10.1016/s0360-1315(26)00173-9",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-08-11T22:29:08.541877"
+  },
+  {
+    "id": "https://openalex.org/W7202079365",
+    "title": "Correction: AIGC-enhanced learning analytics in film education: a decision-making framework for creative pedagogy in Chinese higher education",
+    "authors": [
+      "Chao Tang",
+      "Lili Wang"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-08-10",
+    "doi": "10.1186/s41239-026-00611-y",
+    "url": "https://doi.org/10.1186/s41239-026-00611-y",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Learning analytics",
+      "Analytics",
+      "Educational technology",
+      "Electronic learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00611-y",
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-08-11T22:29:07.208213"
+  },
+  {
+    "id": "https://openalex.org/W7202114814",
+    "title": "Re-centering the role of humans in AI-assisted writing scoring: A scoping review from a critical perspective",
+    "authors": [
+      "Jiaqi Xu",
+      "Xiaofang Lu",
+      "Nimo M. Abdi"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.asw.2026.101102",
+    "url": "https://doi.org/10.1016/j.asw.2026.101102",
+    "abstract": "",
+    "keywords": [
+      "Perspective (graphical)",
+      "Perspective-taking"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.asw.2026.101102",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:15.992461"
+  },
+  {
+    "id": "https://openalex.org/W7202122767",
+    "title": "How do AI feedback types affect students’ continuance usage intention in AI hallucinations?",
+    "authors": [
+      "Yupeng Guo",
+      "Tinglan Huang",
+      "Hao Lu",
+      "Li Zong",
+      "Lehui Huang"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/10494820.2026.2711950",
+    "url": "https://doi.org/10.1080/10494820.2026.2711950",
+    "abstract": "",
+    "keywords": [
+      "Affect (linguistics)",
+      "Continuance",
+      "Electronic learning",
+      "Usability",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:18.114468"
+  },
+  {
+    "id": "https://openalex.org/W7202146630",
+    "title": "Human–AI co-mentoring for fostering interns’ management thinking abilities: Dual-Route Transformative Learning Theory (DR-TLT)",
+    "authors": [
+      "Pei‐Chun Chen",
+      "Chieh‐Peng Lin"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/10494820.2026.2711951",
+    "url": "https://doi.org/10.1080/10494820.2026.2711951",
+    "abstract": "",
+    "keywords": [
+      "Transformative learning",
+      "Learning theory",
+      "Educational technology",
+      "Experiential learning",
+      "Electronic learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/10494820.2026.2711951",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:18.114486"
+  },
+  {
+    "id": "https://openalex.org/W7202089394",
+    "title": "Beyond the tools: How different forms of cognitive engagement with technology relate to multidimensional student engagement",
+    "authors": [
+      "Junxin Zhao",
+      "Geert Vandermeersche",
+      "Jerich Faddar",
+      "Koen Lombaerts"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/15391523.2026.2711658",
+    "url": "https://doi.org/10.1080/15391523.2026.2711658",
+    "abstract": "Digital technologies are widely used in education, yet findings on their relationship with student engagement are inconsistent, limiting actionable insights. This is partly due to the neglect of cognitive processes involved in technology use. This study fills the gap by using the cognitive engagement with technology framework to investigate how retrieving, processing, and generating influence students’ behavioral, emotional, and cognitive engagement. Structural equation modeling revealed that pr",
+    "keywords": [
+      "Cognition",
+      "Student engagement",
+      "Structural equation modeling",
+      "Neglect",
+      "Cognitive style"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:18.791123"
+  },
+  {
+    "id": "https://openalex.org/W7202142443",
+    "title": "Teacher enjoyment is associated with more stable nonverbal immediacy, while teacher anxiety is associated with lower student cognitive engagement: A dynamic classroom interaction study",
+    "authors": [
+      "Rebecca Lazarides",
+      "Richard Göllner",
+      "Jonas Frenkel",
+      "Theresa Dicke",
+      "Jiesi Guo"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.learninstruc.2026.102449",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102449",
+    "abstract": "",
+    "keywords": [
+      "Nonverbal communication",
+      "Anxiety",
+      "Cognition",
+      "Social relation",
+      "Interpersonal interaction"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102449",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:22.227771"
+  },
+  {
+    "id": "https://openalex.org/W7202133254",
+    "title": "Going the distance: Bridging the gap between research and practice",
+    "authors": [
+      "Robin P. Nagy"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.learninstruc.2026.102450",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102450",
+    "abstract": "",
+    "keywords": [
+      "Bridging (networking)",
+      "Mode (computer interface)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102450",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:22.227789"
+  },
+  {
+    "id": "https://openalex.org/W7202137078",
+    "title": "Reconceptualising innovation in EMI: GenAI as a translanguaging space",
+    "authors": [
+      "Abbas Hadizadeh",
+      "Emre Debreli"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/17501229.2026.2714242",
+    "url": "https://doi.org/10.1080/17501229.2026.2714242",
+    "abstract": "",
+    "keywords": [
+      "Translanguaging",
+      "Space (punctuation)",
+      "Negotiation",
+      "Work (physics)",
+      "Literacy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:24.949003"
+  },
+  {
+    "id": "https://openalex.org/W7202078911",
+    "title": "Care Praxis–Driven <scp>STEM</scp> Design for Sustainable and Just Communities in Middle School",
+    "authors": [
+      "Wisam Sedawi",
+      "Angela Calabrese Barton",
+      "Edna Tan"
+    ],
+    "journal": "Journal of Research In Science Teaching",
+    "jif": 4.5,
+    "published_date": "2026-08-10",
+    "doi": "10.1002/tea.70063",
+    "url": "https://doi.org/10.1002/tea.70063",
+    "abstract": "ABSTRACT Despite the growing interest in incorporating care ethics into STEM education, these topics are rarely integrated into K‐12 standards and pedagogical practice. We explore how care praxis, a political and ethical approach to STEM education, supports students' sense‐making in addressing real‐world problems throughout STEM design, merging social, environmental, and technical aspects. Care praxis highlights the iterative, reflective method of initiating action, acting as an ethical, politic",
+    "keywords": [
+      "Praxis",
+      "Transformative learning",
+      "Curriculum",
+      "Participatory action research",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/tea.70063",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:27.066111"
+  },
+  {
+    "id": "https://openalex.org/W7202089188",
+    "title": "Artificial intelligence applications in education: ChatGPT supported development of career promotion content",
+    "authors": [
+      "Ummuhan Ormanci",
+      "Serhan Sarioglu",
+      "Muhammed Muzaffer Ozhan",
+      "Yusra Cavdar"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-10",
+    "doi": "10.1007/s11423-026-10691-2",
+    "url": "https://doi.org/10.1007/s11423-026-10691-2",
+    "abstract": "",
+    "keywords": [
+      "Promotion (chess)",
+      "Content analysis",
+      "Thematic analysis",
+      "Career development",
+      "Scope (computer science)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:27.904825"
+  },
+  {
+    "id": "https://openalex.org/W7202132236",
+    "title": "How do students’ AI interactions, dispositions, and prompt engineering skills shape human–AI collaboration in middle school STEM education?",
+    "authors": [
+      "Keunjae Kim",
+      "Kyungbin Kwon",
+      "권혜성",
+      "Thomas Brush"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-10",
+    "doi": "10.1007/s11423-026-10692-1",
+    "url": "https://doi.org/10.1007/s11423-026-10692-1",
+    "abstract": "",
+    "keywords": [
+      "Educational technology",
+      "Engineering education",
+      "Electronic learning",
+      "21st century skills",
+      "Technology integration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:27.904842"
+  },
+  {
+    "id": "https://openalex.org/W7202150656",
+    "title": "The effectiveness of generative artificial intelligence in promoting teachers’ professional competence: A systematic review and meta-analysis",
+    "authors": [
+      "Lihui Sun",
+      "Yiqi Zheng"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.tate.2026.105781",
+    "url": "https://doi.org/10.1016/j.tate.2026.105781",
+    "abstract": "",
+    "keywords": [
+      "Generative grammar",
+      "Generative model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-08-11T22:29:32.061458"
+  },
+  {
+    "id": "https://openalex.org/W7202092484",
+    "title": "Enhancing students’ mathematics achievement through teacher professional development on peer- and self-assessment: A randomized controlled trial",
+    "authors": [
+      "Karolin Maskos",
+      "Andreas Schulz",
+      "Johan Braeken",
+      "Ladina Brawand",
+      "Selin S. Oeksuez"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.tate.2026.105745",
+    "url": "https://doi.org/10.1016/j.tate.2026.105745",
+    "abstract": "This cluster-randomized trial examined whether a content-specific professional development program on formative peer- and self-assessment supports primary students' calculation strategy repertoire. Therefore, N = 96 Grade 4–5 teachers with their classes ( N = 1525 students) were assigned to peer-assessment, self-assessment, or waitlist control conditions. The researcher-developed professional development program targeted teacher orchestration of peer- and self-assessment on multiplication and di",
+    "keywords": [
+      "Formative assessment",
+      "Professional development",
+      "Multiplication (music)",
+      "Orchestration",
+      "Intervention (counseling)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105745",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:32.061548"
+  },
+  {
+    "id": "https://openalex.org/W7202141553",
+    "title": "Reforming education systems for inclusion and equity",
+    "authors": [
+      "Joshua Ampofo"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/00131911.2026.2710598",
+    "url": "https://doi.org/10.1080/00131911.2026.2710598",
+    "abstract": "",
+    "keywords": [
+      "Equity (law)",
+      "Inclusion (mineral)",
+      "Pay Equity",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:38.448886"
+  },
+  {
+    "id": "https://openalex.org/W7202127181",
+    "title": "Reframing education failure and aspiration: the rise of the meritocracy",
+    "authors": [
+      "Yulu Hou"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/00131911.2026.2710597",
+    "url": "https://doi.org/10.1080/00131911.2026.2710597",
+    "abstract": "",
+    "keywords": [
+      "Meritocracy",
+      "Cognitive reframing",
+      "Higher education",
+      "Public education",
+      "Race (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:38.448904"
+  },
+  {
+    "id": "https://openalex.org/W7202142036",
+    "title": "Society, politics, and education in uncertain times: rethinking citizenship and belonging in international contexts",
+    "authors": [
+      "Wei Cheng"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/00131911.2026.2710596",
+    "url": "https://doi.org/10.1080/00131911.2026.2710596",
+    "abstract": "",
+    "keywords": [
+      "Citizenship",
+      "Citizenship education",
+      "Immigration",
+      "Higher education",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:38.448909"
+  },
+  {
+    "id": "https://openalex.org/W7202122525",
+    "title": "Using the case method to shift preservice teachers’ equity mindsets",
+    "authors": [
+      "Amber Howard",
+      "Stacie Finley"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/00131911.2026.2696336",
+    "url": "https://doi.org/10.1080/00131911.2026.2696336",
+    "abstract": "",
+    "keywords": [
+      "Equity (law)",
+      "Higher education",
+      "Postsecondary education",
+      "Educational equity",
+      "Research methodology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:38.448915"
+  },
+  {
+    "id": "https://openalex.org/W7202145307",
+    "title": "Narrating the best-loved self: teacher identity, empowerment and curriculum as identity work in Iranian teacher education",
+    "authors": [
+      "Maryam Shafie Sarvestani",
+      "Nematollah Azizi",
+      "Maryam Sadat Fakhimpour",
+      "Mehdi Mohammadi"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/02619768.2026.2714435",
+    "url": "https://doi.org/10.1080/02619768.2026.2714435",
+    "abstract": "",
+    "keywords": [
+      "Teacher education",
+      "Identity (music)",
+      "Curriculum",
+      "Empowerment",
+      "Work (physics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:45.309068"
+  },
+  {
+    "id": "https://openalex.org/W7202092618",
+    "title": "Gender Differences in Agentic Career Goals and the Choice of Field of Study",
+    "authors": [
+      "Rebecca Ghio",
+      "Elena De Gioannis"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-09",
+    "doi": "10.1111/ejed.70817",
+    "url": "https://doi.org/10.1111/ejed.70817",
+    "abstract": "ABSTRACT Women's representation in tertiary education has reached parity in many countries, although regional disparities persist. Furthermore, there is still significant horizontal gender segregation in some fields of study. Among other explanations, it is suggested that men and women might prioritise different life and career goals. Men are often perceived as preferring fields that offer higher earning potential and opportunities for leadership, while women prefer those offering greater social",
+    "keywords": [
+      "Field (mathematics)",
+      "Higher education",
+      "Representation (politics)",
+      "Gender gap",
+      "Empirical research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70817",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:36.367983"
+  },
+  {
+    "id": "https://openalex.org/W7202079858",
+    "title": "Understanding Chinese Students' Social Networks and Second Language Identity Construction During Study Abroad in the <scp>UK</scp>",
+    "authors": [
+      "Citing Li",
+      "Qufei Wang",
+      "Chenchen Zhang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-09",
+    "doi": "10.1111/ejed.70822",
+    "url": "https://doi.org/10.1111/ejed.70822",
+    "abstract": "ABSTRACT Second language (L2) identity has gained increasing attention for its role in shaping study abroad (SA) experiences, yet its relationship with social networks remains underexplored. Drawing on social network theory and L2 identity framework, this qualitative study examined the interplay of L2 identity construction and social networks among three Chinese students in UK universities. Data were collected through social network questionnaires, self‐portraits and semi‐structured interviews, ",
+    "keywords": [
+      "Identity (music)",
+      "Social identity theory",
+      "Social network (sociolinguistics)",
+      "Social identity approach",
+      "Study abroad"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70822",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:36.368051"
+  },
+  {
+    "id": "https://openalex.org/W7202078250",
+    "title": "Moving Beyond ‘Cheap Labour’: A Bourdieusian Analysis of Career Experiences and Trajectories of Vocational College Graduates in China",
+    "authors": [
+      "Wan Xiaohua",
+      "Tracy X. P. Zou",
+      "Tse Kwan‐Choi Thomas"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-09",
+    "doi": "10.1111/ejed.70827",
+    "url": "https://doi.org/10.1111/ejed.70827",
+    "abstract": "ABSTRACT This paper investigates the college‐to‐work transition of vocational college graduates, who are typically viewed as a homogeneous disadvantaged group. Drawing on Bourdieu's theories, this two‐wave panel study interviewed 33 Chinese vocational college graduates about their initial labour‐market experiences during their first year after graduation. This study reveals the heterogeneity and dynamics of four transitional patterns: dwelled, diverted, shifting and stuck, based on graduates' di",
+    "keywords": [
+      "Vocational education",
+      "Disadvantaged",
+      "Typology",
+      "China",
+      "School-to-work transition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70827",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-11T22:29:36.368096"
+  },
+  {
     "id": "https://openalex.org/W7202043167",
     "title": "Effects of Syntactic Skill Interventions on Passage- and Sentence-Level Reading Comprehension in Pre-K–12 Students: A Meta-Analytic Review",
     "authors": [
