@@ -1,5 +1,401 @@
 [
   {
+    "id": "https://openalex.org/W7202213203",
+    "title": "Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education",
+    "authors": [
+      "Fuan Xiao",
+      "Jiahui Huang",
+      "Jia-Xin Huang",
+      "Huali Ren",
+      "Lang Li"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-08-11",
+    "doi": "10.1186/s41239-026-00618-5",
+    "url": "https://doi.org/10.1186/s41239-026-00618-5",
+    "abstract": "Abstract Online Education in Higher Education is rapidly evolving through the integration of Large Language Model (LLM)-powered intelligent systems, which enable personalized tutoring, dynamic content generation, and automated assessment. However, the widespread adoption of LLMs in education is hampered due to their inherent limitations, including susceptibility to hallucinations, insufficient domain-specific knowledge validation, and output inconsistency. These deficiencies can lead to misleadi",
+    "keywords": [
+      "Blockchain",
+      "Verifiable secret sharing",
+      "Higher education",
+      "Accountability",
+      "Process (computing)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00618-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:24.908266"
+  },
+  {
+    "id": "https://openalex.org/W7202201191",
+    "title": "Physical Activity Intensity as a Catalyst for Learning in Young People: A Systematic Review and Practical Guide",
+    "authors": [
+      "José Luis Solas-Martínez",
+      "Adilson Marques",
+      "Vânia Loureiro",
+      "Alberto Ruiz‐Ariza"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-08-11",
+    "doi": "10.3102/00346543261469145",
+    "url": "https://doi.org/10.3102/00346543261469145",
+    "abstract": "This systematic review examined the effects of physical activity (PA) at different intensities (light, moderate, and vigorous) on learning variables in students aged 6 to 16 years, considering practice modality (individual or group) and timing (before, during, or after school). Based on 42 intervention studies (2014–2024), PA positively influences emotional, socio-behavioral, and cognitive learning dimensions. Emotionally, PA reduces stress, enhances emotional regulation, and boosts intrinsic mo",
+    "keywords": [
+      "Psychological intervention",
+      "Context (archaeology)",
+      "Cognition",
+      "Physical activity",
+      "Intervention (counseling)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-08-12T22:27:29.381408"
+  },
+  {
+    "id": "https://openalex.org/W7202199860",
+    "title": "Structural alignment in conversation at different proficiency levels: evidence from native and second language speakers of Italian in task-based dialogues",
+    "authors": [
+      "Elisa De Cristofaro"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-08-11",
+    "doi": "10.1016/j.system.2026.104116",
+    "url": "https://doi.org/10.1016/j.system.2026.104116",
+    "abstract": "",
+    "keywords": [
+      "Conversation",
+      "Second language",
+      "Language proficiency",
+      "English as a second language",
+      "Second-language acquisition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:33.500112"
+  },
+  {
+    "id": "https://openalex.org/W7202170028",
+    "title": "The influence of AI literacy and dependency on innovative behavior: a multiple mediation-based analysis",
+    "authors": [
+      "Xueqin Fang",
+      "Zhiying Yang",
+      "Jing Niu",
+      "Bilal Mazhar"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1007/s10639-026-14113-x",
+    "url": "https://doi.org/10.1007/s10639-026-14113-x",
+    "abstract": "",
+    "keywords": [
+      "Dependency (UML)",
+      "Mediation",
+      "Structural equation modeling",
+      "Leverage (statistics)",
+      "Literacy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:35.941451"
+  },
+  {
+    "id": "https://openalex.org/W7202177287",
+    "title": "Metaverse-based blood transfusion education in midwifery: a mixed-methods study of knowledge outcomes and learner experiences",
+    "authors": [
+      "Halime Aydemir",
+      "Enver Türksoy",
+      "Fatma Ergün"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-11",
+    "doi": "10.1080/10494820.2026.2698255",
+    "url": "https://doi.org/10.1080/10494820.2026.2698255",
+    "abstract": "Metaverse-based learning is increasingly discussed in health professions education. This mixed-methods study examined whether Metaverse-based, online, and face-to-face instruction differed in their effects on safe blood transfusion knowledge and how students in the Metaverse group perceived their learning experience. Ninety-seven first-year midwifery students at Kirsehir Ahi Evran University, Turkey, participated in a quasi-experimental pretest-posttest design with three instructional conditions",
+    "keywords": [
+      "Analysis of covariance",
+      "Qualitative research",
+      "Test (biology)",
+      "Metaverse",
+      "Internal consistency"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:36.783414"
+  },
+  {
+    "id": "https://openalex.org/W7202225669",
+    "title": "Understanding beginning teacher turnover: The role of perceived preparedness",
+    "authors": [
+      "Shuai Li"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-11",
+    "doi": "10.1016/j.tate.2026.105767",
+    "url": "https://doi.org/10.1016/j.tate.2026.105767",
+    "abstract": "",
+    "keywords": [
+      "Preparedness",
+      "Higher education",
+      "Qualitative research",
+      "Perception"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:51.793056"
+  },
+  {
+    "id": "https://openalex.org/W7202193924",
+    "title": "Testing Times: A Structure/Agency Perspective on Becoming a Science Teacher in a Competitive, Exam‐Based Teacher Selection System",
+    "authors": [
+      "Wonyong Park",
+      "Heesoo Ha"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1002/sce.70096",
+    "url": "https://doi.org/10.1002/sce.70096",
+    "abstract": "ABSTRACT While extensive research exists on science teacher shortages, less attention has been directed toward countries facing the opposite challenge: an oversupply of science teachers. This study examines the experiences of prospective science teachers in South Korea, where passing a high‐stakes, annual competitive examination is a prerequisite for securing a public school position. Drawing on interviews, study group observations, and exam artifacts, we identify key structural conditions and i",
+    "keywords": [
+      "Agency (philosophy)",
+      "Science education",
+      "Selection (genetic algorithm)",
+      "Normative",
+      "Perspective (graphical)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/sce.70096",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:57.943991"
+  },
+  {
+    "id": "https://openalex.org/W7202215471",
+    "title": "Is there a role for social justice principles in the recruitment and training of global majority trainees in England’s ITE sector?",
+    "authors": [
+      "Uvanney Maylor",
+      "Steve Connolly"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1080/00131911.2026.2703524",
+    "url": "https://doi.org/10.1080/00131911.2026.2703524",
+    "abstract": "",
+    "keywords": [
+      "Training (meteorology)",
+      "Social justice",
+      "Economic Justice",
+      "Job training",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:58.793371"
+  },
+  {
+    "id": "https://openalex.org/W7202164097",
+    "title": "From learning to action: transformative pedagogies driving SDG-oriented entrepreneurship in higher education",
+    "authors": [
+      "Jacqueline del Pilar Hurtado-Yugcha",
+      "María Carmen Pérez-López",
+      "Ismael Muñoz‐Pérez",
+      "María José González López"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1108/ijshe-08-2025-0994",
+    "url": "https://doi.org/10.1108/ijshe-08-2025-0994",
+    "abstract": "Purpose This study aims to analyze how project-based learning (PBL) in higher education entrepreneurship courses contributes to the development of sustainable entrepreneurial competencies and to students’ social and environmental commitment, highlighting its relevance to the achievement of the United Nations Sustainable Development Goals (SDGs). Design/methodology/approach A pre–post design was applied to a sample of undergraduate students enrolled in a “Business Creation” course. Students worke",
+    "keywords": [
+      "Transformative learning",
+      "Sustainability",
+      "Curriculum",
+      "Entrepreneurship",
+      "Sustainable development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:00.417001"
+  },
+  {
+    "id": "https://openalex.org/W7202201020",
+    "title": "Exploring empowerment of rural women entrepreneurs through technical and vocational education and training (TVET): an inclusive development perspective",
+    "authors": [
+      "Mufaro Dzingirai"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1108/ijshe-04-2025-0367",
+    "url": "https://doi.org/10.1108/ijshe-04-2025-0367",
+    "abstract": "Purpose In light of the vulnerability of women, this paper aims to establish how technical and vocational education and training (TVET) education empowers rural entrepreneurial women through the adoption of information and communication technology (ICT). Worryingly, access to TVET remains elusive to several entrepreneurial women living in poor rural communities in Zimbabwe. Scarcity of literature that approaches TVET from an inclusive development perspective motivated the current study. Design/m",
+    "keywords": [
+      "Entrepreneurship",
+      "Empowerment",
+      "Vocational education",
+      "Poverty",
+      "Curriculum"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:00.417078"
+  },
+  {
+    "id": "https://openalex.org/W7202191242",
+    "title": "Integrating AI in environmental education: a quality-focused framework for higher education institutions in emerging markets",
+    "authors": [
+      "Eduardo Carlos Dittmar",
+      "Martin Sposato"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1108/ijshe-12-2025-1534",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1534",
+    "abstract": "Purpose This paper aims to propose a five-stage, quality-focused framework to guide higher education institutions in emerging markets through the integration of artificial intelligence (AI) into environmental education. It addresses a gap that existing frameworks have not filled: how institutions operating under resource constraints can adopt AI tools while preserving the experiential, place-based and community-connected foundations on which environmental pedagogy depends. Design/methodology/app",
+    "keywords": [
+      "Experiential learning",
+      "Higher education",
+      "Sustainability",
+      "Emerging markets",
+      "Environmental education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:00.417125"
+  },
+  {
+    "id": "https://openalex.org/W7202179283",
+    "title": "The relation between sustainability and campus layouts: a comparative international case study of three universities",
+    "authors": [
+      "Aliya Kuzhabekova"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-11",
+    "doi": "10.1108/ijshe-03-2025-0188",
+    "url": "https://doi.org/10.1108/ijshe-03-2025-0188",
+    "abstract": "Purpose The purpose of this paper is to explore the relationship between campus layouts of three universities in different countries of the world and environmental, economic and social sustainability. Design/methodology/approach The study uses ethnographic approach to the study of the central phenomenon of interest – the interplay between campus spatial layout and economic, environmental and social sustainability. The main approach to data collection in this study was participant observation. Fi",
+    "keywords": [
+      "Sustainability",
+      "Ethnography",
+      "Relation (database)",
+      "Sustainable development",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:00.417176"
+  },
+  {
+    "id": "https://openalex.org/W7202188182",
+    "title": "Developmental Feedback as a High-Impact Teaching Practice",
+    "authors": [
+      "Lauren Van Till",
+      "Isabel Hernandez",
+      "Kelly A. Cotter"
+    ],
+    "journal": "Active Learning In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-08-11",
+    "doi": "10.1177/14697874261472912",
+    "url": "https://doi.org/10.1177/14697874261472912",
+    "abstract": "High-failure courses may hinder students from pursuing their intended majors and may disproportionately impact minoritized students. High-impact practices (HIPs) are pedagogical practices that encourage student engagement and retention. Developmental feedback is one such HIP that was evaluated in a quasi-experimental study for its potential to support students in General Chemistry at a public university in California ( N = 58). Results showed that students enrolled in the course implementing dev",
+    "keywords": [
+      "Higher education",
+      "Test (biology)",
+      "Public university",
+      "Peer feedback",
+      "Best practice"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:02.623794"
+  },
+  {
+    "id": "https://openalex.org/W7202159117",
+    "title": "Modeling career decision competency for global vocational education: confirmatory factor analysis evidence from Thailand with cross-cultural implications",
+    "authors": [
+      "Chanchai Yothasoot",
+      "Surapon Boonlue"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-08-11",
+    "doi": "10.1108/et-06-2025-0379",
+    "url": "https://doi.org/10.1108/et-06-2025-0379",
+    "abstract": "Purpose This study reframes career decision-making competency in vocational education as a system-embedded capability influenced by institutional supports, opportunity structures, and constraints. Using Thailand as an exemplar VET system, it develops a multidimensional career decision-making competency (CDMC) framework adapted from the CDMI to better capture how career decisions are enacted within education–work environments. It treats career decision-making competency as a system-embedded capab",
+    "keywords": [
+      "Vocational education",
+      "Confirmatory factor analysis",
+      "Career development",
+      "Career counseling",
+      "Data collection"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:03.419721"
+  },
+  {
+    "id": "https://openalex.org/W7202191718",
+    "title": "Incorporating instructor presence in a multimedia language learning context",
+    "authors": [
+      "Yu‐Jr Lan",
+      "Emmanuel Manalo"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-08-11",
+    "doi": "10.1007/s11251-026-09814-2",
+    "url": "https://doi.org/10.1007/s11251-026-09814-2",
+    "abstract": "Abstract The present study investigated the effects of instructor presence in a multimedia learning situation where seeing the instructor was deemed relevant to the learning content and requirements, in this case a language learning setting. Fifty Japanese university students were asked to learn from two videos on the four Mandarin tones, one with the instructor video present and one without. While viewing the videos, participants’ eye movements and skin conductance level were recorded, and meas",
+    "keywords": [
+      "Mandarin Chinese",
+      "Context (archaeology)",
+      "Task (project management)",
+      "Perception",
+      "Educational technology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09814-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:10.996460"
+  },
+  {
     "id": "https://openalex.org/W7202116683",
     "title": "Editorial Board",
     "authors": [],
@@ -15,6 +411,108 @@
     "cited_by_count": 0,
     "type": "paratext",
     "fetched_at": "2026-08-11T22:29:08.541877"
+  },
+  {
+    "id": "https://openalex.org/W7202210873",
+    "title": "Reclaiming higher education: Belonging, dialogue and ethical AI",
+    "authors": [
+      "Julie Rattray"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/14703297.2026.2717014",
+    "url": "https://doi.org/10.1080/14703297.2026.2717014",
+    "abstract": "Higher education is at a crossroads. Across national contexts, universities are navigating widening participation, increasingly diverse student populations, growing demands for inclusion and social...",
+    "keywords": [
+      "Higher education",
+      "Inclusion (mineral)",
+      "Qualitative research",
+      "Teaching method",
+      "Graduate students"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.tandfonline.com/doi/pdf/10.1080/14703297.2026.2717014?needAccess=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:38.373189"
+  },
+  {
+    "id": "https://openalex.org/W7202196846",
+    "title": "L2 grit in multimodal generative AI-Enhanced classes: unveiling the role of DeepSeek-V3 in shaping English learners’ passion and perseverance",
+    "authors": [
+      "Fakieh Alrabai",
+      "Ali Derakhshan"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/17501229.2026.2715641",
+    "url": "https://doi.org/10.1080/17501229.2026.2715641",
+    "abstract": "Purpose This study assessed the long-term influence of DeepSeek-V3 as a multimodal generative artificial intelligence (AI) platform on English learners’ L2 grit. Specifically, it examined whether sustained engagement with AI-enhanced instruction contributed to changes in learners’ passion and perseverance over time.Methodology A longitudinal quasi-experimental design was employed with 369 undergraduate English as a foreign language (EFL) learners enrolled in six intact classes. Three classes wer",
+    "keywords": [
+      "Grit",
+      "Generative grammar",
+      "Passion",
+      "Control (management)",
+      "Consistency (knowledge bases)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:44.259285"
+  },
+  {
+    "id": "https://openalex.org/W7202187403",
+    "title": "“It's not a bug, it's an undocumented feature”: Identifying and classifying problems in engineering education",
+    "authors": [
+      "Walter Lee",
+      "Alexandra Strong",
+      "Jillian Seniuk Cicek"
+    ],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-08-10",
+    "doi": "10.1002/jee.70077",
+    "url": "https://doi.org/10.1002/jee.70077",
+    "abstract": "",
+    "keywords": [
+      "Engineering education",
+      "Identification (biology)",
+      "Higher education",
+      "Immigration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:59.571973"
+  },
+  {
+    "id": "https://openalex.org/W7202164653",
+    "title": "The nexus between the desired teaching approaches and success in educational robotics. An emic perspective",
+    "authors": [
+      "Christopher Mutseekwa"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-08-10",
+    "doi": "10.1080/1475939x.2026.2711625",
+    "url": "https://doi.org/10.1080/1475939x.2026.2711625",
+    "abstract": "",
+    "keywords": [
+      "Emic and etic",
+      "Perspective (graphical)",
+      "Nexus (standard)",
+      "Educational technology",
+      "Educational research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:28:08.596813"
   },
   {
     "id": "https://openalex.org/W7202079365",
@@ -676,6 +1174,33 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-10T22:24:46.972776"
+  },
+  {
+    "id": "https://openalex.org/W7201962238",
+    "title": "Unpacking AI–education discourse: Topic modeling and fsQCA of Technology–Resilience dynamics in pedagogical perceptions",
+    "authors": [
+      "Hongfeng Zhang",
+      "Liwei Ding",
+      "Jinqiao Zhou"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-08-08",
+    "doi": "10.1016/j.compedu.2026.105738",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105738",
+    "abstract": "",
+    "keywords": [
+      "Latent Dirichlet allocation",
+      "Topic model",
+      "Unpacking",
+      "Perception",
+      "Discourse analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-12T22:27:26.337279"
   },
   {
     "id": "https://openalex.org/W7201950725",
