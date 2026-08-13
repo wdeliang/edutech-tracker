@@ -1,5 +1,465 @@
 [
   {
+    "id": "https://openalex.org/W7202283414",
+    "title": "Rethinking academic literacies in the age of GenAI: International MA TESOL students’ challenges and tool-mediated practices in UK higher education",
+    "authors": [
+      "Özgür Şahan",
+      "Kari Şahan",
+      "Xiangnan Feng"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-08-13",
+    "doi": "10.1016/j.jeap.2026.101759",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101759",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "English for academic purposes",
+      "Academic writing",
+      "Teaching method"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.jeap.2026.101759",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:07.515860"
+  },
+  {
+    "id": "https://openalex.org/W7202279417",
+    "title": "The effect of digital and traditional methods on learning and retention in preschool education: a comparison of virtual reality, augmented reality, web-based, and manipulative materials",
+    "authors": [
+      "Cansu Tutkun"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s10639-026-14119-5",
+    "url": "https://doi.org/10.1007/s10639-026-14119-5",
+    "abstract": "",
+    "keywords": [
+      "Augmented reality",
+      "Virtual reality",
+      "Educational technology",
+      "Teaching method",
+      "Digital learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:49.093547"
+  },
+  {
+    "id": "https://openalex.org/W7202249757",
+    "title": "Gen AI dependency and the impostor phenomenon among adolescent students: The roles of academic self-concept and mindfulness",
+    "authors": [
+      "Jundong Liao",
+      "Xinyi Wei",
+      "Xin Fang",
+      "Xinlong Sun",
+      "Fang Li"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s10639-026-14116-8",
+    "url": "https://doi.org/10.1007/s10639-026-14116-8",
+    "abstract": "",
+    "keywords": [
+      "Phenomenon",
+      "Mindfulness",
+      "Dependency (UML)",
+      "Psychological intervention",
+      "Academic achievement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:49.093590"
+  },
+  {
+    "id": "https://openalex.org/W7202264655",
+    "title": "Predicting teachers’ pedagogical knowledge in virtual learning environments: the roles of motivation, technology knowledge, and engagement",
+    "authors": [
+      "Selçuk Doğan",
+      "İsmail Çelik",
+      "Timothy Hinchman"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-08-12",
+    "doi": "10.1080/10494820.2026.2703281",
+    "url": "https://doi.org/10.1080/10494820.2026.2703281",
+    "abstract": "",
+    "keywords": [
+      "Electronic learning",
+      "Educational technology",
+      "Virtual learning environment",
+      "Technology integration",
+      "Student engagement"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:49.798375"
+  },
+  {
+    "id": "https://openalex.org/W7202296913",
+    "title": "Comparative Perspectives on Generative AI Integration: Student Experiences in an Asia–Pacific, European, and African Context",
+    "authors": [
+      "Sean Bowman",
+      "Guobo Huang",
+      "Amos Makondo Ichenihi",
+      "Eileen Bowman",
+      "Linlin Qiu"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s40299-026-01136-8",
+    "url": "https://doi.org/10.1007/s40299-026-01136-8",
+    "abstract": "",
+    "keywords": [
+      "Kenya",
+      "Corporate governance",
+      "Context (archaeology)",
+      "Generative grammar",
+      "Empirical research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:55.653178"
+  },
+  {
+    "id": "https://openalex.org/W7202270009",
+    "title": "Teacher–Student Discourse in English-Speaking Lessons in Secondary Schools: An Investigation Using Epistemic Network Analysis",
+    "authors": [
+      "Grant Essuman",
+      "T Ly",
+      "Dao Thi Thuy Nguyen",
+      "Hanh Duc Nguyen",
+      "De Van Vo"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s40299-026-01139-5",
+    "url": "https://doi.org/10.1007/s40299-026-01139-5",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Discourse analysis",
+      "Scope (computer science)",
+      "Vietnamese",
+      "Statistical analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:55.653194"
+  },
+  {
+    "id": "https://openalex.org/W7202246868",
+    "title": "Dual Mediation Mechanisms of Teachers’ AI Literacy on Their Teaching Innovation Behaviors: An Empirical Study Based on Chinese K-12 Education",
+    "authors": [
+      "Bin Wu",
+      "Haohui Li",
+      "Ye Song",
+      "HongYang Dong",
+      "钱玲珠"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s40299-026-01138-6",
+    "url": "https://doi.org/10.1007/s40299-026-01138-6",
+    "abstract": "",
+    "keywords": [
+      "Mediation",
+      "Empirical research",
+      "Structural equation modeling",
+      "Literacy",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:55.653199"
+  },
+  {
+    "id": "https://openalex.org/W7202278391",
+    "title": "Linguistic insights into professional identify development: analyzing reflective writing in instructional design education",
+    "authors": [
+      "Ji Hyun Yu",
+      "Hannah Kim",
+      "Chi-Jia Hsieh",
+      "Liu Dong",
+      "Suzhen Duan"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s11423-025-10561-3",
+    "url": "https://doi.org/10.1007/s11423-025-10561-3",
+    "abstract": "",
+    "keywords": [
+      "Identity (music)",
+      "Reflective writing",
+      "Professional development",
+      "Instructional design",
+      "Reflection (computer programming)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:58.992083"
+  },
+  {
+    "id": "https://openalex.org/W7202279658",
+    "title": "Exploring students’ dialogic patterns and argumentation skills in a computer-supported critical discussion activity",
+    "authors": [
+      "Song Yi",
+      "Wenju Cui",
+      "Chen Li",
+      "Ralph P. Ferretti",
+      "John Sabatini"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-12",
+    "doi": "10.1007/s11423-026-10683-2",
+    "url": "https://doi.org/10.1007/s11423-026-10683-2",
+    "abstract": "",
+    "keywords": [
+      "Argumentation theory",
+      "Dialogic",
+      "Educational technology",
+      "Computer-mediated communication",
+      "Critical thinking"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:58.992101"
+  },
+  {
+    "id": "https://openalex.org/W7202300610",
+    "title": "Motivational Profiles of Teaching Self-Efficacy, Task Value, Perceived Cost, and Transformative Experience in Kuwaiti Preservice Teachers: A Longitudinal Latent Transition Analysis of Intentions to Quit",
+    "authors": [
+      "Fahad Ameen",
+      "Yousef Alardhi"
+    ],
+    "journal": "Journal of Teacher Education",
+    "jif": 4.1,
+    "published_date": "2026-08-12",
+    "doi": "10.1177/00224871261476224",
+    "url": "https://doi.org/10.1177/00224871261476224",
+    "abstract": "Student withdrawal in higher education is increasingly framed as a process in which intentions to quit may provide an early, context-sensitive risk signal, particularly in teacher education. Guided by situated expectancy–value–cost and self-efficacy perspectives, we followed 380 Kuwaiti female preservice teachers across three waves (920 person-wave observations; Full Information Maximum Likelihood [FIML]) to model longitudinal motivational profiles of teaching self-efficacy, task value, perceive",
+    "keywords": [
+      "Thriving",
+      "Transformative learning",
+      "Longitudinal study",
+      "Transition (genetics)",
+      "Task (project management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:01.582153"
+  },
+  {
+    "id": "https://openalex.org/W7202284228",
+    "title": "Navigating identity tensions of languages other than English teachers amid precarity in marketized higher education",
+    "authors": [
+      "Hua Lu",
+      "Xiaorong Zhang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-08-12",
+    "doi": "10.1016/j.tate.2026.105784",
+    "url": "https://doi.org/10.1016/j.tate.2026.105784",
+    "abstract": "",
+    "keywords": [
+      "Precarity",
+      "Higher education",
+      "Identity (music)",
+      "Marketization",
+      "Managerialism"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:02.903976"
+  },
+  {
+    "id": "https://openalex.org/W7202290983",
+    "title": "Perceived Algorithmic Bias, Perceived <scp>AI</scp> Surveillance, Linguistic Identity and Willingness to Communicate in <scp>AI</scp> ‐Mediated Education",
+    "authors": [
+      "Weiwei Ying"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1111/ejed.70829",
+    "url": "https://doi.org/10.1111/ejed.70829",
+    "abstract": "ABSTRACT The rapid integration of artificial intelligence (AI) into language learning environments has raised important questions about equity, identity and learner psychology in digital contexts. This study examined the relationships among perceived algorithmic bias, linguistic identity, perceived AI surveillance and willingness to communicate (WTC) among 679 Chinese EFL learners in AI‐mediated language learning environments. The data were collected through a self‐report questionnaire and analy",
+    "keywords": [
+      "Willingness to communicate",
+      "Identity (music)",
+      "Pride",
+      "Variance (accounting)",
+      "Stress (linguistics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70829",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:06.852932"
+  },
+  {
+    "id": "https://openalex.org/W7202287680",
+    "title": "The Role of Perceived Teacher Fairness in <scp>EFL</scp> Students' Academic Outcome: Mediating Effects of Achievement Emotions on Engagement and Resilience",
+    "authors": [
+      "Shengnan Li",
+      "Peng Tian",
+      "Shasha Cui"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1111/ejed.70814",
+    "url": "https://doi.org/10.1111/ejed.70814",
+    "abstract": "ABSTRACT As two significant elements in education, resilience and engagement have been at the center of attention in the English as a Foreign Language (EFL) research, as they both influence learners' academic achievement and their psychological growth. Among different factors, teacher fairness has progressively been known as a vital interpersonal element forming students' motivational and emotional performance; however, its effect in foreign language teaching is overlooked. In EFL contexts, wher",
+    "keywords": [
+      "Interpersonal communication",
+      "Psychological resilience",
+      "Structural equation modeling",
+      "Vulnerability (computing)",
+      "English as a foreign language"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70814",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:06.853009"
+  },
+  {
+    "id": "https://openalex.org/W7131353688",
+    "title": "A visitation will become a stimulation: Navigating the challenge of nominalisation",
+    "authors": [
+      "Darby McGrath"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-08-12",
+    "doi": "10.1016/j.jeap.2026.101758",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101758",
+    "abstract": "",
+    "keywords": [
+      "Obstacle",
+      "Reading (process)",
+      "Style (visual arts)",
+      "Focus (optics)",
+      "Value (mathematics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.2139/ssrn.6301460",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:07.515877"
+  },
+  {
+    "id": "https://openalex.org/W7202250875",
+    "title": "Entrepreneurial involvement and entrepreneurial quality: the mediating roles of sustainable behavior and green intentions and the moderating role of ecosystem support",
+    "authors": [
+      "Zhandong Xu",
+      "Jean Baptiste Bernard Pea-Assounga",
+      "Hongxiang Lu"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-08-12",
+    "doi": "10.1108/et-11-2025-0944",
+    "url": "https://doi.org/10.1108/et-11-2025-0944",
+    "abstract": "Purpose Although the influence of entrepreneurial engagement on venture success is well proven, the precise mechanism connecting scenario-based and industry-specific participation to entrepreneurial quality in the green sector is inadequately conceptualized. This study examines how entrepreneurial involvement shapes entrepreneurial quality (EQ) among youth by addressing a key theoretical gap in how experiential engagement translates into sustainable entrepreneurial outcomes. Specifically, it inv",
+    "keywords": [
+      "Structural equation modeling",
+      "Theory of planned behavior",
+      "Explanatory power",
+      "Entrepreneurship",
+      "Sustainable business"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:12.786078"
+  },
+  {
+    "id": "https://openalex.org/W7202245323",
+    "title": "Applying the artificial intelligence muse: secondary school teachers’ innovative approaches in Maltese language teaching and learning",
+    "authors": [
+      "Jacqueline Żammit"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-08-12",
+    "doi": "10.1080/1475939x.2026.2715526",
+    "url": "https://doi.org/10.1080/1475939x.2026.2715526",
+    "abstract": "",
+    "keywords": [
+      "Maltese",
+      "Teaching method",
+      "Educational technology",
+      "Language acquisition",
+      "Technology integration"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:17.325393"
+  },
+  {
+    "id": "https://openalex.org/W7202252400",
+    "title": "Inclusive climate pedagogy in low‐resource schooling contexts: A context‐responsive framework for access, participation and learning equity across climate‐vulnerable education systems",
+    "authors": [
+      "Muhammad Ahmed Javed",
+      "Hafiz Muhammad Inamullah",
+      "Atifa Saleem"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-08-11",
+    "doi": "10.1002/berj.70257",
+    "url": "https://doi.org/10.1002/berj.70257",
+    "abstract": "Abstract This qualitative multiple‐case study examines how teachers and school leaders enact inclusive climate pedagogy in low‐resource, climate‐vulnerable public secondary schools in Khyber Pakhtunkhwa, Pakistan. Drawing on semi‐structured interviews ( n = 16), 24 h of classroom observations and document review, the Context‐Responsive Inclusive Climate Education Framework (CRICEF) was developed to explain how access, participation and learning equity are co‐produced through interactions among s",
+    "keywords": [
+      "Equity (law)",
+      "School climate",
+      "Corporate governance",
+      "Agency (philosophy)",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:29:18.613672"
+  },
+  {
     "id": "https://openalex.org/W7202213203",
     "title": "Integrating LLM with consortium blockchain for personalized and verifiable online education in higher education",
     "authors": [
@@ -1174,6 +1634,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-10T22:24:46.972776"
+  },
+  {
+    "id": "https://openalex.org/W7201972822",
+    "title": "How does the early childhood scientific creativity program support children’s creativity and science motivation?",
+    "authors": [
+      "Beyza Akçay Malçok",
+      "Aslı YILDIRIM"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-08-08",
+    "doi": "10.1016/j.tsc.2026.102328",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102328",
+    "abstract": "",
+    "keywords": [
+      "Creativity",
+      "Torrance Tests of Creative Thinking",
+      "Early childhood",
+      "Test (biology)",
+      "Control (management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-13T22:28:57.630835"
   },
   {
     "id": "https://openalex.org/W7201962238",
