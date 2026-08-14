@@ -1,5 +1,268 @@
 [
   {
+    "id": "https://openalex.org/W7202374139",
+    "title": "Developing high school teachers’ self-efficacy for artificial intelligence through an AI literacy professional development program",
+    "authors": [
+      "Valerie Riggs",
+      "Nathaniel Maukle"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-08-13",
+    "doi": "10.1080/15391523.2026.2704775",
+    "url": "https://doi.org/10.1080/15391523.2026.2704775",
+    "abstract": "Artificial intelligence is expanding in K–12 education, yet many teachers remain uncertain about how to use these tools responsibly in classroom practice. This study examined high school teachers’ AI self-efficacy following participation in an AI-focused professional development program. The analysis was guided by Bandura’s theory of self-efficacy and the Teachers’ AI Competency Scale (TAICS). Survey responses and open-ended reflections were collected from teachers participating in the second ye",
+    "keywords": [
+      "Professional development",
+      "Competence (human resources)",
+      "Literacy",
+      "Faculty development",
+      "School teachers"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:33.221228"
+  },
+  {
+    "id": "https://openalex.org/W7202378922",
+    "title": "Measuring subjective family capital and examining its role in informal digital learning of English in China",
+    "authors": [
+      "Guangxiang Liu",
+      "Xian Zhao"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-08-13",
+    "doi": "10.1080/17501229.2026.2718474",
+    "url": "https://doi.org/10.1080/17501229.2026.2718474",
+    "abstract": "",
+    "keywords": [
+      "China",
+      "Informal learning",
+      "Human capital",
+      "Digital divide",
+      "Capital (architecture)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:38.835141"
+  },
+  {
+    "id": "https://openalex.org/W7202351208",
+    "title": "Asynchronous oral assessments:enhancing integrity, engagement, and communication in the AI era",
+    "authors": [
+      "Steven J. Pentland",
+      "Patrick R. Lowenthal",
+      "Karen Krier"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-13",
+    "doi": "10.1007/s11423-026-10677-0",
+    "url": "https://doi.org/10.1007/s11423-026-10677-0",
+    "abstract": "Abstract The shift to online and blended learning, accelerated by the COVID-19 pandemic and the rise of generative AI tools, has intensified the search for valid and secure assessment methods. Oral assessments have long been recognized for their ability to authentically measure understanding, foster deeper engagement, and develop professional communication skills; however, logistical demands often limit their use. This paper reports findings from two studies investigating Asynchronous Oral Asses",
+    "keywords": [
+      "Asynchronous communication",
+      "Complement (music)",
+      "Blackboard (design pattern)",
+      "Analytics",
+      "Learning analytics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10677-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:41.316683"
+  },
+  {
+    "id": "https://openalex.org/W7202363642",
+    "title": null,
+    "authors": [],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-08-13",
+    "doi": "10.1111/modl.v110.3",
+    "url": "https://doi.org/10.1111/modl.v110.3",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-08-14T22:10:44.362684"
+  },
+  {
+    "id": "https://openalex.org/W7202360628",
+    "title": "Issue Information",
+    "authors": [],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-08-13",
+    "doi": "10.1111/modl.70088",
+    "url": "https://doi.org/10.1111/modl.70088",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-08-14T22:10:44.362699"
+  },
+  {
+    "id": "https://openalex.org/W7202409349",
+    "title": "Issue Information",
+    "authors": [],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-08-13",
+    "doi": "10.1111/modl.70087",
+    "url": "https://doi.org/10.1111/modl.70087",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-08-14T22:10:44.362703"
+  },
+  {
+    "id": "https://openalex.org/W7202349728",
+    "title": "Enjoyment and Engagement in <scp>AI</scp> ‐Mediated Informal Digital Learning of English: A Latent Growth Curve Modelling Study",
+    "authors": [
+      "Xiaochen Wang",
+      "Yang Gao",
+      "Yanchen Liu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-13",
+    "doi": "10.1111/ejed.70825",
+    "url": "https://doi.org/10.1111/ejed.70825",
+    "abstract": "ABSTRACT Enjoyment and engagement are critical for effective language learning, yet little is known about how these experiences evolve over time in AI‐mediated informal digital English learning (IDLE). Previous studies have mainly relied on cross‐sectional designs, limiting understanding of the dynamic development of emotional and behavioural engagement. This study aims to examine the longitudinal trajectories of students' enjoyment and engagement in AI‐mediated IDLE and to identify factors infl",
+    "keywords": [
+      "Perspective (graphical)",
+      "Qualitative research",
+      "Informal learning",
+      "Latent growth modeling",
+      "Longitudinal study"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70825",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:48.756930"
+  },
+  {
+    "id": "https://openalex.org/W7202344639",
+    "title": "Examination of Online Learning Strategies With Cluster Analysis",
+    "authors": [
+      "Aynur Kolburan Geçer",
+      "Arzu Devecı Topal"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-13",
+    "doi": "10.1111/ejed.70826",
+    "url": "https://doi.org/10.1111/ejed.70826",
+    "abstract": "ABSTRACT The aim of this study is to identify the learning strategies of students taking e‐courses in e‐learning environments using clustering algorithms, a data mining technique and to determine how these strategies are distributed according to the variables gender, class, faculty, computer and Internet usage level, and Internet usage time. The survey model was used in the study conducted in accordance with this objective. The data were collected using the Learning Strategies Scale designed for",
+    "keywords": [
+      "The Internet",
+      "Cluster analysis",
+      "Descriptive statistics",
+      "Distance education",
+      "Scale (ratio)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70826",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:48.756991"
+  },
+  {
+    "id": "https://openalex.org/W7202372493",
+    "title": "Bridging the efficiency gap in the dual transition of higher education through digital maturity and strategic governance",
+    "authors": [
+      "Yolanda Ramírez Córcoles",
+      "Francisco Montero"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-13",
+    "doi": "10.1108/ijshe-01-2026-0040",
+    "url": "https://doi.org/10.1108/ijshe-01-2026-0040",
+    "abstract": "Purpose This paper investigates the strategic alignment between digital transformation and environmental sustainability in higher education institutions. Addressing the “siloed” management of these domains, this paper aims to determine whether digitalization is governed merely as an operational tool for control or as a systemic catalyst for closing the “efficiency gap” between institutional intent and environmental performance. Design/methodology/approach Adopting a qualitative multiple case stu",
+    "keywords": [
+      "Sustainability",
+      "Higher education",
+      "Corporate governance",
+      "Axial coding",
+      "Strategic alignment"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:51.957837"
+  },
+  {
+    "id": "https://openalex.org/W7202359901",
+    "title": "Who makes learning happen? Facilitators and actors in simulation-based learning for teacher professional learning and development",
+    "authors": [
+      "Orna Levin",
+      "Libby Ophir",
+      "Sofi Shahwan-Dalal",
+      "Tali Hagshoury"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-08-13",
+    "doi": "10.1080/19415257.2026.2716059",
+    "url": "https://doi.org/10.1080/19415257.2026.2716059",
+    "abstract": "",
+    "keywords": [
+      "Professional development",
+      "Professional learning community",
+      "Faculty development",
+      "Experiential learning",
+      "Qualitative research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:57.418544"
+  },
+  {
+    "id": "https://openalex.org/W7202401549",
+    "title": "Science after Wittgenstein: Reading Encounters with the Affective Grammar of AI-Mediated Science and Educational Orientations",
+    "authors": [
+      "Ho‐Yin Chan",
+      "Sibel Erduran"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-08-13",
+    "doi": "10.1007/s11191-026-00770-4",
+    "url": "https://doi.org/10.1007/s11191-026-00770-4",
+    "abstract": "Abstract Artificial intelligence (AI) has attracted growing attention in science and education, yet the affective register through which scientific concepts, judgements, and norms are handled when AI becomes part of ordinary scientific work has received less examination. Rather than treating AI as an external force acting upon science, this paper attends to how scientists’ hesitation, vigilance, and quiet recalibration make the grammar of scientific practice publicly available, particularly wher",
+    "keywords": [
+      "Reading (process)",
+      "Judgement",
+      "Set (abstract data type)",
+      "Discipline",
+      "Grammar"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11191-026-00770-4",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:58.052531"
+  },
+  {
     "id": "https://openalex.org/W7202283414",
     "title": "Rethinking academic literacies in the age of GenAI: International MA TESOL students’ challenges and tool-mediated practices in UK higher education",
     "authors": [
@@ -24,6 +287,60 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-13T22:29:07.515860"
+  },
+  {
+    "id": "https://openalex.org/W7202352286",
+    "title": "Student Engagement in <scp>AI</scp> ‐Supported Learning: Unpacking Psychological Drivers via Neural Network Analysis",
+    "authors": [
+      "Xiaoning Wang",
+      "Zixiang Hong",
+      "Xiaoning Wang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-12",
+    "doi": "10.1111/ejed.70800",
+    "url": "https://doi.org/10.1111/ejed.70800",
+    "abstract": "ABSTRACT As artificial intelligence (AI) becomes increasingly embedded in higher education, student engagement in AI‐supported learning has become an important indicator of learning quality and educational effectiveness. However, existing research has paid relatively limited attention to the psychological mechanisms through which students become actively involved in AI‐supported learning environments. Grounded in control‐value theory, this study examined the relationships among growth mindset, e",
+    "keywords": [
+      "Mindset",
+      "Pride",
+      "Student engagement",
+      "Structural equation modeling",
+      "Unpacking"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70800",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:48.757047"
+  },
+  {
+    "id": "https://openalex.org/W7202343233",
+    "title": "Looking for hopeful purpose in England's environmental education policy: An analysis of the National Education Nature Park",
+    "authors": [
+      "Julie Robinson",
+      "Elizabeth A. C. Rushton",
+      "Emma Towers"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-08-12",
+    "doi": "10.1002/berj.70268",
+    "url": "https://doi.org/10.1002/berj.70268",
+    "abstract": "Abstract The intertwined crises of climate change, biodiversity loss and environmental degradation represent profound global challenges. Education holds a unique role in enabling all young people to navigate uncertainty, participate meaningfully in decision‐making and contribute to more just and sustainable ways of living. In 2022, the Department for Education in England published a sustainability and climate change strategy which included the National Education Nature Park (NENP) programme. Usi",
+    "keywords": [
+      "Environmental education",
+      "Scope (computer science)",
+      "Sustainability",
+      "Science education",
+      "Environmental adult education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70268",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:59.900080"
   },
   {
     "id": "https://openalex.org/W7202279417",
@@ -871,6 +1188,34 @@
     "cited_by_count": 0,
     "type": "paratext",
     "fetched_at": "2026-08-11T22:29:08.541877"
+  },
+  {
+    "id": "https://openalex.org/W7202146203",
+    "title": "Communicative-cognitive activation in primary EFL education: Psychometric evidence on a novel subject-specific student scale",
+    "authors": [
+      "Joel Guttke",
+      "Charlott Rubach",
+      "Jennifer Rahden",
+      "Raphaela Porsch",
+      "Eva Wilden"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-08-10",
+    "doi": "10.1016/j.system.2026.104130",
+    "url": "https://doi.org/10.1016/j.system.2026.104130",
+    "abstract": "Most research into instructional quality has been conducted in the context of STEM education, with issues relating to subject-specificity being addressed explicitly only recently. Subject-specific approaches might increase validity by capturing aspects of instructional quality that generic frameworks fail to acknowledge. This is particularly true for cognitive activation, which is largely dependent on the lesson content. We present psychometric evidence on the validity of a scale designed to ass",
+    "keywords": [
+      "Scale (ratio)",
+      "Psychometrics",
+      "Reliability (semiconductor)",
+      "Item response theory"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0346251X26001612/pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-14T22:10:30.176121"
   },
   {
     "id": "https://openalex.org/W7202210873",
