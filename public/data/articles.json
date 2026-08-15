@@ -1,5 +1,431 @@
 [
   {
+    "id": "https://openalex.org/W7203465084",
+    "title": "To bot or not: Do chatbots make better planning partners than humans for EFL group discussions?",
+    "authors": [
+      "Robert Stroud"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-08-14",
+    "doi": "10.1016/j.system.2026.104133",
+    "url": "https://doi.org/10.1016/j.system.2026.104133",
+    "abstract": "",
+    "keywords": [
+      "Group (periodic table)",
+      "Chatbot",
+      "Group learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:12.345122"
+  },
+  {
+    "id": "https://openalex.org/W7203493435",
+    "title": "Performance, interaction, and ethical evaluation in the use of generative artificial intelligence in engineering education",
+    "authors": [
+      "Ascensión López-Vargas",
+      "Javier Rodríguez‐Vidal",
+      "Ángel García Beltrán",
+      "Pablo Vigara",
+      "Laura de León-Torres"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s10639-026-14112-y",
+    "url": "https://doi.org/10.1007/s10639-026-14112-y",
+    "abstract": "Abstract Generative artificial intelligence is increasingly incorporated into engineering education, particularly in programming courses, raising questions about its effects on learning processes and its acceptability in academic contexts. Empirical evidence examining both interaction patterns and ethical evaluation of Generative artificial intelligence use in real classroom settings remains limited, and studies addressing these dimensions jointly are scarce. This study adopts a multi-phase empi",
+    "keywords": [
+      "Generative grammar",
+      "Summative assessment",
+      "Engineering education",
+      "Task (project management)",
+      "Empirical research"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14112-y.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:14.277522"
+  },
+  {
+    "id": "https://openalex.org/W7203469973",
+    "title": "Designing LLM-powered virtual students with nonverbal behavior in an immersive VR classroom: Exploring pre-service teachers’ perceived affordances for classroom management practice",
+    "authors": [
+      "Jing Dai",
+      "Janet Ka-man Choi",
+      "Mengyang Wang"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s10639-026-14123-9",
+    "url": "https://doi.org/10.1007/s10639-026-14123-9",
+    "abstract": "",
+    "keywords": [
+      "Affordance",
+      "Classroom management",
+      "Context (archaeology)",
+      "Nonverbal communication",
+      "Experiential learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:14.277537"
+  },
+  {
+    "id": "https://openalex.org/W7203460222",
+    "title": "Comparing AI and human peer feedback in assessment: Evaluating feedback quality, engagement, and learning across project-based stages",
+    "authors": [
+      "Shwadhin Sharma"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s10639-026-14127-5",
+    "url": "https://doi.org/10.1007/s10639-026-14127-5",
+    "abstract": "",
+    "keywords": [
+      "Peer feedback",
+      "Peer assessment",
+      "Peer learning",
+      "Reflection (computer programming)",
+      "Peer evaluation"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:14.277541"
+  },
+  {
+    "id": "https://openalex.org/W7203503430",
+    "title": "From Pilot to Practice: A Multi-Dimensional Examination of an AI-Based Assessment System in Education",
+    "authors": [
+      "Esra KAYIŞ",
+      "Mehmet Fatih Döğer"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s10639-026-14124-8",
+    "url": "https://doi.org/10.1007/s10639-026-14124-8",
+    "abstract": "",
+    "keywords": [
+      "Handwriting",
+      "Intraclass correlation",
+      "Workload",
+      "Disadvantaged",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:14.277545"
+  },
+  {
+    "id": "https://openalex.org/W7203440187",
+    "title": "Evaluating the hybrid interactive learning with GenAI (HILG) model: a multi-agent framework for enhanced programming education",
+    "authors": [
+      "Nurassyl Kerimbayev",
+      "Rustam Shadiev",
+      "Zhanbota Menlibay"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s10639-026-14125-7",
+    "url": "https://doi.org/10.1007/s10639-026-14125-7",
+    "abstract": "",
+    "keywords": [
+      "Context (archaeology)",
+      "Autonomy",
+      "Educational technology",
+      "Test (biology)",
+      "Generative grammar"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:14.277550"
+  },
+  {
+    "id": "https://openalex.org/W7203453310",
+    "title": "Unveiling the “Gray Zone”: Characterizing Young People's Moderate STEM Identities",
+    "authors": [
+      "Carme Grimalt‐Álvaro",
+      "Digna Couso",
+      "Henriette Tolstrup Holmegaard"
+    ],
+    "journal": "Journal of Research In Science Teaching",
+    "jif": 4.5,
+    "published_date": "2026-08-14",
+    "doi": "10.1002/tea.70068",
+    "url": "https://doi.org/10.1002/tea.70068",
+    "abstract": "ABSTRACT Understanding how students identify with STEM (Science, Technology, Engineering, Mathematics) is crucial for fostering broader and more equitable participation within these fields. While existing research has focused on students who either strongly identify with STEM or disengage from it, this study explores the moderate STEM identities of students who occupy a “gray zone” between these extremes. These students, aged 12–16, exhibit moderate STEM identities configured through varying deg",
+    "keywords": [
+      "Identity (music)",
+      "Cluster (spacecraft)",
+      "Cluster grouping",
+      "Science education",
+      "Stem cell"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:23.658411"
+  },
+  {
+    "id": "https://openalex.org/W7203492437",
+    "title": "Fostering computational thinking skills through unplugged debugging activities using gestures and embodiment",
+    "authors": [
+      "Junghyun Ahn",
+      "Woonhee Sung"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-08-14",
+    "doi": "10.1007/s11423-026-10688-x",
+    "url": "https://doi.org/10.1007/s11423-026-10688-x",
+    "abstract": "",
+    "keywords": [
+      "Gesture",
+      "Debugging",
+      "Embodied cognition",
+      "Computational thinking",
+      "Interface (matter)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:24.352828"
+  },
+  {
+    "id": "https://openalex.org/W7203502593",
+    "title": "What If Cooking Isn't Chemistry? Examining the Good and the Harm in Metaphorical Connections Between Science and Everyday Activities",
+    "authors": [
+      "Noah Weeth Feinstein",
+      "Ryan L. Stowe"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1002/sce.70094",
+    "url": "https://doi.org/10.1002/sce.70094",
+    "abstract": "ABSTRACT This theoretical paper examines why we make claims like “cooking is chemistry,” what these claims mean, and what good or harm they accomplish. We make three interrelated arguments: First, the relationship between scientific and everyday practices is more complicated and less obvious than is often claimed; second, educators and scientists link scientific and everyday practices for reasons that have little do with the accuracy of those links; and third, pushing everyday practices under th",
+    "keywords": [
+      "Harm",
+      "Everyday life",
+      "Philosophy of science",
+      "Science education",
+      "Form of the Good"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/sce.70094",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:33.456789"
+  },
+  {
+    "id": "https://openalex.org/W7203497262",
+    "title": "COIL+: integrating experiential and blended learning to advance soft skills and global competence in sustainability education",
+    "authors": [
+      "Abrianna Elke Chairil",
+      "Hyunjung Bang",
+      "David Rosch"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1108/ijshe-10-2025-1256",
+    "url": "https://doi.org/10.1108/ijshe-10-2025-1256",
+    "abstract": "Purpose This study aims to examine how a STEM-contextualized and Education for Sustainable Development-oriented international co-learning model (COIL+) cultivates soft skills and global competence among agricultural undergraduates in Japan and South Korea – two East Asian countries selected for their shared rural demographic pressures and comparable small-scale agricultural structures. Design/methodology/approach The authors implemented a convergent mixed-methods design across three program iter",
+    "keywords": [
+      "Experiential learning",
+      "Operationalization",
+      "Soft skills",
+      "Thematic analysis",
+      "Sustainability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:35.501641"
+  },
+  {
+    "id": "https://openalex.org/W7203440850",
+    "title": "Life cycle and behavioral analysis of single-use research laboratory plastic recycling on a college campus",
+    "authors": [
+      "Chiara Ballam",
+      "Carlos Landaverde-Alvarado"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1108/ijshe-10-2025-1182",
+    "url": "https://doi.org/10.1108/ijshe-10-2025-1182",
+    "abstract": "Purpose University research laboratories generate large volumes of single-use plastics, particularly polypropylene (PP) research waste (e.g. pipette tips). While reduction and reuse strategies remain the preferred actions within the circular economy hierarchy (e.g. 10R/3R: reduce, reuse, recycle), these are rarely feasible at scale in laboratory environments without workflow redesign and education. This study aims to examine the technical, environmental, behavioral and implementation feasibility",
+    "keywords": [
+      "Reuse",
+      "Analytic hierarchy process",
+      "Process (computing)",
+      "Life-cycle assessment",
+      "Sustainability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:35.501741"
+  },
+  {
+    "id": "https://openalex.org/W7203441520",
+    "title": "An analysis of Taiwan’s educational contributions to sustainable development: evidence from Taiwan’s university social responsibility",
+    "authors": [
+      "Yafeng Xu",
+      "Tzu Chao Lin",
+      "Liliang You"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-08-14",
+    "doi": "10.1108/ijshe-10-2025-1297",
+    "url": "https://doi.org/10.1108/ijshe-10-2025-1297",
+    "abstract": "Purpose This study aims to examine the operational logic through which Taiwan’s university social responsibility (USR) program, led by the Taiwan authorities, promotes local sustainable development, compare it with the operational logic of USR programs in Europe and the United States, and further propose policy recommendations for different USR models. Design/methodology/approach This study adopts a qualitative research approach, including case studies, semi-structured interviews, secondary data",
+    "keywords": [
+      "Corporate governance",
+      "Agency (philosophy)",
+      "Sustainability",
+      "Sustainable development",
+      "Resource (disambiguation)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:35.501796"
+  },
+  {
+    "id": "https://openalex.org/W7203461687",
+    "title": "Task receptivity in school strength training: A function of individual interest profiles?",
+    "authors": [
+      "Mehdi Belhouchat",
+      "Olivier Dieu",
+      "Cédric Roure"
+    ],
+    "journal": "European Physical Education Review",
+    "jif": 3.3,
+    "published_date": "2026-08-14",
+    "doi": "10.1177/1356336x261471022",
+    "url": "https://doi.org/10.1177/1356336x261471022",
+    "abstract": "Positive experiences in physical education (PE) constitute a critical determinant of students’ engagement and learning. The aims of this study were to: (a) examine potential differences in situational interest (SI) across three strength-training tasks as a function of students’ individual interest (II) profiles, and (b) examine whether and how SI scores differed across II profiles theoretically aligned with the four-phase model of interest development. Students ( N = 319; M age = 16.0, SD = 1.7;",
+    "keywords": [
+      "Task (project management)",
+      "Situational ethics",
+      "Function (biology)",
+      "Autonomy",
+      "Physical education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:36.151733"
+  },
+  {
+    "id": "https://openalex.org/W7203476269",
+    "title": "Understanding university-based teacher educators’ learning in third spaces",
+    "authors": [
+      "Jingtian Zhou",
+      "Yiwei Tian",
+      "Jocelyn L. N. Wong"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-08-14",
+    "doi": "10.1080/02619768.2026.2717707",
+    "url": "https://doi.org/10.1080/02619768.2026.2717707",
+    "abstract": "For decades, the practices of university-based teacher educators (UBTEs) have been interpreted through the theory-practice dichotomy. This conceptual paper introduces third space as an alternative perspective that disrupts the binary view, using it to unpack and theorise UBTEs’ learning within their professional practices. We first linked three traditions of third space theory to the study of UBTEs’ learning. Building on existing debates, we proposed an alternative conceptual framework that diff",
+    "keywords": [
+      "Expansive",
+      "Space (punctuation)",
+      "Perspective (graphical)",
+      "Conceptual framework",
+      "Teacher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:40.691948"
+  },
+  {
+    "id": "https://openalex.org/W7203491779",
+    "title": "Virtual Reality-Facilitated Creative Thinking Mapping to Enhance Performance Skills, Choreographic Creative Expression, and Collective Self-Efficacy in Performing Arts Programs: An Experiential Learning Theory Perspective",
+    "authors": [
+      "Sheng-Kai Chiu",
+      "Gwo‐Jen Hwang",
+      "Lu‐Ho Hsia",
+      "Chih‐Hung Chen",
+      "Gwo‐Haur Hwang"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-08-13",
+    "doi": "10.1177/07356331261477592",
+    "url": "https://doi.org/10.1177/07356331261477592",
+    "abstract": "Grounded in experiential learning theory, this study proposed a virtual reality-facilitated creative thinking mapping (VR-CTM) approach, designed to guide learning through immersive experiences. To evaluate its effectiveness, a quasi-experimental design was implemented to compare the VR-CTM approach with a conventional creative thinking mapping (C-CTM) approach. Two classes of students enrolled in elective university performing arts courses were recruited. One class (N = 45) was the experimental",
+    "keywords": [
+      "Experiential learning",
+      "Perspective (graphical)",
+      "Class (philosophy)",
+      "The arts",
+      "Creative thinking"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/07356331261477592?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:18.449827"
+  },
+  {
+    "id": "https://openalex.org/W7203467119",
+    "title": "Ranked epistemic life: how governance, position, and becoming shape the meaning of research in Chinese universities",
+    "authors": [
+      "Yun Yue",
+      "Yin Ma",
+      "Xiaopeng Yan"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-08-13",
+    "doi": "10.1080/03075079.2026.2710796",
+    "url": "https://doi.org/10.1080/03075079.2026.2710796",
+    "abstract": "This study examines how academics in Chinese research-intensive universities conceptualise the meaning, purpose, and value of research within stratified institutional environments. Drawing on interviews with 27 lecturers, associate professors, and full professors, the analysis reveals that research is not a singular professional activity but a ranked epistemic life shaped by governance pressures, positional hierarchies, and evolving forms of scholarly becoming. Rather than remaining stable acros",
+    "keywords": [
+      "Negotiation",
+      "Situated",
+      "Meaning (existential)",
+      "Accountability",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:38.782533"
+  },
+  {
     "id": "https://openalex.org/W7202374139",
     "title": "Developing high school teachers’ self-efficacy for artificial intelligence through an AI literacy professional development program",
     "authors": [
@@ -748,6 +1174,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-13T22:29:17.325393"
+  },
+  {
+    "id": "https://openalex.org/W7202213826",
+    "title": "Does a task-based test promote TBLT test preparation materials? The case of Hong Kong",
+    "authors": [
+      "KRISTY SUET-SIN CHEUNG",
+      "Amos Paran",
+      "Andrea Révész"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-08-11",
+    "doi": "10.1016/j.system.2026.104131",
+    "url": "https://doi.org/10.1016/j.system.2026.104131",
+    "abstract": ": Despite the growing popularity of task-based language teaching (TBLT) and assessment, the extent to which task-based tests promote TBLT preparation materials remains unexplored. To fill this gap, this study examines the alignment between East’s (2021) four-criterion definition of task and materials designed for preparing learners to complete a task-based high-stakes exam in Hong Kong. Three sets of widely used test preparation English language textbooks were analysed in terms of task criteria.",
+    "keywords": [
+      "Test (biology)",
+      "Test preparation",
+      "Language assessment",
+      "Language proficiency"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.system.2026.104131",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-15T22:08:12.345203"
   },
   {
     "id": "https://openalex.org/W7202252400",
