@@ -1,5 +1,86 @@
 [
   {
+    "id": "https://openalex.org/W7203534646",
+    "title": "Exploring student use of generative AI in higher education: A dual-institutional study",
+    "authors": [
+      "Åse Nygren",
+      "Anna Eriksson",
+      "Jeanette Sjöberg",
+      "Emil Alégroth"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-08-15",
+    "doi": "10.1007/s10639-026-14100-2",
+    "url": "https://doi.org/10.1007/s10639-026-14100-2",
+    "abstract": "Abstract Although a growing body of research has examined students’ attitudes toward generative artificial intelligence (GenAI) in higher education, few studies have compared perceptions across contrasting institutional contexts or explored how students’ reported uses of GenAI relate to broader learning practices. This study addresses that gap by examining university students’ perceptions, self-reported competence, and use of GenAI at two Swedish universities with different academic profiles: a ",
+    "keywords": [
+      "Higher education",
+      "Thematic analysis",
+      "Perception",
+      "Dialogic",
+      "Exploratory research"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14100-2.pdf",
+    "cited_by_count": 0,
+    "type": "book-chapter",
+    "fetched_at": "2026-08-16T22:08:29.155153"
+  },
+  {
+    "id": "https://openalex.org/W7203560558",
+    "title": "Cosmopolitan Science, Nationalist Frameworks: Content Analysis of K–11 STEM Curriculum Reform in Russia (2012–2024)",
+    "authors": [
+      "Margarita Kiryushina",
+      "Miri Yemini",
+      "Florian Waldow"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-08-15",
+    "doi": "10.1007/s11191-026-00772-2",
+    "url": "https://doi.org/10.1007/s11191-026-00772-2",
+    "abstract": "Abstract This study examines the changes in K–11 STEM education policy in Russia between 2012 and 2024, revealing whether and how geopolitical positioning shapes educational priorities during periods of significant ideological transformation. Using the cosmopolitan nationalism theoretical framework, we analyze how Russia navigates the inherent tension between global scientific engagement and nationalist educational objectives within STEM curricula. Through mixed methods combining qualitative and",
+    "keywords": [
+      "Nationalism",
+      "Content analysis",
+      "Curriculum",
+      "Geopolitics",
+      "Ideology"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-026-00772-2.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-16T22:08:55.350170"
+  },
+  {
+    "id": "https://openalex.org/W7203542033",
+    "title": "Digital Competence and Learner Engagement in <scp>AI</scp> ‐Mediated Higher Education: A Mixed‐Methods Study of the Moderating Role of Cognitive Load in <scp>EFL</scp> Contexts",
+    "authors": [
+      "Jiachen Zhang",
+      "Siyi Wang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-08-14",
+    "doi": "10.1111/ejed.70818",
+    "url": "https://doi.org/10.1111/ejed.70818",
+    "abstract": "ABSTRACT With the growing integration of artificial intelligence into higher education, digital competence has become central to learners' meaningful engagement in AI‐mediated learning environments. However, its role may be constrained by the cognitive load generated when students navigate complex digital tools, resources, and learning tasks. This study, therefore, adopted an explanatory sequential mixed‐methods design to examine whether digital competence was associated with learners' engagemen",
+    "keywords": [
+      "Competence (human resources)",
+      "Digital literacy",
+      "Cognition",
+      "Cognitive load",
+      "Technological literacy"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70818",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-16T22:08:45.931943"
+  },
+  {
     "id": "https://openalex.org/W7203465084",
     "title": "To bot or not: Do chatbots make better planning partners than humans for EFL group discussions?",
     "authors": [
@@ -1174,6 +1255,34 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-13T22:29:17.325393"
+  },
+  {
+    "id": "https://openalex.org/W7202168464",
+    "title": "Comparing the problem-posing competence of high school students with different cognitive styles: An epistemic network analysis study",
+    "authors": [
+      "Nan Wang",
+      "Guoyi Liu",
+      "Rui Gao",
+      "Li Zhao"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-08-11",
+    "doi": "10.1016/j.tsc.2026.102330",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102330",
+    "abstract": "",
+    "keywords": [
+      "Competence (human resources)",
+      "Cognition",
+      "Network analysis",
+      "Protocol analysis",
+      "Statistical analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-08-16T22:08:37.287783"
   },
   {
     "id": "https://openalex.org/W7202213826",
@@ -47481,116 +47590,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-05-24T11:43:30.975726"
-  },
-  {
-    "id": "https://openalex.org/W7161478065",
-    "title": "Student-AI interaction patterns in collaborative problem solving using ordered network analysis",
-    "authors": [
-      "Jinhee Kim",
-      "Guang Yang",
-      "Rita Detrick",
-      "Liangjie Fan",
-      "Wing Sha Chan"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-05-17",
-    "doi": "10.1080/10494820.2026.2664072",
-    "url": "https://doi.org/10.1080/10494820.2026.2664072",
-    "abstract": "",
-    "keywords": [
-      "Social network analysis",
-      "Network analysis",
-      "Collaborative learning",
-      "Task analysis",
-      "Educational technology"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-05-24T11:43:03.023825"
-  },
-  {
-    "id": "https://openalex.org/W7161480902",
-    "title": "Gender and behavior biases in teachers’ perceived academic level of students",
-    "authors": [
-      "Lilas Gurgand",
-      "Hugo Peyre",
-      "Xavier Thierry",
-      "Franck Ramus"
-    ],
-    "journal": "Learning and Instruction",
-    "jif": 4.9,
-    "published_date": "2026-05-17",
-    "doi": "10.1016/j.learninstruc.2026.102391",
-    "url": "https://doi.org/10.1016/j.learninstruc.2026.102391",
-    "abstract": "",
-    "keywords": [
-      "Perception",
-      "Gender bias",
-      "Longitudinal study",
-      "Social perception",
-      "Gender disparity"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-05-24T11:43:06.896354"
-  },
-  {
-    "id": "https://openalex.org/W7161491660",
-    "title": "Building the AI Empowerment Framework for Teacher Education: A scoping review of teacher educators’ roles, competencies, practices, and influencing factors",
-    "authors": [
-      "Yao Fu",
-      "Zhenjie Weng"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-05-17",
-    "doi": "10.1016/j.tate.2026.105594",
-    "url": "https://doi.org/10.1016/j.tate.2026.105594",
-    "abstract": "",
-    "keywords": [
-      "Affordance",
-      "Empowerment",
-      "Thematic analysis",
-      "Teacher education",
-      "Professional development"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-05-24T11:43:15.778974"
-  },
-  {
-    "id": "https://openalex.org/W7161570783",
-    "title": "Enhancing students' engineering identities through a Research Experiences for Undergraduates program",
-    "authors": [
-      "Elise J. Cain",
-      "Regina P. McCurdy",
-      "Jenay F. Willis",
-      "Valentin Soloiu"
-    ],
-    "journal": "Journal of Engineering Education",
-    "jif": 3.4,
-    "published_date": "2026-05-17",
-    "doi": "10.1002/jee.70064",
-    "url": "https://doi.org/10.1002/jee.70064",
-    "abstract": "Abstract Background The strength with which engineering students identify with engineering—namely, their engineering identity—correlates with their decisions to pursue engineering work after they graduate. Authentic and hands‐on experiences, like participating in research projects and programs, can play a vital role in shaping undergraduate students' engineering identities and career aspirations. Purpose This qualitative study investigated how a National Science Foundation (NSF) funded Research ",
-    "keywords": [
-      "Engineering education",
-      "Extant taxon",
-      "Identity (music)",
-      "Qualitative research",
-      "Engineering design process"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-05-24T11:43:22.160606"
   }
 ]
