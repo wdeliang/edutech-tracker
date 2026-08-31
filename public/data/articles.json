@@ -1,5 +1,28 @@
 [
   {
+    "id": "https://openalex.org/W7204658360",
+    "title": "Correction to ‘How can welfare regime and production regime theories explain differences in schools’ ability grouping policies? A comparative study using the PISA school survey’",
+    "authors": [],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-08-28",
+    "doi": "10.1002/berj.70270",
+    "url": "https://doi.org/10.1002/berj.70270",
+    "abstract": "",
+    "keywords": [
+      "Welfare",
+      "Production (economics)",
+      "Research methodology",
+      "Educational research",
+      "Comparative education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-08-31T00:00:15.401689"
+  },
+  {
     "id": "https://openalex.org/W7204547417",
     "title": "Multi-dimensional drivers and ethical synergy in student GenAI adoption: A TAM-NAM-based configurational analysis",
     "authors": [
@@ -47323,248 +47346,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-02T12:30:07.808471"
-  },
-  {
-    "id": "https://openalex.org/W7163005334",
-    "title": "A latent profile analysis of EFL teachers’ L2 grit: associations with teaching boredom, enjoyment, enthusiasm, and self-efficacy",
-    "authors": [
-      "Mehdi Solhi",
-      "Mirosław Pawlak",
-      "Majid Elahi Shirvan",
-      "Mariusz Kruk",
-      "Tahereh Taherian"
-    ],
-    "journal": "Innovation In Language Learning and Teaching",
-    "jif": 4.6,
-    "published_date": "2026-05-31",
-    "doi": "10.1080/17501229.2026.2680245",
-    "url": "https://doi.org/10.1080/17501229.2026.2680245",
-    "abstract": "",
-    "keywords": [
-      "Teaching method",
-      "Language acquisition",
-      "Statistical analysis",
-      "Language proficiency",
-      "Learner autonomy"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:29:43.810833"
-  },
-  {
-    "id": "https://openalex.org/W7163083455",
-    "title": "Online Writing Behaviors, Writing Outcomes, and Task Complexity in Computer‐Assisted Collaborative Writing",
-    "authors": [
-      "Xin Rong"
-    ],
-    "journal": "Modern Language Journal",
-    "jif": 4.0,
-    "published_date": "2026-05-31",
-    "doi": "10.1111/modl.70068",
-    "url": "https://doi.org/10.1111/modl.70068",
-    "abstract": "ABSTRACT This study examined how online writing behaviors aggregated at the pair level were related to writing outcomes in computer‐assisted collaborative writing and how task complexity moderated these relationships. The participants were 56 Chinese university students with advanced English proficiency. They were randomly organized into 28 pairs. Each pair performed two versions of a reading‐to‐write task in a face‐to‐face collaborative writing setting using Google Docs. Task complexity was man",
-    "keywords": [
-      "Task (project management)",
-      "Collaborative writing",
-      "Keystroke logging",
-      "Quality (philosophy)",
-      "Writing assessment"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/modl.70068",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:29:51.148181"
-  },
-  {
-    "id": "https://openalex.org/W7163053658",
-    "title": "Inclusive Education: A Comparative Analysis of Models in European Countries",
-    "authors": [
-      "Joanna Głodkowska",
-      "Iwona Konieczna"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-05-31",
-    "doi": "10.1111/ejed.70710",
-    "url": "https://doi.org/10.1111/ejed.70710",
-    "abstract": "ABSTRACT This article analyses the evolution and diversification of inclusive education models in Europe, tracing their development from segregational to inclusive approaches. The analysis refers to key international documents, such as the Warnock Report and the UN Convention on the Rights of Persons with Disabilities. It demonstrates how the concept of ‘Education for All’ has shaped educational policies across Europe. Various models of inclusive education are presented, including full inclusion",
-    "keywords": [
-      "Flexibility (engineering)",
-      "Inclusion (mineral)",
-      "Diversification (marketing strategy)",
-      "Convention",
-      "Czech"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:29:56.926466"
-  },
-  {
-    "id": "https://openalex.org/W7163020394",
-    "title": "Understanding Social–Emotional Skills in Childhood and Adolescence: A Network Perspective From Suzhou, China",
-    "authors": [
-      "Bo Ning",
-      "Lidan Wang",
-      "Yijin Du",
-      "Ming Huo"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-05-31",
-    "doi": "10.1111/ejed.70704",
-    "url": "https://doi.org/10.1111/ejed.70704",
-    "abstract": "ABSTRACT Social–emotional skills are multifaceted and interconnected. Identifying core skills and how they interconnect are essential for designing effective educational interventions. Using data from the Organization for Economic Co‐operation and Development (OECD) 2019 Survey on Social and Emotional Skills (SSES), comprising 3631 10‐year‐olds and 3611 15‐year‐olds in Suzhou, China, this study applied network analysis to examine the network structure and interconnections among social–emotional ",
-    "keywords": [
-      "Optimism",
-      "Social skills",
-      "Perspective (graphical)",
-      "Assertiveness",
-      "China"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:29:56.926519"
-  },
-  {
-    "id": "https://openalex.org/W7163062272",
-    "title": "Self‐Abandonment or Seeking a Way Out: Understanding Educational Expectations Among Chinese Migrant Children",
-    "authors": [
-      "Qifan Ding",
-      "Qiaobing Wu"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-05-31",
-    "doi": "10.1111/ejed.70713",
-    "url": "https://doi.org/10.1111/ejed.70713",
-    "abstract": "ABSTRACT Existing studies have primarily focused on migrant children's compulsory education, academic performance, and psychological wellbeing. Less attention has been paid to how migrant children themselves perceive, negotiate, and adjust their educational expectations towards the end of compulsory education under unequal institutional conditions. This study explores the complex process through which migrant children's educational expectations are formed and negotiated in urban China. Drawing o",
-    "keywords": [
-      "Habitus",
-      "Ambivalence",
-      "Compulsory education",
-      "Migrant workers",
-      "Educational attainment"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70713",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:29:56.926563"
-  },
-  {
-    "id": "https://openalex.org/W7163067214",
-    "title": "Managerial practices in the student experience in England and Chile: an organizational translation perspective",
-    "authors": [
-      "Julio Labraña",
-      "Patricio Sanchez-Campos",
-      "Marjorie Tovar-Correal"
-    ],
-    "journal": "Studies In Higher Education",
-    "jif": 3.2,
-    "published_date": "2026-05-31",
-    "doi": "10.1080/03075079.2026.2681142",
-    "url": "https://doi.org/10.1080/03075079.2026.2681142",
-    "abstract": "",
-    "keywords": [
-      "Perspective (graphical)",
-      "Higher education",
-      "Qualitative research",
-      "Student engagement",
-      "Graduate students"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:30:06.428976"
-  },
-  {
-    "id": "https://openalex.org/W7163018901",
-    "title": "Higher education and the imperative of social reconstruction: faculty perspectives on societal challenges, system responsiveness, and structural impediments",
-    "authors": [
-      "Yixing Yang",
-      "Mulugeta Yayeh Worku"
-    ],
-    "journal": "Studies In Higher Education",
-    "jif": 3.2,
-    "published_date": "2026-05-31",
-    "doi": "10.1080/03075079.2026.2678400",
-    "url": "https://doi.org/10.1080/03075079.2026.2678400",
-    "abstract": "",
-    "keywords": [
-      "Higher education",
-      "Qualitative research",
-      "Social influence",
-      "Social change",
-      "Power structure"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-02T12:30:06.428993"
-  },
-  {
-    "id": "https://openalex.org/W7162944759",
-    "title": "A framework for university readiness in extended reality (XR): a socio-technical perspective",
-    "authors": [
-      "Mohammed Hafeth Hakami",
-      "Jayan Chirayath Kurian",
-      "Ghassan Beydoun"
-    ],
-    "journal": "International Journal of Educational Technology in Higher Education",
-    "jif": 16.7,
-    "published_date": "2026-05-31",
-    "doi": "10.1186/s41239-026-00599-5",
-    "url": "https://doi.org/10.1186/s41239-026-00599-5",
-    "abstract": "Abstract Despite the pedagogical potential of Extended Reality (XR) to transform higher education, institutional adoption continues to be fragmented, marked by abandoned pilots and high failure rates. Existing maturity models, such as the Technology Readiness Level (TRL), prioritize hardware functionality but fail to account for the complexity of university environments. This study addresses this gap by developing a systemic framework for university XR readiness. Employing a Socio-Technical Grou",
-    "keywords": [
-      "Perspective (graphical)",
-      "Multitude",
-      "Maturity (psychological)",
-      "Higher education",
-      "Convergence (economics)"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s41239-026-00599-5",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-01T19:13:54.473895"
-  },
-  {
-    "id": "https://openalex.org/W7162938326",
-    "title": "Associations between work overload, prolonging working hours, calling and exhaustion: Longitudinal evidence in a teacher sample",
-    "authors": [
-      "Doris Hofer",
-      "Sarah A.K. Kuhn",
-      "Daniel Spurk",
-      "Andreas Krause",
-      "Anita Sandmeier"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-05-31",
-    "doi": "10.1016/j.tate.2026.105652",
-    "url": "https://doi.org/10.1016/j.tate.2026.105652",
-    "abstract": "",
-    "keywords": [
-      "Sample (material)",
-      "Work (physics)",
-      "Longitudinal study",
-      "Longitudinal sample",
-      "Large sample"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1016/j.tate.2026.105652",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-01T19:14:17.359945"
   }
 ]
