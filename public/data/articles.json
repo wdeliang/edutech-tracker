@@ -1,5 +1,273 @@
 [
   {
+    "id": "https://openalex.org/W7208812636",
+    "title": "Education Policy and the State in Research on Latin America: A Systematic Review of Theoretical Approaches",
+    "authors": [
+      "D. Brent Edwards",
+      "Mauro C. Moschetti",
+      "Claudia Díaz Ríos",
+      "Siobhan Ng",
+      "Patricia Grillet"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-09-05",
+    "doi": "10.3102/00346543261478032",
+    "url": "https://doi.org/10.3102/00346543261478032",
+    "abstract": "This paper presents the results of a systematic literature review on how the state has been explicitly and implicitly conceived in research on K–12 education policy in Latin America. Based on a review of 177 studies in English, Spanish, and Portuguese, seven general theoretical approaches are identified in research on Latin America that focuses on K–12 education policy and employs the language of “the state.” These approaches are labeled political economy, policy process, governance, institution",
+    "keywords": [
+      "CLARITY",
+      "Latin Americans",
+      "State (computer science)",
+      "Education policy",
+      "Value (mathematics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-09-06T23:18:35.599739"
+  },
+  {
+    "id": "https://openalex.org/W7208831689",
+    "title": "From words to components: Mapping linguistic features in source-based writing",
+    "authors": [
+      "Andrew Potter",
+      "Scott A. Crossley",
+      "Püren Öncel",
+      "Laura A. Allen",
+      "Xingchen Xu"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-09-05",
+    "doi": "10.1016/j.asw.2026.101108",
+    "url": "https://doi.org/10.1016/j.asw.2026.101108",
+    "abstract": "",
+    "keywords": [
+      "Concreteness",
+      "Set (abstract data type)",
+      "Task (project management)",
+      "Component (thermodynamics)",
+      "Second language writing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:39.767062"
+  },
+  {
+    "id": "https://openalex.org/W7208808372",
+    "title": "‘Best of both worlds?’ A contextualised technology acceptance model study of Saudi university students’ mobile-assisted language learning",
+    "authors": [
+      "Umar Alharbi"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-09-05",
+    "doi": "10.1080/17501229.2026.2727587",
+    "url": "https://doi.org/10.1080/17501229.2026.2727587",
+    "abstract": "",
+    "keywords": [
+      "Learner autonomy",
+      "Language acquisition",
+      "English language",
+      "Experiential learning",
+      "Blended learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:47.723082"
+  },
+  {
+    "id": "https://openalex.org/W7208808128",
+    "title": "The influence of socratic dialogue within GenAI on critical thinking and technology perception",
+    "authors": [
+      "Aleksandra Bereznikova",
+      "Emily Theophilou",
+      "Davinia Hernández-Leo"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-09-05",
+    "doi": "10.1007/s11423-026-10693-0",
+    "url": "https://doi.org/10.1007/s11423-026-10693-0",
+    "abstract": "Abstract The increasing accessibility of Artificial Intelligence (AI), particularly Generative AI (GenAI) and chatbots, highlights the need for users to develop critical thinking skills to evaluate information and understand these systems. While critical thinking is essential for interacting with such technologies, current AI literacy efforts lack robust empirical validation, and effective educational methodologies have yet to be explored. This study explores the potential of the Socratic Method",
+    "keywords": [
+      "Socratic method",
+      "Critical thinking",
+      "Competence (human resources)",
+      "Socratic questioning",
+      "Critical reflection"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10693-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:50.229608"
+  },
+  {
+    "id": "https://openalex.org/W7208811404",
+    "title": "Exploring the potential of ChatGPT to create reading materials for incidental learning of academic vocabulary",
+    "authors": [
+      "Xuechun Huang",
+      "Hóngyi Zhào",
+      "Thi Ngoc Yen Dang"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-09-05",
+    "doi": "10.1016/j.jeap.2026.101777",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101777",
+    "abstract": "",
+    "keywords": [
+      "Reading (process)",
+      "Vocabulary",
+      "Incidental learning",
+      "English for academic purposes",
+      "Vocabulary learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:58.329953"
+  },
+  {
+    "id": "https://openalex.org/W7208813468",
+    "title": "Factors Associated with Undergraduate Students’ Engagement with Socioscientific Issues Misinformation and Disinformation",
+    "authors": [
+      "Sarah Poor",
+      "Benjamin C. Herman"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-09-05",
+    "doi": "10.1007/s11191-026-00779-9",
+    "url": "https://doi.org/10.1007/s11191-026-00779-9",
+    "abstract": "Abstract The rapid spread of socioscientific issues (SSI) misinformation and disinformation threatens civic engagement, poses serious environmental and public health risks, and undermines educational efforts toward scientific literacy. This is concerning for college students, who are potentially at risk for belief in science mis/disinformation, considering their consistent use of social media. Science education must understand how factors such as sociocultural background, knowledge of science, a",
+    "keywords": [
+      "Disinformation",
+      "Misinformation",
+      "Distrust",
+      "Credibility",
+      "Biology and political orientation"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-026-00779-9.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:19:07.068415"
+  },
+  {
+    "id": "https://openalex.org/W7208828363",
+    "title": "School sector or student selection? Evidence on foundational skills from Nigeria",
+    "authors": [
+      "Thelma Ebube Obiakor"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-09-05",
+    "doi": "10.1016/j.ijer.2026.103094",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103094",
+    "abstract": "Private schooling is expanding rapidly in Nigeria, yet evidence on whether private schools deliver better learning remains mixed. Using data from the 2015 Nigerian Education Data Survey, a nationally representative household-based assessment of nearly 30,000 primary school children in grades two to six, I estimate differences in foundational skill achievement between private and public school students using ordinary least squares (OLS) and propensity score matching (PSM) to adjust for observable",
+    "keywords": [
+      "Instrumental variable",
+      "Numeracy",
+      "Disadvantage",
+      "Literacy",
+      "Propensity score matching"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103094",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:19:08.312822"
+  },
+  {
+    "id": "https://openalex.org/W7208810053",
+    "title": "A Systematic Scoping Review of Community College Literature: 2000–2019",
+    "authors": [
+      "H. Kenny Nienhusser",
+      "Monica Reid Kerrigan",
+      "Omar Romandia",
+      "Madeline P. Boehning"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-09-04",
+    "doi": "10.3102/00346543261478027",
+    "url": "https://doi.org/10.3102/00346543261478027",
+    "abstract": "Although community colleges comprise about one-third of all higher education institutions and more than 50% of all public postsecondary education institutions—and serve important functions in the US higher education system—they are often regarded as marginal. This is an argument scholars have also made in relation to the prevalence of community college–focused scholarship, including in top-tier journals. The purpose of this systematic scoping review is to examine the prevalence of community coll",
+    "keywords": [
+      "Scholarship",
+      "Community college",
+      "Citation",
+      "Higher education",
+      "Multidisciplinary approach"
+    ],
+    "open_access": true,
+    "oa_url": "https://journals.sagepub.com/doi/pdf/10.3102/00346543261478027?download=true",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:35.599791"
+  },
+  {
+    "id": "https://openalex.org/W7208814935",
+    "title": "Democratic Dissent: Resistance to Race-Evasive Education Policies Under the 2017–21 Trump Administration",
+    "authors": [
+      "Genevieve Siegel‐Hawley",
+      "Erica Frankenberg",
+      "April Hewko",
+      "Sarah Asson",
+      "Janelle Scott"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-09-04",
+    "doi": "10.3102/00028312261476642",
+    "url": "https://doi.org/10.3102/00028312261476642",
+    "abstract": "The first Trump administration opposed race-conscious federal educational policies to redress state-sponsored discrimination and related racial inequality. Drawing on extensive qualitative data, we analyzed the mechanisms, collaborations, and strategies used to resist Trump’s first-term civil rights rollbacks for students. Resistance included (a) civil rights oversight and guidance from nongovernment groups, (b) unified messaging to counter attacks on public education, (c) congressional oversigh",
+    "keywords": [
+      "Redress",
+      "Civil rights",
+      "Administration (probate law)",
+      "Resistance (ecology)",
+      "Democracy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00028312261476642",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-06T23:18:56.407531"
+  },
+  {
+    "id": "https://openalex.org/W7208809320",
+    "title": "Correction to “Structured or Semi‐Structured? The Use of Reflection Journals in Postgraduates' Generative Artificial Intelligence Literacy Development in an L2 Academic Writing Context”",
+    "authors": [],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-09-04",
+    "doi": "10.1111/ejed.70855",
+    "url": "https://doi.org/10.1111/ejed.70855",
+    "abstract": "",
+    "keywords": [
+      "Reflection (computer programming)",
+      "Generative grammar",
+      "Literacy",
+      "Academic writing",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-09-06T23:18:57.683149"
+  },
+  {
     "id": "https://openalex.org/W7208773960",
     "title": "Digital literacy and student engagement in online learning: a mediated model of self-efficacy, IT mindfulness, and techno-eustress",
     "authors": [
@@ -1210,6 +1478,23 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-09-02T23:40:11.330318"
+  },
+  {
+    "id": "https://openalex.org/W7208825300",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-09-01",
+    "doi": "10.1016/s1475-1585(26)00145-1",
+    "url": "https://doi.org/10.1016/s1475-1585(26)00145-1",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-09-06T23:18:58.330034"
   },
   {
     "id": "https://openalex.org/W7208760394",
@@ -46183,169 +46468,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-08T13:55:24.480371"
-  },
-  {
-    "id": "https://openalex.org/W7163903755",
-    "title": "Capturing group compositions and discourse patterns in collaborative argumentation: A semi-automated linguistic approach with epistemic network analysis",
-    "authors": [
-      "Qilin Wang",
-      "Tianjiao Chen",
-      "Wanrong Guo",
-      "Xiaoying Feng"
-    ],
-    "journal": "Innovation In Language Learning and Teaching",
-    "jif": 4.6,
-    "published_date": "2026-06-07",
-    "doi": "10.1080/17501229.2026.2671331",
-    "url": "https://doi.org/10.1080/17501229.2026.2671331",
-    "abstract": "",
-    "keywords": [
-      "Discourse analysis",
-      "Critical discourse analysis",
-      "Group (periodic table)",
-      "Linguistic analysis",
-      "Social network analysis"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-10T11:47:43.005578"
-  },
-  {
-    "id": "https://openalex.org/W7163886625",
-    "title": "The doctoral journey as decolonial praxis: Self‐formation of Global South students in <scp>UK</scp> higher education",
-    "authors": [
-      "Peng Zhang",
-      "H Wu",
-      "Enze Guo",
-      "Amanda McCrory"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-06-07",
-    "doi": "10.1002/berj.70215",
-    "url": "https://doi.org/10.1002/berj.70215",
-    "abstract": "Abstract Previous research concerning Global South doctoral students in the United Kingdom has mainly situated their experiences within adaptationist paradigms, emphasising cultural adjustment and assimilation into Western academic norms. Such studies often depict students as passive recipients, overlooking their agency and the transformative potential inherent in the doctoral journey. To address this gap, we draw on Paulo Freire's concept of praxis and Marginson's theory of self‐formation to ex",
-    "keywords": [
-      "Transformative learning",
-      "Agency (philosophy)",
-      "Praxis",
-      "Foregrounding",
-      "Situated"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70215",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-10T11:48:04.434251"
-  },
-  {
-    "id": "https://openalex.org/W7163808534",
-    "title": "AIGC-enhanced learning analytics in film education: a decision-making framework for creative pedagogy in Chinese higher education",
-    "authors": [
-      "Chao Tang",
-      "Lili Wang"
-    ],
-    "journal": "International Journal of Educational Technology in Higher Education",
-    "jif": 16.7,
-    "published_date": "2026-06-07",
-    "doi": "10.1186/s41239-026-00593-x",
-    "url": "https://doi.org/10.1186/s41239-026-00593-x",
-    "abstract": "Abstract The integration of learning analytics with artificial intelligence represents a paradigm shift in educational decision-making, yet systematic frameworks for AI-enhanced learning design remain critically underexplored in creative higher education contexts where ethical considerations are paramount. Despite growing interest in AI-enhanced education, existing approaches lack systematic integration of learning analytics with ethical frameworks for evidence-based educational interventions in",
-    "keywords": [
-      "Learning analytics",
-      "Educational technology",
-      "Higher education",
-      "Analytics",
-      "Experiential learning"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s41239-026-00593-x",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-08T13:55:17.266368"
-  },
-  {
-    "id": "https://openalex.org/W7163809103",
-    "title": "Generative AI chatbots in higher education: addiction, cognitive offloading, and the role of AI literacy",
-    "authors": [
-      "Hasan Zahid",
-      "Muhammad Danish",
-      "Sabir Ali",
-      "Chunhui Huo",
-      "Nadeem Khalid"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-06-07",
-    "doi": "10.1080/10494820.2026.2677727",
-    "url": "https://doi.org/10.1080/10494820.2026.2677727",
-    "abstract": "",
-    "keywords": [
-      "Cognition",
-      "Chatbot",
-      "Literacy",
-      "Generative grammar",
-      "Generative model"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-08T13:55:28.153145"
-  },
-  {
-    "id": "https://openalex.org/W7163826856",
-    "title": "Servingness fractured and labored: A Latina's journey of negotiating belongingness under the guise of a Hispanic‐Serving Institution",
-    "authors": [
-      "Dina Verdín"
-    ],
-    "journal": "Journal of Engineering Education",
-    "jif": 3.4,
-    "published_date": "2026-06-07",
-    "doi": "10.1002/jee.70070",
-    "url": "https://doi.org/10.1002/jee.70070",
-    "abstract": "Abstract Background Students who perceive a mismatch between their disciplinary environment and their values, beliefs, and “fit” may lead them to consider other fields that better align with their ways of being and sense of belonging. Purpose The purpose of this study was to demonstrate the complexities of establishing a sense of belonging for a Latina post‐traditional student enrolled in a Hispanic‐Serving Institution. Design/Method Eight rounds of narrative interviews spanning 6 years were col",
-    "keywords": [
-      "Institution",
-      "Belongingness",
-      "Narrative",
-      "Rhetoric",
-      "Discipline"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-08T13:55:48.869551"
-  },
-  {
-    "id": "https://openalex.org/W7163816608",
-    "title": "Lesson Study in its original context: exploring Japanese teachers’ perspectives on an export hit of the Japanese education system",
-    "authors": [
-      "Julian Bucher",
-      "Klara Kager",
-      "Jongsung Kim",
-      "Miriam Vock"
-    ],
-    "journal": "Professional Development In Education",
-    "jif": 3.1,
-    "published_date": "2026-06-07",
-    "doi": "10.1080/19415257.2026.2682240",
-    "url": "https://doi.org/10.1080/19415257.2026.2682240",
-    "abstract": "",
-    "keywords": [
-      "Lesson study",
-      "Professional development",
-      "Study abroad",
-      "Faculty development",
-      "Teacher education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1080/19415257.2026.2682240",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-08T13:55:55.614006"
   }
 ]
