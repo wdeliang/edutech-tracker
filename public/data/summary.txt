@@ -1,58 +1,121 @@
-📅 运行时间：2026-09-07 23:50
-📊 本次新增文章：6 篇
-📚 数据库总文章数：1734 篇
-🔍 查询范围：2026-08-31 至 2026-09-07
+📅 运行时间：2026-09-08 23:44
+📊 本次新增文章：14 篇
+📚 数据库总文章数：1726 篇
+🔍 查询范围：2026-09-01 至 2026-09-08
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Professional Development In Education: 2 篇
-  • Educational Research Review: 1 篇
-  • Computers & Education: 1 篇
-  • Assessing Writing: 1 篇
-  • Journal of Computer Assisted Learning: 1 篇
+  • Journal of Computer Assisted Learning: 2 篇
+  • Internet and Higher Education: 1 篇
+  • System: 1 篇
+  • IEEE Transactions on Learning Technologies: 1 篇
+  • Metacognition and Learning: 1 篇
+  • Innovation In Language Learning and Teaching: 1 篇
+  • Language Learning: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • Language Teaching Research: 1 篇
+  • European Journal of Education: 1 篇
+  • International Journal of Sustainability In Higher Education: 1 篇
+  • Active Learning In Higher Education: 1 篇
+  • Science & Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Peer Feedback Quality Matters for Post-Feedback Outcomes: A Meta-Analysis
-    期刊：Educational Research Review (JIF: 10.6)
-    作者：Ecenaz Alemdağ, Anastasiya Lipnevich, Lisa Bardach 等(4人)
-    日期：2026-09-01
-    关键词：Peer feedback, Moderation, Quality (philosophy), Variance (accounting), Correlation
-    DOI：https://doi.org/10.1016/j.edurev.2026.100848
+[1] Editorial Board
+    期刊：Internet and Higher Education (JIF: 6.8)
+    日期：2026-09-07
+    DOI：https://doi.org/10.1016/s1096-7516(26)00037-0
 
-[2] Preparing pre-service teachers for collaborative design through technology integration familiarization: A mixed-methods study
-    期刊：Computers & Education (JIF: 10.5)
-    作者：Bram Cabbeke, Tijs Rotsaert, Tammy Schellens
-    日期：2026-09-01
-    关键词：Artifact (error), Collaborative design, Technology integration, Research design, Educational technology
-    DOI：https://doi.org/10.1016/j.compedu.2026.105748
+[2] Editorial Board
+    期刊：System (JIF: 5.6)
+    日期：2026-09-07
+    DOI：https://doi.org/10.1016/s0346-251x(26)00183-1
 
-[3] From confetti-like products to languaging ontologies: A bibliometric retrospective on two decades of L2 writing assessment (2006–2025)
-    期刊：Assessing Writing (JIF: 5.5)
-    作者：Xiaoliang Liu
-    日期：2026-09-06
-    关键词：Formative assessment, Situated, Relevance (law), Resource (disambiguation), Section (typography)
-    DOI：https://doi.org/10.1016/j.asw.2026.101122
+[3] IEEE Transactions on Learning Technologies
+    期刊：IEEE Transactions on Learning Technologies (JIF: 4.9)
+    日期：2026-09-07
+    关键词：Computer science, Multimedia, Artificial intelligence, Human–computer interaction
+    DOI：https://doi.org/10.1109/tlt.4620076
 
-[4] Enhancing Programming Education: How Flowchart and AI Drive Motivation, Self‐Efficacy and Computational Thinking
+[4] Metacomprehension accuracy with multiple texts: a comprehensive approach
+    期刊：Metacognition and Learning (JIF: 4.8)
+    作者：Huib K. Tabbers, Carolin Hahnel, Marloes L. Nederhand 等(5人)
+    日期：2026-09-07
+    关键词：Reading comprehension, Metacognition, Task (project management), Comprehension, Cohesion (chemistry)
+    DOI：https://doi.org/10.1007/s11409-026-09494-w
+    🔓 开放获取
+
+[5] Does foreign language peace of mind shape AI-mediated informal digital learning of English (AI-IDLE) and L2 willingness to communicate? The moderating role of multilingualism
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Kun Yin, Guangxiang Liu
+    日期：2026-09-07
+    关键词：Multilingualism, Willingness to communicate, Foreign language, English as a foreign language, Translanguaging
+    DOI：https://doi.org/10.1080/17501229.2026.2729894
+
+[6] Bridging the Gap: Investigating Students' Self‐Reported AI ‐Literacy and Perceived Employability Competencies for an AI ‐Enabled Workforce
     期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Kuo‐Lun Hsiao, Yin‐Yu Chou, Chih‐Chi Teng
-    日期：2026-09-06
-    关键词：Flowchart, Python (programming language), Computational thinking, Instructional design, Generative grammar
-    DOI：https://doi.org/10.1002/jcal.70318
+    作者：Areej ElSayary, Karim Ragab
+    日期：2026-09-07
+    关键词：Employability, Bridging (networking), Workforce, Literacy, Context (archaeology)
+    DOI：https://doi.org/10.1002/jcal.70327
 
-[5] Building STEM teachers’ resilience and pedagogical responsiveness to crisis through creative writing professional development
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Lilach Alon, Soryna Sabbah, Gil Schwarts
-    日期：2026-09-06
-    关键词：Cognitive reframing, Storytelling, Professional development, Metaphor, Creativity
-    DOI：https://doi.org/10.1080/19415257.2026.2727922
+[7] Utilising Gamification With Badges and Leaderboards in a Secondary EFL Course: Effects on Student Interest, Self‐Efficacy, Performance and Gender Differences
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Chunqi Li, Yuchun Zhong, Luke K. Fryer 等(4人)
+    日期：2026-09-07
+    关键词：Perception, Affect (linguistics), Test (biology), Sample (material), Intervention (counseling)
+    DOI：https://doi.org/10.1002/jcal.70320
 
-[6] Collaborative practice-based teacher education model: tensions and lessons for curricular transformation
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Pamela Reyes-Santander, M. Jesús Honorato Errazuriz, Faride Rendich Moreno 等(4人)
+[8] Dimensions of Lexical Mastery and Their Relationships with Listening and Reading Proficiency Among Beginner‐to‐Low‐Intermediate Learners of French
+    期刊：Language Learning (JIF: 4.2)
+    作者：Amber Dudley, Emma Marsden
+    日期：2026-09-07
+    关键词：Active listening, Reading (process), Vocabulary, Lexical decision task, Lexical item
+    DOI：https://doi.org/10.1111/lang.70056
+    🔓 开放获取
+
+[9] World language teacher leadership: To what end? Perspectives of teacher educators
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：William S. Davis, Brianna Janssen Sánchez
+    日期：2026-09-07
+    关键词：Language teacher, Teacher education, Language education, Language assessment, Teaching method
+    DOI：https://doi.org/10.1016/j.tate.2026.105823
+
+[10] A Sociocultural Perspective for Tracing the Development of Formative Assessment Teacher Cognition: Making a Case for Transformative L2 Teacher Education
+    期刊：Language Teaching Research (JIF: 3.8)
+    作者：Dilara Somuncu, Nuray Alagözlü
+    日期：2026-09-07
+    关键词：Formative assessment, Transformative learning, Coursework, Teacher education, Dialogic
+    DOI：https://doi.org/10.1177/13621688261480291
+
+[11] Citizenship Education‐Based Political Thinking Skills: Thinking About the Refugee Issue
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Selda Şan
+    日期：2026-09-07
+    关键词：Refugee, Citizenship, Politics, Action (physics), Democracy
+    DOI：https://doi.org/10.1111/ejed.70864
+    🔓 开放获取
+
+[12] From textile waste to transformative learning: how infrastructural conditions shape sustainability pedagogy in fashion design education
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Anika Kozlowski, Lauren Street
+    日期：2026-09-07
+    关键词：Grassroots, Sustainability, Transformative learning, Action research, Participatory action research
+    DOI：https://doi.org/10.1108/ijshe-12-2025-1663
+
+[13] Student Perceptions of Multiple Active Learning Methods in Large Lecture Science Classes in Higher Education: A Qualitative Perspective
+    期刊：Active Learning In Higher Education (JIF: 3.2)
+    作者：Kate Walker, William F. McComas
     日期：2026-09-06
-    关键词：Appropriation, Transferability, Teacher education, Faculty development, Grounded theory
-    DOI：https://doi.org/10.1080/19415257.2026.2723111
+    关键词：Active learning (machine learning), Perspective (graphical), Variety (cybernetics), Perception, Learning sciences
+    DOI：https://doi.org/10.1177/14697874261483275
+
+[14] Implicit Philosophies of Science: Academics’ Divergent Views of Subjectivity in Scientific Practice
+    期刊：Science & Education (JIF: 2.5)
+    作者：Susan Ramlo
+    日期：2026-09-07
+    关键词：Subjectivity, Objectivity (philosophy), Context (archaeology), Identification (biology), Philosophy of science
+    DOI：https://doi.org/10.1007/s11191-026-00780-2
+    🔓 开放获取
