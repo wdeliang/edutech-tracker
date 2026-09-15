@@ -1,60 +1,101 @@
-📅 运行时间：2026-09-15 00:03
-📊 本次新增文章：6 篇
-📚 数据库总文章数：1702 篇
+📅 运行时间：2026-09-15 23:48
+📊 本次新增文章：11 篇
+📚 数据库总文章数：1713 篇
 🔍 查询范围：2026-09-08 至 2026-09-15
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Journal of Computer Assisted Learning: 2 篇
-  • International Journal of Stem Education: 1 篇
+  • Science & Education: 2 篇
+  • International Journal of Educational Research: 2 篇
+  • System: 1 篇
   • Education and Information Technologies: 1 篇
+  • Learning and Instruction: 1 篇
+  • ETR&D-Educational Technology Research and Development: 1 篇
+  • Journal of English For Academic Purposes: 1 篇
   • International Journal of Sustainability In Higher Education: 1 篇
-  • British Educational Research Journal: 1 篇
+  • Technology Pedagogy and Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] “I learned a lot, but…”: preservice elementary teachers’ integrated STEM teaching self-efficacy and perceived challenges
-    期刊：International Journal of Stem Education (JIF: 8.0)
-    作者：Deepika Menon, Jeanna R. Wieselmann, Sarah Haines 等(5人)
-    日期：2026-09-13
-    关键词：Science education, Educational technology, Technology integration, Teaching method, Electronic learning
-    DOI：https://doi.org/10.1186/s40594-026-00645-8
+[1] Book review
+    期刊：System (JIF: 5.6)
+    作者：Siyang ZHOU
+    日期：2026-09-11
+    DOI：https://doi.org/10.1016/j.system.2026.104155
+
+[2] Designing a CTML-based animated learning video for botany: a comparison with text-based materials in learning outcomes and learning experience
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Yiting Wang, Mingyue Wang, Ziyi Guo 等(5人)
+    日期：2026-09-14
+    关键词：Cognitive load, Cognition, Educational technology, Control (management), Visual learning
+    DOI：https://doi.org/10.1007/s10639-026-14143-5
+
+[3] Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Heike Russ, Tino Endres, Leonie Sibley 等(5人)
+    日期：2026-09-14
+    关键词：Generative grammar, Construct (python library), Class (philosophy), Quality (philosophy), Meaningful learning
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102462
     🔓 开放获取
 
-[2] The impact of immersive 360-degree virtual reality via head-mounted displays on motivation and attitudes in secondary science education: a longitudinal quasi-experimental study
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Masoud Akbari, Abolghasem Yaghoobi, Afshin Afzali 等(5人)
+[4] Ethical legitimacy and pedagogical activation: generational sensemaking of GenAI in language teaching
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Sun Qian, Heng Zhang, Li Ruyang 等(4人)
     日期：2026-09-14
-    关键词：Longitudinal study, Virtual reality, Educational technology, Electronic learning, Computer-Assisted Instruction
-    DOI：https://doi.org/10.1007/s10639-026-14151-5
+    关键词：Sensemaking, Competence (human resources), Legitimacy, Legitimation, Discipline
+    DOI：https://doi.org/10.1007/s11423-026-10712-0
 
-[3] Assessing Computational Thinking in Early Childhood: A Systematic Review of Instruments, Constructs and Psychometric Evidence
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Chungsoo Na, Jody Clarke‐Midura, Wilhelmina van Dijk 等(4人)
-    日期：2026-09-13
-    关键词：Rigour, Construct (python library), Construct validity, Psychometrics, Systematic review
-    DOI：https://doi.org/10.1002/jcal.70326
+[5] A meta-analysis of English proficiency and academic achievement in English-medium instruction
+    期刊：Journal of English For Academic Purposes (JIF: 3.4)
+    作者：Doğan Yüksel
+    日期：2026-09-14
+    关键词：Language proficiency, Academic achievement, Association (psychology), Limited English proficiency, English for academic purposes
+    DOI：https://doi.org/10.1016/j.jeap.2026.101781
+    🔓 开放获取
 
-[4] Classroom Implementation of AI ‐Assisted Fraction Instruction for Students With Mild Autism
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Georgios Polydoros, Alexandros Antoniou
-    日期：2026-09-13
-    关键词：Autism spectrum disorder, Fidelity, Autism, Moderation, Computer-Assisted Instruction
-    DOI：https://doi.org/10.1002/jcal.70333
-
-[5] Higher education students’ perceptions of the sustainable development goals in Taiwan: a survey of knowledge, attitudes, behaviors, and participation intentions
+[6] Teaching practices for incorporating sustainability into industrial engineering curriculum: a systemic and strategic approach
     期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Kun‐Hung Cheng
+    作者：Jeffson Veríssimo de Oliveira, Daniel Pacheco Lacerda, Lucila Maria de Souza Campos
     日期：2026-09-14
-    关键词：Perception, Sustainability, Higher education, Sustainable development, Poverty
-    DOI：https://doi.org/10.1108/ijshe-10-2025-1253
+    关键词：Sustainability, Curriculum, Sustainable development, Engineering education, Field (mathematics)
+    DOI：https://doi.org/10.1108/ijshe-08-2025-1015
 
-[6] Covering the gaps: Teaching assistants, lesson cover, workforce pressure and displaced support in mainstream schools
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Rob Webster
-    日期：2026-09-13
-    关键词：Staffing, Mainstream, Workforce, Software deployment, Curriculum
-    DOI：https://doi.org/10.1002/berj.70249
+[7] Enhancing Students’ Argumentation Skills: Comparing Generative AI with Peer Support
+    期刊：Science & Education (JIF: 2.5)
+    作者：Xiaoming Shi, Chao‐Qing Dai
+    日期：2026-09-14
+    关键词：Argumentation theory, Affordance, Argument (complex analysis), Dialogic, Generative grammar
+    DOI：https://doi.org/10.1007/s11191-026-00784-y
+
+[8] Evaluating Argumentation Quality with Regard to Genetic Testing: Insights from College Students
+    期刊：Science & Education (JIF: 2.5)
+    作者：Hadar Vinograd-Byk, Merav Siani, Orit Ben‐Zvi Assaraf
+    日期：2026-09-14
+    关键词：Argumentation theory, Context (archaeology), Argument (complex analysis), Quality (philosophy), Construct (python library)
+    DOI：https://doi.org/10.1007/s11191-026-00782-0
+
+[9] Rapid response to unexpected instructional changes: SRL online training programme for secondary schools
+    期刊：Technology Pedagogy and Education (JIF: 2.5)
+    作者：Anat Cohen, G S Cohen, Orit Ezra 等(5人)
+    日期：2026-09-14
+    关键词：Electronic learning, Technology integration, Qualitative research, Educational technology, Computer-Assisted Instruction
+    DOI：https://doi.org/10.1080/1475939x.2026.2726239
+    🔓 开放获取
+
+[10] Why should I leave? - The development of teacher attrition intentions in Dutch secondary schools
+    期刊：International Journal of Educational Research (JIF: 2.5)
+    作者：Neline de Jong-Kroon, Emmy Vrieling, Marjan Vermeulen
+    日期：2026-09-14
+    关键词：Attrition, Workload, Qualitative research, Narrative, Unintended consequences
+    DOI：https://doi.org/10.1016/j.ijer.2026.103119
+    🔓 开放获取
+
+[11] Profiles of academic burnout: A person-oriented analysis among primary school students in China
+    期刊：International Journal of Educational Research (JIF: 2.5)
+    作者：Ruijun Song, Linli Zhu, Wangcheng Wang 等(5人)
+    日期：2026-09-14
+    关键词：Burnout, Meaning (existential), Academic achievement, China, Psychosocial
+    DOI：https://doi.org/10.1016/j.ijer.2026.103116
     🔓 开放获取

@@ -1,5 +1,281 @@
 [
   {
+    "id": "https://openalex.org/W7212532249",
+    "title": "Designing a CTML-based animated learning video for botany: a comparison with text-based materials in learning outcomes and learning experience",
+    "authors": [
+      "Yiting Wang",
+      "Mingyue Wang",
+      "Ziyi Guo",
+      "Yifei Liang",
+      "Jinghua Han"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-09-14",
+    "doi": "10.1007/s10639-026-14143-5",
+    "url": "https://doi.org/10.1007/s10639-026-14143-5",
+    "abstract": "",
+    "keywords": [
+      "Cognitive load",
+      "Cognition",
+      "Educational technology",
+      "Control (management)",
+      "Visual learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:47:37.793796"
+  },
+  {
+    "id": "https://openalex.org/W7212724154",
+    "title": "Happy or redundant? Retrieval practice enhances lasting learning in non-interactive teaching for low-quality explanations",
+    "authors": [
+      "Heike Russ",
+      "Tino Endres",
+      "Leonie Sibley",
+      "Salome Flegr",
+      "Jochen Kühn"
+    ],
+    "journal": "Learning and Instruction",
+    "jif": 4.9,
+    "published_date": "2026-09-14",
+    "doi": "10.1016/j.learninstruc.2026.102462",
+    "url": "https://doi.org/10.1016/j.learninstruc.2026.102462",
+    "abstract": "Background Supporting lasting learning is a central goal in education, particularly in schools where long-term retention is crucial for students' academic success. Generative learning helps construct meaningful mental representations, while retrieval practice supports consolidation and long-term retention. Combining both strategies may foster learning; however, research remains scarce. Aims We investigated how combining generative activities and retrieval practice affects students' conceptual kn",
+    "keywords": [
+      "Generative grammar",
+      "Construct (python library)",
+      "Class (philosophy)",
+      "Quality (philosophy)",
+      "Meaningful learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102462",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:47:44.591763"
+  },
+  {
+    "id": "https://openalex.org/W7212759903",
+    "title": "Ethical legitimacy and pedagogical activation: generational sensemaking of GenAI in language teaching",
+    "authors": [
+      "Sun Qian",
+      "Heng Zhang",
+      "Li Ruyang",
+      "Hedi Ye"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-09-14",
+    "doi": "10.1007/s11423-026-10712-0",
+    "url": "https://doi.org/10.1007/s11423-026-10712-0",
+    "abstract": "",
+    "keywords": [
+      "Sensemaking",
+      "Competence (human resources)",
+      "Legitimacy",
+      "Legitimation",
+      "Discipline"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:47:51.598121"
+  },
+  {
+    "id": "https://openalex.org/W7212817631",
+    "title": "A meta-analysis of English proficiency and academic achievement in English-medium instruction",
+    "authors": [
+      "Doğan Yüksel"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-09-14",
+    "doi": "10.1016/j.jeap.2026.101781",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101781",
+    "abstract": "English-medium instruction (EMI) has expanded on the assumption that students’ English proficiency underpins their academic success, yet primary evidence is strikingly inconsistent. This study reports a random-effects correlational meta-analysis of the zero-order association between English proficiency and academic achievement across 29 studies ( N = 8396) in EMI higher education in six country/context groupings, with every effect size verified against its primary report and the evidence base cu",
+    "keywords": [
+      "Language proficiency",
+      "Academic achievement",
+      "Association (psychology)",
+      "Limited English proficiency",
+      "English for academic purposes"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.jeap.2026.101781",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-09-15T23:48:02.085933"
+  },
+  {
+    "id": "https://openalex.org/W7213190504",
+    "title": "Teaching practices for incorporating sustainability into industrial engineering curriculum: a systemic and strategic approach",
+    "authors": [
+      "Jeffson Veríssimo de Oliveira",
+      "Daniel Pacheco Lacerda",
+      "Lucila Maria de Souza Campos"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-09-14",
+    "doi": "10.1108/ijshe-08-2025-1015",
+    "url": "https://doi.org/10.1108/ijshe-08-2025-1015",
+    "abstract": "Purpose Higher education institutions (HEIs) play a significant role in achieving the Sustainable Development Goals (SDGs). To incorporate sustainability into engineering education, many HEIs promote the development of pedagogical strategies and the application of teaching practices. This study aims to identify teaching practices applied in the engineering curriculum and propose a prioritisation model for industrial engineering (IE) courses based on the degree of importance and the causal relati",
+    "keywords": [
+      "Sustainability",
+      "Curriculum",
+      "Sustainable development",
+      "Engineering education",
+      "Field (mathematics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:05.609731"
+  },
+  {
+    "id": "https://openalex.org/W7212769419",
+    "title": "Enhancing Students’ Argumentation Skills: Comparing Generative AI with Peer Support",
+    "authors": [
+      "Xiaoming Shi",
+      "Chao‐Qing Dai"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-09-14",
+    "doi": "10.1007/s11191-026-00784-y",
+    "url": "https://doi.org/10.1007/s11191-026-00784-y",
+    "abstract": "",
+    "keywords": [
+      "Argumentation theory",
+      "Affordance",
+      "Argument (complex analysis)",
+      "Dialogic",
+      "Generative grammar"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:13.748454"
+  },
+  {
+    "id": "https://openalex.org/W7213009775",
+    "title": "Evaluating Argumentation Quality with Regard to Genetic Testing: Insights from College Students",
+    "authors": [
+      "Hadar Vinograd-Byk",
+      "Merav Siani",
+      "Orit Ben‐Zvi Assaraf"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-09-14",
+    "doi": "10.1007/s11191-026-00782-0",
+    "url": "https://doi.org/10.1007/s11191-026-00782-0",
+    "abstract": "",
+    "keywords": [
+      "Argumentation theory",
+      "Context (archaeology)",
+      "Argument (complex analysis)",
+      "Quality (philosophy)",
+      "Construct (python library)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:13.748470"
+  },
+  {
+    "id": "https://openalex.org/W7212618023",
+    "title": "Rapid response to unexpected instructional changes: SRL online training programme for secondary schools",
+    "authors": [
+      "Anat Cohen",
+      "G S Cohen",
+      "Orit Ezra",
+      "Hagit Gabbay",
+      "Danny Glick"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-09-14",
+    "doi": "10.1080/1475939x.2026.2726239",
+    "url": "https://doi.org/10.1080/1475939x.2026.2726239",
+    "abstract": "",
+    "keywords": [
+      "Electronic learning",
+      "Technology integration",
+      "Qualitative research",
+      "Educational technology",
+      "Computer-Assisted Instruction"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/1475939x.2026.2726239",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:14.628896"
+  },
+  {
+    "id": "https://openalex.org/W7212601470",
+    "title": "Why should I leave? - The development of teacher attrition intentions in Dutch secondary schools",
+    "authors": [
+      "Neline de Jong-Kroon",
+      "Emmy Vrieling",
+      "Marjan Vermeulen"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-09-14",
+    "doi": "10.1016/j.ijer.2026.103119",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103119",
+    "abstract": "Teacher attrition is a major challenge for secondary education as it threatens school stability and the continuity of high-quality teaching. Drawing on the Job Demands-Resources (JD-R) model, the development of secondary teachers’ attrition intentions over time and the school-level job demands and resources associated with these developments were examined in a qualitative longitudinal follow-up interview study. Twelve Dutch secondary school teachers who had previously reported high attrition int",
+    "keywords": [
+      "Attrition",
+      "Workload",
+      "Qualitative research",
+      "Narrative",
+      "Unintended consequences"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.sciencedirect.com/science/article/pii/S0883035526001904/pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:15.640967"
+  },
+  {
+    "id": "https://openalex.org/W7213141479",
+    "title": "Profiles of academic burnout: A person-oriented analysis among primary school students in China",
+    "authors": [
+      "Ruijun Song",
+      "Linli Zhu",
+      "Wangcheng Wang",
+      "Xichen Qin",
+      "Jingjing Yang"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-09-14",
+    "doi": "10.1016/j.ijer.2026.103116",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103116",
+    "abstract": "A substantial body of research has demonstrated that academic burnout is negatively associated with students’ academic and psychosocial adjustment. However, limited attention has been given to differentiating primary school students based on dimensions of academic burnout through a person-centered approach. This study utilized latent profile analysis to identify distinct academic burnout profiles and examine the roles of meaning in life and academic achievement. The study involved a sample of 96",
+    "keywords": [
+      "Burnout",
+      "Meaning (existential)",
+      "Academic achievement",
+      "China",
+      "Psychosocial"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103116",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-15T23:48:15.641016"
+  },
+  {
     "id": "https://openalex.org/W7212442482",
     "title": "The impact of immersive 360-degree virtual reality via head-mounted displays on motivation and attitudes in secondary science education: a longitudinal quasi-experimental study",
     "authors": [
@@ -690,6 +966,25 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-09-13T23:43:54.411330"
+  },
+  {
+    "id": "https://openalex.org/W7212118984",
+    "title": "Book review",
+    "authors": [
+      "Siyang ZHOU"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-09-11",
+    "doi": "10.1016/j.system.2026.104155",
+    "url": "https://doi.org/10.1016/j.system.2026.104155",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "book-review",
+    "fetched_at": "2026-09-15T23:47:35.047497"
   },
   {
     "id": "https://openalex.org/W7212268724",
