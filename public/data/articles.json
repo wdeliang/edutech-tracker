@@ -1,5 +1,295 @@
 [
   {
+    "id": "https://openalex.org/W7213645038",
+    "title": "A Multidimensional Evaluation of Open-Source Simulation OpenTTD in Intelligent Transport Systems Education: Cognitive Gains, Motivational Drivers, and Adoption Intentions",
+    "authors": [
+      "Elena Shliakhovchuk",
+      "Viktor Danchuk"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-09-19",
+    "doi": "10.1177/07356331261488719",
+    "url": "https://doi.org/10.1177/07356331261488719",
+    "abstract": "Intelligent Transport Systems (ITS) require engineers skilled in systems thinking and decision-making under uncertainty; however, traditional pedagogy struggles to simulate dynamic, multi-agent interactions. This mixed-methods study evaluates the efficacy of OpenTTD , an open-source transport simulation game, as a scalable and reproducible game-based learning (GBL) tool in undergraduate ITS education. Quantitative results revealed significantly higher post-test scores in applied and strategic do",
+    "keywords": [
+      "Competence (human resources)",
+      "Cognition",
+      "Curriculum",
+      "Engineering education",
+      "Structural equation modeling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:27.944410"
+  },
+  {
+    "id": "https://openalex.org/W7213645513",
+    "title": "Empowering Confidence before Authority: Principal Humble Leadership, Role Breadth Self-efficacy, Teacher Autonomy, and Proactive Work Behavior in Taiwanese Secondary Schools",
+    "authors": [
+      "Cheng-Ta Wu"
+    ],
+    "journal": "Asia-Pacific Education Researcher",
+    "jif": 4.6,
+    "published_date": "2026-09-19",
+    "doi": "10.1007/s40299-026-01144-8",
+    "url": "https://doi.org/10.1007/s40299-026-01144-8",
+    "abstract": "Abstract Policy reforms expand teachers’ formal authority, but the gap between policy and practice, treated here as a contextual condition rather than an empirically estimated discrepancy, does not necessarily occur because of structural conditions for implementation alone; the psychological responses of teachers also play a role. This study specifically examines whether role breadth self-efficacy (RBSE), representing perceived capability and role legitimacy, and perceived teacher autonomy, repr",
+    "keywords": [
+      "Optimal distinctiveness theory",
+      "Autonomy",
+      "Scale (ratio)",
+      "Principal (computer security)",
+      "Cognition"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s40299-026-01144-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:30.722245"
+  },
+  {
+    "id": "https://openalex.org/W7108069016",
+    "title": "Unveiling the role of AI tools in language learning: a bibliometric study",
+    "authors": [
+      "Walton Wider",
+      "Ying Wang",
+      "Changhe Wu",
+      "Seong Pek Lim",
+      "Chunwen Yang"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/17501229.2026.2728130",
+    "url": "https://doi.org/10.1080/17501229.2026.2728130",
+    "abstract": "Artificial intelligence (AI) tools increasingly mediate language teaching, learning, feedback, and interaction. This study uses bibliometric analysis to map the development, intellectual structure, and emerging themes of research on AI tools in language learning. The dataset comprises 2,036 peer-reviewed journal articles indexed in the Web of Science Core Collection. Descriptive analysis, bibliographic coupling, and co-word analysis show a marked rise in publication output after 2020 and identif",
+    "keywords": [
+      "Field (mathematics)",
+      "Feature (linguistics)",
+      "Perspective (graphical)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.5281/zenodo.17767214",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:31.352396"
+  },
+  {
+    "id": "https://openalex.org/W7213663059",
+    "title": "‘AI does not get tired, but it has no feelings’: feedback quality, relational motivation, and learner agency in Thai EFL academic writing",
+    "authors": [
+      "Bayatee Dueraman",
+      "Yusop Boonsuk"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/17501229.2026.2734840",
+    "url": "https://doi.org/10.1080/17501229.2026.2734840",
+    "abstract": "",
+    "keywords": [
+      "Agency (philosophy)",
+      "Academic writing",
+      "Peer feedback",
+      "English for academic purposes",
+      "Learner autonomy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17501229.2026.2734840",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:31.352409"
+  },
+  {
+    "id": "https://openalex.org/W7213668456",
+    "title": "Chinese Doctoral Students' Conceptions of Research in Applied Linguistics: A Sociocultural Perspective",
+    "authors": [
+      "Zezhi Hui",
+      "Haowei Luo",
+      "Meihua Liu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-09-19",
+    "doi": "10.1111/ejed.70879",
+    "url": "https://doi.org/10.1111/ejed.70879",
+    "abstract": "ABSTRACT Although Conceptions of Research (CoR) fundamentally shape doctoral students' research practices, longitudinal understandings of how early‐stage doctoral students dynamically construct and develop their CoR remain scarce. Grounded in sociocultural theory (SCT), this qualitative case study examined the CoR development of two Chinese doctoral students in applied linguistics over one semester. Data from journals and interviews revealed that the students' CoR evolved across two intertwined ",
+    "keywords": [
+      "Dialogic",
+      "Sociocultural evolution",
+      "Construct (python library)",
+      "Sociocultural perspective",
+      "Perspective (graphical)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70879",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:41.503795"
+  },
+  {
+    "id": "https://openalex.org/W7213615975",
+    "title": "Reimagining epistemic justice: a dual-pathway model of decolonising the curriculum through student-staff partnerships",
+    "authors": [
+      "Hasan Gilani"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/03075079.2026.2733943",
+    "url": "https://doi.org/10.1080/03075079.2026.2733943",
+    "abstract": "The decolonisation of the curriculum is a critical response to epistemic injustice and structural inequities in higher education. While initiatives often focus on content diversification, their impact on student experiences and the risk of superficial implementation are areas of ongoing and critical investigation. In particular, the specific dynamics of trust and tokenism within student-staff partnerships designed for decolonisation warrant deeper empirical examination, especially within discipl",
+    "keywords": [
+      "General partnership",
+      "Curriculum",
+      "Higher education",
+      "Warrant",
+      "Participatory action research"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2733943",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:47.774574"
+  },
+  {
+    "id": "https://openalex.org/W7213663492",
+    "title": "Fostering collaboration skills in higher education: the development and validation of the collaboration skills questionnaire (CSQ)",
+    "authors": [
+      "Ela Sjølie",
+      "Eline Rødsjø",
+      "Peter Van Petegem"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/03075079.2026.2734544",
+    "url": "https://doi.org/10.1080/03075079.2026.2734544",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Qualitative research",
+      "Focus group",
+      "Likert scale",
+      "Professional development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2734544",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:47.774590"
+  },
+  {
+    "id": "https://openalex.org/W7213623780",
+    "title": "Stimulating school leaders’ professional learning through an online networked learning community: the Hong Kong experience",
+    "authors": [
+      "Jianjing Tang",
+      "Allan Walker",
+      "Jiafang Lu",
+      "Sedat Gümüş"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/19415257.2026.2731045",
+    "url": "https://doi.org/10.1080/19415257.2026.2731045",
+    "abstract": "Drawing on the perspective of knowledge processes across boundaries, this qualitative study examined how a structured, online, networked learning environment supports school leaders’ roles in implementing innovation and change. The study was conducted within a regional school leader development programme. Over the 15-month programme, participants reported and shared learning and experiences on the Moodle platform. The authors used digital ethnography to conduct online fieldwork as observers. Dat",
+    "keywords": [
+      "Acknowledgement",
+      "Networked learning",
+      "Professional development",
+      "Meaning (existential)",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:50.296640"
+  },
+  {
+    "id": "https://openalex.org/W7213670110",
+    "title": "Teacher professionalism reconceptualised: personal practical professionalism (PPP)",
+    "authors": [
+      "Jung‐Hoon Jung",
+      "Yeosun Yun"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/19415257.2026.2731043",
+    "url": "https://doi.org/10.1080/19415257.2026.2731043",
+    "abstract": "This study critically examines managerial paradigms of teacher professionalism and proposes an alternative conceptual framework: Personal Practical Professionalism (PPP). Dominant discourses emphasise standardised competencies, accountability metrics and institutional conformity, neglecting teachers’ ethical agency, personal identity and reflective practice. By synthesising poststructuralist theory, the ethics of care, situated learning and reflective practice, PPP reconceptualises professionali",
+    "keywords": [
+      "Transformative learning",
+      "Situated",
+      "Reflective practice",
+      "Subjectivity",
+      "Accountability"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:50.296722"
+  },
+  {
+    "id": "https://openalex.org/W7213664799",
+    "title": "When global training meets local practice: narratives of South African STEM teacher educators navigating OER and OEP training",
+    "authors": [
+      "Liztie Prinsloo",
+      "Zaheera Jina Asvat"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-09-19",
+    "doi": "10.1080/1475939x.2026.2729551",
+    "url": "https://doi.org/10.1080/1475939x.2026.2729551",
+    "abstract": "This study examines how teacher educators interpret and recontextualise pedagogical knowledge encountered in international educational technology training initiatives. Drawing on narrative inquiry and autoethnographic reflection, the article presents the experiences of two South African STEM teacher educators who participated in a European-led professional development programme on OERs. Guided by postcolonial theory and an agency-oriented framework, the analysis explores how knowledge hierarchie",
+    "keywords": [
+      "Narrative",
+      "Professional development",
+      "Training (meteorology)",
+      "Faculty development",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/1475939x.2026.2729551",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:51.568898"
+  },
+  {
+    "id": "https://openalex.org/W7213668406",
+    "title": "Solution Strategies and Representational Coherence in Preservice Primary Teachers’ Fraction-as-Operator Problem Solving",
+    "authors": [
+      "Diana Herreros-Torres",
+      "María T. Sanz",
+      "Carlos B. Gómez Ferragud"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-09-19",
+    "doi": "10.1007/s10763-026-10729-0",
+    "url": "https://doi.org/10.1007/s10763-026-10729-0",
+    "abstract": "",
+    "keywords": [
+      "Coherence (philosophical gambling strategy)",
+      "Context (archaeology)",
+      "Correctness",
+      "Set (abstract data type)",
+      "Flexibility (engineering)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:54.406147"
+  },
+  {
     "id": "https://openalex.org/W7213581673",
     "title": "Student engagement patterns in conversational AI tutoring: evidence from physics problem-solving",
     "authors": [
@@ -24,6 +314,86 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-09-19T23:43:16.915216"
+  },
+  {
+    "id": "https://openalex.org/W7213620708",
+    "title": "Attentional Resources in Bilingual Reading: Effects of Continuous Versus Discontinuous Images on Word Memory",
+    "authors": [
+      "Di Chao Liang",
+      "Yen Na Yum",
+      "Neil Cohn"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-09-18",
+    "doi": "10.1177/13621688261483804",
+    "url": "https://doi.org/10.1177/13621688261483804",
+    "abstract": "Studies have generally found benefits of multimodal presentation for comprehension and memory. However, although learner-related and design-related factors have received increasing attention in bilingual and L2 research, the role of visual continuity in naturalistic reading and its interaction with attentional control remains less well understood. This study investigated how the presence and continuity of visual inputs affect word recognition memory in bilingual Chinese-English university studen",
+    "keywords": [
+      "Cognition",
+      "Task (project management)",
+      "Affect (linguistics)",
+      "Comprehension",
+      "Semantics (computer science)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261483804",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:38.957166"
+  },
+  {
+    "id": "https://openalex.org/W7213650416",
+    "title": "The Online Effects of Processing Instruction and Structured Input on the Acquisition of the English Passive Constructions: The Role of Input Modality in Testing",
+    "authors": [
+      "Amin Pouresmaeil",
+      "Xin Wang",
+      "Alessandro Benati"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-09-18",
+    "doi": "10.1177/13621688261480080",
+    "url": "https://doi.org/10.1177/13621688261480080",
+    "abstract": "This research examined both the short-term and long-term effects of processing instruction (PI) and its main element, structured input (SI), on learners’ acquisition of English passive forms. A total of 70 English as a second language (ESL) learners participated in the study and were randomly divided into three groups: a PI group ( n = 24), an SI group ( n = 25), and a control group ( n = 21). Participants in the PI and SI groups completed 1 hr of computer-based instructional activities, whereas",
+    "keywords": [
+      "Active listening",
+      "Reading (process)",
+      "Modality (human–computer interaction)",
+      "Task (project management)",
+      "Words per minute"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261480080",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:38.957235"
+  },
+  {
+    "id": "https://openalex.org/W7213658930",
+    "title": "When Scripts Matter: Writing-System Effects on Metacognitive Calibration in Inferential Word Learning",
+    "authors": [
+      "Mikhail Ordin",
+      "Leona Polyanskaya"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-09-18",
+    "doi": "10.1177/13621688261485406",
+    "url": "https://doi.org/10.1177/13621688261485406",
+    "abstract": "Inferential vocabulary learning—deriving word meanings from context—plays a central role in vocabulary expansion, yet little is known about how writing systems shape learning outcomes and learners’ confidence in this process. This study investigated the effects of writing system on inferential vocabulary learning in learners whose first language uses the Latin alphabet. Forty-eight native Portuguese speakers learned pseudowords though incidental contextual inference. The pseudowords were present",
+    "keywords": [
+      "Metacognition",
+      "Vocabulary",
+      "Vocabulary development",
+      "Fluency",
+      "Scripting language"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261485406",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:38.957308"
   },
   {
     "id": "https://openalex.org/W7213559050",
@@ -1164,6 +1534,33 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-09-17T23:47:07.499112"
+  },
+  {
+    "id": "https://openalex.org/W7213412366",
+    "title": "Unveiling determinants of learner satisfaction in online courses: An explainable machine learning technique using unstructured reviews",
+    "authors": [
+      "Yong Qin",
+      "Chaoguang Luo",
+      "Yuyan Luo",
+      "Luwei Wang"
+    ],
+    "journal": "Internet and Higher Education",
+    "jif": 6.8,
+    "published_date": "2026-09-16",
+    "doi": "10.1016/j.iheduc.2026.101115",
+    "url": "https://doi.org/10.1016/j.iheduc.2026.101115",
+    "abstract": "",
+    "keywords": [
+      "Quality (philosophy)",
+      "Feature (linguistics)",
+      "Active learning (machine learning)",
+      "Key (lock)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-09-20T23:39:19.425610"
   },
   {
     "id": "https://openalex.org/W7213410033",
@@ -46180,218 +46577,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-06-23T22:57:57.682781"
-  },
-  {
-    "id": "https://openalex.org/W7165481357",
-    "title": "The pre-service teachers’ conceptions of change in epistemological beliefs - phenomenographic approach",
-    "authors": [
-      "Dorota Zdybel"
-    ],
-    "journal": "Thinking Skills and Creativity",
-    "jif": 4.5,
-    "published_date": "2026-06-21",
-    "doi": "10.1016/j.tsc.2026.102296",
-    "url": "https://doi.org/10.1016/j.tsc.2026.102296",
-    "abstract": "",
-    "keywords": [
-      "Narrative",
-      "Perception",
-      "Cognition",
-      "Interpretation (philosophy)",
-      "Context (archaeology)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-28T22:51:49.245561"
-  },
-  {
-    "id": "https://openalex.org/W7165550832",
-    "title": "Technology, language learning, and identity: A scoping review",
-    "authors": [
-      "Wanying Zhong",
-      "Chun Lai",
-      "Lin Liu"
-    ],
-    "journal": "Innovation In Language Learning and Teaching",
-    "jif": 4.6,
-    "published_date": "2026-06-21",
-    "doi": "10.1080/17501229.2026.2684314",
-    "url": "https://doi.org/10.1080/17501229.2026.2684314",
-    "abstract": "Language learner identity is increasingly intertwined with technology in the post-digital era of language education. Despite growing research interest, reviews that systematically map this relationship remain limited. Therefore, this scoping review synthesises 57 empirical studies published between 2005 and 2025 to examine the reciprocal relationship between technology and identity in language education. Studies were identified through searches of Web of Science and Scopus. Thematic analysis was",
-    "keywords": [
-      "Sociocultural evolution",
-      "Identity (music)",
-      "Thematic analysis",
-      "Conceptual framework",
-      "Sociocultural perspective"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-23T22:57:35.751419"
-  },
-  {
-    "id": "https://openalex.org/W7165547088",
-    "title": "Otherwise engaged? Learning from non‐participation in research with care‐experienced students",
-    "authors": [
-      "Lynette Shotton",
-      "Tom Disney",
-      "Andrea Carrick",
-      "Laura Thurman"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-06-21",
-    "doi": "10.1002/berj.70236",
-    "url": "https://doi.org/10.1002/berj.70236",
-    "abstract": "Abstract This paper explores what can be learned when educational research “fails.” Drawing on a Welland Trust–funded project in the North East of England that aimed to support care‐experienced students transitioning from further to higher education, we reflect on why, despite sustained effort, there was a lack of engagement. We situate this “failure” within wider debates on participation and ethics in research with marginalised people. Rather than treating non‐participation as absence or dis‐en",
-    "keywords": [
-      "Agency (philosophy)",
-      "Gatekeeping",
-      "Silence",
-      "Educational research",
-      "Corporate governance"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70236",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-23T22:57:57.682835"
-  },
-  {
-    "id": "https://openalex.org/W7165484438",
-    "title": "Evaluation indicator system for AI certificate programs",
-    "authors": [
-      "Zijing Wu",
-      "Qiang Li"
-    ],
-    "journal": "International Journal of Educational Technology in Higher Education",
-    "jif": 16.7,
-    "published_date": "2026-06-21",
-    "doi": "10.1186/s41239-026-00604-x",
-    "url": "https://doi.org/10.1186/s41239-026-00604-x",
-    "abstract": "Abstract Despite the rapid proliferation of Artificial Intelligence (AI)certificate programs in higher education, systematic frameworks for evaluating their pedagogical transformation potential remain absent—in contrast to the rich literature on AI tool adoption, which seldom addresses how credentials reshape teaching at the program level—and existing assessments rely on unidimensional methods that overlook both expert judgment and cultural variation. Grounded in the Technological Pedagogical Co",
-    "keywords": [
-      "Competence (human resources)",
-      "Credential",
-      "Adaptability",
-      "Certificate",
-      "Higher education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s41239-026-00604-x",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-22T16:13:50.552220"
-  },
-  {
-    "id": "https://openalex.org/W7165479384",
-    "title": "AI as a thinking partner: rethinking human cognitive processes in the age of generative AI",
-    "authors": [
-      "Tianlong Zhong",
-      "Gaoxia Zhu"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-06-21",
-    "doi": "10.1080/10494820.2026.2680598",
-    "url": "https://doi.org/10.1080/10494820.2026.2680598",
-    "abstract": "Generative AI (GAI) tools are increasingly integrated into education. However, existing research has primarily examined their effects through performance outcomes, offering limited insight into how they change learners’ cognitive processes. Grounded in information processing theory, this study investigates how students distribute cognitive processes between themselves and GAI during programming tasks and how such distributions relate to cognitive load, attention allocation, and programming perfo",
-    "keywords": [
-      "Cognition",
-      "Mode (computer interface)",
-      "Generative grammar",
-      "Cluster analysis",
-      "Information processing"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-22T16:14:02.731317"
-  },
-  {
-    "id": "https://openalex.org/W7165481917",
-    "title": "Queers Queering <scp>STEM</scp> : Reimagining Inclusive <scp>STEM</scp> Education",
-    "authors": [
-      "Nelly K. M. Marosi",
-      "Lucy Avraamidou",
-      "Mónica López López"
-    ],
-    "journal": "Journal of Research In Science Teaching",
-    "jif": 4.5,
-    "published_date": "2026-06-21",
-    "doi": "10.1002/tea.70058",
-    "url": "https://doi.org/10.1002/tea.70058",
-    "abstract": "ABSTRACT Grounded in queer theory, this study explores the intersections of queerness and STEM trajectories through the lived experiences of three queer adults with postgraduate degrees in STEM and contributes their insights for queering STEM education. We used artifacts, in‐depth semi‐structured interviews, and a focus group to identify aspects of STEM education that constrained or supported participants' trajectories and to offer strategies for queering STEM educational spaces. We analyzed ver",
-    "keywords": [
-      "Queer",
-      "Transformative learning",
-      "Queer theory",
-      "Curriculum",
-      "Focus group"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/tea.70058",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-22T16:14:12.841962"
-  },
-  {
-    "id": "https://openalex.org/W7165484050",
-    "title": "Support or symbol? Tokenism in teacher leader peer support",
-    "authors": [
-      "Norma Ghamrawi",
-      "Norma Ghamrawi",
-      "Tarek Shal",
-      "Najah A.R. Ghamrawi",
-      "Najah A.R. Ghamrawi"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-06-21",
-    "doi": "10.1016/j.tate.2026.105704",
-    "url": "https://doi.org/10.1016/j.tate.2026.105704",
-    "abstract": "This qualitative study examines how teacher leaders and classroom teachers interpret teacher leader-enacted peer support. While peer support is often framed as developmental, less is known about how it is experienced by those who provide and receive it. Using tokenism as an analytic lens, the study draws on semi-structured interviews with 23 participants and reflexive thematic analysis. Findings show that peer support was understood as a relational exchange shaped by reciprocity, obligation, emo",
-    "keywords": [
-      "Tokenism",
-      "Peer support",
-      "Thematic analysis",
-      "Reflexivity",
-      "Qualitative research"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1016/j.tate.2026.105704",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-22T16:14:18.159439"
-  },
-  {
-    "id": "https://openalex.org/W7165480943",
-    "title": "Nudging dialogic pedagogical design of peer feedback towards exploratory collaboration: a four-year educational design research study",
-    "authors": [
-      "Tellervo Härkki"
-    ],
-    "journal": "European Journal of Teacher Education",
-    "jif": 3.1,
-    "published_date": "2026-06-21",
-    "doi": "10.1080/02619768.2026.2689642",
-    "url": "https://doi.org/10.1080/02619768.2026.2689642",
-    "abstract": "",
-    "keywords": [
-      "Dialogic",
-      "Exploratory research",
-      "Research design",
-      "Educational research",
-      "Peer feedback"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1080/02619768.2026.2689642",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-06-22T16:14:32.979161"
   }
 ]
