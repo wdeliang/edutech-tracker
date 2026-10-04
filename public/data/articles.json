@@ -1,5 +1,326 @@
 [
   {
+    "id": "https://openalex.org/W7216286131",
+    "title": "The effects of embedded questions on learning performance and creative thinking in multimedia learning",
+    "authors": [
+      "Xinyi Li",
+      "Yi Zeng",
+      "Huizhi Bai",
+      "Yuecui Kan",
+      "Jingyi Zhu"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-03",
+    "doi": "10.1007/s10639-026-14162-2",
+    "url": "https://doi.org/10.1007/s10639-026-14162-2",
+    "abstract": "",
+    "keywords": [
+      "Multimedia",
+      "Educational technology",
+      "Computer science",
+      "Creative thinking",
+      "Electronic learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:54.244801"
+  },
+  {
+    "id": "https://openalex.org/W7216579353",
+    "title": "Bridging the gap between technology use and pedagogical design: A structured web 2.0 intervention in chemistry education",
+    "authors": [
+      "Senem Çolak Yazıcı"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-03",
+    "doi": "10.1007/s10639-026-14160-4",
+    "url": "https://doi.org/10.1007/s10639-026-14160-4",
+    "abstract": "",
+    "keywords": [
+      "Bridging (networking)",
+      "Educational technology",
+      "Intervention (counseling)",
+      "Technology integration",
+      "Chemistry"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:54.244817"
+  },
+  {
+    "id": "https://openalex.org/W7215895347",
+    "title": "The Effect of Inquiry-based Science Learning Supported By Augmented Reality On Scientific Process Skills and Academic Achievement in Preschool",
+    "authors": [
+      "Faruk Arıcı"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-10-02",
+    "doi": "10.1007/s10956-026-10361-1",
+    "url": "https://doi.org/10.1007/s10956-026-10361-1",
+    "abstract": "",
+    "keywords": [
+      "Curriculum",
+      "Mathematics education",
+      "Science education",
+      "Academic achievement",
+      "Psychology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:53.387273"
+  },
+  {
+    "id": "https://openalex.org/W7215814657",
+    "title": "Zero-shot prompting with GenAI for EFL cloze text generation: a mixed-methods evaluation for language assessment in China",
+    "authors": [
+      "Zhengqing Luo",
+      "Dunlai Lin",
+      "Tingting Liu"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-02",
+    "doi": "10.1007/s10639-026-14163-1",
+    "url": "https://doi.org/10.1007/s10639-026-14163-1",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Relevance (law)",
+      "Mathematics education",
+      "Recall",
+      "Reading comprehension"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:54.244822"
+  },
+  {
+    "id": "https://openalex.org/W7216479387",
+    "title": "Reconfiguring faculty agency in the age of generative AI: Authorship, pedagogical judgement, and autonomy in Palestinian higher education",
+    "authors": [
+      "Zuheir N. Khlaif",
+      "Bilal Tawfiq Hamamra",
+      "Hani Khalil Farran",
+      "Wejdan Awadallah Alkouk"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-10-02",
+    "doi": "10.1080/14703297.2026.2742477",
+    "url": "https://doi.org/10.1080/14703297.2026.2742477",
+    "abstract": "Generative AI is rapidly transforming higher education, yet existing research has concentrated on adoption, literacy, efficiency, and ethics, leaving faculty agency underexamined. This study explores how Palestinian faculty members negotiate AI-mediated teaching through authorship, pedagogical judgement, autonomy, and responsibility. Using a qualitative descriptive design, semi-structured interviews were conducted with 30 faculty members from two Palestinian universities and analysed thematicall",
+    "keywords": [
+      "Pedagogy",
+      "Situated",
+      "Higher education",
+      "Agency (philosophy)",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:56.703017"
+  },
+  {
+    "id": "https://openalex.org/W7215741935",
+    "title": "Generative AI ‐Supported Creative Writing Among Primary School Students: A Study of Creative Writing Performance, Writing Self‐Efficacy, and Flow State",
+    "authors": [
+      "Xin Liu",
+      "Yi Wen",
+      "Xiaozhe Yang",
+      "Yihe Gao"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-10-02",
+    "doi": "10.1002/jcal.70347",
+    "url": "https://doi.org/10.1002/jcal.70347",
+    "abstract": "ABSTRACT Background The integration of Generative Artificial Intelligence (GenAI) into creative writing is a growing trend. However, few studies have examined primary school students' interactions with GenAI alongside their writing experiences and resulting writing products. Objectives This study compared creative writing performance, writing self‐efficacy, and flow state across GenAI‐supported, peer‐collaborative and individual writing conditions. It also descriptively examined patterns of stud",
+    "keywords": [
+      "Creative writing",
+      "Academic writing",
+      "Professional writing",
+      "Psychology",
+      "Mathematics education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:03.657842"
+  },
+  {
+    "id": "https://openalex.org/W7216184097",
+    "title": "From policy assignment to place belonging: A grounded theory study of sense of place among participants of China's government-funded teacher education program",
+    "authors": [
+      "WANG Jingjing",
+      "Bichun Huang",
+      "Xue Xu"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-02",
+    "doi": "10.1016/j.tate.2026.105853",
+    "url": "https://doi.org/10.1016/j.tate.2026.105853",
+    "abstract": "",
+    "keywords": [
+      "Grounded theory",
+      "Teacher education",
+      "Pedagogy",
+      "Psychology",
+      "Mathematics education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:10.109784"
+  },
+  {
+    "id": "https://openalex.org/W7216007619",
+    "title": "“How do we overcome this?” expansive potential of community collaboration in urban development",
+    "authors": [
+      "Virpi Lund"
+    ],
+    "journal": "Journal of The Learning Sciences",
+    "jif": 3.9,
+    "published_date": "2026-10-02",
+    "doi": "10.1080/10508406.2026.2717546",
+    "url": "https://doi.org/10.1080/10508406.2026.2717546",
+    "abstract": "",
+    "keywords": [
+      "Urban planning",
+      "Environmental planning",
+      "Expansive",
+      "Business",
+      "Economic growth"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/10508406.2026.2717546",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:10.788391"
+  },
+  {
+    "id": "https://openalex.org/W7215695983",
+    "title": "Artificial intelligence use and personalized learning in higher education: pathways toward sustainable development goals and student mental health",
+    "authors": [
+      "Yuhao Su",
+      "Irum Zeb",
+      "Aashiq Khan"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-02",
+    "doi": "10.1108/ijshe-11-2025-1497",
+    "url": "https://doi.org/10.1108/ijshe-11-2025-1497",
+    "abstract": "Purpose This study aims to examine how artificial intelligence use (AIU) and personalized learning contribute to SDG-4 quality education (QE) and students’ mental health (MH) in higher education, and the study also investigates whether AIU statistically mediates the relationships between personalized learning and QE and MH. Design/methodology/approach A cross-sectional survey was conducted among 460 students at a Chinese university. The hypotheses were tested using partial least squares structur",
+    "keywords": [
+      "Mental health",
+      "Psychology",
+      "Quality (philosophy)",
+      "Emotional intelligence",
+      "Applied psychology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:18.158479"
+  },
+  {
+    "id": "https://openalex.org/W7215804276",
+    "title": "Promoting sustainability teaching and learning in HEI through the ecological footprint concept",
+    "authors": [
+      "Georgios Malandrakis",
+      "Αθανασία Παπαδοπούλου",
+      "Mahsa Mapar",
+      "Sandra Caeiro",
+      "Paula Bacelar Nicolau"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-02",
+    "doi": "10.1108/ijshe-12-2025-1666",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1666",
+    "abstract": "Purpose Higher education institutions (HEIs) play a key role in democratising quality education for sustainability, for all. This study aims to present the outcomes of implementing the EUSTEPs Sustainability Module, which acquaints HEI students with sustainability concepts in an engaging and captivating manner through the lens of the ecological footprint (EF). Design/methodology/approach A 10-hour module was delivered to over 100 undergraduate students from four European universities using diver",
+    "keywords": [
+      "Sustainability",
+      "Ecological footprint",
+      "Higher education",
+      "Inclusion (mineral)",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.emerald.com/ijshe/article-pdf/27/10/667/11888769/ijshe-12-2025-1666en.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:18.158573"
+  },
+  {
+    "id": "https://openalex.org/W7216558999",
+    "title": "Gender differences in environmental responsibility: insights from university students in Scotland",
+    "authors": [
+      "Muzammal Ahmad Khan",
+      "Eunice Yewande Oke"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-02",
+    "doi": "10.1108/ijshe-07-2025-0662",
+    "url": "https://doi.org/10.1108/ijshe-07-2025-0662",
+    "abstract": "Purpose This study aims to investigate gender and age-related differences in environmental behaviours and responsibility among university undergraduate students in Scotland. Set against the backdrop of Scotland’s policy commitment to net-zero emissions and the integration of sustainability in higher education, the research addresses the persistent gap between environmental awareness and actual behaviour. Design/methodology/approach A quantitative survey was administered to 319 students across se",
+    "keywords": [
+      "Sustainability",
+      "Psychological intervention",
+      "Psychology",
+      "Set (abstract data type)",
+      "Consistency (knowledge bases)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:18.158622"
+  },
+  {
+    "id": "https://openalex.org/W7215730807",
+    "title": "Science Education vs. Religious Education in Democratic Society? A Belated Response to Mahner and Bunge (1996)",
+    "authors": [
+      "Yiftach Fehige"
+    ],
+    "journal": "Science & Education",
+    "jif": 2.5,
+    "published_date": "2026-10-02",
+    "doi": "10.1007/s11191-026-00788-8",
+    "url": "https://doi.org/10.1007/s11191-026-00788-8",
+    "abstract": "",
+    "keywords": [
+      "Democracy",
+      "Sociology",
+      "Deliberation",
+      "Epistemology",
+      "Religious education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:12:25.360790"
+  },
+  {
     "id": "https://openalex.org/W7215039538",
     "title": "Can LLMs effectively annotate learner writing? Prompting strategies and proficiency effects in annotating L2 learner argumentative essays",
     "authors": [
@@ -26,6 +347,64 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-03T00:47:29.060731"
+  },
+  {
+    "id": "https://openalex.org/W7216585959",
+    "title": "The Impact of Programming Education on Computational Thinking in Elementary and Secondary School Students: A Meta-Analysis of 48 Experimental and Quasi-Experimental Studies",
+    "authors": [
+      "Xinning Wu",
+      "Yi Wang",
+      "Haifeng Zheng",
+      "Yingxi Wang",
+      "Ke Guan"
+    ],
+    "journal": "Educational Research Review",
+    "jif": 10.6,
+    "published_date": "2026-10-01",
+    "doi": "10.1016/j.edurev.2026.100854",
+    "url": "https://doi.org/10.1016/j.edurev.2026.100854",
+    "abstract": "",
+    "keywords": [
+      "Computational thinking",
+      "Mathematics education",
+      "Curriculum",
+      "Primary education",
+      "Computer science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-04T00:11:43.754502"
+  },
+  {
+    "id": "https://openalex.org/W7215895992",
+    "title": "How we study what we study: A methodological review of 50 years of educational technology research",
+    "authors": [
+      "Jo Tondeur",
+      "Sarah Katherine Howard",
+      "Antonio Bucchiarone",
+      "Ronny Scherer",
+      "Johan van Braak"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-10-01",
+    "doi": "10.1016/j.compedu.2026.105760",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105760",
+    "abstract": "Research in educational technology has been extensively mapped in terms of what has been studied, but far less attention has been paid to how it has been studied. This paper reports a methodological review of fifty years of research in Computers & Education, covering a corpus of 5,516 articles published between 1976 and 2026, with the principal findings based on the post-1996 full-text corpus. Using an AI-assisted analysis, applied to full texts and abstracts, we traced the evolution of research",
+    "keywords": [
+      "Dominance (genetics)",
+      "Context (archaeology)",
+      "Principal (computer security)",
+      "Educational research",
+      "Data science"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.compedu.2026.105760",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-04T00:11:44.580246"
   },
   {
     "id": "https://openalex.org/W7215068431",
@@ -44136,90 +44515,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-07T22:50:19.344981"
-  },
-  {
-    "id": "https://openalex.org/W7167486559",
-    "title": "A systematic literature review of embodied cognition in k-12 STEM education: mapping out the field",
-    "authors": [
-      "Fridtjof Ronge Gjengset",
-      "Magdalena Kersting",
-      "Jesper Bruun"
-    ],
-    "journal": "Studies In Science Education",
-    "jif": 9.9,
-    "published_date": "2026-07-05",
-    "doi": "10.1080/03057267.2026.2695519",
-    "url": "https://doi.org/10.1080/03057267.2026.2695519",
-    "abstract": "",
-    "keywords": [
-      "Embodied cognition",
-      "Field (mathematics)",
-      "Cognition",
-      "Systematic review",
-      "Socially distributed cognition"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1080/03057267.2026.2695519",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-07T22:49:32.024604"
-  },
-  {
-    "id": "https://openalex.org/W7167513160",
-    "title": "Reimagining UK Universities for Society 5.0 and Industry 5.0: Human‐Centric Innovation Across the Green–Digital Transition",
-    "authors": [
-      "Qiong Yuan",
-      "Huyen Anh Tham",
-      "Li Jin",
-      "Mengyao Xia",
-      "Xiaojie Yuan"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-05",
-    "doi": "10.1111/ejed.70744",
-    "url": "https://doi.org/10.1111/ejed.70744",
-    "abstract": "ABSTRACT The UK higher education sector faces overlapping pressures from decarbonisation, digital transformation and rising demands for public value. Yet universities often address these pressures through fragmented agendas, treating sustainability, digitalisation and societal engagement as separate domains of action. This paper develops a UK‐oriented account of ‘University 5.0’ by reframing it not as a technological stage model, but as a problem of governance and capability alignment under gree",
-    "keywords": [
-      "Cognitive reframing",
-      "General partnership",
-      "Higher education",
-      "Accountability",
-      "Corporate governance"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-07T22:50:03.422411"
-  },
-  {
-    "id": "https://openalex.org/W7167408096",
-    "title": "Learning to work: University internships and the transition to employment in Spain",
-    "authors": [
-      "Gisela Di Meglio",
-      "Jorge Gallego",
-      "Andrés Barge‐Gil",
-      "García Moreno",
-      "Ester Camiña"
-    ],
-    "journal": "Education and Training",
-    "jif": 3.2,
-    "published_date": "2026-07-05",
-    "doi": "10.1108/et-07-2025-0528",
-    "url": "https://doi.org/10.1108/et-07-2025-0528",
-    "abstract": "Purpose This study examines the relationship between curricular university internships and labour market outcomes for university graduates in Spain. It investigates both short- and long-term associations across two graduate cohorts. Design/methodology/approach The analysis draws on microdata from two cohorts (2014 and 2010) of the Spanish University Graduate Job Placement Survey. Linear probability models are estimated to assess the relationship between internship participation and several labou",
-    "keywords": [
-      "Internship",
-      "Salary",
-      "Microdata (statistics)",
-      "Higher education",
-      "Wage"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-06T22:57:38.762560"
   }
 ]
