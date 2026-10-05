@@ -1,122 +1,150 @@
-📅 运行时间：2026-10-04 00:12
-📊 本次新增文章：14 篇
-📚 数据库总文章数：1680 篇
-🔍 查询范围：2026-09-27 至 2026-10-04
+📅 运行时间：2026-10-05 00:17
+📊 本次新增文章：17 篇
+📚 数据库总文章数：1668 篇
+🔍 查询范围：2026-09-28 至 2026-10-05
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Education and Information Technologies: 3 篇
-  • International Journal of Sustainability In Higher Education: 3 篇
-  • Educational Research Review: 1 篇
+  • European Journal of Education: 3 篇
+  • System: 2 篇
   • Computers & Education: 1 篇
+  • British Journal of Educational Technology: 1 篇
   • Journal of Science Education and Technology: 1 篇
-  • Innovations In Education and Teaching International: 1 篇
-  • Journal of Computer Assisted Learning: 1 篇
-  • Teaching and Teacher Education: 1 篇
-  • Journal of The Learning Sciences: 1 篇
+  • Learning and Instruction: 1 篇
+  • Thinking Skills and Creativity: 1 篇
+  • Journal of Research In Science Teaching: 1 篇
+  • Language Teaching Research: 1 篇
+  • American Educational Research Journal: 1 篇
+  • Professional Development In Education: 1 篇
   • Science & Education: 1 篇
+  • Technology Pedagogy and Education: 1 篇
+  • International Journal of Science and Mathematics Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] The Impact of Programming Education on Computational Thinking in Elementary and Secondary School Students: A Meta-Analysis of 48 Experimental and Quasi-Experimental Studies
-    期刊：Educational Research Review (JIF: 10.6)
-    作者：Xinning Wu, Yi Wang, Haifeng Zheng 等(5人)
-    日期：2026-10-01
-    关键词：Computational thinking, Mathematics education, Curriculum, Primary education, Computer science
-    DOI：https://doi.org/10.1016/j.edurev.2026.100854
-
-[2] How we study what we study: A methodological review of 50 years of educational technology research
+[1] Online Learner Engagement and Academic Support in the Age of Generative AI
     期刊：Computers & Education (JIF: 10.5)
-    作者：Jo Tondeur, Sarah Katherine Howard, Antonio Bucchiarone 等(5人)
+    作者：Jered Borup, Charles R. Graham, Leanna Archambault 等(5人)
     日期：2026-10-01
-    关键词：Dominance (genetics), Context (archaeology), Principal (computer security), Educational research, Data science
-    DOI：https://doi.org/10.1016/j.compedu.2026.105760
+    关键词：Facilitator, Generative grammar, Knowledge management, Conceptual framework, Function (biology)
+    DOI：https://doi.org/10.1016/j.compedu.2026.105763
+
+[2] Catching the spark: The role of electrodermal activity in understanding teacher enthusiasm and students' lesson enjoyment
+    期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Muhterem Dindar, İsmail Çelik, Héctor J. Pijeira‐Díaz 等(4人)
+    日期：2026-10-03
+    关键词：Enthusiasm, Psychology, Temporality, Valence (chemistry), Dynamics (music)
+    DOI：https://doi.org/10.1111/bjet.70092
     🔓 开放获取
 
-[3] The Effect of Inquiry-based Science Learning Supported By Augmented Reality On Scientific Process Skills and Academic Achievement in Preschool
+[3] Influences on communication in EMI contexts using a behavioural science approach to enhance active online classroom engagement
+    期刊：System (JIF: 5.6)
+    作者：Chihiro Inoue, Fumiyo Nakatsuhara, Akiko Kiyota 等(5人)
+    日期：2026-10-01
+    关键词：EMI, Psychology, Computer science, Computer-mediated communication, Student engagement
+    DOI：https://doi.org/10.1016/j.system.2026.104171
+
+[4] LOTE Teachers’ Agency and Digital Literacy in AI-Mediated Language Teaching: A Qualitative Multi-Case Study
+    期刊：System (JIF: 5.6)
+    作者：Yang Zhao, Xiaozhou Zhou
+    日期：2026-10-01
+    关键词：Agency (philosophy), Digital literacy, Sociology, Qualitative research, Literacy
+    DOI：https://doi.org/10.1016/j.system.2026.104173
+
+[5] Student-Selected Videos Together with Scaffolding Questions Improves Learning in a Physics Course
     期刊：Journal of Science Education and Technology (JIF: 5.5)
-    作者：Faruk Arıcı
-    日期：2026-10-02
-    关键词：Curriculum, Mathematics education, Science education, Academic achievement, Psychology
-    DOI：https://doi.org/10.1007/s10956-026-10361-1
-
-[4] The effects of embedded questions on learning performance and creative thinking in multimedia learning
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Xinyi Li, Yi Zeng, Huizhi Bai 等(5人)
+    作者：Melanie Victoria Adler, Richard N. Steinberg, Lucas C. Parra
     日期：2026-10-03
-    关键词：Multimedia, Educational technology, Computer science, Creative thinking, Electronic learning
-    DOI：https://doi.org/10.1007/s10639-026-14162-2
-
-[5] Bridging the gap between technology use and pedagogical design: A structured web 2.0 intervention in chemistry education
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Senem Çolak Yazıcı
-    日期：2026-10-03
-    关键词：Bridging (networking), Educational technology, Intervention (counseling), Technology integration, Chemistry
-    DOI：https://doi.org/10.1007/s10639-026-14160-4
-
-[6] Zero-shot prompting with GenAI for EFL cloze text generation: a mixed-methods evaluation for language assessment in China
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Zhengqing Luo, Dunlai Lin, Tingting Liu
-    日期：2026-10-02
-    关键词：Psychology, Relevance (law), Mathematics education, Recall, Reading comprehension
-    DOI：https://doi.org/10.1007/s10639-026-14163-1
-
-[7] Reconfiguring faculty agency in the age of generative AI: Authorship, pedagogical judgement, and autonomy in Palestinian higher education
-    期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Zuheir N. Khlaif, Bilal Tawfiq Hamamra, Hani Khalil Farran 等(4人)
-    日期：2026-10-02
-    关键词：Pedagogy, Situated, Higher education, Agency (philosophy), Sociology
-    DOI：https://doi.org/10.1080/14703297.2026.2742477
-
-[8] Generative AI ‐Supported Creative Writing Among Primary School Students: A Study of Creative Writing Performance, Writing Self‐Efficacy, and Flow State
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Xin Liu, Yi Wen, Xiaozhe Yang 等(4人)
-    日期：2026-10-02
-    关键词：Creative writing, Academic writing, Professional writing, Psychology, Mathematics education
-    DOI：https://doi.org/10.1002/jcal.70347
-
-[9] From policy assignment to place belonging: A grounded theory study of sense of place among participants of China's government-funded teacher education program
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：WANG Jingjing, Bichun Huang, Xue Xu
-    日期：2026-10-02
-    关键词：Grounded theory, Teacher education, Pedagogy, Psychology, Mathematics education
-    DOI：https://doi.org/10.1016/j.tate.2026.105853
-
-[10] “How do we overcome this?” expansive potential of community collaboration in urban development
-    期刊：Journal of The Learning Sciences (JIF: 3.9)
-    作者：Virpi Lund
-    日期：2026-10-02
-    关键词：Urban planning, Environmental planning, Expansive, Business, Economic growth
-    DOI：https://doi.org/10.1080/10508406.2026.2717546
+    关键词：Association (psychology), Class (philosophy), Mathematics education, Educational technology, Reading (process)
+    DOI：https://doi.org/10.1007/s10956-026-10360-2
     🔓 开放获取
 
-[11] Artificial intelligence use and personalized learning in higher education: pathways toward sustainable development goals and student mental health
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Yuhao Su, Irum Zeb, Aashiq Khan
-    日期：2026-10-02
-    关键词：Mental health, Psychology, Quality (philosophy), Emotional intelligence, Applied psychology
-    DOI：https://doi.org/10.1108/ijshe-11-2025-1497
+[6] Prolonged participation AI-based mindfulness school programme in primary education: Implications for AI practices, schools and developers
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Şükran Uçuş
+    日期：2026-10-03
+    关键词：Mindfulness, Psychology, Applied psychology, Medical education, Psychotherapist
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102481
 
-[12] Promoting sustainability teaching and learning in HEI through the ecological footprint concept
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Georgios Malandrakis, Αθανασία Παπαδοπούλου, Mahsa Mapar 等(5人)
+[7] How Autonomy-Supportive Environments and Growth Mindset Foster Creativity Efficacy in Middle School Students? Evidence from a large-scale survey in China
+    期刊：Thinking Skills and Creativity (JIF: 4.5)
+    作者：Hao Yao, Zhuo Chen
+    日期：2026-10-01
+    关键词：Mindset, Creativity, Psychology, China, Social psychology
+    DOI：https://doi.org/10.1016/j.tsc.2026.102386
+
+[8] The Potential Impact of a Socioscientific Issues Programme on Elementary School Students' Scientific Literacy
+    期刊：Journal of Research In Science Teaching (JIF: 4.5)
+    作者：Nicola Broderick, Paul van Kampen
     日期：2026-10-02
-    关键词：Sustainability, Ecological footprint, Higher education, Inclusion (mineral), Psychology
-    DOI：https://doi.org/10.1108/ijshe-12-2025-1666
+    关键词：Scientific literacy, Curriculum, Science education, Mathematics education, Argumentation theory
+    DOI：https://doi.org/10.1002/tea.70074
     🔓 开放获取
 
-[13] Gender differences in environmental responsibility: insights from university students in Scotland
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Muzammal Ahmad Khan, Eunice Yewande Oke
+[9] Teaching Culture as a Dynamic Concept: What Pioneer Teachers Perceive Constitutes Culture Teaching in Foreign Language Education
+    期刊：Language Teaching Research (JIF: 3.8)
+    作者：Stef J. Siepel, Petrie J. A. C. van der Zanden, P.A.J.M. Coppen 等(4人)
     日期：2026-10-02
-    关键词：Sustainability, Psychological intervention, Psychology, Set (abstract data type), Consistency (knowledge bases)
-    DOI：https://doi.org/10.1108/ijshe-07-2025-0662
+    关键词：Scholarship, Pedagogy, Foreign language, Teaching method, Perspective (graphical)
+    DOI：https://doi.org/10.1177/13621688261487630
+    🔓 开放获取
 
-[14] Science Education vs. Religious Education in Democratic Society? A Belated Response to Mahner and Bunge (1996)
+[10] Education and Climate Change: Synthesizing the Evidence to Guide Future Research
+    期刊：American Educational Research Journal (JIF: 3.6)
+    作者：Matthew A. Kraft, Sohil Malik, Grace T. Falken
+    日期：2026-10-02
+    关键词：Climate change, Psychological resilience, Climate resilience, Environmental education, Sustainable development
+    DOI：https://doi.org/10.3102/00028312261478064
+
+[11] AI ‐Mediated Multimodal Reading Education for EFL Learners: Effects on Students' Enjoyment and Engagement
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Lei Pan, Hangbo Zhao, Mehmet Şengül
+    日期：2026-10-03
+    关键词：Reading (process), Psychology, Control (management), Mathematics education, English as a foreign language
+    DOI：https://doi.org/10.1111/ejed.70880
+    🔓 开放获取
+
+[12] Policy Alignment, Institutional Strategies, and Collaboration Effectiveness in Sino‐Foreign Higher Education Collaboration: A PLS ‐ SEM Analysis
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Yuqing Li
+    日期：2026-10-03
+    关键词：Higher education, Internationalization, Partial least squares regression, Variance (accounting), Structural equation modeling
+    DOI：https://doi.org/10.1111/ejed.70846
+    🔓 开放获取
+
+[13] Correction to “Constructing National Higher Education Brands: Korea, India and Israel Compared”
+    期刊：European Journal of Education (JIF: 3.6)
+    日期：2026-10-02
+    关键词：Higher education, Section (typography), Political science, Library science, Sociology
+    DOI：https://doi.org/10.1111/ejed.70892
+
+[14] Recalibrating teacher judgement through recurring classroom tensions: a longitudinal case study
+    期刊：Professional Development In Education (JIF: 3.1)
+    作者：Takayoshi Sasaya
+    日期：2026-10-03
+    关键词：Psychology, Judgement, Mathematics education, Pedagogy, Professional development
+    DOI：https://doi.org/10.1080/19415257.2026.2743720
+
+[15] Amid an Epistemic Iteration: How AI Methodologies May Transform the Nature of Science Education Research
     期刊：Science & Education (JIF: 2.5)
-    作者：Yiftach Fehige
-    日期：2026-10-02
-    关键词：Democracy, Sociology, Deliberation, Epistemology, Religious education
-    DOI：https://doi.org/10.1007/s11191-026-00788-8
+    作者：Paul P. Martin, Marvin Rost, Jenna Koenen 等(4人)
+    日期：2026-10-03
+    关键词：Epistemology, Parallels, Field (mathematics), Philosophy of science, Science education
+    DOI：https://doi.org/10.1007/s11191-026-00789-7
+    🔓 开放获取
+
+[16] How modified flipped learning affects pre-service teachers’ learning motivation, flow experience and collaborative problem solving process
+    期刊：Technology Pedagogy and Education (JIF: 2.5)
+    作者：Wei Min Xu, Tian-Yi Liu, Qian-Wen Xing
+    日期：2026-10-03
+    关键词：Flipped learning, Process (computing), Computer science, Electronic learning, Educational technology
+    DOI：https://doi.org/10.1080/1475939x.2026.2733485
+
+[17] What Does a Logical Paradox Reveal? An Exploration of Beliefs of Preservice Mathematics Teachers
+    期刊：International Journal of Science and Mathematics Education (JIF: 2.1)
+    作者：Hatice Aydan Kaplan
+    日期：2026-10-01
+    关键词：Transformative learning, Mathematics education, Relation (database), Epistemology, Science education
+    DOI：https://doi.org/10.1007/s10763-026-10736-1
