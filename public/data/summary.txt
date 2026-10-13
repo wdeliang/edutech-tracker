@@ -1,118 +1,53 @@
-📅 运行时间：2026-10-12 00:48
-📊 本次新增文章：13 篇
-📚 数据库总文章数：1665 篇
-🔍 查询范围：2026-10-05 至 2026-10-12
+📅 运行时间：2026-10-13 02:45
+📊 本次新增文章：5 篇
+📚 数据库总文章数：1650 篇
+🔍 查询范围：2026-10-06 至 2026-10-13
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Learning and Instruction: 2 篇
-  • Internet and Higher Education: 1 篇
-  • Education and Information Technologies: 1 篇
+  • ETR&D-Educational Technology Research and Development: 2 篇
+  • International Journal of Educational Technology in Higher Education: 1 篇
   • Journal of Educational Computing Research: 1 篇
-  • Asia-Pacific Education Researcher: 1 篇
-  • Journal of Computer Assisted Learning: 1 篇
-  • Thinking Skills and Creativity: 1 篇
-  • Journal of Research In Science Teaching: 1 篇
-  • Modern Language Journal: 1 篇
-  • Teaching and Teacher Education: 1 篇
-  • International Journal of Educational Research: 1 篇
-  • British Educational Research Journal: 1 篇
+  • European Journal of Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] The effects of depth and placement of Prequestions on video learning
-    期刊：Internet and Higher Education (JIF: 6.8)
-    作者：Ziyi Kuang, Xiaoxue Leng
-    日期：2026-10-07
-    关键词：video-based learning, question placement, video-based instruction, student engagement
-    DOI：https://doi.org/10.1016/j.iheduc.2026.101118
+[1] Human–AI collaborative patterns in GenAI-supported instructional design among pre-service teachers: an analysis of interaction sequences and cognitive load
+    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
+    作者：Xu Fang, Junci Feng, Bianyu Yan 等(4人)
+    日期：2026-10-11
+    关键词：Instructional design, Rubric, Cognition, Cognitive load, Generative grammar
+    DOI：https://doi.org/10.1186/s41239-026-00628-3
+    🔓 开放获取
 
-[2] AI attitudes and organizational learning in distance education: interpreting an AI learning gap through structural equation modeling
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Merve Gevher, Sefa Emre Öncü, Serpil Koçdar 等(4人)
-    日期：2026-10-10
-    关键词：Organizational learning, Psychology, Structural equation modeling, Knowledge management, Bridging (networking)
-    DOI：https://doi.org/10.1007/s10639-026-14170-2
-
-[3] Socratic, Artifact-Gated Generative AI Scaffolding in a 6E Inquiry Unit: A Clustered Quasi-Experiment in Elementary Students’ Computational Thinking
+[2] How Generative AI-Assisted Formative Feedback Is Appraised and Implemented in Online Collaborative Learning
     期刊：Journal of Educational Computing Research (JIF: 4.9)
-    作者：Yu-Chih Huang, Cheng‐Hsuan Li
-    日期：2026-10-10
-    关键词：Mathematics education, Computational thinking, TUTOR, Coding (social sciences), Artifact (error)
-    DOI：https://doi.org/10.1177/07356331261494821
-
-[4] From revision to learning transfer: Self- and socially shared-regulated pathways in AI-assisted feedback
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Shijun Cindy Chen, Conrad Borchers, Christian Dieter Schunn
-    日期：2026-10-10
-    关键词：Psychology, Cognitive psychology, Social psychology
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102489
-
-[5] Rethinking cultural awareness in think-aloud research
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Jingjing Hu, Xuesong Andy Gao
-    日期：2026-10-10
-    关键词：Sociology, Epistemology, Public relations, Psychology
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102491
+    作者：Guoqing Lu, Huimin Zhang, Shen Ba 等(4人)
+    日期：2026-10-11
+    关键词：Formative assessment, Computer science, Generative grammar, Peer feedback, Perception
+    DOI：https://doi.org/10.1177/07356331261494805
     🔓 开放获取
 
-[6] How do Families Shape School Refusal? A Latent Profile Analysis of School Refusal Tendency and Parentification Among Chinese Adolescents: The Role of Trait Emotional Intelligence
-    期刊：Asia-Pacific Education Researcher (JIF: 4.6)
-    作者：Shanzhi Ke, Christopher A. Kearney, Jinbo He
-    日期：2026-10-10
-    关键词：Psychology, Trait, Developmental psychology, Emotional intelligence, School refusal
-    DOI：https://doi.org/10.1007/s40299-026-01143-9
+[3] Technological compensation or pedagogical awakening? A longitudinal RCT of AI and expert feedback in pre-service physical education
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：TongKai Guan, Walton Wider, XiaoMan Wen 等(4人)
+    日期：2026-10-11
+    关键词：Metacognition, Compensation (psychology), Task (project management), Practicum, Psychology
+    DOI：https://doi.org/10.1007/s11423-026-10724-w
 
-[7] The Effects of Bionic Reading on EFL Learners' Academic English Reading: Evidence From Behavioural and Eye‐Tracking Studies
-    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Yizhen Wang, Jinpeng Chen, Wei Zheng
-    日期：2026-10-09
-    关键词：Reading (process), Psychology, Reading comprehension, Cognition, Foreign language
-    DOI：https://doi.org/10.1002/jcal.70354
+[4] A comparative study of learning experiences in digital education exchange between South Korea and Cambodia: focusing on the activity theory
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Seungmin Lee, Joongwon Jeon
+    日期：2026-10-11
+    关键词：Transformative learning, Activity theory, Thematic analysis, Sociology, Focus group
+    DOI：https://doi.org/10.1007/s11423-026-10743-7
 
-[8] Mental imagery and visuospatial processing in visual communication design education: Examining relationships with creative performance and academic achievement in university students
-    期刊：Thinking Skills and Creativity (JIF: 4.5)
-    作者：Jian Teng, Sukyoung Cho
-    日期：2026-10-07
-    关键词：mental imagery, visuospatial processing, visual communication design education, creative performance, academic performance
-    DOI：https://doi.org/10.1016/j.tsc.2026.102389
-
-[9] What Does It Mean To Be Good at Physics? Peer Recognition in a High School Physics Classroom
-    期刊：Journal of Research In Science Teaching (JIF: 4.5)
-    作者：Marta R. Stoeckel, Gillian Roehrig
-    日期：2026-10-10
-    关键词：Competence (human resources), Mathematics education, Science education, Psychology, Identity (music)
-    DOI：https://doi.org/10.1002/tea.70078
-    🔓 开放获取
-
-[10] Rethinking Second Language Anxiety: Looking Beyond the Classic View of the Anxiety → Achievement Relationship
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Abdullah Alamer, Fakieh Alrabai, Philip S. Dale
-    日期：2026-10-10
-    关键词：Anxiety, Psychology, Cognitive psychology, Competence (human resources), Language proficiency
-    DOI：https://doi.org/10.1111/modl.70092
-    🔓 开放获取
-
-[11] What does it mean to be a competent teacher? A narrative inquiry into teacher professional competence and relational wisdom
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：王文礼, Mulugeta Yayeh Worku
-    日期：2026-10-10
-    关键词：Narrative inquiry, Competence (human resources), Pedagogy, Psychology, Narrative
-    DOI：https://doi.org/10.1016/j.tate.2026.105851
-
-[12] A mixed method quasi experimental study: Teachers' perspectives and student outcomes of innovative mathematics teaching through project-based learning, digital tools, peer collaboration, mathematical experiments, and interdisciplinary teaching
-    期刊：International Journal of Educational Research (JIF: 2.5)
-    作者：Cao Zhe, Lei Zhang
-    日期：2026-10-10
-    关键词：mathematics education, project-based learning, digital tools, peer collaboration, mathematical experiments
-    DOI：https://doi.org/10.1016/j.ijer.2026.103138
-
-[13] Global aspirations and local limitations: Employment experience of Nigerian international students in the United Kingdom
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Ming Cheng, Joclarisse Albia, Olalekan Adeban Adekola
-    日期：2026-10-09
-    关键词：Employability, Agency (philosophy), Position (finance), Political science, Psychological resilience
-    DOI：https://doi.org/10.1002/berj.70283
+[5] ‘Schools Can Do So Much More!’— Perspectives on Democracy and Education From Youth in Challenging Contexts Across Europe
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Boris Jokić, Nikola Baketa, Zrinka Ristić Dedić
+    日期：2026-10-11
+    关键词：Democracy, Context (archaeology), Metropolitan area, Sociology, Democratic education
+    DOI：https://doi.org/10.1111/ejed.70899
     🔓 开放获取
