@@ -1,5 +1,647 @@
 [
   {
+    "id": "https://openalex.org/W7221760084",
+    "title": "Shifting cognitive structures in human-AI collaborative learning design",
+    "authors": [
+      "Yanyi Wu"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-15",
+    "doi": "10.1016/j.tate.2026.105873",
+    "url": "https://doi.org/10.1016/j.tate.2026.105873",
+    "abstract": "",
+    "keywords": [
+      "Collaborative learning",
+      "Cognition",
+      "Collaborative design",
+      "Psychology",
+      "Computer science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:42.592363"
+  },
+  {
+    "id": "https://openalex.org/W7221762966",
+    "title": "ChatGPT’s feedback credibility and students’ perceived learning: the role of agent-related social perceptions",
+    "authors": [
+      "Raúl Pérez‐López",
+      "Rubén González-Vallejo",
+      "Laura Lucia‐Palacios",
+      "Iguácel Melero‐Polo",
+      "Andreea Trifu"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-10-14",
+    "doi": "10.1186/s41239-026-00629-2",
+    "url": "https://doi.org/10.1186/s41239-026-00629-2",
+    "abstract": "Abstract This paper examines whether students’ agent-related social perceptions of ChatGPT are associated with the perceived credibility of its feedback in academic tasks and whether such credibility, in turn, is related to students’ perceived learning. It also investigates whether the relationship between feedback credibility and perceived learning varies according to students’ sensitivity to the quality of their academic work and their sensitivity to grade-based rewards. To address this, we de",
+    "keywords": [
+      "Credibility",
+      "Psychology",
+      "Perception",
+      "Social psychology",
+      "Competence (human resources)"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1186/s41239-026-00629-2.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:11.998977"
+  },
+  {
+    "id": "https://openalex.org/W7221760716",
+    "title": "AI literacy and STEM education: emerging frontiers and research priorities",
+    "authors": [
+      "Jonas Hällström",
+      "Thomas K. F. Chiu",
+      "Meixia Ding",
+      "Milo Koretsky",
+      "Yeping Li"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-10-14",
+    "doi": "10.1186/s40594-026-00653-8",
+    "url": "https://doi.org/10.1186/s40594-026-00653-8",
+    "abstract": "Abstract This article examines the state of the art in AI literacy and STEM education and identifies emerging frontiers and research priorities to inspire cutting-edge empirical and theoretical research. The reviewed research is grounded in established AI literacy frameworks and shows that there is potential for students’ development of a critical and technologically informed AI literacy. However, the research is unevenly spread across the STEM disciplines and the potential for AI to transform S",
+    "keywords": [
+      "Scholarship",
+      "Literacy",
+      "Engineering ethics",
+      "Sociology",
+      "Discipline"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00653-8",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:15.790080"
+  },
+  {
+    "id": "https://openalex.org/W7221820702",
+    "title": "Informal digital learning of English and positive psychology: A systematic review of empirical research (2015-2025)",
+    "authors": [
+      "Xinwei Pan",
+      "Xian Liu",
+      "Ju Seong Lee"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-10-14",
+    "doi": "10.1016/j.system.2026.104177",
+    "url": "https://doi.org/10.1016/j.system.2026.104177",
+    "abstract": "",
+    "keywords": [
+      "Empirical research",
+      "Computer science",
+      "Mathematics education",
+      "Knowledge management",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-15T23:57:21.166449"
+  },
+  {
+    "id": "https://openalex.org/W7221769317",
+    "title": "Enhancing university students’ performance and motivation in accounting education through augmented reality application",
+    "authors": [
+      "Renren Cao",
+      "Kien Tsong Chau",
+      "Wan Ahmad Jaafar Wan Yahaya"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/14703297.2026.2748864",
+    "url": "https://doi.org/10.1080/14703297.2026.2748864",
+    "abstract": "",
+    "keywords": [
+      "Augmented reality",
+      "Higher education",
+      "Psychology",
+      "Mathematics education",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:26.892012"
+  },
+  {
+    "id": "https://openalex.org/W7221789747",
+    "title": "Faculty perspectives on course-based undergraduate research experiences in engineering: Adoption, implementation, and institutional conditions",
+    "authors": [
+      "Li Yang",
+      "Jing Yan",
+      "Lin Li"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/14703297.2026.2748863",
+    "url": "https://doi.org/10.1080/14703297.2026.2748863",
+    "abstract": "Course-based undergraduate research experiences (CUREs) have been promoted to expand access to authentic research within the curriculum, yet most scholarships have focused on student outcomes rather than faculty experience, especially in engineering and Historically Black College or University (HBCU) contexts. This study examines how engineering faculty at HBCU understood the value, difficulty, and sustainability of CURE teaching. Drawing on semi-structured interviews with 10 faculty members at ",
+    "keywords": [
+      "Coursework",
+      "Undergraduate research",
+      "Pedagogy",
+      "Higher education",
+      "Medical education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:26.892069"
+  },
+  {
+    "id": "https://openalex.org/W7221792909",
+    "title": "Sustaining social-emotional professional development: Teachers' retrospective perspectives in primary schools",
+    "authors": [
+      "Figen Karaferye"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-14",
+    "doi": "10.1016/j.tate.2026.105871",
+    "url": "https://doi.org/10.1016/j.tate.2026.105871",
+    "abstract": "",
+    "keywords": [
+      "Medical education",
+      "Pedagogy",
+      "Professional development",
+      "Psychology",
+      "Higher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:42.592575"
+  },
+  {
+    "id": "https://openalex.org/W7221809489",
+    "title": "Teachers’ motivation for coaching: A latent profile analysis of predictors and outcomes",
+    "authors": [
+      "Jiayi Wang",
+      "Chun Chen",
+      "Yuran Chen",
+      "Fuyu Mei",
+      "Shu Feng"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-14",
+    "doi": "10.1016/j.tate.2026.105870",
+    "url": "https://doi.org/10.1016/j.tate.2026.105870",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Developmental psychology",
+      "Statistical analysis",
+      "Clinical psychology",
+      "Latent growth modeling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:42.592580"
+  },
+  {
+    "id": "https://openalex.org/W7221768388",
+    "title": "Corpus-Based Modeling of Second Language Acquisition Trajectories: A Multidimensional Analysis of English Grammar Development Among Chinese Learners",
+    "authors": [
+      "Xin Yin"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-10-14",
+    "doi": "10.1177/13621688261489747",
+    "url": "https://doi.org/10.1177/13621688261489747",
+    "abstract": "In the context of the growing global demand for English learning, it is crucial to understand the systematic patterns of grammar acquisition by Chinese learners. Traditional cross-sectional studies and teaching methods, focused on static rules, fail to capture the dynamic, nonlinear trajectories of development and the profound influence of first language (L1) typology. This study addresses these gaps by integrating Dynamic Systems Theory with machine learning algorithms to model the developmenta",
+    "keywords": [
+      "Grammar",
+      "Linguistics",
+      "Computer science",
+      "Language acquisition",
+      "Second-language acquisition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:44.413136"
+  },
+  {
+    "id": "https://openalex.org/W7221801673",
+    "title": "Questioning and Selective Noticing in Synchronous Online CFL Tutoring: A Study of Novice Peer Facilitators",
+    "authors": [
+      "Shu-Ping Gong",
+      "Pei-Lin Liu",
+      "Yu-Hsuan Chung"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-10-14",
+    "doi": "10.1177/13621688261492610",
+    "url": "https://doi.org/10.1177/13621688261492610",
+    "abstract": "Questioning plays a central role in organizing interaction and shaping learning opportunities in language teaching. However, less is known about how novice peer facilitators document their questioning practices and notice learner-language problems in synchronous online Chinese as a foreign language tutoring. This mixed-methods study investigated Taiwanese university students serving as International Companions in a 13-week online Chinese conversation program with Czech learners. Data included st",
+    "keywords": [
+      "Psychology",
+      "Conversation",
+      "Computer-mediated communication",
+      "Notice",
+      "Salience (neuroscience)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:44.413197"
+  },
+  {
+    "id": "https://openalex.org/W7221802126",
+    "title": "The Impact of Teacher Complaint Response Strategies on Turkish EFL Students’ Email Replies: Perceptions and Linguistic Analysis",
+    "authors": [
+      "Tanju Deveci"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-10-14",
+    "doi": "10.1177/13621688261490442",
+    "url": "https://doi.org/10.1177/13621688261490442",
+    "abstract": "Students’ academic engagement is significantly influenced by their interactions with faculty. This is a particular consideration for English as a foreign language (EFL) learners in English-medium instruction (EMI) contexts, where their pragmatic competence (PC) may still be developing. A key dimension of PC is the use of speech acts. When confronted with high academic demands, students likely employ the complaint speech act to express their concerns. In response, faculty may adopt complaint resp",
+    "keywords": [
+      "Psychology",
+      "Complaint",
+      "Turkish",
+      "Perception",
+      "Competence (human resources)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:44.413240"
+  },
+  {
+    "id": "https://openalex.org/W7221772273",
+    "title": "Learning vector field concepts with multiple representations in introductory physics - Robustness of effects across instructional contexts",
+    "authors": [
+      "Larissa Hahn",
+      "Alexander Voigt",
+      "Pascal Klein"
+    ],
+    "journal": "Physical Review Physics Education Research",
+    "jif": 3.6,
+    "published_date": "2026-10-14",
+    "doi": "10.1103/hsd4-qy8s",
+    "url": "https://doi.org/10.1103/hsd4-qy8s",
+    "abstract": "",
+    "keywords": [
+      "Robustness (evolution)",
+      "Computer science",
+      "Field (mathematics)",
+      "Artificial intelligence",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1103/hsd4-qy8s",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:47.128929"
+  },
+  {
+    "id": "https://openalex.org/W7221834500",
+    "title": "Needs and Challenges in Educational Leadership Training: An Exploratory Study of Academic Staff in Selected Chinese Universities",
+    "authors": [
+      "Zhao Cheng",
+      "Chang Zhu"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-10-14",
+    "doi": "10.1111/ejed.70902",
+    "url": "https://doi.org/10.1111/ejed.70902",
+    "abstract": "ABSTRACT Strengthening the leadership capacities of leading academics by educational leadership training programmes is inevitable for academics who lack experience, training and knowledge of educational leadership. This study has been conducted in association with a cooperative project on capacity building under the Erasmus+ programme, focusing on academics in Chinese higher education. The aim of this study is to explore academics' perceived needs and challenges in educational leadership trainin",
+    "keywords": [
+      "Exploratory research",
+      "Educational leadership",
+      "Grounded theory",
+      "Qualitative research",
+      "Leadership development"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70902",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:48.045113"
+  },
+  {
+    "id": "https://openalex.org/W7221755911",
+    "title": "Intersectionality, emotionality and transnationality: migrant academics in UK higher education",
+    "authors": [
+      "Saba Hussain",
+      "Nazia Hussein",
+      "Maria Tsouroufli"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/00131911.2026.2734447",
+    "url": "https://doi.org/10.1080/00131911.2026.2734447",
+    "abstract": "While these injustices around race and gender are experienced across many academic communities, migration status produces a specific and undertheorised layer of vulnerability, shaped by anti- immigration policies, visa-inflected precarity, and shrinking academic freedoms that existing frameworks have not adequately theorised. This editorial introduces a special issue (SI) that brings together six papers examining the overlapping forms of marginalisation experienced by migrant and minoritised aca",
+    "keywords": [
+      "Transnationality",
+      "Sociology",
+      "Intersectionality",
+      "Gender studies",
+      "Racialization"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/00131911.2026.2734447",
+    "cited_by_count": 0,
+    "type": "editorial",
+    "fetched_at": "2026-10-15T23:57:50.843672"
+  },
+  {
+    "id": "https://openalex.org/W7221815780",
+    "title": "Invisible pillars of the academy: exploring the responsible well-being of Técnico Docente staff in Ecuadorian higher education",
+    "authors": [
+      "Daysi Lorena Narváez-Cantos",
+      "María de Lourdes",
+      "María Fernanda Pacurucu-Pacurucu"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/00131911.2026.2710619",
+    "url": "https://doi.org/10.1080/00131911.2026.2710619",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Pedagogy",
+      "Sociology",
+      "Qualitative research",
+      "Public relations"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:50.843688"
+  },
+  {
+    "id": "https://openalex.org/W7221832766",
+    "title": "Higher stress, supported less? A systematic review of stress reducing interventions involving higher education students with accessibility requirements and/or disability",
+    "authors": [
+      "Elizabeth Hitches",
+      "Melissa Johnstone",
+      "Dean Alan Dudley",
+      "Stuart Woodcock",
+      "Mark Robinson"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/00131911.2026.2724121",
+    "url": "https://doi.org/10.1080/00131911.2026.2724121",
+    "abstract": "The stress experienced by higher education students with accessibility requirements and/or disability has implications for their learning, achievement, and health. This systematic literature review explored stress reduction interventions trialled with students with accessibility requirements and/or disability from 2011 through mid-2025. A total of 3,874 articles were identified through Academic Search Premier, Education Research Complete, Psychology and Behaviour Sciences, and CINAHL, and 25 art",
+    "keywords": [
+      "Psychological intervention",
+      "Stressor",
+      "Psychology",
+      "Inclusion (mineral)",
+      "Higher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/00131911.2026.2724121",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-15T23:57:50.843727"
+  },
+  {
+    "id": "https://openalex.org/W7221758353",
+    "title": "Teachers’ mindsets on sustainability: challenges and prospects",
+    "authors": [
+      "Elis Ossmane",
+      "João Simão",
+      "Sandra Caeiro"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1108/ijshe-08-2025-0820",
+    "url": "https://doi.org/10.1108/ijshe-08-2025-0820",
+    "abstract": "Purpose Education is a crucial pillar of social transformation in the pursuit of sustainable development, particularly within higher education. Regarding the central role of teachers, this study aims to critically analyse evidence regarding higher education teachers’ mindsets on sustainability and its impact on education. Design/methodology/approach The authors conducted a systematic literature review, providing a structured and replicable search and analysis of the relevant literature, to synth",
+    "keywords": [
+      "Mindset",
+      "Sustainability",
+      "Leverage (statistics)",
+      "Social connectedness",
+      "Engineering ethics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:52.629039"
+  },
+  {
+    "id": "https://openalex.org/W7221804116",
+    "title": "Campus as a living laboratory ecosystem for sustainability: fostering entrepreneurial innovation in organic waste valorisation",
+    "authors": [
+      "Aceng Gima Sugiama",
+      "Dewi Amalia",
+      "Yackob Astor"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1108/ijshe-02-2026-0315",
+    "url": "https://doi.org/10.1108/ijshe-02-2026-0315",
+    "abstract": "Purpose This study aims to examine the structural relationships among entrepreneurial innovation, sustainability-oriented innovation and a zero-waste campus, while considering the mediating roles of organic waste valorisation and circular economy transition in the higher education context from a living laboratory perspective. Design/methodology/approach A quantitative approach was used, using PLS-SEM and MGA to analyse cross-sectional data from 391 respondents, guided by a transdisciplinary fram",
+    "keywords": [
+      "Valorisation",
+      "Circular economy",
+      "Sustainability",
+      "Entrepreneurship",
+      "Context (archaeology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:52.629099"
+  },
+  {
+    "id": "https://openalex.org/W7221831102",
+    "title": "Sustainability reporting in higher education: validating material topics from a stakeholder perspective in the Spanish context",
+    "authors": [
+      "Yolanda Ramírez Córcoles",
+      "Francisco Montero"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-10-14",
+    "doi": "10.1108/ijshe-12-2025-1548",
+    "url": "https://doi.org/10.1108/ijshe-12-2025-1548",
+    "abstract": "Purpose This study aims to construct and empirically validate a sustainability reporting framework for Spanish higher education institutions (HEIs). The study also explores the university stakeholders’ perceptions of motivations and obstacles to disclosing voluntary sustainability information. Stakeholders are defined as members of University Social Councils (the collegiate bodies bridging the institution and society) encompassing university government, academic and administrative staff, student",
+    "keywords": [
+      "Sustainability",
+      "Stakeholder",
+      "Public relations",
+      "Higher education",
+      "Construct (python library)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:52.629183"
+  },
+  {
+    "id": "https://openalex.org/W7221813838",
+    "title": "Career aspirations and capital conversion among doctoral students in non-research-intensive Chinese universities",
+    "authors": [
+      "Hanyu Qin",
+      "Hugo Horta"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/03075079.2026.2747744",
+    "url": "https://doi.org/10.1080/03075079.2026.2747744",
+    "abstract": "Despite the global expansion of doctoral education, labor markets remain highly stratified, shaping how students and graduates envision attainable futures. Existing research has focused predominantly on PhD students at research-intensive universities, leaving limited understanding of how doctoral students at non-research-intensive (NRI) universities form their career aspirations under conditions of institutional hierarchy. Building on Bourdieu’s concepts of field, capital, and habitus, and Goffm",
+    "keywords": [
+      "Embeddedness",
+      "Habitus",
+      "Higher education",
+      "Symbolic capital",
+      "Sociology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2747744",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:56.728824"
+  },
+  {
+    "id": "https://openalex.org/W7221823309",
+    "title": "From promise to practice: gendered labor divisions in STEAM activities",
+    "authors": [
+      "Santiago Ojeda-Ramírez",
+      "Lora Cawelti",
+      "Joey Huang",
+      "Kylie Peppler"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/17439884.2026.2744121",
+    "url": "https://doi.org/10.1080/17439884.2026.2744121",
+    "abstract": "This study examines how gendered labor divisions persist or are challenged in STEAM education through the design and use of educational toolkits. We analyze data from a three-day kinetic sculpture workshop in which 24 middle school students used the Grove Beginner Kit for Arduino to create motorized art projects. Drawing from video observations, student interviews, and a gender-sorting task, we explore (1) the key STEAM practices involved in kinetic sculpture creation, (2) how gendered patterns ",
+    "keywords": [
+      "Sociology",
+      "Sculpture",
+      "Visual arts education",
+      "The arts",
+      "Coding (social sciences)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/17439884.2026.2744121",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:58.410880"
+  },
+  {
+    "id": "https://openalex.org/W7221774725",
+    "title": "Teacher emotions during professional development: a systematic review of quantitative self-report instruments",
+    "authors": [
+      "Lawrence Farrugia Caruana",
+      "James Calleja"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-10-14",
+    "doi": "10.1080/19415257.2026.2734910",
+    "url": "https://doi.org/10.1080/19415257.2026.2734910",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Professional development",
+      "Medical education",
+      "Applied psychology",
+      "Pedagogy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/19415257.2026.2734910",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-15T23:58:00.106153"
+  },
+  {
+    "id": "https://openalex.org/W7221801890",
+    "title": "A multidimensional analysis of children’s connection with nature: Associations with age, gender, and frequency of nature contact",
+    "authors": [
+      "Tamara Murillo Jiménez",
+      "Manuel Remesal",
+      "Antonio José Carpio",
+      "Rocío Serrano Rodriǵuez"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-10-14",
+    "doi": "10.1016/j.ijer.2026.103140",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103140",
+    "abstract": "",
+    "keywords": [
+      "Multidimensional analysis",
+      "Connection (principal bundle)",
+      "Multidimensional data",
+      "Multidimensional systems",
+      "Computer science"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103140",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:58:02.828806"
+  },
+  {
+    "id": "https://openalex.org/W7221769759",
+    "title": "Correction to ‘Organizational and Psychological factors in teacher educators' professional identity development: An empirical analysis’",
+    "authors": [],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-10-14",
+    "doi": "10.1002/berj.70293",
+    "url": "https://doi.org/10.1002/berj.70293",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Identity (music)",
+      "Social psychology",
+      "Pedagogy",
+      "Empirical research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-10-15T23:58:03.725143"
+  },
+  {
     "id": "https://openalex.org/W7221699980",
     "title": "From isolated foci to coordinated attending: Critical events identified by novice mathematics teacher-educators",
     "authors": [
@@ -24,6 +666,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-15T00:10:33.331179"
+  },
+  {
+    "id": "https://openalex.org/W7221774450",
+    "title": "Desktop Virtual Reality for Public First‐Aid Training: Effects on Cognitive Load and Learning Outcomes",
+    "authors": [
+      "Yang Wang",
+      "Jia Li"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-10-13",
+    "doi": "10.1002/jcal.70340",
+    "url": "https://doi.org/10.1002/jcal.70340",
+    "abstract": "ABSTRACT Background Public first‐aid education must help learners apply procedural knowledge in emergencies, yet conventional instruction offers limited contextualized practice. Desktop virtual reality (DVR) can provide interactive, scenario‐based learning, but evidence regarding its effects on cognitive load and cardiopulmonary resuscitation (CPR) knowledge is inconclusive. Objectives Our study compared DVR‐based and video‐based CPR instruction in terms of learners' cognitive load and performan",
+    "keywords": [
+      "Cognitive load",
+      "Cognition",
+      "Set (abstract data type)",
+      "Virtual reality",
+      "Computer science"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcal.70340",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:34.733016"
   },
   {
     "id": "https://openalex.org/W7221713368",
@@ -424,6 +1092,35 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-15T00:10:47.876967"
+  },
+  {
+    "id": "https://openalex.org/W7221512518",
+    "title": "Navigating AI affective support: The cognitive-affective pathway from appraisal to emotional well-being in learners",
+    "authors": [
+      "Wenjun Zhong",
+      "Jianghua Luo",
+      "Shuhui Yu",
+      "Ya Lyu",
+      "Jiang Guo"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-10-12",
+    "doi": "10.1016/j.compedu.2026.105768",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105768",
+    "abstract": "",
+    "keywords": [
+      "affective resonance",
+      "emotional well-being",
+      "appraisal theory",
+      "affective bonds",
+      "academic stress"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:13.536703"
   },
   {
     "id": "https://openalex.org/W7221646312",
@@ -1140,6 +1837,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-13T02:45:35.747643"
+  },
+  {
+    "id": "https://openalex.org/W7221339853",
+    "title": "Designing a pipeline linking professional development to AI-supported instructional practice",
+    "authors": [
+      "Ari Kim"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-10-10",
+    "doi": "10.1016/j.compedu.2026.105764",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105764",
+    "abstract": "",
+    "keywords": [
+      "teacher professional development",
+      "AI adoption in education",
+      "instructional practices",
+      "reflective practice",
+      "subject matter expertise"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-15T23:57:13.536721"
   },
   {
     "id": "https://openalex.org/W7221325864",
