@@ -1,149 +1,188 @@
-📅 运行时间：2026-10-14 00:42
-📊 本次新增文章：17 篇
-📚 数据库总文章数：1640 篇
-🔍 查询范围：2026-10-07 至 2026-10-14
+📅 运行时间：2026-10-15 00:10
+📊 本次新增文章：21 篇
+📚 数据库总文章数：1637 篇
+🔍 查询范围：2026-10-08 至 2026-10-15
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Interactive Learning Environments: 2 篇
-  • Language Teaching Research: 2 篇
-  • Journal of English For Academic Purposes: 2 篇
-  • International Journal of Educational Technology in Higher Education: 1 篇
-  • Computer Assisted Language Learning: 1 篇
-  • Education and Information Technologies: 1 篇
-  • Journal of Research on Technology In Education: 1 篇
-  • Innovations In Education and Teaching International: 1 篇
-  • Innovation In Language Learning and Teaching: 1 篇
-  • Journal of Research In Science Teaching: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
+  • Learning and Instruction: 2 篇
+  • Innovation In Language Learning and Teaching: 2 篇
+  • ETR&D-Educational Technology Research and Development: 2 篇
+  • Physical Review Physics Education Research: 2 篇
+  • European Journal of Education: 2 篇
+  • Review of Educational Research: 1 篇
+  • System: 1 篇
+  • Interactive Learning Environments: 1 篇
+  • Journal of Computer Assisted Learning: 1 篇
+  • Modern Language Journal: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • Language Teaching Research: 1 篇
+  • Science Education: 1 篇
   • Studies In Higher Education: 1 篇
-  • Professional Development In Education: 1 篇
-  • British Educational Research Journal: 1 篇
+  • Science & Education: 1 篇
+  • Technology Pedagogy and Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Same construct, same conclusion? A construct-observability perspective on self-report and non-self-report indicators in AI education research: a two-phase systematic review
-    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
-    作者：Yijun Fan, Yangtian Ning, Vanman Isabel Tchiang 等(4人)
+[1] Unlocking Early Mathematics Potential at Home: A Meta-Analysis of the Effects of Home Mathematical Activity Interventions on Preschool Children’s Mathematical Learning
+    期刊：Review of Educational Research (JIF: 7.4)
+    作者：Jiajia Li, Jin Sun, Dandan An 等(5人)
     日期：2026-10-12
-    关键词：Perspective (graphical), Observability, Competence (human resources), Construct (python library), Sample (material)
-    DOI：https://doi.org/10.1186/s41239-026-00631-8
+    关键词：Psychological intervention, Moderation, Psychology, Quality (philosophy), Empirical research
+    DOI：https://doi.org/10.3102/00346543261488048
+
+[2] The AI dilemma in L2 writing: Is AI literacy associated with willingness to write through self-efficacy, anxiety, or both? A serial mediation investigation
+    期刊：System (JIF: 5.6)
+    作者：Yanyu Yang, Bingwei Li
+    日期：2026-10-13
+    关键词：Mediation, Literacy, Dilemma, Psychology, Narrative
+    DOI：https://doi.org/10.1016/j.system.2026.104175
     🔓 开放获取
 
-[2] Learner-AI interaction and prompting structures in argumentative continuation writing: a complex dynamic systems analysis of writing-thinking co-development
-    期刊：Computer Assisted Language Learning (JIF: 6.6)
-    作者：Hongying Peng
-    日期：2026-10-12
-    关键词：Continuation, Argumentative, Computer science, Complex system, Linguistics
-    DOI：https://doi.org/10.1080/09588221.2026.2746697
-
-[3] Beyond play: A mixed methods exploration of a gamified design thinking intervention on design thinking mindset and creative self-efficacy
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Chenguang Du, Shen Qiao
-    日期：2026-10-12
-    关键词：Mindset, Design thinking, Educational technology, Instructional design, Intervention (counseling)
-    DOI：https://doi.org/10.1007/s10639-026-14169-9
-
-[4] Enhancing student engagement through contextualised physics instruction
+[3] ChatGPT as cognitive scaffold: computational thinking and metacognition in AI-embedded instruction
     期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Femi Emmanuel Babalola, Sina Joshua Fakoyede, Folasade B. Ojobola 等(5人)
-    日期：2026-10-12
-    关键词：Student engagement, Mathematics education, Pedagogy, Educational technology, Psychology
-    DOI：https://doi.org/10.1080/10494820.2026.2745724
+    作者：Tanya Chichekian, Joel Trudeau
+    日期：2026-10-13
+    关键词：Metacognition, Cognition, Psychology, Cognitive psychology, Computational thinking
+    DOI：https://doi.org/10.1080/10494820.2026.2744894
 
-[5] A new spiral model of AI literacy and competency in higher education developed through a systematic literature review
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Zubair Ahmad, Nafilah Abdul Latheef, Almaas Sultana 等(5人)
-    日期：2026-10-12
-    关键词：Systematic review, Higher education, Literacy, Spiral (railway), Mathematics education
-    DOI：https://doi.org/10.1080/10494820.2026.2735920
+[4] An integrated cognitive-affective spatial system for geometry
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Kelsey E. Schenck, Mitchell J. Nathan
+    日期：2026-10-13
+    关键词：Geometry, Geology, Computer science
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102492
+    🔓 开放获取
 
-[6] Understanding generative artificial intelligence literacy in higher education: Development and validation of an instrument
-    期刊：Journal of Research on Technology In Education (JIF: 5.0)
-    作者：Weijie Ma, Fang Yuan, Huiling Luo
-    日期：2026-10-12
-    关键词：Computer science, Generative grammar, Artificial intelligence, Literacy, Mathematics education
-    DOI：https://doi.org/10.1080/15391523.2026.2735312
+[5] Dynamic engagement patterns during collaborative reasoning discussions and their relations to adolescents’ individual reasoning
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Shuang Wu, Shufeng Ma, Senyu Chen 等(4人)
+    日期：2026-10-13
+    关键词：Argumentative, Psychology, Cognition, Collaborative learning, Process (computing)
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102494
+    🔓 开放获取
 
-[7] Exploring the organizational pathways from pedagogical innovation to higher education quality and performance. The mediating role of education governance
-    期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Zouhir Adile, Fatima Zohra Sossi Alaoui, Badr Guennoun
-    日期：2026-10-12
-    关键词：Higher education, Corporate governance, Quality (philosophy), Public relations, Pedagogy
-    DOI：https://doi.org/10.1080/14703297.2026.2747001
-
-[8] Effects of AI-supported interventions on language performance: a multilevel meta-analysis of language-learning innovations
+[6] The impact of ChatGPT-assisted instruction on speaking performance, motivation, and self-regulated learning: a quasi-experimental study of intermediate EFL learners in China
     期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Fatih Kana, Mehmet Adıyaman
+    作者：Yan Chang
+    日期：2026-10-13
+    关键词：Mathematics education, Psychology, China, Pedagogy, Learner autonomy
+    DOI：https://doi.org/10.1080/17501229.2026.2748336
+
+[7] Making GenAI revision accountable: learner evaluation, uptake, and revision quality in source-based academic writing
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Huican Huo, Yanfan Cheng, Yue Peng 等(4人)
+    日期：2026-10-13
+    关键词：Quality (philosophy), Academic writing, Psychology, Mathematics education, Pedagogy
+    DOI：https://doi.org/10.1080/17501229.2026.2745108
+    🔓 开放获取
+
+[8] Beyond the Algorithm: Fostering Inclusive and Culturally Responsive Education for Multilingual and Multicultural Learners
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Salma Gehad Waly
     日期：2026-10-12
-    关键词：Psychology, Psychological intervention, Applied psychology, Language acquisition, Intervention (counseling)
-    DOI：https://doi.org/10.1080/17501229.2026.2744564
+    关键词：Inclusion (mineral), Multiculturalism, Sociology, Agency (philosophy), Pedagogy
+    DOI：https://doi.org/10.1002/jcal.70357
+    🔓 开放获取
 
-[9] Perspectives on “The Separate Worlds of Science and Science Teaching, According to Potential Science Teachers”
-    期刊：Journal of Research In Science Teaching (JIF: 4.5)
-    作者：Katherine Wade‐Jaimes
-    日期：2026-10-11
-    关键词：Science education, Sociology, Epistemology, Engineering ethics, Science, technology, society and environment education
-    DOI：https://doi.org/10.1002/tea.70076
+[9] Capturing emotional engagement in classrooms: a multimodal observational analysis across classroom contexts and its association with learning outcomes
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Fangfang Zhu, Qiuyue Li, Mingsheng Zheng 等(5人)
+    日期：2026-10-13
+    关键词：Association (psychology), Psychology, Observational study, Educational technology, Observational learning
+    DOI：https://doi.org/10.1007/s11423-026-10740-w
 
-[10] What Is My Theoretical Framework? The Role of Theory in L2 Research
+[10] Developing computational thinking in teacher education: a brief experience with coding, robotics, and machine learning
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Susana Sánchez Castro, María Ángeles Pascual Sevillano, Rogelio Buceta Otero 等(4人)
+    日期：2026-10-13
+    关键词：Computational thinking, Computer science, Game based learning, Educational technology, Artificial intelligence
+    DOI：https://doi.org/10.1007/s11423-026-10744-6
+    🔓 开放获取
+
+[11] Pluriliteracies Teaching for Deeper Learning: An Investigation of Materials Development in the Basque Country
+    期刊：Modern Language Journal (JIF: 4.0)
+    作者：Darío Luis Banegas, 陈丹丹, Do Coyle
+    日期：2026-10-12
+    关键词：Agency (philosophy), Pedagogy, Situated, Reflexivity, Pragmatism
+    DOI：https://doi.org/10.1111/modl.70095
+    🔓 开放获取
+
+[12] From isolated foci to coordinated attending: Critical events identified by novice mathematics teacher-educators
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Mayssa Hayeen-Halloun, Michal Ayalon
+    日期：2026-10-14
+    关键词：Mathematics education, Psychology, Pedagogy, Computer science, Teaching method
+    DOI：https://doi.org/10.1016/j.tate.2026.105857
+
+[13] Generative AI as a Catalyst: Transforming Digital Literacy Practices in English Language Teaching
     期刊：Language Teaching Research (JIF: 3.8)
-    作者：Hossein Nassaji
-    日期：2026-10-12
-    关键词：Psychology, Linguistics, Epistemology, Comprehension approach, Qualitative research
-    DOI：https://doi.org/10.1177/13621688261489875
-
-[11] Notes on Contributors
-    期刊：Language Teaching Research (JIF: 3.8)
-    日期：2026-10-12
-    DOI：https://doi.org/10.1177/13621688261489370
-
-[12] A decolonial approach to EAL academic writing education in the GenAI era
-    期刊：Journal of English For Academic Purposes (JIF: 3.4)
-    作者：Yachao Sun, Wendy Li
-    日期：2026-10-12
-    关键词：Situated, Operationalization, Agency (philosophy), Sociology, Academic writing
-    DOI：https://doi.org/10.1016/j.jeap.2026.101789
+    作者：Yuwei Wan, Benjamin Luke Moorhouse
+    日期：2026-10-13
+    关键词：Transformative learning, Situated, Literacy, Digital literacy, Pedagogy
+    DOI：https://doi.org/10.1177/13621688261487631
     🔓 开放获取
 
-[13] “I'm not even clear as to what you also want from me”: Dynamics of power play in PhD vivas
-    期刊：Journal of English For Academic Purposes (JIF: 3.4)
-    作者：Gabriel Tetteh
-    日期：2026-10-12
-    关键词：Dynamics (music), Power (physics), Sociology, Computer science, Engineering ethics
-    DOI：https://doi.org/10.1016/j.jeap.2026.101788
+[14] Challenges in using online assessments to measure student understanding in the era of generative AI
+    期刊：Physical Review Physics Education Research (JIF: 3.6)
+    作者：David P. Smith, Paula R. L. Heron, Peter S. Shaffer
+    日期：2026-10-13
+    关键词：Measure (data warehouse), Computer science, Artificial intelligence, Generative grammar, Data science
+    DOI：https://doi.org/10.1103/xrw4-t58t
     🔓 开放获取
 
-[14] Guest editorial “Innovations in environmental management within higher education institutions (Part 1)”
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Malin Song, Giray Gözgör, Oana‐Ramona Lobonţ
-    日期：2026-10-12
-    关键词：Sustainability, Higher education, Environmental education, Action (physics), Environmental studies
-    DOI：https://doi.org/10.1108/ijshe-09-2026-995
+[15] Inhibitory control and attentional allocation in overcoming position-velocity indiscrimination misconception in position-time graph representation
+    期刊：Physical Review Physics Education Research (JIF: 3.6)
+    作者：Qiawu Lin, JiaBei Lin, Wenting Hong 等(5人)
+    日期：2026-10-13
+    关键词：Computer science, Graph, Representation (politics), Artificial intelligence, Theoretical computer science
+    DOI：https://doi.org/10.1103/p4ln-56qt
     🔓 开放获取
 
-[15] Shapeshifting and patchworking: unpacking students’ identity constructions in the university ecology
+[16] From ‘Sir’ to ‘Laoshi’: Emotional Labour and Identity Negotiation of Novice Chinese‐Language Teachers Through Translanguaging
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Dan Feng, Fan Fang
+    日期：2026-10-13
+    关键词：Translanguaging, Foregrounding, Pedagogy, Sociology, Negotiation
+    DOI：https://doi.org/10.1111/ejed.70897
+    🔓 开放获取
+
+[17] The Lack of an Effective Mechanism to Sanction Teachers With Low Performance as a Problem of the Educational System: The Perspective of School Management in Romania
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Alin Croitoru, Felicia Morândău, Daniel Mara 等(4人)
+    日期：2026-10-12
+    关键词：Sanctions, Seniority, Preparedness, Perspective (graphical), Political science
+    DOI：https://doi.org/10.1111/ejed.70901
+    🔓 开放获取
+
+[18] Assessments as Sites for Teacher Sensemaking About Epistemic Learning Goals in Science
+    期刊：Science Education (JIF: 3.4)
+    作者：Lindsay B. Wells, Ryan L. Stowe, Aaron J. Burg
+    日期：2026-10-13
+    关键词：Reflexivity, Sensemaking, Dialog box, Philosophy of science, Epistemology
+    DOI：https://doi.org/10.1002/sce.70108
+    🔓 开放获取
+
+[19] Understanding development of learner agency in GenAI-assisted oral argumentation through the critical GenAI literacy-based dialogic teacher feedback
     期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Camilla Sanna, Patric Wallin, Liselott Aarsand
+    作者：Zhuobin Li, Tianjia Chen, Peijian Paul Sun
     日期：2026-10-12
-    关键词：Sociology, Performative utterance, Reflexivity, Framing (construction), Sociocultural evolution
-    DOI：https://doi.org/10.1080/03075079.2026.2745642
+    关键词：Dialogic, Argumentation theory, Agency (philosophy), Psychology, Pedagogy
+    DOI：https://doi.org/10.1080/03075079.2026.2744232
+
+[20] Correction to: The Coherence Between Epistemologies and SSI Teaching
+    期刊：Science & Education (JIF: 2.5)
+    作者：Arzu Sönmez Eryaşar, AHMET KILINÇ
+    日期：2026-10-13
+    关键词：Coherence (philosophical gambling strategy), Computer science, Artificial intelligence
+    DOI：https://doi.org/10.1007/s11191-026-00795-9
     🔓 开放获取
 
-[16] Professional development of mentor teachers in school-based teacher education: a social network perspective
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Marco Galle, Annelies Kreis, Liana Pirovino
-    日期：2026-10-12
-    关键词：Professional development, Relevance (law), Perspective (graphical), Professional learning community, Faculty development
-    DOI：https://doi.org/10.1080/19415257.2026.2740578
-    🔓 开放获取
-
-[17] (Re)thinking cross‐border students' agency in higher education
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Peng Zhang, Tinghe Jin, Simon Marginson
-    日期：2026-10-11
-    关键词：Higher education, Political science, Agency (philosophy), Public administration, Pedagogy
-    DOI：https://doi.org/10.1002/berj.70294
-    🔓 开放获取
+[21] Promoting computational thinking integration skills of pre-service social studies teachers
+    期刊：Technology Pedagogy and Education (JIF: 2.5)
+    作者：İsmail Güven, Yasemin Gülbahar, Serkan Keleşoğlu
+    日期：2026-10-13
+    关键词：Computational thinking, Mathematics education, Competence (human resources), Abstraction, Social studies
+    DOI：https://doi.org/10.1080/1475939x.2026.2735941
