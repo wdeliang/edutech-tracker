@@ -1,5 +1,511 @@
 [
   {
+    "id": "https://openalex.org/W7222413932",
+    "title": "Higher education assessments in the age of GenAI: a systematic review",
+    "authors": [
+      "Helen Crompton",
+      "Diane Burke"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-10-16",
+    "doi": "10.1186/s41239-026-00627-4",
+    "url": "https://doi.org/10.1186/s41239-026-00627-4",
+    "abstract": "Abstract Assessment in higher education has long centered on core principles such as validity, authenticity, and alignment with learning outcomes, alongside ongoing debates about how best to support academic integrity and meaningful feedback. The emergence of generative artificial intelligence (GenAI) is now placing renewed pressure on these established principles, prompting institutions to reconsider how assessment is designed, delivered, and evaluated. While a growing body of research has exam",
+    "keywords": [
+      "Higher education",
+      "Scholarship",
+      "Dialogical self",
+      "Transparency (behavior)",
+      "Best practice"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1186/s41239-026-00627-4.pdf",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-17T23:34:29.073986"
+  },
+  {
+    "id": "https://openalex.org/W7222554948",
+    "title": "“Heavier Objects Fall Faster”: Exploring Conceptual Reconstruction in Pre-Service Primary Teachers Through Refutational and AI-Supported Reflective Learning",
+    "authors": [
+      "Nuzulira Janeusse Fratiwi",
+      "Nor Farahwahidah Abdul Rahman",
+      "Fanni Zulaiha",
+      "Nur Habib Muhammad Iqbal",
+      "Achmad Samsudin"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-10-16",
+    "doi": "10.1007/s10956-026-10365-x",
+    "url": "https://doi.org/10.1007/s10956-026-10365-x",
+    "abstract": "",
+    "keywords": [
+      "Conceptual change",
+      "Concept learning",
+      "Psychology",
+      "Science education",
+      "Reflection (computer programming)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:38.536739"
+  },
+  {
+    "id": "https://openalex.org/W7222399841",
+    "title": "Exploring collaborative problem-solving in AI-assisted robotics education",
+    "authors": [
+      "Christian Basil Omeh",
+      "Elias Oupa Mashile"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-10-16",
+    "doi": "10.1080/10494820.2026.2749410",
+    "url": "https://doi.org/10.1080/10494820.2026.2749410",
+    "abstract": "Prompt engineering (PE) involves creating, improving, and deploying prompts to improve large language model (LLM) performance. Despite its increasing importance, many students lack skills in this area. Although frameworks for prompt design and process exist, theory-based instructional tools for improving prompt engineering skills are uncommon for developing collaborative problem-solving (CPS) skills in Robotics Education. This study adopted a PE strategy in AI-assisted robotics education, partic",
+    "keywords": [
+      "Robotics",
+      "Conversation",
+      "Process (computing)",
+      "Artificial intelligence",
+      "Computer science"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/10494820.2026.2749410",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:39.941947"
+  },
+  {
+    "id": "https://openalex.org/W7222559776",
+    "title": "GenAI-supported interactive learning and Chinese language arts (Yuwen) engagement: the mediating role of grit in an explanatory mixed-methods study",
+    "authors": [
+      "Hung",
+      "Zhitong Yu",
+      "Meng-Te Hung",
+      "Stacy E. Smith"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-10-16",
+    "doi": "10.1080/10494820.2026.2749408",
+    "url": "https://doi.org/10.1080/10494820.2026.2749408",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Grit",
+      "Interactive Learning",
+      "Mathematics education",
+      "Interactive media"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:39.941963"
+  },
+  {
+    "id": "https://openalex.org/W7222763538",
+    "title": "Comparing expert guided training and self-learning with virtual patients in emergency management training: a randomized controlled trial",
+    "authors": [
+      "Dilek Kitapçıoğlu",
+      "Feray Güven",
+      "Emel Gur",
+      "Mehmet Emin Aksoy",
+      "Dilan Çabuk"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-10-16",
+    "doi": "10.1080/10494820.2026.2745728",
+    "url": "https://doi.org/10.1080/10494820.2026.2745728",
+    "abstract": "Virtual patient-based simulation training has become a valuable tool in emergency medical education, particularly for developing clinical reasoning and decision-making skills. This randomized controlled experimental study compared the effectiveness of educator-guided and self-directed virtual patient training among paramedic students. Participants completed identical clinical scenarios using a virtual patient platform, either with real-time instructor support or independently with computer-gener",
+    "keywords": [
+      "Randomized controlled trial",
+      "Virtual patient",
+      "Flexibility (engineering)",
+      "Virtual training",
+      "Training (meteorology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:39.941994"
+  },
+  {
+    "id": "https://openalex.org/W7222486735",
+    "title": "Beyond structural relationships: an integrated PLS-SEM, MGA, and IPMA framework for revealing group differences and pedagogical priorities in psychosocial classroom environments in CFL classrooms",
+    "authors": [
+      "Li Muzi",
+      "Yunlu Zhao"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-10-16",
+    "doi": "10.1080/17501229.2026.2746415",
+    "url": "https://doi.org/10.1080/17501229.2026.2746415",
+    "abstract": "",
+    "keywords": [
+      "Psychosocial",
+      "Psychology",
+      "Group (periodic table)",
+      "Mathematics education",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:46.959415"
+  },
+  {
+    "id": "https://openalex.org/W7222515635",
+    "title": "The Nexus of Innovation: Technological, Organizational, and Environmental Influences on VR Adoption in Libraries",
+    "authors": [
+      "Yuping Shao",
+      "Abdullah Al Mamun",
+      "Mohammad Nurul Hassan Reza",
+      "Qing Yang"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-10-16",
+    "doi": "10.1002/jcal.70355",
+    "url": "https://doi.org/10.1002/jcal.70355",
+    "abstract": "ABSTRACT Background Virtual reality (VR) technology offers immersive, interactive, and engaging educational experiences. It can significantly improve how well students understand and retain their learning for complex subjects. Purpose This study explores the nexus of technological, organizational, and environmental factors influencing the readiness to adopt and the adoption of VR in academic libraries. Methods Drawing on the Technological‐Organizational‐Environmental model as the theoretical fou",
+    "keywords": [
+      "Nexus (standard)",
+      "Stratified sampling",
+      "Structural equation modeling",
+      "Higher education",
+      "Virtual reality"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:47.764716"
+  },
+  {
+    "id": "https://openalex.org/W7222634825",
+    "title": "The Influence of the Role of Peer Presence on Game‐Based Chemistry Learning: Evidence From EEG",
+    "authors": [
+      "Qian Huangfu",
+      "Yujia Guo",
+      "Tingting Deng",
+      "黃志方"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-10-16",
+    "doi": "10.1002/jcal.70361",
+    "url": "https://doi.org/10.1002/jcal.70361",
+    "abstract": "ABSTRACT Background Game‐based learning (GBL) has become an important way to innovate chemistry teaching. However, it is still unclear how different peer roles in GBL shape learners' learning outcomes and cognitive processes. Objectives The study examined how different peer roles (individual vs. collaborators vs. competitors) influence learners' outcomes in game‐based chemistry learning. It also examined differences in theta and alpha power across these conditions. Methods The study employed a b",
+    "keywords": [
+      "Psychology",
+      "Cognition",
+      "Electroencephalography",
+      "Collaborative learning",
+      "Peer review"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:47.764775"
+  },
+  {
+    "id": "https://openalex.org/W7222658291",
+    "title": "Generative AI as a cognitive partner: personalised GPTs and differentiated learning in undergraduate teacher education",
+    "authors": [
+      "Jason Zagami"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-10-16",
+    "doi": "10.1007/s11423-026-10746-4",
+    "url": "https://doi.org/10.1007/s11423-026-10746-4",
+    "abstract": "Abstract Generative artificial intelligence is increasingly framed as a catalyst for deeper learning rather than simple automation. This design-based study investigated how personalised GPT agents were used as cognitive partners by pre-service teachers in an undergraduate Initial Teacher Education course in Digital Technologies within a Bachelor of Education (Secondary) programme. Drawing on distributed cognition, constructivism, cognitive load theory, and critical AI literacy, the intervention ",
+    "keywords": [
+      "Curriculum",
+      "Bachelor",
+      "Thematic analysis",
+      "Cognition",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10746-4",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:49.881161"
+  },
+  {
+    "id": "https://openalex.org/W7222422835",
+    "title": "Associations Among Perceived Teacher and Peer Emotions, Learners’ Own Emotions, and Engagement in Online English Learning",
+    "authors": [
+      "Weidi Luo"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-10-16",
+    "doi": "10.1177/13621688261490467",
+    "url": "https://doi.org/10.1177/13621688261490467",
+    "abstract": "Emotion is integral to foreign language classrooms. Although recent research has expanded beyond learners to consider teachers and peers, these sources of classroom emotions have often been examined separately. Consequently, the associations among students’ perceptions of teacher emotions, peer emotions, their own emotions, and learning engagement remain underexplored, particularly in online learning contexts. To address this gap, this study employed structural equation modeling (SEM) and psycho",
+    "keywords": [
+      "Psychology",
+      "English as a foreign language",
+      "Perception",
+      "Online learning",
+      "Structural equation modeling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:55.314924"
+  },
+  {
+    "id": "https://openalex.org/W7222549289",
+    "title": "Corrigendum to The Mismatch Between World Bank Actions and the Decentralization of Educational Systems in LMICs",
+    "authors": [],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-10-16",
+    "doi": "10.3102/00028312261497943",
+    "url": "https://doi.org/10.3102/00028312261497943",
+    "abstract": "",
+    "keywords": [
+      "Decentralization",
+      "Political science",
+      "Business",
+      "Economic growth",
+      "Public administration"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00028312261497943",
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-10-17T23:34:56.629808"
+  },
+  {
+    "id": "https://openalex.org/W7222693657",
+    "title": "Navigating intentions: exploring the cognitive and environmental drivers of productive and destructive entrepreneurial intentions",
+    "authors": [
+      "Amir Emami",
+      "Andreas Kallmuenzer",
+      "Zahra Ghasemi Kooktapeh",
+      "Hamza Khastar",
+      "Gadaf Rexhepi"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-10-16",
+    "doi": "10.1108/et-07-2026-1183",
+    "url": "https://doi.org/10.1108/et-07-2026-1183",
+    "abstract": "Purpose This study aims to understand how entrepreneurial effort is allocated by differentiating between productive and destructive pathways. It examines how cognitive drivers (attitudes, subjective norms and perceived behavioral control) and environmental valuations (trust-based networks and status incentives) interact to steer entrepreneurship students toward value-creating or value-destructive entrepreneurial intentions in an emerging economy marked by institutional complexity. Design/methodo",
+    "keywords": [
+      "Theory of planned behavior",
+      "Entrepreneurship",
+      "Structural equation modeling",
+      "Closeness",
+      "Psychology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:35:04.728792"
+  },
+  {
+    "id": "https://openalex.org/W7222424991",
+    "title": "Exploring critical mathematical thinking processes among primary school students",
+    "authors": [
+      "Ünal Yılmaz",
+      "Pınar Güner"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-10-16",
+    "doi": "10.1002/berj.70292",
+    "url": "https://doi.org/10.1002/berj.70292",
+    "abstract": "Abstract This study examines primary school students' critical mathematical thinking (CMT) skills and processes and how they manifest across grade levels. Using a qualitative case study design, the study involved 24 students attending a private primary school, with six students from each of Grades 1–4. Data were collected through task‐based, semi‐structured individual interviews and analysed through descriptive thematic analysis supplemented by descriptive quantification. The findings showed tha",
+    "keywords": [
+      "Thematic analysis",
+      "Psychology",
+      "Mathematics education",
+      "Qualitative research",
+      "Private school"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:35:11.040686"
+  },
+  {
+    "id": "https://openalex.org/W7222616435",
+    "title": "Learning the control-of-variables strategy through self-generated and vicarious errors: the mediating roles of affect, motivation, cognitive load, and error awareness",
+    "authors": [
+      "Linda Hämmerle",
+      "Shelbi L. Kuhlmann",
+      "Theresa Krause-Wichmann",
+      "Andrea Möller"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-10-16",
+    "doi": "10.1007/s11251-026-09822-2",
+    "url": "https://doi.org/10.1007/s11251-026-09822-2",
+    "abstract": "Abstract Controlled experiments are essential for causal reasoning, yet students struggle with the control-of-variables strategy (CVS). Self-generated errors, vicarious errors, or a combination could provide learning opportunities; however, error awareness, motivation, affect, and cognitive load may shape whether students benefit from different types of errors. This study examines the effect of self-generated, vicarious, combined, or no errors on CVS learning, and investigates affect, motivation",
+    "keywords": [
+      "Psychology",
+      "Cognition",
+      "Path analysis (statistics)",
+      "Mediation",
+      "Cognitive psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09822-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:35:11.732917"
+  },
+  {
+    "id": "https://openalex.org/W7222615520",
+    "title": "Writing Motivation and Self‐Efficacy in AI ‐Chatbot‐Supported EFL Writing: Exploratory Insights Across Proficiency Levels",
+    "authors": [
+      "Thi-Ngoc-Anh Duong",
+      "Hsiu‐Ling Chen"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-10-15",
+    "doi": "10.1002/jcal.70356",
+    "url": "https://doi.org/10.1002/jcal.70356",
+    "abstract": "ABSTRACT Background Writing motivation and self‐efficacy are critical factors of success in English as a Foreign Language (EFL) contexts, yet they are frequently undermined by learner anxiety and limited teacher feedback. While artificial intelligence (AI) chatbots offer potential for adaptive writing support, limited research has examined these affective constructs in parallel across learner proficiency levels. Objectives This study investigated changes in intrinsic motivation, extrinsic motiva",
+    "keywords": [
+      "Psychology",
+      "Vietnamese",
+      "Language proficiency",
+      "Exploratory research",
+      "English as a foreign language"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jcal.70356",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:47.764827"
+  },
+  {
+    "id": "https://openalex.org/W7222478724",
+    "title": "From Me to We: The Pivotal Role of Self‐Determination Profiles in Cooperative Learning",
+    "authors": [
+      "Berna Yüner",
+      "Fulya Barış Pekmezci"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-10-15",
+    "doi": "10.1111/ejed.70911",
+    "url": "https://doi.org/10.1111/ejed.70911",
+    "abstract": "ABSTRACT This study aims to identify different latent profiles based on psychological needs and examine their moderating role in the link between self‐regulation and cooperation. The study sample consists of 560 undergraduate students from diverse class levels. The Student Perceptions of Knowledge‐Building scale and the Activity‐Feeling States scale were used. For the latent profiles, autonomy, competence, and relatedness were used, and two significantly different profiles named as The Achievers",
+    "keywords": [
+      "Moderation",
+      "Psychology",
+      "Cooperative learning",
+      "Scale (ratio)",
+      "Latent class model"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70911",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:58.029027"
+  },
+  {
+    "id": "https://openalex.org/W7222526191",
+    "title": "Young Learners' Motivation for AI ‐Supported Extracurricular French Vocabulary Learning: A Q Methodological Study",
+    "authors": [
+      "Xun Lu",
+      "Nanlan Pei"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-10-15",
+    "doi": "10.1111/ejed.70907",
+    "url": "https://doi.org/10.1111/ejed.70907",
+    "abstract": "ABSTRACT Artificial intelligence (AI) is increasingly reshaping extracurricular language learning, yet little is known about how young learners construct motivation when using AI to learn less commonly taught foreign languages. This study investigates primary school students' motivational typologies and the factors related to these configurations in AI‐supported extracurricular French vocabulary learning. Twenty learners completed a Q sorting task based on 34 motivational statements, and eight p",
+    "keywords": [
+      "Psychology",
+      "Vocabulary",
+      "Interpersonal communication",
+      "Affordance",
+      "Competence (human resources)"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70907",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:58.029076"
+  },
+  {
+    "id": "https://openalex.org/W7222705931",
+    "title": "Retaining Teachers: The Impact of Distributed Leadership on Teacher Resignation Intention",
+    "authors": [
+      "Mengting Zhang",
+      "Jihe Chen",
+      "Myduyen Dang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-10-15",
+    "doi": "10.1111/ejed.70908",
+    "url": "https://doi.org/10.1111/ejed.70908",
+    "abstract": "ABSTRACT Teacher resignation intention remains a persistent challenge to building a high‐quality teaching system. Drawing on Conservation of Resources (COR) theory, this study examines how distributed leadership relates to teachers' resignation intention and tests the mediating roles of enjoyment of teaching and perceived barriers to professional learning. Using TALIS 2024 data, results show that distributed leadership is negatively associated with resignation intention. While the simple mediati",
+    "keywords": [
+      "Distributed leadership",
+      "Psychology",
+      "Social psychology",
+      "Shared leadership",
+      "Public relations"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70908",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:34:58.029135"
+  },
+  {
+    "id": "https://openalex.org/W7222478844",
+    "title": "Bridging Theory and Practice Through Field-Based Learning: Student Engagement and Competency Development in Higher Education",
+    "authors": [
+      "Chien Chih Chen"
+    ],
+    "journal": "Active Learning In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-10-15",
+    "doi": "10.1177/14697874261493865",
+    "url": "https://doi.org/10.1177/14697874261493865",
+    "abstract": "This study addresses the limited empirical evidence on how field-based learning, grounded in principles of authentic and experiential education, is associated with students’ motivation and self-perceived competency development in higher education management. Employing an action research design in a third-year undergraduate cultural and educational management course in Taiwan ( N = 39), the instructor embedded site visits, stakeholder interviews, preparatory briefings, and reflection within a cas",
+    "keywords": [
+      "Experiential learning",
+      "Higher education",
+      "Student engagement",
+      "Bridging (networking)",
+      "Grounded theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-17T23:35:04.059343"
+  },
+  {
     "id": "https://openalex.org/W7222281045",
     "title": "Mapping generative AI in higher education teaching and learning: a scoping review",
     "authors": [
