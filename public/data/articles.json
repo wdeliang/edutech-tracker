@@ -1,5 +1,321 @@
 [
   {
+    "id": "https://openalex.org/W7222849874",
+    "title": "Retraction Note to: Escape rooms technology as a way of teaching mathematics to secondary school students",
+    "authors": [
+      "Mansour Saleh Alabdulaziz"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-17",
+    "doi": "10.1007/s10639-026-14173-z",
+    "url": "https://doi.org/10.1007/s10639-026-14173-z",
+    "abstract": "",
+    "keywords": [
+      "Mathematics education",
+      "Educational technology",
+      "Technology integration",
+      "Teaching method",
+      "Computer science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "retraction",
+    "fetched_at": "2026-10-18T23:45:20.732342"
+  },
+  {
+    "id": "https://openalex.org/W7222805614",
+    "title": "Reparation or Reproduction? Racialized State Contexts and University Engagement in Slavery Reparations",
+    "authors": [
+      "Juan Carlos Garibay",
+      "Amalia Daché",
+      "Jonathon Sun",
+      "Danielle Moore-Lewis"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-10-17",
+    "doi": "10.3102/0013189x261492595",
+    "url": "https://doi.org/10.3102/0013189x261492595",
+    "abstract": "Guided by racialized organizations theory and the afterlife of slavery, this study examines multilevel predictors of reparative engagement among 188 pre-Civil War universities across 33 U.S. states. Using critical race quantitative inquiry (QuantCrit)-informed multilevel discrete-time survival analysis, we estimate the hazard of first-time engagement across four reparative thresholds. At lower thresholds, endowment size and Black faculty representation positively predict engagement, while higher",
+    "keywords": [
+      "Context (archaeology)",
+      "Representation (politics)",
+      "Odds",
+      "Sociology",
+      "Race (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:24.833471"
+  },
+  {
+    "id": "https://openalex.org/W7222809140",
+    "title": "School District and Neighborhood Socioeconomic Factors in Adolescents’ Exposure to School Lockdown Responses to Violent and Firearm-Related Threats",
+    "authors": [
+      "Keith L. Hullenaar",
+      "Benjamin W. Fisher",
+      "Frederick P. Rivara"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-10-17",
+    "doi": "10.3102/0013189x261492835",
+    "url": "https://doi.org/10.3102/0013189x261492835",
+    "abstract": "School lockdowns can negatively affect student well-being. We used Bursik and Grasmick’s systemic reformulation of social disorganization theory to examine school district- and neighborhood-level socioeconomic risk factors for children’s exposure to school lockdown events caused by violent and firearm-related threats using data from the Adolescent Brain Cognitive Development Study ( N = 10,049). Approximately 8.0% of children experienced a school lockdown in the past year. Children in census tra",
+    "keywords": [
+      "Socioeconomic status",
+      "School district",
+      "Odds",
+      "Affect (linguistics)",
+      "Census"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:24.833518"
+  },
+  {
+    "id": "https://openalex.org/W7222819629",
+    "title": "The Effect of Promoting High Expectations on Teachers’ Feedback to Students",
+    "authors": [
+      "Yasemin Copur‐Gencturk",
+      "Ian Thacker",
+      "Joseph R. Cimpian"
+    ],
+    "journal": "Educational Researcher",
+    "jif": 4.9,
+    "published_date": "2026-10-17",
+    "doi": "10.3102/0013189x261492287",
+    "url": "https://doi.org/10.3102/0013189x261492287",
+    "abstract": "Experimental studies show that teachers’ feedback expressing high expectations benefits students, but it is unclear whether instructing teachers to emphasize high standards alters their feedback content. We randomly assigned 963 teachers to provide feedback either “as you normally would” (control) or to emphasize “your high standards and that the student has the potential to meet them” (treatment). Treatment teachers gave more detailed feedback on students’ strengths, weaknesses, strategies, eff",
+    "keywords": [
+      "Psychology",
+      "Equity (law)",
+      "Negative feedback",
+      "Positive feedback",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/0013189x261492287",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:24.833553"
+  },
+  {
+    "id": "https://openalex.org/W7222800935",
+    "title": "Divergent trajectories through disruption: Narrative portraits of performing arts teacher-mothers",
+    "authors": [
+      "Christina C. Gray",
+      "Kirsten Lambert",
+      "Tammy Green"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.tate.2026.105879",
+    "url": "https://doi.org/10.1016/j.tate.2026.105879",
+    "abstract": "Teaching is understood as emotional, relational and identity-based work, yet little is known about how teacher-mothers negotiate these demands over time, particularly in performing arts education. This qualitative follow-up study returns to four performing arts teacher-mothers seven years after their original participation. Narrative portraits constructed from a follow-up focus group examine how participants retrospectively made sense of changes in their professional and personal lives over that",
+    "keywords": [
+      "Performing arts",
+      "Portrait",
+      "Scholarship",
+      "Narrative",
+      "The arts"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105879",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:37.170563"
+  },
+  {
+    "id": "https://openalex.org/W7222838862",
+    "title": "Shared development through dialogic inquiry: Student transversal competencies and teacher professional learning",
+    "authors": [
+      "Ying Ji",
+      "Peter Dudley",
+      "Sara Hennessy"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.tate.2026.105876",
+    "url": "https://doi.org/10.1016/j.tate.2026.105876",
+    "abstract": "This exploratory study introduces shared development: student and teacher development proceeding through the same dialogic framework, with documented sequences consistent with recursive influence between levels. We report a qualitative multiple-case study of the first full implementation of the Think-Talk Toolbox, which operationalises transversal competencies through twelve dialogue skills: 24 teachers across four subjects in two contrasting Chinese primary schools over 15 months. Data comprise",
+    "keywords": [
+      "Dialogic",
+      "Transversal (combinatorics)",
+      "Reflection (computer programming)",
+      "Professional development",
+      "Pedagogy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105876",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:37.170613"
+  },
+  {
+    "id": "https://openalex.org/W7222846670",
+    "title": "When knowing does not mean designing: TPACK coherence and disciplinary epistemologies in preservice teachers’ technology integration",
+    "authors": [
+      "Merve Aydın",
+      "Sinem Çilligöl Karabey"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.tate.2026.105878",
+    "url": "https://doi.org/10.1016/j.tate.2026.105878",
+    "abstract": "Preservice teachers often demonstrate conceptual TPACK knowledge yet produce pedagogically shallow technology-integrated designs. This explanatory sequential mixed-methods study examined this gap by comparing 73 preservice teachers from two epistemologically contrasting programs (physical education and preschool education) in Türkiye. Results revealed a significant knowledge difference between programs (d = 1.72) but no association between achievement and SAMR-based integration depth (Substituti",
+    "keywords": [
+      "Technology integration",
+      "Discipline",
+      "Coherence (philosophical gambling strategy)",
+      "Mathematics education",
+      "Construct (python library)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105878",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:37.170653"
+  },
+  {
+    "id": "https://openalex.org/W7222805382",
+    "title": "Generative AI-supported peace pedagogy in higher education: A two-wave quasi-experimental study of AI literacy, intercultural sensitivity, and empathy",
+    "authors": [
+      "Talal Agil Alkhiri"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.ijer.2026.103139",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103139",
+    "abstract": "Generative AI is increasingly used in higher education, but its value for humanistic learning depends on pedagogical designs that preserve learner judgment and require critical evaluation of generated content. This two-wave quasi-experimental study examined a six-week GenAI-supported peace-pedagogy module in 522 Saudi higher-education students (intervention n = 276; waitlist n = 246). Intercultural sensitivity, empathy, and AI literacy were assessed at pretest and posttest using the ISS-15, Inte",
+    "keywords": [
+      "Empathy",
+      "Psychology",
+      "Literacy",
+      "Intervention (counseling)",
+      "Generative grammar"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103139",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:55.438232"
+  },
+  {
+    "id": "https://openalex.org/W7222816394",
+    "title": "Preparing teachers for multigrade classrooms: An action research study of a preservice teacher education curriculum",
+    "authors": [
+      "Fatma Karaçoban",
+      "Memet Karakuş"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.ijer.2026.103142",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103142",
+    "abstract": "The aim of this study was to examine the implementation and iterative refinement of a draft curriculum for the Teaching in Multigrade Classrooms course within a preservice teacher education programme. Using an action research design, the curriculum was implemented with 34 preservice teachers across four action cycles. Qualitative and quantitative data were collected through observations, interviews, reflective forms, researcher and observer records, student products, and the Self-Efficacy Scale ",
+    "keywords": [
+      "Rubric",
+      "Curriculum",
+      "Action research",
+      "Psychology",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103142",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:55.438285"
+  },
+  {
+    "id": "https://openalex.org/W7222828811",
+    "title": "Conceptualising AI-reform professional learning communities in Chinese schools through the lion dance metaphor",
+    "authors": [
+      "Shiyu Pu",
+      "Xiaokun Shi"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.ijer.2026.103146",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103146",
+    "abstract": "",
+    "keywords": [
+      "Metaphor",
+      "Dance",
+      "Professional learning community",
+      "Sociology",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:55.438301"
+  },
+  {
+    "id": "https://openalex.org/W7222829407",
+    "title": "Exploring undergraduates’ interpersonal emotion regulation in thesis supervision: a qualitative study of relationship-oriented strategies and motives",
+    "authors": [
+      "Zhenfang Xie",
+      "Wen Liu"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.ijer.2026.103150",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103150",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Qualitative research",
+      "Social psychology",
+      "Interpersonal communication",
+      "Interpersonal relationship"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:55.438307"
+  },
+  {
+    "id": "https://openalex.org/W7222836087",
+    "title": "Combining Generative Drawing and Explaining Activities for Chemistry Learning: Exploring the Role of Prior Knowledge",
+    "authors": [
+      "Runzhi Chen",
+      "Jennifer G. Cromley"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-10-17",
+    "doi": "10.1007/s11251-026-09824-0",
+    "url": "https://doi.org/10.1007/s11251-026-09824-0",
+    "abstract": "Abstract Generative strategies such as drawing, self-explaining, and explaining to others promote active learning, but evidence on their combined effects is mixed, and the role of prior knowledge remains unclear. The authors investigated the effects of drawing, self-explaining, and explaining to others, alone and in combination, in a multiple representation domain, chemistry. A total of 134 undergraduate students who had completed introductory chemistry were randomly assigned to one of six condi",
+    "keywords": [
+      "Generative grammar",
+      "Psychology",
+      "Educational psychology",
+      "Dual (grammatical number)",
+      "Representation (politics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11251-026-09824-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-18T23:45:57.026351"
+  },
+  {
     "id": "https://openalex.org/W7222413932",
     "title": "Higher education assessments in the age of GenAI: a systematic review",
     "authors": [
@@ -1681,6 +1997,31 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-15T00:10:33.331179"
+  },
+  {
+    "id": "https://openalex.org/W7221660855",
+    "title": "Conceptualizing the components of visual literacy in pedagogy: A systematic review",
+    "authors": [
+      "Veronika Vaseková"
+    ],
+    "journal": "Educational Research Review",
+    "jif": 10.6,
+    "published_date": "2026-10-13",
+    "doi": "10.1016/j.edurev.2026.100857",
+    "url": "https://doi.org/10.1016/j.edurev.2026.100857",
+    "abstract": "As visual communication increasingly dominates digital and educational landscapes, the need for a comprehensive understanding of visual literacy has grown significantly. This study explores the conceptual framework of visual literacy by identifying its key components and their relevance in pedagogical contexts. Using a systematic literature review following PRISMA reporting guidance, the study maps a final deduplicated corpus of 483 publications, of which 436 form the core qualitative synthesis ",
+    "keywords": [
+      "visual literacy",
+      "visual thinking",
+      "visual reading",
+      "visual production",
+      "visual communication"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.edurev.2026.100857",
+    "cited_by_count": 0,
+    "type": "review",
+    "fetched_at": "2026-10-18T23:45:09.833388"
   },
   {
     "id": "https://openalex.org/W7221666536",
@@ -43909,198 +44250,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-21T22:43:16.569566"
-  },
-  {
-    "id": "https://openalex.org/W7169769380",
-    "title": "AI literacy and student engagement in AI-assisted Chinese EFL contexts: the roles of basic psychological needs, and self-regulated learning",
-    "authors": [
-      "Wenxing Zhang",
-      "Jiayue Hu"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-07-19",
-    "doi": "10.1080/10494820.2026.2698253",
-    "url": "https://doi.org/10.1080/10494820.2026.2698253",
-    "abstract": "The growing integration of Artificial Intelligence (AI) in English as a Foreign Language (EFL) teaching highlights the significant role of AI literacy. Despite advancements in AI in Education, research on how learners’ AI literacy specifically affects their language learning engagement remains insufficient. This study investigated the mechanism through which AI literacy predicts student engagement, examining the mediating roles of basic psychological needs and self-regulated learning. Grounded i",
-    "keywords": [
-      "Literacy",
-      "Structural equation modeling",
-      "Information literacy",
-      "Student engagement",
-      "English as a foreign language"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-21T22:42:50.523175"
-  },
-  {
-    "id": "https://openalex.org/W7169767384",
-    "title": "“Histogogy”: Trend and Thematic Analysis on Pedagogical History Education (1993–2024)",
-    "authors": [
-      "Junhua Tan",
-      "Amjad Islam Amjad",
-      "Sarfraz Aslam",
-      "Amir Karimi"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-19",
-    "doi": "10.1111/ejed.70782",
-    "url": "https://doi.org/10.1111/ejed.70782",
-    "abstract": "ABSTRACT In history education, pedagogy is essential, particularly for fostering students' understanding of history. The ongoing dearth of thorough and insightful research on research trends and hotspots demonstrates the goal of this study. This study focuses on a bibliometric examination of patterns in pedagogical history teaching goals. Using the WoS database, 600 research publications spanning 1993 to 2024 were examined. The data was exported to VOSviewer, Bibliometrix, and Microsoft Excel. T",
-    "keywords": [
-      "Thematic analysis",
-      "Thematic map",
-      "Curriculum",
-      "Educational research",
-      "World history"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70782",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-21T22:43:06.726338"
-  },
-  {
-    "id": "https://openalex.org/W7169784505",
-    "title": "Transformations in Children's Play in Rural Areas: Teachers' and Parents' Perspectives",
-    "authors": [
-      "Roza Novita",
-      "Farida Hanum",
-      "Muthmainah",
-      "Wisnu Kristanto",
-      "Qotrun Nada Nafiah"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-19",
-    "doi": "10.1111/ejed.70780",
-    "url": "https://doi.org/10.1111/ejed.70780",
-    "abstract": "ABSTRACT Play for young children in rural areas is changing with social, cultural shifts and increased digitaltechnology use. This study explores changes in play among children aged 4–6 in three Gunungkidul villages, from parents' and ECE teachers' perspectives. Using a descriptive qualitative approach, data from 21 parents and six teachers were collected via online questionnaires and analysed thematically. The findings indicate that children's play has evolved into a hybrid play ecology in whic",
-    "keywords": [
-      "Mediation",
-      "Context (archaeology)",
-      "Digital media",
-      "Qualitative research",
-      "Early childhood education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70780",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-21T22:43:06.726401"
-  },
-  {
-    "id": "https://openalex.org/W7169777225",
-    "title": "Beyond Administration: How School Governance Practices Foster Happiness and Belonging Among Primary Students",
-    "authors": [
-      "Cihan Ayağ",
-      "Ahmet Melih GÜNEŞ"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-19",
-    "doi": "10.1111/ejed.70788",
-    "url": "https://doi.org/10.1111/ejed.70788",
-    "abstract": "ABSTRACT Schools are not only instructional settings but also critical social environments in which students' emotional well‐being, sense of belonging, and agency are shaped. While previous research has emphasized the role of student voice in democratic schooling, limited empirical evidence exists on how governance‐oriented practices function in primary education through participatory interventions. This study investigates how governance‐based practices influence primary students' school happine",
-    "keywords": [
-      "Corporate governance",
-      "Agency (philosophy)",
-      "Qualitative research",
-      "Feeling",
-      "Participatory action research"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70788",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-21T22:43:06.726464"
-  },
-  {
-    "id": "https://openalex.org/W7169716284",
-    "title": "Bridging self-regulated learning gaps with large language models: designing metacognitive scaffolding in programming learning",
-    "authors": [
-      "Fangfang Zhu",
-      "Xinyu Ji",
-      "Zhijia Mou",
-      "Dahu Yan"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-07-19",
-    "doi": "10.1080/10494820.2026.2693681",
-    "url": "https://doi.org/10.1080/10494820.2026.2693681",
-    "abstract": "",
-    "keywords": [
-      "Bridging (networking)",
-      "Metacognition",
-      "Scaffold",
-      "Language acquisition",
-      "Educational technology"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-20T22:44:24.795542"
-  },
-  {
-    "id": "https://openalex.org/W7169717727",
-    "title": "An ICAP-informed rubric for analyzing students’ questions to generative AI: engagement patterns and dynamics exploration",
-    "authors": [
-      "Lu Ding",
-      "Rachel Rodenberg",
-      "Erkan Er",
-      "Ha Nguyen",
-      "Meehyun Yoon"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-07-19",
-    "doi": "10.1080/10494820.2026.2702559",
-    "url": "https://doi.org/10.1080/10494820.2026.2702559",
-    "abstract": "",
-    "keywords": [
-      "Rubric",
-      "Dynamics (music)",
-      "Generative grammar",
-      "Generative model",
-      "Teaching method"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-20T22:44:24.795561"
-  },
-  {
-    "id": "https://openalex.org/W7169727871",
-    "title": "Self‐Explanation‐Guided Virtual Museum Learning for Knowledge Co‐Construction Based on the Constructivist Framework: A Randomised Control Study",
-    "authors": [
-      "Yi-Chun Lu",
-      "Gwo‐Jen Hwang",
-      "Yun‐Fang Tu"
-    ],
-    "journal": "Journal of Computer Assisted Learning",
-    "jif": 4.6,
-    "published_date": "2026-07-19",
-    "doi": "10.1002/jcal.70296",
-    "url": "https://doi.org/10.1002/jcal.70296",
-    "abstract": "ABSTRACT Background Museum learning is an important approach to facilitating cross‐disciplinary knowledge integration. To expand the accessibility of museum education and to enhance learning efficiency, virtual museums are aiming to overcome the constraints of time, crowds, and the limited resources of physical venues by providing a more flexible and immersive digital learning environment. Objective Scholars have suggested using the 4C elements (i.e., context, construction, conversation, collabo",
-    "keywords": [
-      "Constructivist teaching methods",
-      "Collaborative learning",
-      "Construct (python library)",
-      "Control (management)",
-      "Educational technology"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/jcal.70296",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-20T22:44:36.217935"
   }
 ]
