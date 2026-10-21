@@ -1,37 +1,156 @@
-📅 运行时间：2026-10-20 00:46
-📊 本次新增文章：4 篇
+📅 运行时间：2026-10-21 00:13
+📊 本次新增文章：18 篇
 📚 数据库总文章数：1635 篇
-🔍 查询范围：2026-10-13 至 2026-10-20
+🔍 查询范围：2026-10-14 至 2026-10-21
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • British Journal of Educational Technology: 2 篇
-  • Technology Pedagogy and Education: 2 篇
+  • Learning and Instruction: 3 篇
+  • Innovation In Language Learning and Teaching: 3 篇
+  • Education and Information Technologies: 2 篇
+  • ETR&D-Educational Technology Research and Development: 2 篇
+  • International Journal of Educational Research: 2 篇
+  • British Journal of Educational Technology: 1 篇
+  • Computer Assisted Language Learning: 1 篇
+  • Journal of Science Education and Technology: 1 篇
+  • Metacognition and Learning: 1 篇
+  • Physical Review Physics Education Research: 1 篇
+  • Science & Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] None
+[1] Prompt‐based emotional scaffolding in generative AI : Effects on self‐regulated learning and socio‐emotional outcomes
     期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Elena-Alexandra Diordiev, Valdemar Aksel Stenberdt, Guido Makransky
+    日期：2026-10-18
+    关键词：Psychology, Metacognition, Boredom, Developmental psychology, Emotional intelligence
+    DOI：https://doi.org/10.1111/bjet.70094
+    🔓 开放获取
+
+[2] Inclusive participation in collaborative L2 learning: interactional dynamics in GenAI feedback processing
+    期刊：Computer Assisted Language Learning (JIF: 6.6)
+    作者：Xinyu Guo, Yun Wen
     日期：2026-10-19
-    DOI：https://doi.org/10.1111/bjet.v57.6
+    关键词：Dynamics (music), Computer science, Psychology, Linguistics, Mathematics education
+    DOI：https://doi.org/10.1080/09588221.2026.2751433
 
-[2] Issue Information
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    日期：2026-10-18
-    DOI：https://doi.org/10.1111/bjet.70097
+[3] Automated scoring of constructed responses: BERT performance on near- and far-transfer biochemistry problems
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Cheng-Wen He, Peng He, Tingting Li 等(5人)
+    日期：2026-10-19
+    关键词：Rubric, Computer science, Artificial intelligence, Vocabulary, Thematic analysis
+    DOI：https://doi.org/10.1007/s10956-026-10362-0
+    🔓 开放获取
 
-[3] WIIFM: absorptive capacity for digital natives in explorative space and tech education for survival in the virtual world*
-    期刊：Technology Pedagogy and Education (JIF: 2.5)
-    作者：Quan‐Hoang Vuong, Giang Hoang, Viet‐Phuong La 等(5人)
-    日期：2026-10-18
-    关键词：Digital native, Space (punctuation), Business, Sociology, Technology integration
-    DOI：https://doi.org/10.1080/1475939x.2026.2742302
+[4] Are AI Multimodal Learning Assistants Up to the Task? Evaluating NotebookLM Through the Task-Technology Fit Model
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Mohammad Amin Kuhail, Nazik Mohammad Alturki, Mona Mesfer Alshardan 等(4人)
+    日期：2026-10-19
+    关键词：Educational technology, Perception, Sample (material), Psychology, Task (project management)
+    DOI：https://doi.org/10.1007/s10639-026-14126-6
 
-[4] Modelling the influence of mathematics teachers’ information literacy, self-esteem and ICT anxiety on their ICT self-efficacy
-    期刊：Technology Pedagogy and Education (JIF: 2.5)
-    作者：Mark Owusu Amponsah, Regina Okyere‐Dankwa, Dominic Owusu 等(5人)
-    日期：2026-10-18
-    关键词：Information and Communications Technology, Mathematics education, Psychology, Technology integration, Information technology
-    DOI：https://doi.org/10.1080/1475939x.2026.2742321
+[5] Negotiating agency: university students’ experiences of co-creating content with generative AI
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Chaoqun Lu, Mingyue Michelle Gu
+    日期：2026-10-19
+    关键词：Agency (philosophy), Content analysis, Transparency (behavior), Content (measure theory), Pedagogy
+    DOI：https://doi.org/10.1007/s10639-026-14056-3
+
+[6] From growth mindset to social-emotional skills in early and mid-adolescence: A educational-cultural examination of an integrated mind-body-behavior framework
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Tong Zhou, Yi Liao, Xiaoyu Cheng 等(5人)
+    日期：2026-10-20
+    关键词：Mindset, Psychology, Pedagogy, Process management, Engineering ethics
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102498
+    🔓 开放获取
+
+[7] Teaching by example? Teacher ICT use and middle school students’ computer and information literacy across China and the United States
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Zheng Li
+    日期：2026-10-19
+    关键词：Information and Communications Technology, China, Information literacy, Pedagogy, Sociology
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102484
+
+[8] Gesture benefits in second language learning take time to develop
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Paula Johnstone, Christian Andrä, Manuela Macedonia 等(5人)
+    日期：2026-10-19
+    关键词：Gesture, Active listening, Vocabulary, Word learning, Psychology
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102490
+    🔓 开放获取
+
+[9] Mapping the cognitive-affective nexus in reading literacy: network structure, latent profiles, and differential association patterns of teaching practices
+    期刊：Metacognition and Learning (JIF: 4.8)
+    作者：Miaomiao Zhang, Jie Wang, Zhang Wuwen
+    日期：2026-10-19
+    关键词：Reading (process), Psychology, Metacognition, Association (psychology), Nexus (standard)
+    DOI：https://doi.org/10.1007/s11409-026-09501-0
+
+[10] Robot-assisted language learning for students with and without dyslexia: a mixed-methods investigation on learning motivation in Cantonese-medium education
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Ka Yan Fung
+    日期：2026-10-19
+    关键词：Psychology, Expectancy theory, Reading (process), Dyslexia, Language acquisition
+    DOI：https://doi.org/10.1080/17501229.2026.2740151
+
+[11] A large-scale comparison of human and large language model raters in automated essay scoring
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Zülal Ayar, Gökhan Akçapınar
+    日期：2026-10-19
+    关键词：Consistency (knowledge bases), Psychology, Similarity (geometry), Cluster analysis, Language proficiency
+    DOI：https://doi.org/10.1080/17501229.2026.2745111
+
+[12] Digital platforms as catalysts for adult EFL learners’ perceived personalization and anxiety-related experiences in continuing education
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Nguyen Thien Duyen Ngo, Cuong Huy Pham
+    日期：2026-10-19
+    关键词：Personalization, Continuing education, Psychology, Electronic learning, Pedagogy
+    DOI：https://doi.org/10.1080/17501229.2026.2748911
+
+[13] Signals to remember: investigating the retrieval function of colors
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Nadine Scheller, Cristina Tulea, Maik Beege 等(5人)
+    日期：2026-10-19
+    关键词：Encoding (memory), Recall, Computer science, Cognition, Cognitive load
+    DOI：https://doi.org/10.1007/s11423-026-10745-5
+    🔓 开放获取
+
+[14] AIgnite: an educational toolkit for supporting primary students’ AI literacy cultivation
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Changjuan Ran, Mohan Zhang, Fang Liu 等(5人)
+    日期：2026-10-19
+    关键词：Literacy, Educational technology, Citizen journalism, Computer science, Participatory design
+    DOI：https://doi.org/10.1007/s11423-026-10716-w
+
+[15] Layered structure of advice-seeking across instructor, group, and cross-group ties in undergraduate physics laboratories
+    期刊：Physical Review Physics Education Research (JIF: 3.6)
+    作者：Pablo De Ruyt, Cecilia Stari, Javier Pulgar 等(5人)
+    日期：2026-10-19
+    关键词：Engineering, Engineering ethics, Physics, Engineering physics, Computer science
+    DOI：https://doi.org/10.1103/j34h-jppd
+    🔓 开放获取
+
+[16] Integrating the History of Science into Science Teaching: Teachers’ Purposes, Practices, and Challenges in the Turkish Context
+    期刊：Science & Education (JIF: 2.5)
+    作者：Zeynep Neslihan ALIŞIR, Serhat İrez
+    日期：2026-10-19
+    关键词：Turkish, Context (archaeology), Curriculum, Narrative, Pedagogy
+    DOI：https://doi.org/10.1007/s11191-026-00793-x
+
+[17] Political economy of scaling education reforms with equity in Pakistan: Political leadership, bureaucrats, and donors
+    期刊：International Journal of Educational Research (JIF: 2.5)
+    作者：Laraib Niaz, Pauline Rose
+    日期：2026-10-20
+    关键词：Equity (law), Politics, Economics, Political economy, Political science
+    DOI：https://doi.org/10.1016/j.ijer.2026.103151
+    🔓 开放获取
+
+[18] Pedagogical patterns in science and mathematics classrooms of Pakistan: an observation-based study
+    期刊：International Journal of Educational Research (JIF: 2.5)
+    作者：Sadia Muzaffar Bhutta, Sajid Ali, Aisha Naz Ansari 等(4人)
+    日期：2026-10-19
+    关键词：Mathematics education, Pedagogy, Psychology
+    DOI：https://doi.org/10.1016/j.ijer.2026.103134
+    🔓 开放获取
