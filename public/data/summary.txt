@@ -1,156 +1,177 @@
-📅 运行时间：2026-10-21 00:13
-📊 本次新增文章：18 篇
-📚 数据库总文章数：1635 篇
-🔍 查询范围：2026-10-14 至 2026-10-21
+📅 运行时间：2026-10-22 00:18
+📊 本次新增文章：20 篇
+📚 数据库总文章数：1621 篇
+🔍 查询范围：2026-10-15 至 2026-10-22
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Learning and Instruction: 3 篇
-  • Innovation In Language Learning and Teaching: 3 篇
-  • Education and Information Technologies: 2 篇
-  • ETR&D-Educational Technology Research and Development: 2 篇
-  • International Journal of Educational Research: 2 篇
+  • Language Teaching Research: 3 篇
+  • American Educational Research Journal: 2 篇
+  • European Journal of Education: 2 篇
+  • Active Learning In Higher Education: 2 篇
   • British Journal of Educational Technology: 1 篇
-  • Computer Assisted Language Learning: 1 篇
-  • Journal of Science Education and Technology: 1 篇
-  • Metacognition and Learning: 1 篇
-  • Physical Review Physics Education Research: 1 篇
-  • Science & Education: 1 篇
+  • Review of Educational Research: 1 篇
+  • Journal of Research on Technology In Education: 1 篇
+  • Innovations In Education and Teaching International: 1 篇
+  • Journal of Computer Assisted Learning: 1 篇
+  • ETR&D-Educational Technology Research and Development: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • International Journal of Sustainability In Higher Education: 1 篇
+  • Education and Training: 1 篇
+  • Technology Pedagogy and Education: 1 篇
+  • Instructional Science: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Prompt‐based emotional scaffolding in generative AI : Effects on self‐regulated learning and socio‐emotional outcomes
+[1] Generative AI as a team moderator in CSCL : Facilitating students' multidimensional engagement through adaptive scaffolding for socially shared regulation of learning
     期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Elena-Alexandra Diordiev, Valdemar Aksel Stenberdt, Guido Makransky
-    日期：2026-10-18
-    关键词：Psychology, Metacognition, Boredom, Developmental psychology, Emotional intelligence
-    DOI：https://doi.org/10.1111/bjet.70094
-    🔓 开放获取
-
-[2] Inclusive participation in collaborative L2 learning: interactional dynamics in GenAI feedback processing
-    期刊：Computer Assisted Language Learning (JIF: 6.6)
-    作者：Xinyu Guo, Yun Wen
-    日期：2026-10-19
-    关键词：Dynamics (music), Computer science, Psychology, Linguistics, Mathematics education
-    DOI：https://doi.org/10.1080/09588221.2026.2751433
-
-[3] Automated scoring of constructed responses: BERT performance on near- and far-transfer biochemistry problems
-    期刊：Journal of Science Education and Technology (JIF: 5.5)
-    作者：Cheng-Wen He, Peng He, Tingting Li 等(5人)
-    日期：2026-10-19
-    关键词：Rubric, Computer science, Artificial intelligence, Vocabulary, Thematic analysis
-    DOI：https://doi.org/10.1007/s10956-026-10362-0
-    🔓 开放获取
-
-[4] Are AI Multimodal Learning Assistants Up to the Task? Evaluating NotebookLM Through the Task-Technology Fit Model
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Mohammad Amin Kuhail, Nazik Mohammad Alturki, Mona Mesfer Alshardan 等(4人)
-    日期：2026-10-19
-    关键词：Educational technology, Perception, Sample (material), Psychology, Task (project management)
-    DOI：https://doi.org/10.1007/s10639-026-14126-6
-
-[5] Negotiating agency: university students’ experiences of co-creating content with generative AI
-    期刊：Education and Information Technologies (JIF: 5.4)
-    作者：Chaoqun Lu, Mingyue Michelle Gu
-    日期：2026-10-19
-    关键词：Agency (philosophy), Content analysis, Transparency (behavior), Content (measure theory), Pedagogy
-    DOI：https://doi.org/10.1007/s10639-026-14056-3
-
-[6] From growth mindset to social-emotional skills in early and mid-adolescence: A educational-cultural examination of an integrated mind-body-behavior framework
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Tong Zhou, Yi Liao, Xiaoyu Cheng 等(5人)
+    作者：Dengkang Chen, Yi Zhang, Heng Luo 等(5人)
     日期：2026-10-20
-    关键词：Mindset, Psychology, Pedagogy, Process management, Engineering ethics
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102498
-    🔓 开放获取
+    关键词：Moderation, Psychology, Collaborative learning, Cognition, Scaffold
+    DOI：https://doi.org/10.1111/bjet.70096
 
-[7] Teaching by example? Teacher ICT use and middle school students’ computer and information literacy across China and the United States
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Zheng Li
-    日期：2026-10-19
-    关键词：Information and Communications Technology, China, Information literacy, Pedagogy, Sociology
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102484
-
-[8] Gesture benefits in second language learning take time to develop
-    期刊：Learning and Instruction (JIF: 4.9)
-    作者：Paula Johnstone, Christian Andrä, Manuela Macedonia 等(5人)
-    日期：2026-10-19
-    关键词：Gesture, Active listening, Vocabulary, Word learning, Psychology
-    DOI：https://doi.org/10.1016/j.learninstruc.2026.102490
-    🔓 开放获取
-
-[9] Mapping the cognitive-affective nexus in reading literacy: network structure, latent profiles, and differential association patterns of teaching practices
-    期刊：Metacognition and Learning (JIF: 4.8)
-    作者：Miaomiao Zhang, Jie Wang, Zhang Wuwen
-    日期：2026-10-19
-    关键词：Reading (process), Psychology, Metacognition, Association (psychology), Nexus (standard)
-    DOI：https://doi.org/10.1007/s11409-026-09501-0
-
-[10] Robot-assisted language learning for students with and without dyslexia: a mixed-methods investigation on learning motivation in Cantonese-medium education
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Ka Yan Fung
-    日期：2026-10-19
-    关键词：Psychology, Expectancy theory, Reading (process), Dyslexia, Language acquisition
-    DOI：https://doi.org/10.1080/17501229.2026.2740151
-
-[11] A large-scale comparison of human and large language model raters in automated essay scoring
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Zülal Ayar, Gökhan Akçapınar
-    日期：2026-10-19
-    关键词：Consistency (knowledge bases), Psychology, Similarity (geometry), Cluster analysis, Language proficiency
-    DOI：https://doi.org/10.1080/17501229.2026.2745111
-
-[12] Digital platforms as catalysts for adult EFL learners’ perceived personalization and anxiety-related experiences in continuing education
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Nguyen Thien Duyen Ngo, Cuong Huy Pham
-    日期：2026-10-19
-    关键词：Personalization, Continuing education, Psychology, Electronic learning, Pedagogy
-    DOI：https://doi.org/10.1080/17501229.2026.2748911
-
-[13] Signals to remember: investigating the retrieval function of colors
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Nadine Scheller, Cristina Tulea, Maik Beege 等(5人)
-    日期：2026-10-19
-    关键词：Encoding (memory), Recall, Computer science, Cognition, Cognitive load
-    DOI：https://doi.org/10.1007/s11423-026-10745-5
-    🔓 开放获取
-
-[14] AIgnite: an educational toolkit for supporting primary students’ AI literacy cultivation
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Changjuan Ran, Mohan Zhang, Fang Liu 等(5人)
-    日期：2026-10-19
-    关键词：Literacy, Educational technology, Citizen journalism, Computer science, Participatory design
-    DOI：https://doi.org/10.1007/s11423-026-10716-w
-
-[15] Layered structure of advice-seeking across instructor, group, and cross-group ties in undergraduate physics laboratories
-    期刊：Physical Review Physics Education Research (JIF: 3.6)
-    作者：Pablo De Ruyt, Cecilia Stari, Javier Pulgar 等(5人)
-    日期：2026-10-19
-    关键词：Engineering, Engineering ethics, Physics, Engineering physics, Computer science
-    DOI：https://doi.org/10.1103/j34h-jppd
-    🔓 开放获取
-
-[16] Integrating the History of Science into Science Teaching: Teachers’ Purposes, Practices, and Challenges in the Turkish Context
-    期刊：Science & Education (JIF: 2.5)
-    作者：Zeynep Neslihan ALIŞIR, Serhat İrez
-    日期：2026-10-19
-    关键词：Turkish, Context (archaeology), Curriculum, Narrative, Pedagogy
-    DOI：https://doi.org/10.1007/s11191-026-00793-x
-
-[17] Political economy of scaling education reforms with equity in Pakistan: Political leadership, bureaucrats, and donors
-    期刊：International Journal of Educational Research (JIF: 2.5)
-    作者：Laraib Niaz, Pauline Rose
+[2] The Assets of Transgender College Students in the United States: A Scoping Review
+    期刊：Review of Educational Research (JIF: 7.4)
+    作者：Alex C. Lange, Dianna Morganti, Nick Fahnders 等(5人)
     日期：2026-10-20
-    关键词：Equity (law), Politics, Economics, Political economy, Political science
-    DOI：https://doi.org/10.1016/j.ijer.2026.103151
+    关键词：Transgender, Cognitive reframing, Thriving, Scholarship, Oppression
+    DOI：https://doi.org/10.3102/00346543261491752
     🔓 开放获取
 
-[18] Pedagogical patterns in science and mathematics classrooms of Pakistan: an observation-based study
-    期刊：International Journal of Educational Research (JIF: 2.5)
-    作者：Sadia Muzaffar Bhutta, Sajid Ali, Aisha Naz Ansari 等(4人)
+[3] Critical Fairness Literacy for PK–12 teachers: a fairness-specific dimension of teacher AI competency
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Chan Aristella Lu, Yun Zhang
+    日期：2026-10-20
+    关键词：Dimension (graph theory), Mathematics education, Literacy, Pedagogy, Psychology
+    DOI：https://doi.org/10.1080/15391523.2026.2749067
+    🔓 开放获取
+
+[4] Harnessing linguistics to transform student satisfaction with assessment feedback
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Omar Alanazi, Gráinne McLoughlin, Eamonn Walsh
+    日期：2026-10-20
+    关键词：Psychology, Mathematics education, Higher education, Linguistics, Teaching method
+    DOI：https://doi.org/10.1080/14703297.2026.2741662
+    🔓 开放获取
+
+[5] Technology‐Supported Formative Assessment in Higher Education: AI , Learning Analytics and the Future of Assessment for Learning
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Aydın Bulut
     日期：2026-10-19
-    关键词：Mathematics education, Pedagogy, Psychology
-    DOI：https://doi.org/10.1016/j.ijer.2026.103134
+    关键词：Formative assessment, Thematic analysis, Learning analytics, Higher education, Agency (philosophy)
+    DOI：https://doi.org/10.1002/jcal.70360
+    🔓 开放获取
+
+[6] Measuring cognitive presence in online discussions: automated detection and instructional insights from a MOOC context
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Ji Hyun Yu, Fengjiao Tu, Haihua Chen 等(5人)
+    日期：2026-10-20
+    关键词：Context (archaeology), Computer science, Educational technology, Cognition, Multimedia
+    DOI：https://doi.org/10.1007/s11423-026-10726-8
+
+[7] Art movements as visual languages for critical citizenship in pre-service primary teacher education
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Esra ÖZCAN
+    日期：2026-10-20
+    关键词：Craft, Citizenship, Situated, Qualitative research, Sociology
+    DOI：https://doi.org/10.1016/j.tate.2026.105877
+    🔓 开放获取
+
+[8] Gamified Online Learning for Phonics: Effects on Elementary Students’ Emotions, Self-Regulation, and Achievement
+    期刊：Language Teaching Research (JIF: 3.8)
+    作者：Chun Yi Lu, Hao-Chiang Koong Lin, Tao-Hua Wang 等(4人)
+    日期：2026-10-20
+    关键词：Psychology, Boredom, Mathematics education, Control (management), Online learning
+    DOI：https://doi.org/10.1177/13621688261493240
+
+[9] A Multimodal Intervention for Enhancing English Oral Communication Skills Among Non-English Majors in an EFL Context
+    期刊：Language Teaching Research (JIF: 3.8)
+    作者：Jian Zu, Marilyn Fernandez Deocampo
+    日期：2026-10-20
+    关键词：Psychology, Fluency, Grammar, Vocabulary, Active listening
+    DOI：https://doi.org/10.1177/13621688261490652
+
+[10] The Relationship Between L2 Motivational Self System and Willingness to Communicate: A Three-Level Meta-Analysis
+    期刊：Language Teaching Research (JIF: 3.8)
+    作者：Hao Zhang, Sumalee Chinokul
+    日期：2026-10-20
+    关键词：Psychology, Willingness to communicate, Construct (python library), Social psychology, Second language
+    DOI：https://doi.org/10.1177/13621688261492630
+
+[11] Constructing Choice Sets at the Intersections of Disability, Race, Class, and Geographic Location
+    期刊：American Educational Research Journal (JIF: 3.6)
+    作者：Federico R. Waitoller, Christopher Lubienski
+    日期：2026-10-20
+    关键词：Privilege (computing), Disadvantage, Construct (python library), Location, Geographic information system
+    DOI：https://doi.org/10.3102/00028312261491336
+
+[12] Implementing Learning for Social Innovation: A School-Based Case Study of Programme Development
+    期刊：American Educational Research Journal (JIF: 3.6)
+    作者：Suzanne Trask, Russel Dunn, Bronwen Cowie 等(5人)
+    日期：2026-10-20
+    关键词：Sustainability, Public relations, Sociology, Focus group, Pedagogy
+    DOI：https://doi.org/10.3102/00028312261491319
+    🔓 开放获取
+
+[13] Is the Norwegian Education System Effective in Supporting Students With Special Educational Needs? Evidence From Population‐Based Longitudinal Data
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Reinie Cordier, Christian Wendelborg, Guido Biele
+    日期：2026-10-19
+    关键词：Norwegian, Receipt, Special education, Psychology, Reading (process)
+    DOI：https://doi.org/10.1111/ejed.70903
+    🔓 开放获取
+
+[14] Enhancing Elementary Teachers' STEM Education Practices: Insights From a Mixed‐Methods Study
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Filiz Gülhan, Hasret Nuhoğlu
+    日期：2026-10-19
+    关键词：Professional development, Instructional design, Pedagogy, Mathematics education, Faculty development
+    DOI：https://doi.org/10.1111/ejed.70910
+    🔓 开放获取
+
+[15] From policy to practice: green public procurement in Portuguese higher education institutions
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Santosh Bhandari, Myriam Alexandra dos Santos Batalha Dias Nunes Lopes, Sara Moreno Pires
+    日期：2026-10-20
+    关键词：Procurement, Sustainability, Higher education, Business, Stakeholder engagement
+    DOI：https://doi.org/10.1108/ijshe-11-2025-1468
+
+[16] Understanding the Effective Use of Explaining to Fictitious Others in Instructional Videos: A Process-Oriented Analysis of Learners with Higher and Lower Learning Performance
+    期刊：Active Learning In Higher Education (JIF: 3.2)
+    作者：Zhongling Pi, Jingjing Dong, Xin Zhao 等(5人)
+    日期：2026-10-19
+    关键词：Psychology, Metacognition, Cooperative learning, Context (archaeology), Active learning (machine learning)
+    DOI：https://doi.org/10.1177/14697874261493889
+
+[17] Student-Centred Teaching and Basic Psychological Need Satisfaction in Higher Education: Longitudinal Evidence From Flipped and Lecture-Based Engineering Mathematics Courses
+    期刊：Active Learning In Higher Education (JIF: 3.2)
+    作者：Ilmari Puhakka, Petri Nokelainen, Vikke Vuorenpää 等(5人)
+    日期：2026-10-19
+    关键词：Autonomy, Competence (human resources), Preparedness, Longitudinal study, Psychology
+    DOI：https://doi.org/10.1177/14697874261493770
+    🔓 开放获取
+
+[18] Academic integrity and artificial intelligence in initial teacher education: a documentary audit of teaching guides in Spanish universities
+    期刊：Education and Training (JIF: 3.2)
+    作者：María Vallespir Adillón, Rubén Comas Forgas, Mercè Morey-López 等(4人)
+    日期：2026-10-20
+    关键词：Formative assessment, Audit, Benchmarking, Quality (philosophy), Psychology
+    DOI：https://doi.org/10.1108/et-03-2026-0285
+    🔓 开放获取
+
+[19] Cognitive load and learning achievement in online education: insights from eye blink and self-report data
+    期刊：Technology Pedagogy and Education (JIF: 2.5)
+    作者：Dongsim Kim, Dahyeon Ryoo
+    日期：2026-10-20
+    关键词：Cognition, Psychology, Cognitive load, Cognitive psychology, Attentional blink
+    DOI：https://doi.org/10.1080/1475939x.2026.2745998
+
+[20] Replicating the advantage of classifying over generating examples in an authentic relational category learning context
+    期刊：Instructional Science (JIF: 2.1)
+    作者：Tim M. Steininger, Thamar Voss, Jörg Wittwer
+    日期：2026-10-20
+    关键词：Generalization, Metacognition, Educational psychology, Context (archaeology), Statistical relational learning
+    DOI：https://doi.org/10.1007/s11251-026-09823-1
     🔓 开放获取
