@@ -1,5 +1,131 @@
 [
   {
+    "id": "https://openalex.org/W7223216598",
+    "title": "Effects of question-chain prompting on self-regulated learning, metacognition, and achievement in a generative AI environment",
+    "authors": [
+      "Xiuyu Lin",
+      "Shan Li",
+      "Yijing Zhu",
+      "Hang Ju",
+      "Guozhu Ding"
+    ],
+    "journal": "International Journal of Educational Technology in Higher Education",
+    "jif": 16.7,
+    "published_date": "2026-10-22",
+    "doi": "10.1186/s41239-026-00632-7",
+    "url": "https://doi.org/10.1186/s41239-026-00632-7",
+    "abstract": "Abstract Generative artificial intelligence (GenAI) offers learners immediate and personalized support, yet unguided interaction may encourage passive use and weaken self-regulated learning (SRL). This study examined whether question-chain prompting can support SRL in human-AI interaction. A quasi-experiment was conducted with 83 undergraduates enrolled in a television program production course. A control group used free-form questioning, whereas two experimental groups used either a progressive",
+    "keywords": [
+      "Metacognition",
+      "Psychology",
+      "Generative grammar",
+      "Control (management)",
+      "Reflection (computer programming)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s41239-026-00632-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-24T00:06:57.912856"
+  },
+  {
+    "id": "https://openalex.org/W7223247318",
+    "title": "Internationalizing STEM education as a distinct and globally established field of scholarship",
+    "authors": [
+      "Yeping Li"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-10-22",
+    "doi": "10.1186/s40594-026-00654-7",
+    "url": "https://doi.org/10.1186/s40594-026-00654-7",
+    "abstract": "Abstract Launched in 2014, the International Journal of STEM Education was established to advance educational research across diverse scientific disciplines. Over the past twelve years, the journal’s development and performance have provided valuable insights into the field’s response to the growing demand for multidisciplinary and interdisciplinary scholarship in STEM education. In this article, I review the journal’s development trajectory, offering a retrospective account of its growth, schol",
+    "keywords": [
+      "Scholarship",
+      "Multidisciplinary approach",
+      "Science education",
+      "Field (mathematics)",
+      "Sociology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00654-7",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-24T00:07:02.204983"
+  },
+  {
+    "id": "https://openalex.org/W7223217886",
+    "title": "Forward anchoring in teacher agency: Transforming teaching activity through a Change Laboratory",
+    "authors": [
+      "Isaac Sonful Coffie",
+      "Nick Hopwood",
+      "Mun Yee Lai"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.tate.2026.105885",
+    "url": "https://doi.org/10.1016/j.tate.2026.105885",
+    "abstract": "Teacher agency is critical to transforming classroom practice, yet its development in resource-constrained Global South contexts remains underexplored. This study examines how science teachers in Ghana engaged in forward anchoring within a Change Laboratory intervention to negotiate conflicts of motives between curriculum coverage and student-centred teaching. Six teachers participated in six sessions over three months. Drawing on transformative agency by double stimulation (TADS), four forward ",
+    "keywords": [
+      "Transformative learning",
+      "Agency (philosophy)",
+      "Pedagogy",
+      "Curriculum",
+      "Negotiation"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105885",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-24T00:07:26.596104"
+  },
+  {
+    "id": "https://openalex.org/W7223203899",
+    "title": "Bioentrepreneurship: crossing borders, bridging worlds – navigating uncertainty in learning and practice",
+    "authors": [
+      "Hanna Jansson",
+      "Tara Faghani Hamadani",
+      "Anna Bonnevier",
+      "Madelen Lek"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-10-22",
+    "doi": "10.1108/et-07-2025-0496",
+    "url": "https://doi.org/10.1108/et-07-2025-0496",
+    "abstract": "Purpose Bioentrepreneurship remains an emerging and conceptually elusive field that requires students to engage with diverse forms of knowledge, judgement and practice across disciplinary and professional boundaries. Yet, little is known about how students experience learning within this field or what these experiences reveal about the knowledge and practices that constitute bioentrepreneurship This study explores what students perceive as troublesome when learning bioentrepreneurship and how th",
+    "keywords": [
+      "Reflexivity",
+      "Ambiguity",
+      "Bridging (networking)",
+      "Thematic analysis",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-24T00:07:38.495765"
+  },
+  {
+    "id": "https://openalex.org/W7223226508",
+    "title": "Correction",
+    "authors": [],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-10-22",
+    "doi": "10.1080/19415257.2026.2742726",
+    "url": "https://doi.org/10.1080/19415257.2026.2742726",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-10-24T00:07:42.310179"
+  },
+  {
     "id": "https://openalex.org/W7223177377",
     "title": "Smart Learning Environments and Innovative Educational Technologies: Pre-Post Changes in Pre-Service Teachers’ Science Learning Outcomes and Affective Responses",
     "authors": [
@@ -2215,6 +2341,35 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-20T00:46:51.133130"
+  },
+  {
+    "id": "https://openalex.org/W7222816173",
+    "title": "Teacher professional development for creative data storytelling: A design-based research study",
+    "authors": [
+      "Joy G. Bertling",
+      "Amanda Galbraith",
+      "Neal A. Monroe",
+      "Nikki Christen",
+      "Kristin T. Rearden"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-10-17",
+    "doi": "10.1016/j.tsc.2026.102395",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102395",
+    "abstract": "",
+    "keywords": [
+      "teacher professional development",
+      "data literacy",
+      "data visualization",
+      "transdisciplinary learning",
+      "data accuracy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-24T00:07:20.278552"
   },
   {
     "id": "https://openalex.org/W7222822889",
@@ -43288,403 +43443,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-28T22:49:15.871317"
-  },
-  {
-    "id": "https://openalex.org/W4414026947",
-    "title": "Unveiling the Cognitive and Affective Mechanisms of Virtual Museum Learning: A Partial Least Squares Analysis",
-    "authors": [
-      "Jingjing Ma",
-      "Xiaojuan Li",
-      "Guoqing Lu",
-      "Shufan Yu",
-      "Zhongfeng Liang"
-    ],
-    "journal": "Journal of Educational Computing Research",
-    "jif": 4.9,
-    "published_date": "2026-07-25",
-    "doi": "10.1177/07356331261469084",
-    "url": "https://doi.org/10.1177/07356331261469084",
-    "abstract": "Virtual museums, as important carriers of immersive learning environments, are changing traditional knowledge acquisition and cultural inheritance methods. However, existing research focuses on direct relationships between virtual museum design features and learning outcomes, lacking systematic revelation of cognitive and affective mechanism pathways in the learning process. Therefore, this study constructs a Cognitive-Affective Model of Virtual Museum Learning (CAMVML), aiming to reveal complex",
-    "keywords": [
-      "Partial least squares regression",
-      "Cognition",
-      "Psychology",
-      "Cognitive psychology",
-      "Computer science"
-    ],
-    "open_access": true,
-    "oa_url": "https://advance.sagepub.com/doi/pdf/10.31124/advance.175705116.65793986/v1",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:48:52.395634"
-  },
-  {
-    "id": "https://openalex.org/W7171107387",
-    "title": "Enhancing programming learning in elementary school students through pair programming scripts based on productive failure theory",
-    "authors": [
-      "Jing Wang",
-      "Hui Li"
-    ],
-    "journal": "Education and Information Technologies",
-    "jif": 5.4,
-    "published_date": "2026-07-25",
-    "doi": "10.1007/s10639-026-14109-7",
-    "url": "https://doi.org/10.1007/s10639-026-14109-7",
-    "abstract": "",
-    "keywords": [
-      "Scripting language",
-      "Nonprobability sampling",
-      "Artifact (error)",
-      "Cognition",
-      "Exploratory research"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:11.410217"
-  },
-  {
-    "id": "https://openalex.org/W7171111120",
-    "title": "Educating educators for artificial intelligence in education: curricular design and pedagogical approaches",
-    "authors": [
-      "Meina Zhu",
-      "Chaoran Wang"
-    ],
-    "journal": "ETR&D-Educational Technology Research and Development",
-    "jif": 4.2,
-    "published_date": "2026-07-25",
-    "doi": "10.1007/s11423-026-10682-3",
-    "url": "https://doi.org/10.1007/s11423-026-10682-3",
-    "abstract": "",
-    "keywords": [
-      "Educational technology",
-      "Teaching method",
-      "Technology integration",
-      "Instructional design",
-      "Computer-Assisted Instruction"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:21.382668"
-  },
-  {
-    "id": "https://openalex.org/W7171040768",
-    "title": "Teacher efficacy, professional commitment, and career decision-making difficulties in pre-service teachers: Exploring dynamics via cross-lagged panel and random intercept cross-lagged panel model",
-    "authors": [
-      "Wenlong Tian",
-      "Chunhua Fu",
-      "Sihan Qin",
-      "Han Yan"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-07-25",
-    "doi": "10.1016/j.tate.2026.105759",
-    "url": "https://doi.org/10.1016/j.tate.2026.105759",
-    "abstract": "",
-    "keywords": [
-      "Practicum",
-      "Panel data",
-      "Dynamics (music)",
-      "Mediation",
-      "Professional development"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:25.387797"
-  },
-  {
-    "id": "https://openalex.org/W7171143548",
-    "title": "Negotiating between practicum partnership spaces in ITE: experiences from Scotland",
-    "authors": [
-      "Hannah Grainger Clemson",
-      "Linda Craig",
-      "Eric Easton",
-      "ML White"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-07-25",
-    "doi": "10.1016/j.tate.2026.105753",
-    "url": "https://doi.org/10.1016/j.tate.2026.105753",
-    "abstract": "",
-    "keywords": [
-      "Practicum",
-      "Negotiation",
-      "General partnership",
-      "Ethnography",
-      "Higher education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1016/j.tate.2026.105753",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:25.387814"
-  },
-  {
-    "id": "https://openalex.org/W7171212831",
-    "title": "The Effectiveness of Multilingual Versus Monolingual Approaches to L2 Teaching and Learning: A Meta-Analysis of Learning Outcomes",
-    "authors": [
-      "Meixiu Zhang",
-      "Amanda Brown"
-    ],
-    "journal": "Language Teaching Research",
-    "jif": 3.8,
-    "published_date": "2026-07-25",
-    "doi": "10.1177/13621688261455050",
-    "url": "https://doi.org/10.1177/13621688261455050",
-    "abstract": "The debate on multilingual (codeswitching) versus monolingual (immersive, target-language only) approaches to second language (L2) teaching has received renewed attention in recent decades. Both approaches are employed in L2 teaching and learning, supported by competing philosophies regarding the need for maximal L2 input and the facilitative potential of first language (L1) inclusion. Given a growth in experimental research comparing the effectiveness in terms of learning outcomes of the two ap",
-    "keywords": [
-      "Moderation",
-      "Second language",
-      "Inclusion (mineral)",
-      "Empirical research",
-      "Language acquisition"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "review",
-    "fetched_at": "2026-07-26T22:47:26.707975"
-  },
-  {
-    "id": "https://openalex.org/W7171178852",
-    "title": "Classroom Relationship Profiles: Links with English-as-a-Foreign-Language Students’ Academic and Social Goals and Self-Regulated Learning Strategy Use",
-    "authors": [
-      "Qingyao Dan",
-      "Barry Bai",
-      "Xuan Zang"
-    ],
-    "journal": "Language Teaching Research",
-    "jif": 3.8,
-    "published_date": "2026-07-25",
-    "doi": "10.1177/13621688261465637",
-    "url": "https://doi.org/10.1177/13621688261465637",
-    "abstract": "Classroom relationships represent a complex and dynamic system, in which students’ relationships with teachers and peers are intertwined with each other. A person-centered approach was used to investigate how multiple characteristics of a good-quality relationship (i.e., validation, caring, and instrumental guidance) with teachers and peers combined to form English-as-a-foreign-language primary school students’ classroom relationships profiles. Four distinct profiles of classroom relationships w",
-    "keywords": [
-      "Language proficiency",
-      "Academic achievement",
-      "English as a foreign language",
-      "Goal orientation",
-      "Teaching method"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1177/13621688261465637",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:26.708033"
-  },
-  {
-    "id": "https://openalex.org/W7171041788",
-    "title": "The Effects of AI‐Powered Genre‐Based Writing Instruction on Low‐Proficiency EFL Writers' Ideal L2 Writing Self, Writing Enjoyment and <scp>L2</scp> Writing Performance: A Quasi‐Experimental Mixed‐Methods Study",
-    "authors": [
-      "Shang Shi",
-      "Yue Wang"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-25",
-    "doi": "10.1111/ejed.70791",
-    "url": "https://doi.org/10.1111/ejed.70791",
-    "abstract": "ABSTRACT This mixed‐methods study examined the effects of DeepSeek‐powered genre‐based instruction (GBI) on argumentative writing performance, ideal L2 writing self, and writing enjoyment among 71 low‐proficiency EFL undergraduates. A quasi‐experimental design was employed, with an experimental group ( N = 32) receiving 6 weeks of AI‐powered GBI and a control group ( N = 39) receiving traditional instruction. Quantitative data included writing tests (holistic and CAF indices) and motivation ques",
-    "keywords": [
-      "Argumentative",
-      "Ideal (ethics)",
-      "Quality (philosophy)",
-      "Control (management)",
-      "Second language writing"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70791",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:29.462397"
-  },
-  {
-    "id": "https://openalex.org/W7171169001",
-    "title": "Immersive Learning in Business Education: The Impact of Metaverse Technology",
-    "authors": [
-      "Zhisheng Chen"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-25",
-    "doi": "10.1111/ejed.70793",
-    "url": "https://doi.org/10.1111/ejed.70793",
-    "abstract": "ABSTRACT Metaverse technology, supported by advances in Virtual Reality, Augmented Reality, Mixed Reality and Extended Reality, offers new possibilities for immersive business education. However, existing research remains fragmented across individual technologies, educational contexts and learning outcomes, providing limited explanation of how the distinctive affordances of the Metaverse can be translated into theoretically grounded instructional design for business education. Through a structur",
-    "keywords": [
-      "Metaverse",
-      "Experiential learning",
-      "Affordance",
-      "Embodied cognition",
-      "Instructional design"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70793",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:29.462458"
-  },
-  {
-    "id": "https://openalex.org/W7171227954",
-    "title": "Pulling the Lever Without Moving the Machine: English Teacher Education and the Limits of Sexuality Education Reform",
-    "authors": [
-      "Joshua M. Heyes",
-      "Pujitha Kanakam"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-25",
-    "doi": "10.1111/ejed.70797",
-    "url": "https://doi.org/10.1111/ejed.70797",
-    "abstract": "ABSTRACT In this paper we draw on complex adaptive systems ( CAS ) theory to explore how changing systems of teacher education constrain attempts to introduce expanded sexuality education curricula. We report findings from a mixed methods study of teacher educators' perceptions of their provision in relation to England's statutory Relationships, Sex and Health Education ( RSHE ) curriculum. Despite its statutory status, RSHE remains unevenly and inconsistently embedded across initial teacher edu",
-    "keywords": [
-      "Human sexuality",
-      "Statutory law",
-      "Teacher education",
-      "Curriculum",
-      "Sexuality education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70797",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:29.462494"
-  },
-  {
-    "id": "https://openalex.org/W7171201655",
-    "title": "From Environment to Engagement: Innovative Insights Into <scp>AI</scp> ‐Mediated Language Learning Through Psychological Mechanisms",
-    "authors": [
-      "Xi Chen"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-25",
-    "doi": "10.1111/ejed.70798",
-    "url": "https://doi.org/10.1111/ejed.70798",
-    "abstract": "ABSTRACT AI is increasingly used in language learning, yet the psychological mechanisms underlying student engagement remain insufficiently understood. This study investigates the associations among teacher enthusiasm, learner growth mindset, and student engagement in AI‐mediated language learning, with a focus on the mediating roles of willingness to communicate, resilience and creative self‐efficacy. A total of 699 university students participated in a cross‐sectional survey, and the data were",
-    "keywords": [
-      "Mindset",
-      "Enthusiasm",
-      "Psychological resilience",
-      "Structural equation modeling",
-      "Cognition"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70798",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:29.462543"
-  },
-  {
-    "id": "https://openalex.org/W7171091799",
-    "title": "Critical Thinking and Student Satisfaction: An Empirical Study in Undergraduate Education",
-    "authors": [
-      "Liliana Pedraja-Rejas",
-      "Camila Muñoz-Fritis",
-      "Emilio Rodríguez-Ponce",
-      "David Laroze"
-    ],
-    "journal": "Active Learning In Higher Education",
-    "jif": 3.2,
-    "published_date": "2026-07-25",
-    "doi": "10.1177/14697874261467044",
-    "url": "https://doi.org/10.1177/14697874261467044",
-    "abstract": "Teacher education programs should transcend the traditional emphasis on disciplinary knowledge to incorporate the development of transversal competencies, particularly critical thinking. This study explores the relationship between critical thinking and student satisfaction, while also exploring potential differences in perception based on student gender. A questionnaire was administered to 134 fourth-year preservice elementary education students across nine Chilean universities. Findings indica",
-    "keywords": [
-      "Critical thinking",
-      "Empirical research",
-      "Perception",
-      "Discipline",
-      "Higher education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1177/14697874261467044",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:34.579554"
-  },
-  {
-    "id": "https://openalex.org/W7171042660",
-    "title": "Flipped Learning in Compulsory First-year Mathematics Courses: Supporting Students’ Perceived Competence and Emotions",
-    "authors": [
-      "Susanna Hartikainen",
-      "Petri Nokelainen",
-      "Riikka Kangaslampi"
-    ],
-    "journal": "Active Learning In Higher Education",
-    "jif": 3.2,
-    "published_date": "2026-07-25",
-    "doi": "10.1177/14697874261467049",
-    "url": "https://doi.org/10.1177/14697874261467049",
-    "abstract": "Active learning is encouraged in higher education due to its potential to improve learning outcomes over traditional lecture-based methods. One popular method that embodies active learning principles is flipped learning. Flipped learning has been associated with enhancements in learning and positive emotions, but some features inherent in flipped learning, such as increased choice and responsibility, have also hampered learning and triggered negative student emotions. The aim of this qualitative",
-    "keywords": [
-      "Flipped learning",
-      "Competence (human resources)",
-      "Thematic analysis",
-      "Blended learning",
-      "Flipped classroom"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1177/14697874261467049",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:34.579648"
-  },
-  {
-    "id": "https://openalex.org/W7171069251",
-    "title": "Artificial intelligence and marketing education: mapping current research and emerging patterns",
-    "authors": [
-      "Madina ALENOVA",
-      "Zhuldyz Rsaly",
-      "Monowar Mahmood",
-      "Norizan Mohd Kassim"
-    ],
-    "journal": "Education and Training",
-    "jif": 3.2,
-    "published_date": "2026-07-25",
-    "doi": "10.1108/et-11-2025-0936",
-    "url": "https://doi.org/10.1108/et-11-2025-0936",
-    "abstract": "Purpose The purpose of this study is to explore how artificial intelligence (AI) is reshaping marketing education and to assess the extent to which marketing education addresses technological transformation within education contexts. Design/methodology/approach This study uses a systematic bibliometric review to examine the intersection of AI and marketing education. In accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines, 801 records were retrieved f",
-    "keywords": [
-      "Marketing research",
-      "Marketing science",
-      "Identification (biology)",
-      "Curriculum",
-      "Systematic review"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-26T22:47:35.305115"
-  },
-  {
-    "id": "https://openalex.org/W7170360194",
-    "title": "Concrete images, diverse ideas: The role of pictures in learning from multimedia texts of varying abstractness",
-    "authors": [
-      "Ekaterina Blinova",
-      "Olga Shcherbakova"
-    ],
-    "journal": "Learning and Instruction",
-    "jif": 4.9,
-    "published_date": "2026-07-25",
-    "doi": "10.1016/j.learninstruc.2026.102432",
-    "url": "https://doi.org/10.1016/j.learninstruc.2026.102432",
-    "abstract": "",
-    "keywords": [
-      "Incidental learning",
-      "Multimodality"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1016/j.learninstruc.2026.102432",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-25T22:41:44.979282"
   }
 ]
