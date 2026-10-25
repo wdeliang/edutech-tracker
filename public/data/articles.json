@@ -1,5 +1,166 @@
 [
   {
+    "id": "https://openalex.org/W7223440993",
+    "title": "Developing a Malay ethnomathematics learning instruction based on a 360-degree virtual tour: supporting fifth-grade students’ spatial skills and cultural awareness",
+    "authors": [
+      "Rizki Rahmali Fadhillah",
+      "Zetra Hainul Putra",
+      "Neni Hermita",
+      "Sagheer Ahmad"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-24",
+    "doi": "10.1007/s10639-026-14176-w",
+    "url": "https://doi.org/10.1007/s10639-026-14176-w",
+    "abstract": "",
+    "keywords": [
+      "Malay",
+      "Mathematics education",
+      "Ethnomathematics",
+      "Psychology",
+      "Cultural diversity"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:11.645092"
+  },
+  {
+    "id": "https://openalex.org/W7223470660",
+    "title": "Balancing empowerment and threat: deciphering the sustainable integration of Gen AI in creative pedagogy",
+    "authors": [
+      "Shuyue Huang",
+      "Yunhao Zhang",
+      "Muze Li",
+      "Zhengfeng Yang",
+      "Yuqi Shen"
+    ],
+    "journal": "Education and Information Technologies",
+    "jif": 5.4,
+    "published_date": "2026-10-24",
+    "doi": "10.1007/s10639-026-14175-x",
+    "url": "https://doi.org/10.1007/s10639-026-14175-x",
+    "abstract": "",
+    "keywords": [
+      "Continuance",
+      "Structural equation modeling",
+      "Psychology",
+      "Empowerment",
+      "Social psychology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:11.645112"
+  },
+  {
+    "id": "https://openalex.org/W7223451503",
+    "title": "Toward an Interpretive Synthesis of Personalization, Co-Design, and Ethical Mediation in AI-Supported Higher Education: An Integrative Review of Agentic, Generative, and Adaptive Tutoring Systems",
+    "authors": [
+      "Xuao Li",
+      "Rafiza Abdul Razak"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1177/07356331261498975",
+    "url": "https://doi.org/10.1177/07356331261498975",
+    "abstract": "Generative artificial intelligence (AI) and adaptive learning technologies are expanding in higher education, raising questions about their alignment with pedagogical goals. This qualitative-integrative review synthesizes 57 publications (21 empirical, 25 conceptual or framework, 9 systematic reviews or meta-analyses retained for triangulation, and 2 design/development papers) from 2024 to 2026, employing Whittemore and Knafl’s methodology to examine AI-supported tutoring, implementation strateg",
+    "keywords": [
+      "Personalization",
+      "Mediation",
+      "Adaptation (eye)",
+      "Psychology",
+      "Raising (metalworking)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:16.203262"
+  },
+  {
+    "id": "https://openalex.org/W7223448919",
+    "title": "Professional identity under constraint: An autoethnographic study of an English teacher in Chinese private higher education",
+    "authors": [
+      "Mi Zhang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105872",
+    "url": "https://doi.org/10.1016/j.tate.2026.105872",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Pedagogy",
+      "Autoethnography",
+      "Sociology",
+      "Identity (music)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:27.805350"
+  },
+  {
+    "id": "https://openalex.org/W7223452313",
+    "title": "Unpacking the development of digital competence in Irish primary initial teacher education: A mixed-methods study",
+    "authors": [
+      "Denis Moynihan",
+      "Margaret Leahy",
+      "Darina Scully",
+      "Alan Gorman"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105889",
+    "url": "https://doi.org/10.1016/j.tate.2026.105889",
+    "abstract": "",
+    "keywords": [
+      "Unpacking",
+      "Irish",
+      "Competence (human resources)",
+      "Pedagogy",
+      "Grounded theory"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:27.805365"
+  },
+  {
+    "id": "https://openalex.org/W7223459808",
+    "title": "Material meanings of ‘transformative learning’ among sustainability educators in universities",
+    "authors": [
+      "Henry A. Finn"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-10-24",
+    "doi": "10.1016/j.tate.2026.105856",
+    "url": "https://doi.org/10.1016/j.tate.2026.105856",
+    "abstract": "Prominent calls have been made to radically shift current teaching provision in higher education towards critically ‘transformative’ pedagogies that align with the pressing imperatives of sustainability. Yet much uncertainty remains over how educators envision the notion of ‘transformative learning’ and their possible role in supporting it. In this study, 21 interviews were conducted with specialist UK-based academics in which they were asked to bring a physical object to represent what ‘transfo",
+    "keywords": [
+      "Context (archaeology)",
+      "Agency (philosophy)",
+      "Pedagogy",
+      "Sustainability",
+      "Sociology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105856",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:27.805617"
+  },
+  {
     "id": "https://openalex.org/W7223270191",
     "title": "Deskilling the Laboratory: A Systematic Review of Artificial Intelligence as a Threat to Embodied and Tacit Knowledge in Hands-On Science Practical Work",
     "authors": [
@@ -295,6 +456,85 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-10-24T23:50:47.206185"
+  },
+  {
+    "id": "https://openalex.org/W7223220095",
+    "title": "Self-regulated learning trajectories, predictors, and cognitive outcomes in animation-facilitated computational thinking: A growth mixture modelling study of primary students",
+    "authors": [
+      "Siu Cheung Kong",
+      "Yi Qing WANG"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.compedu.2026.105773",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105773",
+    "abstract": "",
+    "keywords": [
+      "student self-regulation",
+      "computational thinking",
+      "animation",
+      "elementary school students",
+      "learning trajectories"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:01.833150"
+  },
+  {
+    "id": "https://openalex.org/W7223216737",
+    "title": "Developmental trajectories and factors associated with English-speaking flow in HCI-assisted learning among Chinese undergraduates",
+    "authors": [
+      "Liangjie Fan"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.system.2026.104181",
+    "url": "https://doi.org/10.1016/j.system.2026.104181",
+    "abstract": "",
+    "keywords": [
+      "Chinese undergraduates",
+      "developmental trajectories",
+      "English language learning",
+      "human-computer interaction in education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:09.280607"
+  },
+  {
+    "id": "https://openalex.org/W7223240184",
+    "title": "Brain dynamics differentially predict originality and appropriateness of creativity: The role of error sensitivity",
+    "authors": [
+      "Juan Liu",
+      "Haishuo Xia",
+      "Xueyang Wang",
+      "Yunhong Wang",
+      "Geng Li"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-10-22",
+    "doi": "10.1016/j.tsc.2026.102403",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102403",
+    "abstract": "",
+    "keywords": [
+      "creativity",
+      "originality",
+      "appropriateness",
+      "error sensitivity",
+      "post-error slowing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-10-25T23:39:21.729936"
   },
   {
     "id": "https://openalex.org/W7223330249",
@@ -43711,193 +43951,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-07-28T22:49:16.471158"
-  },
-  {
-    "id": "https://openalex.org/W7171310214",
-    "title": "Anticipatory governance and leadership for AI implementation in higher education: A scoping review",
-    "authors": [
-      "Sandra Baroudi"
-    ],
-    "journal": "International Journal of Educational Technology in Higher Education",
-    "jif": 16.7,
-    "published_date": "2026-07-26",
-    "doi": "10.1186/s41239-026-00616-7",
-    "url": "https://doi.org/10.1186/s41239-026-00616-7",
-    "abstract": "Abstract As the education sector attempts to address rapid changes caused by Artificial Intelligence (AI), it becomes crucial to examine approaches to leadership at the organizational and system levels. This scoping review explores how anticipatory models of governance are conceptualised and operationalised globally within higher education settings in the context of AI-related transformations. Using a scoping review design, academic and grey literature published between 2020 and 2025 was searche",
-    "keywords": [
-      "Futures studies",
-      "Corporate governance",
-      "Higher education",
-      "Leverage (statistics)",
-      "Context (archaeology)"
-    ],
-    "open_access": true,
-    "oa_url": "https://link.springer.com/content/pdf/10.1186/s41239-026-00616-7.pdf",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:48:39.869373"
-  },
-  {
-    "id": "https://openalex.org/W7171317296",
-    "title": "Generative AI-enhanced interactive learning environments in entrepreneurship education: personalization, ethical engagement, and entrepreneurial action tendency",
-    "authors": [
-      "Fei Sun",
-      "Muyan Li"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-07-26",
-    "doi": "10.1080/10494820.2026.2689104",
-    "url": "https://doi.org/10.1080/10494820.2026.2689104",
-    "abstract": "Generative artificial intelligence (GAI) is increasingly integrated into interactive learning environments (ILEs), yet its role in entrepreneurship education remains theoretically underexplored. Grounded in the Entrepreneurial Event Model and socio-cognitive perspectives, this mixed-methods study examines how GAI-enhanced ILEs relate to university students’ entrepreneurial action tendency through perceived desirability, perceived feasibility, and propensity to act, while considering the moderati",
-    "keywords": [
-      "Interactive Learning",
-      "Generative grammar",
-      "Entrepreneurship",
-      "Action (physics)",
-      "Generative model"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:48:49.342809"
-  },
-  {
-    "id": "https://openalex.org/W7171312281",
-    "title": "From Simulation to Dialogue: A Quasi-Experimental Mixed-Methods Study of Conversational-AI Supported VR Fire Escape Training",
-    "authors": [
-      "Lei Cao",
-      "Kien Tsong Chau",
-      "Wan Ahmad Jaafar Wan Yahaya"
-    ],
-    "journal": "Journal of Educational Computing Research",
-    "jif": 4.9,
-    "published_date": "2026-07-26",
-    "doi": "10.1177/07356331261469058",
-    "url": "https://doi.org/10.1177/07356331261469058",
-    "abstract": "Virtual reality fire escape drills can support procedural learning. However, many implementations rely on scripted interaction that limits learner-initiated inquiry during evacuation. In this study, a Conversational AI Supported VR Fire Escape System ( CAVR) was developed as a Unity based virtual reality drill integrated with the Live Character API through Web Real-Time Communication (WebRTC) for low-latency speech interaction and with retrieval augmented generation grounded in a curated fire sa",
-    "keywords": [
-      "Dialog system",
-      "Embodied cognition",
-      "Virtual reality",
-      "Dialog box",
-      "Drill"
-    ],
-    "open_access": true,
-    "oa_url": "https://journals.sagepub.com/doi/pdf/10.1177/07356331261469058?download=true",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:48:52.395568"
-  },
-  {
-    "id": "https://openalex.org/W7171316240",
-    "title": "Examining Chinese International Students’ Continuance Intention to Use AI Systems for Speaking Practice: Insights from Acculturative Stress and the Expectation–Confirmation Model",
-    "authors": [
-      "Bin Zou",
-      "Minyiyang Zhao",
-      "Haoxin Shen",
-      "Weizheng Zhang",
-      "Chenghao Wang"
-    ],
-    "journal": "Asia-Pacific Education Researcher",
-    "jif": 4.6,
-    "published_date": "2026-07-26",
-    "doi": "10.1007/s40299-026-01134-w",
-    "url": "https://doi.org/10.1007/s40299-026-01134-w",
-    "abstract": "Abstract This study examines Chinese international students’ continuance intention to use AI systems (e.g., EAP Talk) for English speaking practice by extending the Expectation–Confirmation Model (ECM) with selected dimensions of acculturative stress. Using a sequential explanatory mixed-methods design, survey data from 245 students in UK higher education were analysed with structural equation modelling, followed by interviews with 16 participants. Results show that confirmation, perceived usefu",
-    "keywords": [
-      "Continuance",
-      "Acculturation",
-      "Structural equation modeling",
-      "Stress (linguistics)",
-      "Explanatory model"
-    ],
-    "open_access": true,
-    "oa_url": "https://link.springer.com/content/pdf/10.1007/s40299-026-01134-w.pdf",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:48:54.790896"
-  },
-  {
-    "id": "https://openalex.org/W7171418037",
-    "title": "Embedding, Copilot, or Agent? <scp>L2</scp> Teachers Modes of Collaboration With Generative <scp>AI</scp> in Providing Feedback on Writing Assignments: Rubric Influences, Workload Dynamics, and Barriers to Integration",
-    "authors": [
-      "Wei Wei",
-      "Xi Zhang",
-      "Xinhua Zhu"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-07-26",
-    "doi": "10.1111/ejed.70795",
-    "url": "https://doi.org/10.1111/ejed.70795",
-    "abstract": "ABSTRACT Drawing from the established human‐AI collaboration framework (Mosqueira‐Rey et al., 2023), this study investigated how L2 teachers at a research‐intensive university collaborated with Generative AI chatbots to provide feedback on tertiary‐level written assignments over 9 weeks. Data from thirteen teachers included 278 interactions with GenAI, 876 feedback instances, and reflective accounts of their experiences. Findings revealed three Teacher‐GenAI collaboration modes— embedding (human",
-    "keywords": [
-      "Rubric",
-      "Workload",
-      "Embedding",
-      "Task (project management)",
-      "Mode (computer interface)"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70795",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:49:05.114033"
-  },
-  {
-    "id": "https://openalex.org/W7171287307",
-    "title": "Constructing knowledge through talk: a lesson study analysis of four discursive forms",
-    "authors": [
-      "Christina Chinas"
-    ],
-    "journal": "Professional Development In Education",
-    "jif": 3.1,
-    "published_date": "2026-07-26",
-    "doi": "10.1080/19415257.2026.2682236",
-    "url": "https://doi.org/10.1080/19415257.2026.2682236",
-    "abstract": "Teacher professional learning is dialogic and social, yet the specific discursive mechanisms through which it unfolds are often left implicit. This study examines a multi-site set of lesson study cycles in Cypriot primary schools to analyse how teachers construct professional knowledge through talk. Using sociocultural discourse analysis, four interrelated forms of teacher talk, empirical, creative, presentational, and contradictory, are identified and traced in relation to prior and new knowled",
-    "keywords": [
-      "Lesson study",
-      "Professional development",
-      "Discourse analysis",
-      "Qualitative research",
-      "Faculty development"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1080/19415257.2026.2682236",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:49:13.497148"
-  },
-  {
-    "id": "https://openalex.org/W7171422721",
-    "title": "Governance of generative <scp>AI</scp> in higher education: A qualitative analysis of universities' policies and global insights",
-    "authors": [
-      "Abdullah E. Alotaibi",
-      "Ahmad Aseery",
-      "Abdulaziz A. Alfayez",
-      "Lina Bashatah",
-      "Safana Aseri"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-07-26",
-    "doi": "10.1002/berj.70256",
-    "url": "https://doi.org/10.1002/berj.70256",
-    "abstract": "Abstract As generative AI becomes increasingly integrated into higher education, institutions face challenges in balancing its benefits with potential risks, including plagiarism, misinformation, bias and privacy concerns. This study examines the policies and guidelines on generative AI usage implemented by leading US universities ranking based best colleges in the world in the US News List using a qualitative document analysis approach. The study identifies key themes in generative AI governanc",
-    "keywords": [
-      "Discretion",
-      "Generative grammar",
-      "Corporate governance",
-      "Policy analysis",
-      "Higher education"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70256",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-07-28T22:49:15.871317"
   }
 ]
