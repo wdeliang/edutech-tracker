@@ -1,150 +1,240 @@
-📅 运行时间：2026-10-30 01:24
-📊 本次新增文章：17 篇
-📚 数据库总文章数：1605 篇
-🔍 查询范围：2026-10-23 至 2026-10-30
+📅 运行时间：2026-10-31 01:10
+📊 本次新增文章：28 篇
+📚 数据库总文章数：1614 篇
+🔍 查询范围：2026-10-24 至 2026-10-31
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Language Teaching Research: 2 篇
-  • European Journal of Education: 2 篇
-  • British Educational Research Journal: 2 篇
+  • Journal of Research on Technology In Education: 4 篇
+  • ETR&D-Educational Technology Research and Development: 2 篇
+  • Science Education: 2 篇
+  • Educational Review: 2 篇
+  • International Journal of Educational Research: 2 篇
+  • Educational Research Review: 1 篇
   • System: 1 篇
-  • Assessing Writing: 1 篇
+  • Education and Information Technologies: 1 篇
   • Interactive Learning Environments: 1 篇
   • Innovations In Education and Teaching International: 1 篇
-  • Thinking Skills and Creativity: 1 篇
-  • Modern Language Journal: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
-  • European Journal of Teacher Education: 1 篇
+  • Innovation In Language Learning and Teaching: 1 篇
+  • Journal of Computer Assisted Learning: 1 篇
+  • Teaching and Teacher Education: 1 篇
+  • American Educational Research Journal: 1 篇
+  • European Journal of Education: 1 篇
+  • Journal of English For Academic Purposes: 1 篇
+  • Active Learning In Higher Education: 1 篇
+  • Studies In Higher Education: 1 篇
+  • Learning Media and Technology: 1 篇
   • Professional Development In Education: 1 篇
-  • Technology Pedagogy and Education: 1 篇
-  • International Journal of Educational Research: 1 篇
+  • British Educational Research Journal: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Assessing large language models as essay raters: Scoring behavior and fairness in source-based writing
+[1] Teaching quality and socioeconomic inequalities in student achievement: Meta-Analytic evidence from PISA 2022
+    期刊：Educational Research Review (JIF: 10.6)
+    作者：Tamara Kastorff, Pia Todtenhöfer, Samuel Greiff
+    日期：2026-10-28
+    关键词：teaching quality, socioeconomic disparities, academic performance, PISA 2022, educational inequality
+    DOI：https://doi.org/10.1016/j.edurev.2026.100864
+    🔓 开放获取
+
+[2] Emotion as a dynamic, socially situated trajectory in L2 writing: Computational insights into learners’ emotional meaning-making
     期刊：System (JIF: 5.6)
-    作者：Emrah Emirtekin, Ali Emre Karagül
-    日期：2026-10-28
-    关键词：Rasch model, Overfitting, Argumentative, Differential item functioning, Psychology
-    DOI：https://doi.org/10.1016/j.system.2026.104184
-
-[2] Perceived cognitive load, writing motivation, and writing anxiety in relation to task-based L2 writing performance
-    期刊：Assessing Writing (JIF: 5.5)
-    作者：Senem Zaimoğlu
+    作者：Chenghao Zhu, Meng Huat Chau
     日期：2026-10-29
-    关键词：Relation (database), Psychology, Anxiety, Cognition, Second language writing
-    DOI：https://doi.org/10.1016/j.asw.2026.101137
+    关键词：Psychology, Situated, Argumentative, Meaning (existential), Salient
+    DOI：https://doi.org/10.1016/j.system.2026.104183
 
-[3] Evaluating the efficacy of augmented reality-supported “Life-integrated holistic science learning” (LiHSL) on conceptual development
+[3] Motivations of machine translation users among foreign language learners: A latent class model with ethical implications
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Xianlong Zhu, Xiqin Liu
+    日期：2026-10-28
+    关键词：Sociocultural evolution, Class (philosophy), Psychology, Higher education, Discipline
+    DOI：https://doi.org/10.1007/s10639-026-14157-z
+
+[4] Beyond technology acceptance: students’ perceptions and prompt engineering competence in higher education
     期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Muhammet Fatih Doğan
-    日期：2026-10-28
-    关键词：Computer science, Knowledge management, Holistic education, Science education, Conceptual framework
-    DOI：https://doi.org/10.1080/10494820.2026.2754096
+    作者：María Consuelo Sáiz Manzanares, María del Camino Escolar Llamazares, Irene González-Díez 等(5人)
+    日期：2026-10-29
+    关键词：Competence (human resources), Rubric, Psychology, Discipline, Engineering education
+    DOI：https://doi.org/10.1080/10494820.2026.2744402
+    🔓 开放获取
 
-[4] Business school students’ perception of employability: Antecedents and responsibility
+[5] Bridging computer science and data science in preservice teacher education through integration design
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Lin Chu, Anne Todd Ottenbreit-Leftwich
+    日期：2026-10-29
+    关键词：Bridging (networking), Teacher education, Mathematics education, Technology integration, Computer science
+    DOI：https://doi.org/10.1080/15391523.2026.2737299
+
+[6] Beyond school support: Internalizing the school innovation support system in teachers’ digital teaching innovation
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Qinghao Li
+    日期：2026-10-29
+    关键词：Mathematics education, Value (mathematics), Key (lock), Knowledge management, Decomposition
+    DOI：https://doi.org/10.1080/15391523.2026.2737297
+
+[7] “I trained every part of myself beneath these technological wrappings”: exploring and defining foreign language PK–12 teachers’ critical multilingual and multimodal AI competence
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Huixin Wang, Yunan Zhang, Jiyou Jia
+    日期：2026-10-29
+    关键词：Competence (human resources), Situated, Foreign language, Cultural competence, Computer science
+    DOI：https://doi.org/10.1080/15391523.2026.2740580
+
+[8] A mixed-methods study on generative AI’s influence on problem-solving mechanisms among pre-service teachers
+    期刊：Journal of Research on Technology In Education (JIF: 5.0)
+    作者：Yun-Qi Bai
+    日期：2026-10-29
+    关键词：Metacognition, Cognition, Psychology, Intervention (counseling), Thematic analysis
+    DOI：https://doi.org/10.1080/15391523.2026.2736124
+
+[9] Coordination in collaborative learning: The mediating role of cognitive load
     期刊：Innovations In Education and Teaching International (JIF: 4.9)
-    作者：Suzanne Young, Swati Nagpal, Geraldine Kennett 等(5人)
+    作者：Anna Gorbunova, Galina Shulgina, Shahinaz Bashir 等(4人)
+    日期：2026-10-29
+    关键词：Cognitive load, Cognition, Psychology, Cognitive psychology, Computer science
+    DOI：https://doi.org/10.1080/14703297.2026.2756986
+
+[10] Impact of a bilingual STEM activity on students’ learning performance and motivation toward STEM and English
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Jyun‐Chen Chen, Hui-Wen Lu, Shian-Yun Lo
     日期：2026-10-28
-    关键词：Perception, Psychology, Social psychology, Pedagogy, Public relations
-    DOI：https://doi.org/10.1080/14703297.2026.2752033
+    关键词：Psychology, Mathematics education, Nonprobability sampling, Mandarin Chinese, Pedagogy
+    DOI：https://doi.org/10.1080/17501229.2026.2750147
+
+[11] Assessing the Impact of Immersive Technologies on Academic Performance, Cognitive Load, Engagement, and Self‐Regulated Learning: A Quasi‐Experimental Study in Kazakhstan
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Olga Tapalova, Nadezhda Zhiyenbayeva, Zholdybay Uspanov
+    日期：2026-10-29
+    关键词：Psychology, Cognition, Applied psychology, Cognitive load, Control (management)
+    DOI：https://doi.org/10.1002/jcal.70358
+
+[12] A resilience-oriented VR safe-sandbox for FDM 3D printing education: reducing cost-of-failure pressure in early procedural learning
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Yo‐Wen Liang, Allan Chung
+    日期：2026-10-28
+    关键词：Facilitator, Workflow, Computer science, Instructional design, Virtual reality
+    DOI：https://doi.org/10.1007/s11423-026-10751-7
+
+[13] Artificial intelligence and empathetic communication to enhance learning engagement, motivation, and effectiveness
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Chih‐Hung Wu, Yi-Ting Lin, Mei-Tzu Chou 等(4人)
+    日期：2026-10-28
+    关键词：Psychology, Blueprint, Empathy, Educational technology, Cognitive psychology
+    DOI：https://doi.org/10.1007/s11423-026-10720-0
     🔓 开放获取
 
-[5] “Empowerment” or “Burden”? A study on the double-edged sword effect of university ethical leadership on faculty members’ creativity
-    期刊：Thinking Skills and Creativity (JIF: 4.5)
-    作者：Wu Wenhao, He Qi, Deng Zhaolun 等(4人)
-    日期：2026-10-25
-    关键词：ethical leadership, university leadership, work centrality, social learning theory, university administration
-    DOI：https://doi.org/10.1016/j.tsc.2026.102408
+[14] The moderating role of teachers’ self-efficacy in the relationship between classroom heterogeneity and instructional quality
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Anne Heinschel, Sofie Henschel, Camilla Rjosk
+    日期：2026-10-29
+    关键词：Psychology, Quality (philosophy), Mathematics education, Social psychology, Teacher quality
+    DOI：https://doi.org/10.1016/j.tate.2026.105886
 
-[6] Affordance, Agency, and Analytical Differentiation in Sociomaterial Language Pedagogy
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Ali Khodi
-    日期：2026-10-28
-    关键词：Pedagogy, Sociology, Linguistics, Epistemology, Mathematics education
-    DOI：https://doi.org/10.1111/modl.70096
+[15] State School Accountability Decisions and the Implications for School Ratings
+    期刊：American Educational Research Journal (JIF: 3.6)
+    作者：Erica Harbatkin, Betsy Wolf
+    日期：2026-10-29
+    关键词：Accountability, Weighting, State (computer science), Quality (philosophy), Educational assessment
+    DOI：https://doi.org/10.3102/00028312261489577
 
-[7] During and After Self-Regulated Writing: Influence of During-Writing Task Implementation and Self-Control on Post-Writing Task Evaluation and L2 Writing Performance
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Meihua Liu
-    日期：2026-10-27
-    关键词：Argumentative, Task (project management), Psychology, Structural equation modeling, Task analysis
-    DOI：https://doi.org/10.1177/13621688261496046
-
-[8] Exploring Pre-Service English Language Teachers’ Silence and Engagement in an Oral Communication Class
-    期刊：Language Teaching Research (JIF: 3.8)
-    作者：Yunus Emre Akbana
-    日期：2026-10-27
-    关键词：Silence, Psychology, Communication apprehension, Interpersonal communication, Meaning (existential)
-    DOI：https://doi.org/10.1177/13621688261495476
-
-[9] Unpacking the Chain From Interaction to Intention: The Serial Mediation of AI Learning Interest and Trust in Linking Teacher–Student Interaction to Willingness to Communicate With AI
+[16] How Do Chinese Pre‐Service Teachers Navigate Cognitive‐Emotional Patterns to Accept GenAI in Teaching? An Expanded AIDUA Framework Perspective
     期刊：European Journal of Education (JIF: 3.6)
-    作者：Min Zhang, Songlin Yang
+    作者：Huajun Zhang, Hao Yu, Hongji Deng 等(5人)
     日期：2026-10-28
-    关键词：Mediation, Psychology, Unpacking, Willingness to communicate, Interpersonal communication
-    DOI：https://doi.org/10.1111/ejed.70921
+    关键词：Novelty, Expectancy theory, Psychology, Cognition, Mediation
+    DOI：https://doi.org/10.1111/ejed.70900
     🔓 开放获取
 
-[10] Workplace Adaptability and Development in Hybrid Environments: The Role of Cultural Intelligence, E‐Leadership and Psychological Well‐Being
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Gaurav Kumar, Ka Yin Chau, Ankita Manohar Walawalkar 等(5人)
-    日期：2026-10-27
-    关键词：Psychology, Structural equation modeling, Adaptability, Snowball sampling, Psychological contract
-    DOI：https://doi.org/10.1111/ejed.70916
+[17] Taking the high road: how multi-genre pedagogy promotes genre knowledge and high-road transfer among academic and non-academic genres
+    期刊：Journal of English For Academic Purposes (JIF: 3.4)
+    作者：Peter Wingrove, Raffaella Negretti, Lisa McGrath 等(4人)
+    日期：2026-10-29
+    关键词：Sociology, Genre analysis, Pedagogy, English for academic purposes, Linguistics
+    DOI：https://doi.org/10.1016/j.jeap.2026.101795
     🔓 开放获取
 
-[11] From numbers to narratives: perceived SDG integration and reported professional and ethical behaviour in accounting and marketing education
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Hind Al-Ahmed, Khaled Alshaketheep, Omar Zraqat
-    日期：2026-10-28
-    关键词：Psychology, Framing (construction), Cognition, Discipline, Value (mathematics)
-    DOI：https://doi.org/10.1108/ijshe-09-2025-1043
+[18] Recognized and Realigned: A Veteran Teacher's Moves to Leverage Familiar Forms of Epistemic Agency While Using Next Generation Science Standard Inspired Materials
+    期刊：Science Education (JIF: 3.4)
+    作者：Christine Bernhardt, Andrew Elby
+    日期：2026-10-29
+    关键词：Sensemaking, Framing (construction), Curriculum, Science education, Epistemology
+    DOI：https://doi.org/10.1002/sce.70107
+    🔓 开放获取
 
-[12] Mapping the concept of practitioner research in physical education and teacher education: a scoping review
-    期刊：European Journal of Teacher Education (JIF: 3.1)
-    作者：João Azevedo, Rui Araújo, João Costa 等(4人)
-    日期：2026-10-28
-    关键词：Practitioner research, Physical education, Inclusion (mineral), Conceptual framework, Pedagogy
-    DOI：https://doi.org/10.1080/02619768.2026.2753605
+[19] Learning About Justice‐Oriented Participation in Scientific Communities of Practice Through Resistance Spotlight Assignments
+    期刊：Science Education (JIF: 3.4)
+    作者：Sugat Dabholkar, Julia Svoboda Gouvea, Kaitlyn Coburn 等(4人)
+    日期：2026-10-29
+    关键词：Discipline, Resistance (ecology), Sociology, Scholarship, Engineering ethics
+    DOI：https://doi.org/10.1002/sce.70102
 
-[13] Teacher identity trajectories in out-of-field English teaching: a comparative case study in a rural primary school in central China
+[20] When one subject blocks a dream: rethinking higher education access, pathways, and gatekeeping in Ghanaian core curriculum
+    期刊：Educational Review (JIF: 3.4)
+    作者：Cosmas Rai Amenorvi, Jacob Oppong Nkansah, Enoch Danso Okyere
+    日期：2026-10-29
+    关键词：Higher education, Gatekeeping, Subject (documents), Pedagogy, Sociology
+    DOI：https://doi.org/10.1080/00131911.2026.2746634
+
+[21] Teachers in urban schools: working in segregated cities
+    期刊：Educational Review (JIF: 3.4)
+    作者：Sonja Kosunen, Sara Juvonen, Heidi Huilla
+    日期：2026-10-29
+    关键词：Sociology, Pedagogy, Economic growth, Public relations, Ethnic group
+    DOI：https://doi.org/10.1080/00131911.2026.2739933
+    🔓 开放获取
+
+[22] Staging the International Classroom in Problem-Based Learning: Staff and Students’ Performance and Perceptions
+    期刊：Active Learning In Higher Education (JIF: 3.2)
+    作者：Patrick Bijsmans, Chayenne Smeets, Carla Haelermans 等(4人)
+    日期：2026-10-29
+    关键词：Internationalization, Perception, Nationality, International education, Diversity (politics)
+    DOI：https://doi.org/10.1177/14697874261498374
+    🔓 开放获取
+
+[23] Course descriptions and skill supply: an exploration of green content and uniqueness
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Giovanni Pagliarini, Alberto Marzucchi, Ugo Rizzo 等(5人)
+    日期：2026-10-29
+    关键词：Mathematics education, Uniqueness, Higher education, Course (navigation), Psychology
+    DOI：https://doi.org/10.1080/03075079.2026.2747742
+
+[24] When robots malfunction: children’s and teachers’ responses in Korean preschool classrooms
+    期刊：Learning Media and Technology (JIF: 3.1)
+    作者：Soojung Kim, Boram Lee
+    日期：2026-10-29
+    关键词：Robot, Embodied cognition, Psychology, Laughter, Human–robot interaction
+    DOI：https://doi.org/10.1080/17439884.2026.2744116
+
+[25] Deliberative Instructional Agents: transforming professional learning with the responsible integration of Artificial Intelligence
     期刊：Professional Development In Education (JIF: 3.1)
-    作者：Fan Yang, Ruilin Li
-    日期：2026-10-28
-    关键词：Pedagogy, Staffing, Identity (music), Comparative case, Professional development
-    DOI：https://doi.org/10.1080/19415257.2026.2751607
-
-[14] ’It’s not just me but the school where I work’: how school context influenced seven Australian early career teachers’ design of technology-integrated learning
-    期刊：Technology Pedagogy and Education (JIF: 2.5)
-    作者：Lauren Knussen, Shirley Agostinho, Lori Lockyer
-    日期：2026-10-28
-    关键词：Context (archaeology), Psychology, Pedagogy, Context effect, Instructional design
-    DOI：https://doi.org/10.1080/1475939x.2026.2750322
+    作者：Thomas Cowhitt, Matt Gibson
+    日期：2026-10-29
+    关键词：Transformative learning, Professional development, Experiential learning, Professional learning community, Dialogic
+    DOI：https://doi.org/10.1080/19415257.2026.2751225
     🔓 开放获取
 
-[15] How creator identity cues and uncertainty shape design teachers’ evaluation of student work in AI-generated contexts
+[26] Exploring family-school engagement to support student attendance
     期刊：International Journal of Educational Research (JIF: 2.5)
-    作者：Nian Wang, Weifang Liu, Yihuan Zhang 等(5人)
-    日期：2026-10-28
-    关键词：Identity (music), Psychology, Social psychology, Generative grammar, Transparency (behavior)
-    DOI：https://doi.org/10.1016/j.ijer.2026.103155
-
-[16] Use quantity or use quality? AI engagement depth, academic performance and the Matthew effect in undergraduate capstone projects: Evidence from 875 graduating students
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Yani Jiang, Yixiang Bian
-    日期：2026-10-27
-    关键词：Capstone, Raw score, Academic achievement, Psychology, Variance (accounting)
-    DOI：https://doi.org/10.1002/berj.70304
+    作者：Tarissa Judith Hidajat, Deborah Lynch, Elizabeth J. Edwards 等(4人)
+    日期：2026-10-29
+    关键词：Attendance, Student engagement, Qualitative research, Socioeconomic status, Psychology
+    DOI：https://doi.org/10.1016/j.ijer.2026.103157
     🔓 开放获取
 
-[17] The opportunity state and governing by benefits: Economic governmentality in Hong Kong's national education
+[27] Why do students differ in AI competence? Examining the role of attitudes across academic pathways
+    期刊：International Journal of Educational Research (JIF: 2.5)
+    作者：Almaas Sultana, Nafilah Abdul Latheef, Nitha Siby 等(4人)
+    日期：2026-10-29
+    关键词：Psychology, Competence (human resources), Endogeneity, Structural equation modeling, Social psychology
+    DOI：https://doi.org/10.1016/j.ijer.2026.103156
+    🔓 开放获取
+
+[28] How do schools justify funding? Mapping research evidence use in Pupil Premium strategies at primary schools in England
     期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Jason Cong Lin
-    日期：2026-10-27
-    关键词：Governmentality, Prosperity, Corporate governance, Incentive, National security
-    DOI：https://doi.org/10.1002/berj.70303
+    作者：Wenqing Chen, Stephen Gorard, Beng Huat See
+    日期：2026-10-28
+    关键词：pupil premium, research utilization, school funding allocation, educational disadvantage, elementary school
+    DOI：https://doi.org/10.1002/berj.70307
     🔓 开放获取
