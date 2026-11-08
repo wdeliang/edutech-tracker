@@ -1,5 +1,529 @@
 [
   {
+    "id": "https://openalex.org/W7225396940",
+    "title": "Empowering K-12 teachers through GenAI-supported vibe coding for educational software development",
+    "authors": [
+      "Hunhui Na",
+      "Casey K. H. Kim"
+    ],
+    "journal": "Journal of Research on Technology In Education",
+    "jif": 5.0,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/15391523.2026.2758174",
+    "url": "https://doi.org/10.1080/15391523.2026.2758174",
+    "abstract": "",
+    "keywords": [
+      "Coding (social sciences)",
+      "Computer science",
+      "Multimedia",
+      "Educational software",
+      "Software"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:03.643526"
+  },
+  {
+    "id": "https://openalex.org/W7225401438",
+    "title": "Editorial",
+    "authors": [
+      "Linlin Xu"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/14703297.2026.2760700",
+    "url": "https://doi.org/10.1080/14703297.2026.2760700",
+    "abstract": "Educational innovation in higher education is often discussed in terms of new pedagogical approaches, assessment practices and digital technologies. Yet the introduction of an innovative approach d...",
+    "keywords": [
+      "Pedagogy",
+      "Higher education",
+      "Sociology",
+      "Mathematics education",
+      "Educational technology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "editorial",
+    "fetched_at": "2026-11-08T00:57:04.490166"
+  },
+  {
+    "id": "https://openalex.org/W7225411549",
+    "title": "Redefining resilience: Language, anti-racism, and academic development in UK higher education",
+    "authors": [
+      "Melanie-Marie Haywood",
+      "Marva de la Coudray",
+      "Anne-Louise Critchlow"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/14703297.2026.2758363",
+    "url": "https://doi.org/10.1080/14703297.2026.2758363",
+    "abstract": "This paper redefines resilience within UK higher education by examining its relationship to language, anti-racism, and academic development. Challenging individualised accounts of resilience as endurance, it argues that resilience is shaped by the racialised and linguistic conditions of university life. Drawing on qualitative, phenomenological research with educational developers, the study explores how institutional and everyday language constructs racial hierarchies, sustains deficit narrative",
+    "keywords": [
+      "Transformative learning",
+      "Dialogic",
+      "Sociology",
+      "Higher education",
+      "Pedagogy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/14703297.2026.2758363",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:04.490214"
+  },
+  {
+    "id": "https://openalex.org/W7225393846",
+    "title": "Impacts of AI ‐Generated Learning Videos on Learning Outcomes: The Mediating Roles of Perceived Desirability and Perceived Feasibility",
+    "authors": [
+      "Shang Shanshan",
+      "Chen Hong",
+      "Xiao‐Yue You"
+    ],
+    "journal": "Journal of Computer Assisted Learning",
+    "jif": 4.6,
+    "published_date": "2026-11-06",
+    "doi": "10.1002/jcal.70374",
+    "url": "https://doi.org/10.1002/jcal.70374",
+    "abstract": "ABSTRACT Background In recent educational research and practice, there has been growing attention to the use and impact of generative AI technologies, with most studies focusing on AI‐generated textual content. However, relatively little is known about AI‐generated learning videos, despite their potential to significantly influence learners' experiences and outcomes. Objectives Drawing on situational interest theory and construal level theory, this study investigates how three different types of",
+    "keywords": [
+      "Psychology",
+      "Structural equation modeling",
+      "Situational ethics",
+      "Experiential learning",
+      "Control (management)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:11.755904"
+  },
+  {
+    "id": "https://openalex.org/W7225377107",
+    "title": "Toward cognitively informed instructional design",
+    "authors": [
+      "Arif Altun",
+      "Hale Ilgaz",
+      "Kinshuk"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1007/s11423-026-10760-6",
+    "url": "https://doi.org/10.1007/s11423-026-10760-6",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:14.341555"
+  },
+  {
+    "id": "https://openalex.org/W7225433656",
+    "title": "To chat or not to chat? Incorporating GenAI chatbot into flipped classroom to enhance learners’ task engagement",
+    "authors": [
+      "Zhiyong Li",
+      "Jie Bao"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1007/s11423-026-10759-z",
+    "url": "https://doi.org/10.1007/s11423-026-10759-z",
+    "abstract": "",
+    "keywords": [
+      "Chatbot",
+      "Flipped classroom",
+      "Task (project management)",
+      "Educational technology",
+      "Multimedia"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:14.341571"
+  },
+  {
+    "id": "https://openalex.org/W7225425882",
+    "title": null,
+    "authors": [],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-11-06",
+    "doi": "10.1002/jee.v116.1",
+    "url": "https://doi.org/10.1002/jee.v116.1",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-11-08T00:57:26.634536"
+  },
+  {
+    "id": "https://openalex.org/W7225412319",
+    "title": "Sustainability-oriented assessment and its influence on students' orientations toward responsible enterprise education: a qualitative study in postgraduate business education",
+    "authors": [
+      "Harish Jyawali",
+      "Olusola Daniel Oladiran"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1108/et-04-2026-0470",
+    "url": "https://doi.org/10.1108/et-04-2026-0470",
+    "abstract": "Purpose This study examines how postgraduate students describe and make sense of their orientations toward responsible enterprise in the context of sustainability-oriented assessment. Specifically, it investigates how embedding the United Nations Sustainable Development Goals (SDGs) within summative assessment influences students' cognitive interpretations of enterprise, their affective engagement with sustainability values, and their future-oriented self-perception. Design/methodology/approach ",
+    "keywords": [
+      "Summative assessment",
+      "Reflexivity",
+      "Sustainability",
+      "Cognitive reframing",
+      "Thematic analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:30.534627"
+  },
+  {
+    "id": "https://openalex.org/W7225412483",
+    "title": "Career orientation, employability, and employment quality of higher vocational students: evidence from Zhejiang province, China",
+    "authors": [
+      "Yuelin Zhao",
+      "Chengmeng Chen"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1108/et-03-2025-0122",
+    "url": "https://doi.org/10.1108/et-03-2025-0122",
+    "abstract": "Purpose Employment quality is closely associated with job satisfaction and life quality, and plays a crucial role in promoting economic growth, enhancing social well-being, and achieving social equity. This study aims to examine the relationships among career orientation, employability, and employment quality. Design/methodology/approach Based on the Conservation of Resources theory, this study collected data from higher vocational students in Zhejiang Province and employed regression analysis t",
+    "keywords": [
+      "Employability",
+      "Vocational education",
+      "Context (archaeology)",
+      "China",
+      "Quality (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:30.534667"
+  },
+  {
+    "id": "https://openalex.org/W7225417327",
+    "title": "Developing graduate employability through a credit-bearing, curriculum-embedded internship: an education–industry partnership case from Japan",
+    "authors": [
+      "Shinji Noguchi",
+      "Jiao Li",
+      "Aoi Sugiyama",
+      "Ikuma Hori",
+      "Jieyu Zhao"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1108/et-05-2026-0602",
+    "url": "https://doi.org/10.1108/et-05-2026-0602",
+    "abstract": "Purpose To examine how a credit-bearing, curriculum-embedded graduate internship in Japan develops graduate employability and how reflection translates specialised academic knowledge into professional judgement. Design/methodology/approach A qualitative case study of a year-long graduate course at a university in Japan in which postgraduate students worked with industry and public-sector partners on digital transformation challenges. Questionnaires were completed by 16 students, seven instructor",
+    "keywords": [
+      "Employability",
+      "Internship",
+      "Cognitive reframing",
+      "Pedagogy",
+      "Thematic analysis"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:30.534712"
+  },
+  {
+    "id": "https://openalex.org/W7225417401",
+    "title": "From knowledge transmission to competency formation: pedagogical innovation in investigative studies education",
+    "authors": [
+      "Rui Guo",
+      "Jinfang Yao",
+      "Hisham Noori Hussain Al-Hashimy"
+    ],
+    "journal": "Education and Training",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1108/et-02-2026-0142",
+    "url": "https://doi.org/10.1108/et-02-2026-0142",
+    "abstract": "Purpose Competency-oriented reform is a central priority in higher vocational education. This study examines the direct association between pedagogical leadership commitment (PLC) and staff-reported student competency formation (SCF), the mediating role of practice-oriented learning culture (POLC) and the moderating effect of PLC on the POLC–SCF relationship. Design/methodology/approach A quantitative research design was adopted. Data were collected through a structured questionnaire administere",
+    "keywords": [
+      "Transformational leadership",
+      "Vocational education",
+      "Curriculum",
+      "Psychology",
+      "Structural equation modeling"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:30.534757"
+  },
+  {
+    "id": "https://openalex.org/W7225382918",
+    "title": "What the campus ‘Does’: projection, mobility, and power geometries in the university space",
+    "authors": [
+      "Richard W. Budd"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2757168",
+    "url": "https://doi.org/10.1080/03075079.2026.2757168",
+    "abstract": "While scholarship about university campuses has tended to focus on practical discussions around resource allocation and architecture on the one hand and culturally informed experiences on the other, this article contributes to the growing body of empirical research exploring the relationship between them. Drawing on qualitative data from a diverse group of students at a UK university, it investigates their perceptions and navigation of their campus, invoking Doreen Massey’s conceptualisation of ",
+    "keywords": [
+      "Sociology",
+      "Scholarship",
+      "Higher education",
+      "Discipline",
+      "Institution"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2757168",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447234"
+  },
+  {
+    "id": "https://openalex.org/W7225383492",
+    "title": "Silent battles: intra-gender power struggles and the scorpion loop in women’s academic leadership",
+    "authors": [
+      "Norma Ghamrawi",
+      "Tarek Shal",
+      "Asmaa Al-Fadala",
+      "Norma Ghamrawi"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2755380",
+    "url": "https://doi.org/10.1080/03075079.2026.2755380",
+    "abstract": "This study investigates the existence, manifestations, and organisational mediation of intra-gender power struggles among women leaders in Arab higher education, alongside the forms of allyship that facilitate their advancement and retention in senior roles. Guided by gendered organisations theory, intersectionality, and social capital, the research employed vignette-based semi-structured interviews with eighteen senior and mid-level female academics from diverse faculties. Thematic analysis rev",
+    "keywords": [
+      "Power (physics)",
+      "Sociology",
+      "Corporate governance",
+      "Power structure",
+      "Scholarship"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2755380",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447284"
+  },
+  {
+    "id": "https://openalex.org/W7225401532",
+    "title": "The rise of neo-collegiality: how shifting notions of expertise are reconfiguring collegial practice in higher education",
+    "authors": [
+      "Olivier Guyottot",
+      "Bjørn Stensaker"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2756477",
+    "url": "https://doi.org/10.1080/03075079.2026.2756477",
+    "abstract": "Collegiality is often portrayed as a declining principle of academic life in contemporary higher education, progressively displaced by managerialism and external steering. This conceptual article argues that such an account overlooks a more subtle transformation: collegiality is not disappearing but being reconfigured by profound shifts in the nature of expertise and the renegotiation of legitimacy that follows. The paper first clarifies the multidimensional nature of collegiality, encompassing ",
+    "keywords": [
+      "Managerialism",
+      "Collegiality",
+      "Higher education",
+      "Sociology",
+      "Legitimacy"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2756477",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447338"
+  },
+  {
+    "id": "https://openalex.org/W7225404652",
+    "title": "From burden to balance: a latent profile analysis of students’ load during the transition to higher education",
+    "authors": [
+      "Laura Gehreke",
+      "Stephanie Hirschberger",
+      "Martin Paul Fladerer",
+      "Simone Kauffeld"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2755375",
+    "url": "https://doi.org/10.1080/03075079.2026.2755375",
+    "abstract": "The transition from secondary education to higher education poses significant challenges, often increasing psychological load, particularly in STEM fields and among women, which may raise dropout risk. This study examines load profiles of students during the study entry phase (1st–3rd semester) using latent profile analysis (LPA) based on five cohorts of a large national student survey in Germany (N = 12, 282). Seven different latent profiles were identified across all cohorts, reflecting differ",
+    "keywords": [
+      "Higher education",
+      "Psychological intervention",
+      "Dropout (neural networks)",
+      "Psychology",
+      "Social support"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1080/03075079.2026.2755375",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447380"
+  },
+  {
+    "id": "https://openalex.org/W7225410276",
+    "title": "Governance-mediated legitimacy and quality in graduate education: evidence from Brazil and China",
+    "authors": [
+      "Émerson Antônio Maccari",
+      "Fernando Antônio Ribeiro Serra",
+      "Pang Lien Hsu",
+      "José Paulo Esperança",
+      "José Lopes Camilo Da Costa Alves"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2756475",
+    "url": "https://doi.org/10.1080/03075079.2026.2756475",
+    "abstract": "How do different modes of governance shape legitimacy pressures and configure national quality regimes in graduate education? This article addresses this question through a systematic comparative documentary analysis of Brazil and China, the two largest graduate systems among the BRICS (Brazil, Russia, India, China, South Africa) countries. Drawing on institutional theory, legitimacy theory, and governance typologies, we develop an analytical framework applied across three documentary layers (le",
+    "keywords": [
+      "Legitimacy",
+      "Corporate governance",
+      "China",
+      "Convergence (economics)",
+      "Quality (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447410"
+  },
+  {
+    "id": "https://openalex.org/W7225420417",
+    "title": "Creative adaptation or ceremonial compliance? Senior leadership agency and institutional capacity building under hybrid governance",
+    "authors": [
+      "Gökhan Arastaman",
+      "Soner Güven"
+    ],
+    "journal": "Studies In Higher Education",
+    "jif": 3.2,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/03075079.2026.2756467",
+    "url": "https://doi.org/10.1080/03075079.2026.2756467",
+    "abstract": "Higher education systems are increasingly shaped by state regulation and market pressures. This leadership study examines how senior academic leaders in Türkiye's foundation (private non-profit) universities translate regulatory and market demands into institutional capacity building. Drawing on the translation perspective in institutional theory, it analyses semi-structured interviews with ten senior professors at five institutions, together with strategic plans and national evaluation reports.",
+    "keywords": [
+      "Public relations",
+      "Higher education",
+      "Corporate governance",
+      "Agency (philosophy)",
+      "Strategic planning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:31.447441"
+  },
+  {
+    "id": "https://openalex.org/W7225400773",
+    "title": "Operationalising ethics in AI teacher education: a qualitative content analysis of ethics-explicit ite and CPD initiatives in Europe",
+    "authors": [
+      "Diane Vassallo",
+      "Janja Usenik",
+      "Gabrielė Stupurienė",
+      "Monika Mithans",
+      "Ivona Popović"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-11-06",
+    "doi": "10.1080/02619768.2026.2758679",
+    "url": "https://doi.org/10.1080/02619768.2026.2758679",
+    "abstract": "Artificial intelligence in education is expanding, yet how teacher education initiatives translate ethical guidance into professional learning remains unclear. This study examines how ethics is operationalised in the public materials of European initiatives that explicitly address AI’s ethical implications. Criterion sampling from an inventory of 86 initiatives produced 17 cases spanning ITE and CPD. Qualitative content analysis of 656 excerpts generated seven themes across three tiers. Although",
+    "keywords": [
+      "Content analysis",
+      "Pedagogy",
+      "Sociology",
+      "Qualitative research",
+      "Engineering ethics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:33.764924"
+  },
+  {
+    "id": "https://openalex.org/W7225416043",
+    "title": "Are there socioeconomic inequalities in children’s mindset and teachers' mindset about children in elementary school?",
+    "authors": [
+      "Nil Horoz",
+      "Nienke van Atteveldt",
+      "J. Marieke Buil"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-11-06",
+    "doi": "10.1016/j.ijer.2026.103136",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103136",
+    "abstract": "This study investigated socioeconomic inequalities in children’s own mindset and teachers’ mindset about these children’s abilities in sixth grade of elementary school. More specifically, it examined a) whether socioeconomic status (SES) associated with children’s general, math, and reading mindset and b) whether teachers’ mindset about these same children’s math and reading abilities mediated the associations between SES and children’s own math and reading mindset. Participants were 396 childre",
+    "keywords": [
+      "Mindset",
+      "Reading (process)",
+      "Socioeconomic status",
+      "Psychology",
+      "Operationalization"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103136",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:36.988282"
+  },
+  {
+    "id": "https://openalex.org/W4414908004",
+    "title": "From Whole Number Bias to Gap Thinking: University Students’ Strategy Choices in Fraction Comparison and Relations to Math and Cognitive Abilities",
+    "authors": [
+      "Ao Fan",
+      "Roberto A. Abreu‐Mendoza",
+      "Jo Van Hoof",
+      "Wim Van Dooren",
+      "Miriam Rosenberg‐Lee"
+    ],
+    "journal": "International Journal of Science and Mathematics Education",
+    "jif": 2.1,
+    "published_date": "2026-11-06",
+    "doi": "10.1007/s10763-026-10734-3",
+    "url": "https://doi.org/10.1007/s10763-026-10734-3",
+    "abstract": "Abstract Fractions pose a significant challenge for many students. Several flawed strategies have been identified in elementary and secondary students when selecting the larger of two fractions: the whole number strategy (choosing the larger numerals), the reverse strategy (choosing the smaller numerals), and the gap strategy (choosing the smaller difference between numerator and denominator). The prevalence of these strategies among university students is unknown. In the present study, we used ",
+    "keywords": [
+      "fraction comparison",
+      "fraction magnitude",
+      "strategy selection",
+      "university students",
+      "inhibitory control"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10763-026-10734-3.pdf",
+    "cited_by_count": 1,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:39.314820"
+  },
+  {
     "id": "https://openalex.org/W7225313411",
     "title": "Internationalisation at Home: Evaluating Pedagogical Outcomes in a Cross-Continental COIL Experience",
     "authors": [
@@ -27,6 +551,263 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-11-07T01:22:59.002720"
+  },
+  {
+    "id": "https://openalex.org/W7225425690",
+    "title": "Developing and Validating an AI-Literacy-Integrated Teaching Acceptance and Readiness Scale for Mathematics Teachers",
+    "authors": [
+      "Huiyan Ye",
+      "Qi Zhai",
+      "Oi‐Lam Ng"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-11-05",
+    "doi": "10.1177/07356331261503523",
+    "url": "https://doi.org/10.1177/07356331261503523",
+    "abstract": "The global shift toward cultivating students’ AI literacy requires teachers to reconceptualize curricula and pedagogical practices. However, research has focused primarily on teachers’ use of AI tools, overlooking their readiness to integrate AI literacy as a learning goal, particularly in mathematics education. In response, this study developed and validated the AI-Literacy-Integrated Teaching Acceptance and Readiness Scale for Mathematics Teachers (AILTAR-M). The instrument was theoretically o",
+    "keywords": [
+      "Exploratory factor analysis",
+      "Mathematics education",
+      "Scale (ratio)",
+      "Confirmatory factor analysis",
+      "Curriculum"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/07356331261503523",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:06.888923"
+  },
+  {
+    "id": "https://openalex.org/W7112806001",
+    "title": "Instructional Configurations of Contrastiveness, Practice Type, and Guided Induction for L2 Article Learning",
+    "authors": [
+      "Matt Lucas",
+      "Taichi Yamashita"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-05",
+    "doi": "10.1177/13621688261493248",
+    "url": "https://doi.org/10.1177/13621688261493248",
+    "abstract": "This study investigates how instruction involving different configurations of explicit information (EI) on contrastiveness (the presence or absence of L1–L2 similarities and differences), practice type, and guided induction (GI) may shape L2 English article learning ( a/an , the , Ø). During an 8-week online intervention, Japanese learners of English as a foreign language ( N = 219) received training under one of four instructional conditions: (1) non-contrastive instruction (rule-based L2–EI + ",
+    "keywords": [
+      "contrastive analysis",
+      "second language acquisition",
+      "definite and indefinite articles",
+      "grammar instruction",
+      "practice type"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:20.471166"
+  },
+  {
+    "id": "https://openalex.org/W7225419484",
+    "title": "Teaching English Under Constraints: Selective Pedagogical Agency and Teacher Identity in Rural Boarding Schools in China",
+    "authors": [
+      "Shengrui Kang",
+      "Lawrence Jun Zhang",
+      "Marek Tesař"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-05",
+    "doi": "10.1177/13621688261502361",
+    "url": "https://doi.org/10.1177/13621688261502361",
+    "abstract": "This article examines how rural boarding school (RBS) English teachers’ agency and identity are enacted through English teaching practices under constraint. Drawing on a qualitative multiple case study of 13 English teachers in three RBSs in northwestern China, the study analyses focus group data, classroom observations, field notes, reflective journals and participant information forms. The findings show how limited family support, fragile learning continuity and perceived institutional and par",
+    "keywords": [
+      "Agency (philosophy)",
+      "Pedagogy",
+      "Identity (music)",
+      "Psychology",
+      "Teacher education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261502361",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:20.471235"
+  },
+  {
+    "id": "https://openalex.org/W7225396239",
+    "title": "Exploring the Role of GenAI and Emotional Literacies in EFL Teachers' Teaching Enjoyment in the Context of AI ‐Mediated Education",
+    "authors": [
+      "Min Niu",
+      "Lei Yang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-11-05",
+    "doi": "10.1111/ejed.70925",
+    "url": "https://doi.org/10.1111/ejed.70925",
+    "abstract": "ABSTRACT The rapid spread of generative Artificial Intelligence (GenAI) technologies into various aspects of second/foreign language (L2) education has recently attracted increasing scholarly attention. However, the way GenAI literacy may be associated with English as a foreign language (EFL) teachers' emotional state has received insufficient attention. To address this gap, the present quantitative study drew on control‐value theory (CVT) and the broaden‐and‐build theory (BBT) in examining the ",
+    "keywords": [
+      "Psychology",
+      "Literacy",
+      "Context (archaeology)",
+      "Mathematics education",
+      "Foreign language"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70925",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:23.595630"
+  },
+  {
+    "id": "https://openalex.org/W7225398677",
+    "title": "The Changing Landscape of Good Citizenship in Hong Kong: Government Narratives and Educational Implications",
+    "authors": [
+      "Jason Cong Lin"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-11-05",
+    "doi": "10.1111/ejed.70927",
+    "url": "https://doi.org/10.1111/ejed.70927",
+    "abstract": "ABSTRACT This article explores the evolving construction of good citizenship in Hong Kong, particularly in the context of significant socio‐political changes following the implementation of the National Security Law in 2020. By analysing government documents and endorsed curricula, the study identifies a shift from previously diverse interpretations of citizenship to a more politicized narrative that emphasizes Chineseness, uncritical patriotism, national identity and law‐abidingness. Utilizing ",
+    "keywords": [
+      "Citizenship",
+      "Narrative",
+      "Autonomy",
+      "Government (linguistics)",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70927",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:23.595673"
+  },
+  {
+    "id": "https://openalex.org/W7225414295",
+    "title": "Developing a conceptual model of mentorship‐guided instructional change",
+    "authors": [
+      "Stephanie Adams",
+      "Matthew S. Barner",
+      "Shane Brown",
+      "Prateek Shekhar",
+      "Jeffrey Knowles"
+    ],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-11-05",
+    "doi": "10.1002/jee.70099",
+    "url": "https://doi.org/10.1002/jee.70099",
+    "abstract": "Abstract Background Evidence‐based instructional practices, such as active learning and formative assessment, are recognized for their ability to significantly improve student learning outcomes in engineering education. However, widespread adoption of instructional change is often limited due to various barriers that faculty face, such as institutional resistance, lack of resources, and insufficient guidance. Purpose This study explores a course‐specific mentorship program designed to support en",
+    "keywords": [
+      "Mentorship",
+      "Formative assessment",
+      "Conceptual model",
+      "Instructional design",
+      "Construct (python library)"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.70099",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:26.634606"
+  },
+  {
+    "id": "https://openalex.org/W7225419560",
+    "title": "Issue Information",
+    "authors": [],
+    "journal": "Journal of Engineering Education",
+    "jif": 3.4,
+    "published_date": "2026-11-05",
+    "doi": "10.1002/jee.70100",
+    "url": "https://doi.org/10.1002/jee.70100",
+    "abstract": "",
+    "keywords": [],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jee.70100",
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-11-08T00:57:26.634610"
+  },
+  {
+    "id": "https://openalex.org/W7225382252",
+    "title": "Value coherence, professional identity, and teacher well-being: evidence from Hungarian educators",
+    "authors": [
+      "Attila Lengyel",
+      "Anetta Müller",
+      "Ferenc Mezö",
+      "Antónia Kinczel",
+      "Katalin Mező"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-11-05",
+    "doi": "10.1080/02619768.2026.2759823",
+    "url": "https://doi.org/10.1080/02619768.2026.2759823",
+    "abstract": "Teacher well-being is often studied as an individual psychological trait rather than as shaped by professional environments and system-level values. This cross-sectional study investigates value coherence—the alignment across personal, professional, and perceived systemic value priorities—as a predictor of well-being. Using data from a national sample of Hungarian teachers (N = 1,443), we examine associations with job and life satisfaction, alongside potential gender moderation. Findings indicat",
+    "keywords": [
+      "Moderation",
+      "Psychology",
+      "Value (mathematics)",
+      "Social psychology",
+      "Identity (music)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:33.764964"
+  },
+  {
+    "id": "https://openalex.org/W7225393288",
+    "title": "Theorizing affective chronopolitics of AI in higher education: A multi‐level analytical framework",
+    "authors": [
+      "Eleni Christodoulou",
+      "Michalinos Zembylas"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-11-05",
+    "doi": "10.1002/berj.70308",
+    "url": "https://doi.org/10.1002/berj.70308",
+    "abstract": "Abstract This conceptual paper extends existing theorization of affective chronopolitics to examine how AI technologies become implicated in the governance of educational subjects, institutions and imagined futures in higher education. In particular, we argue that AI‐mediated temporalities may involve different manifestations such as immediacy, anticipation, acceleration or delay, while their affective dimensions may encompass anxiety and fatigue as well as relief and hope. Building on scholarsh",
+    "keywords": [
+      "Temporalities",
+      "Scholarship",
+      "Temporality",
+      "Sociology",
+      "Affect (linguistics)"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.70308",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:37.785464"
+  },
+  {
+    "id": "https://openalex.org/W7225431609",
+    "title": "Private school choice as moral legitimation: Risk, responsibility and parenting in Türkiye",
+    "authors": [
+      "Emine Saklan"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-11-05",
+    "doi": "10.1002/berj.70312",
+    "url": "https://doi.org/10.1002/berj.70312",
+    "abstract": "Abstract This study investigates how parents in Türkiye justify their decision to enrol their children in private schools and negotiate this choice in relation to their awareness of educational inequality. While critical school choice scholarship, particularly research conducted in England, has examined the moral and affective tensions between being a good parent and a good citizen, this article considers how these tensions are negotiated in a different policy context. Drawing on qualitative int",
+    "keywords": [
+      "School choice",
+      "Social psychology",
+      "Negotiation",
+      "Reflexivity",
+      "Context (archaeology)"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/berj.70312",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:37.785527"
   },
   {
     "id": "https://openalex.org/W7225298702",
@@ -2316,6 +3097,154 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-11-03T03:08:05.558587"
+  },
+  {
+    "id": "https://openalex.org/W7225389204",
+    "title": "Across Contexts and Commitments: Evolving Professional Obligations of Beginning Secondary Mathematics Teachers",
+    "authors": [
+      "Orly Buchbinder",
+      "Sophia Towle",
+      "Rebecca Butler"
+    ],
+    "journal": "Journal For Research In Mathematics Education",
+    "jif": 3.6,
+    "published_date": "2026-11-01",
+    "doi": "10.5951/jresematheduc-2025-0246",
+    "url": "https://doi.org/10.5951/jresematheduc-2025-0246",
+    "abstract": "Transitioning from a university-based teacher preparation program to classroom teaching is a complex and challenging process. The theory of practical rationality offers a fresh perspective on these challenges by framing teachers’ instructional choices as responses to professional obligations to mathematics, students, classroom community, and institutions. We followed three well-prepared beginning secondary mathematics teachers during their supervised school-based internship and the first 2 years",
+    "keywords": [
+      "Framing (construction)",
+      "Rationality",
+      "Mathematics education",
+      "Internship",
+      "Perspective (graphical)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:21.294294"
+  },
+  {
+    "id": "https://openalex.org/W7225389782",
+    "title": "Acknowledgment",
+    "authors": [],
+    "journal": "Journal For Research In Mathematics Education",
+    "jif": 3.6,
+    "published_date": "2026-11-01",
+    "doi": "10.5951/jresematheduc-2026-0179",
+    "url": "https://doi.org/10.5951/jresematheduc-2026-0179",
+    "abstract": "Acknoledgments for 2025.",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-11-08T00:57:21.294324"
+  },
+  {
+    "id": "https://openalex.org/W7225394195",
+    "title": "Examining How Students Understand and Relate Mathematics and Nature During Math Walks",
+    "authors": [
+      "Max K. Sherard",
+      "Candace Walkington"
+    ],
+    "journal": "Journal For Research In Mathematics Education",
+    "jif": 3.6,
+    "published_date": "2026-11-01",
+    "doi": "10.5951/jresematheduc-2025-0272",
+    "url": "https://doi.org/10.5951/jresematheduc-2025-0272",
+    "abstract": "Despite the rich mathematical thinking students engage in outside of school, mathematics education has historically prioritized transmitting knowledge to students over recognizing and building on the mathematical reasoning they bring from their everyday lives. This study explores how math walks—informal activities in which learners engage with mathematical concepts in real-world settings—can address this issue. Drawing on methods from interaction analysis, we examine how students relate mathemat",
+    "keywords": [
+      "Mathematics education",
+      "Everyday life",
+      "Math education",
+      "Bridge (graph theory)",
+      "Mathematical logic"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:21.294350"
+  },
+  {
+    "id": "https://openalex.org/W7225418330",
+    "title": "A Time for Theory-Building in Mathematics Education Research",
+    "authors": [
+      "Tesha Sengupta‐Irving"
+    ],
+    "journal": "Journal For Research In Mathematics Education",
+    "jif": 3.6,
+    "published_date": "2026-11-01",
+    "doi": "10.5951/jresematheduc-2026-0170",
+    "url": "https://doi.org/10.5951/jresematheduc-2026-0170",
+    "abstract": "This article reviews prior contemplations on the role of theory in mathematics education research, discusses why complementarity in theory use delivers on the relationship between theory and social progress, and concludes with a call for theory-building.",
+    "keywords": [
+      "Mathematics education",
+      "Complementarity (molecular biology)",
+      "Connected Mathematics",
+      "Reform mathematics",
+      "Everyday Mathematics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.5951/jresematheduc-2026-0170",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:21.294360"
+  },
+  {
+    "id": "https://openalex.org/W7225430566",
+    "title": "Logical Reasoning in Mathematics Students: Conditional Inference With Mathematical, Abstract, and Everyday Content",
+    "authors": [
+      "Lara Alcock",
+      "Ben Davies",
+      "Matthew Inglis"
+    ],
+    "journal": "Journal For Research In Mathematics Education",
+    "jif": 3.6,
+    "published_date": "2026-11-01",
+    "doi": "10.5951/jresematheduc-2025-0061",
+    "url": "https://doi.org/10.5951/jresematheduc-2025-0061",
+    "abstract": "A core aim of mathematics education is to develop mathematical reasoning. This often involves making and evaluating inferences from conditionals of the form “if A( x ), then B( x )”; some inferences are valid and others are not. We report five studies (total N = 546), building on contemporary theories of reasoning with everyday conditionals to show that (a) the perceived believability of mathematical conditionals affects inference acceptance; (b) mathematics undergraduates reason similarly from ",
+    "keywords": [
+      "Inference",
+      "Logical reasoning",
+      "Core (optical fiber)",
+      "Mathematics education",
+      "Mathematics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:21.294385"
+  },
+  {
+    "id": "https://openalex.org/W7225415758",
+    "title": "Sentiment polarity and post-hoc accounts of writing strategies in EAP texts generated by ChatGPT and DeepSeek",
+    "authors": [
+      "Hongfan Chen",
+      "Haomin Stanley Zhang"
+    ],
+    "journal": "Journal of English For Academic Purposes",
+    "jif": 3.4,
+    "published_date": "2026-11-01",
+    "doi": "10.1016/j.jeap.2026.101797",
+    "url": "https://doi.org/10.1016/j.jeap.2026.101797",
+    "abstract": "",
+    "keywords": [
+      "Polarity (international relations)",
+      "Linguistics",
+      "English for academic purposes",
+      "Computer science",
+      "Natural language processing"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-08T00:57:24.353681"
   },
   {
     "id": "https://openalex.org/W7225292158",
@@ -43561,193 +44490,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-11T22:29:45.309068"
-  },
-  {
-    "id": "https://openalex.org/W7202092618",
-    "title": "Gender Differences in Agentic Career Goals and the Choice of Field of Study",
-    "authors": [
-      "Rebecca Ghio",
-      "Elena De Gioannis"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-08-09",
-    "doi": "10.1111/ejed.70817",
-    "url": "https://doi.org/10.1111/ejed.70817",
-    "abstract": "ABSTRACT Women's representation in tertiary education has reached parity in many countries, although regional disparities persist. Furthermore, there is still significant horizontal gender segregation in some fields of study. Among other explanations, it is suggested that men and women might prioritise different life and career goals. Men are often perceived as preferring fields that offer higher earning potential and opportunities for leadership, while women prefer those offering greater social",
-    "keywords": [
-      "Field (mathematics)",
-      "Higher education",
-      "Representation (politics)",
-      "Gender gap",
-      "Empirical research"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70817",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-11T22:29:36.367983"
-  },
-  {
-    "id": "https://openalex.org/W7202079858",
-    "title": "Understanding Chinese Students' Social Networks and Second Language Identity Construction During Study Abroad in the <scp>UK</scp>",
-    "authors": [
-      "Citing Li",
-      "Qufei Wang",
-      "Chenchen Zhang"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-08-09",
-    "doi": "10.1111/ejed.70822",
-    "url": "https://doi.org/10.1111/ejed.70822",
-    "abstract": "ABSTRACT Second language (L2) identity has gained increasing attention for its role in shaping study abroad (SA) experiences, yet its relationship with social networks remains underexplored. Drawing on social network theory and L2 identity framework, this qualitative study examined the interplay of L2 identity construction and social networks among three Chinese students in UK universities. Data were collected through social network questionnaires, self‐portraits and semi‐structured interviews, ",
-    "keywords": [
-      "Identity (music)",
-      "Social identity theory",
-      "Social network (sociolinguistics)",
-      "Social identity approach",
-      "Study abroad"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70822",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-11T22:29:36.368051"
-  },
-  {
-    "id": "https://openalex.org/W7202078250",
-    "title": "Moving Beyond ‘Cheap Labour’: A Bourdieusian Analysis of Career Experiences and Trajectories of Vocational College Graduates in China",
-    "authors": [
-      "Wan Xiaohua",
-      "Tracy X. P. Zou",
-      "Tse Kwan‐Choi Thomas"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-08-09",
-    "doi": "10.1111/ejed.70827",
-    "url": "https://doi.org/10.1111/ejed.70827",
-    "abstract": "ABSTRACT This paper investigates the college‐to‐work transition of vocational college graduates, who are typically viewed as a homogeneous disadvantaged group. Drawing on Bourdieu's theories, this two‐wave panel study interviewed 33 Chinese vocational college graduates about their initial labour‐market experiences during their first year after graduation. This study reveals the heterogeneity and dynamics of four transitional patterns: dwelled, diverted, shifting and stuck, based on graduates' di",
-    "keywords": [
-      "Vocational education",
-      "Disadvantaged",
-      "Typology",
-      "China",
-      "School-to-work transition"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1111/ejed.70827",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-11T22:29:36.368096"
-  },
-  {
-    "id": "https://openalex.org/W7202043167",
-    "title": "Effects of Syntactic Skill Interventions on Passage- and Sentence-Level Reading Comprehension in Pre-K–12 Students: A Meta-Analytic Review",
-    "authors": [
-      "Jieun Park",
-      "Amy M. Elleman",
-      "Cyrille Magne",
-      "Deborah A. Pingitore",
-      "Lauren M. MacDonell"
-    ],
-    "journal": "Review of Educational Research",
-    "jif": 7.4,
-    "published_date": "2026-08-09",
-    "doi": "10.3102/00346543261466253",
-    "url": "https://doi.org/10.3102/00346543261466253",
-    "abstract": "Reading comprehension is a complex cognitive process that entails the ongoing integration of textual units, guided by syntactic structures, to construct a coherent representation of a text. Understanding complex sentence structures and applying syntactic knowledge to construct meaning are crucial for comprehending challenging texts. Although previous research has highlighted the significant relationship between syntactic awareness and text comprehension, the effects of syntactic skill interventi",
-    "keywords": [
-      "Psychological intervention",
-      "Comprehension",
-      "Sentence",
-      "Construct (python library)",
-      "Meaning (existential)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-10T22:24:13.831798"
-  },
-  {
-    "id": "https://openalex.org/W7202037483",
-    "title": "Balancing altruism and egoism: Unpacking pre-service teachers’ trade-offs in after-school tutoring",
-    "authors": [
-      "Gui-ping Sun",
-      "Boyang Zheng",
-      "Shao-yong Wang",
-      "Wen-qing Luo"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-08-09",
-    "doi": "10.1016/j.tate.2026.105766",
-    "url": "https://doi.org/10.1016/j.tate.2026.105766",
-    "abstract": "",
-    "keywords": [
-      "Unpacking",
-      "Altruism (biology)",
-      "Prosocial behavior",
-      "Higher education"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-10T22:24:32.212528"
-  },
-  {
-    "id": "https://openalex.org/W7202044993",
-    "title": "Exploring teacher resilience in developing EAP reading assessment materials with Gen-AI",
-    "authors": [
-      "Rongxin Lin",
-      "Jing Chen",
-      "Fei Deng"
-    ],
-    "journal": "Journal of English For Academic Purposes",
-    "jif": 3.4,
-    "published_date": "2026-08-09",
-    "doi": "10.1016/j.jeap.2026.101757",
-    "url": "https://doi.org/10.1016/j.jeap.2026.101757",
-    "abstract": "",
-    "keywords": [
-      "Resilience (materials science)",
-      "Reading (process)",
-      "Interpersonal communication",
-      "Psychological resilience",
-      "Professional development"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-10T22:24:36.585911"
-  },
-  {
-    "id": "https://openalex.org/W7202032163",
-    "title": "The epistemic ceiling: Veteran practitioners' perspectives on primary qualification entry standards for teaching secondary mathematics in Scotland",
-    "authors": [
-      "Paul Argyle McDonald"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-08-09",
-    "doi": "10.1002/berj.70261",
-    "url": "https://doi.org/10.1002/berj.70261",
-    "abstract": "Abstract This paper presents an exploratory analysis of contemporary curricular and professional qualification policies in the Scottish education system, focusing on minimum qualification thresholds for mathematics teaching. The study examines how veteran secondary mathematics practitioners perceive the structural and pedagogical implications of using an SCQF Level 5 qualification baseline for primary and out‐of‐field educators within the Broad General Education. Grounded in Michael Young's ‘pow",
-    "keywords": [
-      "Reflexivity",
-      "Formative assessment",
-      "Curriculum",
-      "Thematic analysis",
-      "Notional amount"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70261",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-10T22:24:46.972776"
   }
 ]
