@@ -1,183 +1,61 @@
-📅 运行时间：2026-11-09 01:17
-📊 本次新增文章：21 篇
-📚 数据库总文章数：1676 篇
-🔍 查询范围：2026-11-02 至 2026-11-09
+📅 运行时间：2026-11-10 03:52
+📊 本次新增文章：6 篇
+📚 数据库总文章数：1663 篇
+🔍 查询范围：2026-11-03 至 2026-11-10
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • Interactive Learning Environments: 2 篇
-  • ETR&D-Educational Technology Research and Development: 2 篇
-  • Modern Language Journal: 2 篇
-  • American Educational Research Journal: 2 篇
+  • Journal of Computer Assisted Learning: 2 篇
   • Journal of Engineering Education: 2 篇
-  • British Journal of Educational Technology: 1 篇
-  • Educational Researcher: 1 篇
-  • Journal of Educational Computing Research: 1 篇
-  • Innovation In Language Learning and Teaching: 1 篇
-  • Journal of Computer Assisted Learning: 1 篇
-  • Teaching and Teacher Education: 1 篇
-  • European Journal of Education: 1 篇
-  • Professional Development In Education: 1 篇
-  • Science & Education: 1 篇
-  • British Educational Research Journal: 1 篇
+  • International Journal of Educational Technology in Higher Education: 1 篇
   • International Journal of Science and Mathematics Education: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] The impact of an AI ‐driven multimodal teaching analytics dashboard on pre‐service teachers' reflective learning in microteaching
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Ming Liu, Zhongming Wu, Hai Min Dai 等(5人)
-    日期：2026-11-06
-    关键词：Learning analytics, Dashboard, Computer science, Analytics, Timeline
-    DOI：https://doi.org/10.1111/bjet.70098
-
-[2] Critical yet dependent? Time poverty, critical AI engagement, and generative AI dependence in university interactive learning environments
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Xiang Che, Qi Hui
-    日期：2026-11-06
-    关键词：Generative grammar, Critical thinking, Generative model, Psychology, Artificial intelligence
-    DOI：https://doi.org/10.1080/10494820.2026.2754913
-
-[3] Beyond access: guided versus free ChatGPT use and learning outcomes in higher education
-    期刊：Interactive Learning Environments (JIF: 5.3)
-    作者：Thseen Nazır
-    日期：2026-11-06
-    关键词：Psychology, Dialogic, Higher education, Metacognition, Cognition
-    DOI：https://doi.org/10.1080/10494820.2026.2759148
-
-[4] Racialized Policy Patterns: Reparatory Justice in Educational Systems and Politics
-    期刊：Educational Researcher (JIF: 4.9)
-    作者：Nathaniel D. Stewart, Aditi Rajendran, Darrius A. Stanley 等(4人)
-    日期：2026-11-07
-    关键词：Economic Justice, Politics, Indigenous, Sociology, Indigenous education
-    DOI：https://doi.org/10.3102/0013189x261501977
-
-[5] Comparing AI-Assisted 2D and 3D Block-Based Games for Computational Thinking Development in Introductory Programming
-    期刊：Journal of Educational Computing Research (JIF: 4.9)
-    作者：Νικόλαος Πέλλας
-    日期：2026-11-07
-    关键词：Computational thinking, Computer science, Schema (genetic algorithms), Cognitive load, Context (archaeology)
-    DOI：https://doi.org/10.1177/07356331261504318
-
-[6] Teacher vs. AI-generated feedback: students’ perceptions and impacts on learning
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Aslı Lidice Göktürk Sağlam, Toni Mäkipää
-    日期：2026-11-07
-    关键词：Psychology, Perception, Mathematics education, Peer feedback, Reflection (computer programming)
-    DOI：https://doi.org/10.1080/17501229.2026.2758871
+[1] Prompts, cues, and nudges interventions in higher education: a systematic review
+    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
+    作者：Sabina Rako, Diana Šimić, Bart Rienties
+    日期：2026-11-08
+    关键词：Nudge theory, Psychological intervention, Psychology, Intervention (counseling), Perception
+    DOI：https://doi.org/10.1186/s41239-026-00636-3
     🔓 开放获取
 
-[7] Student Responses to Cognitive Conflicts in GenAI ‐Assisted Learning: A Covariate‐Dependent Markov Chain Analysis on Human‐ AI Interactions
+[2] Research Trends of Artificial Intelligence‐Facilitated Computational Thinking in K‐12 STEM : A Systematic Review Through the Lens of Activity Theory
     期刊：Journal of Computer Assisted Learning (JIF: 4.6)
-    作者：Yiming Taclis Luo, Ting Liu, Patrick Cheong‐Iao Pang 等(4人)
-    日期：2026-11-06
-    关键词：Cognition, Task (project management), Variety (cybernetics), Psychology, Perspective (graphical)
-    DOI：https://doi.org/10.1002/jcal.70366
-
-[8] Mathematics in play: exploring curriculum integration and professional growth through playing, modelling and printing games
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Mathías Tejera, Diego Lieban, Cecília Russo 等(5人)
-    日期：2026-11-07
-    关键词：Curriculum, Agency (philosophy), Mathematics education, Articulation (sociology), Set (abstract data type)
-    DOI：https://doi.org/10.1007/s11423-026-10755-3
+    作者：Gang Yang, Huilin Zhang, Gwo‐Jen Hwang 等(5人)
+    日期：2026-11-08
+    关键词：Leverage (statistics), Computational thinking, Artificial intelligence, Computer science, Field (mathematics)
+    DOI：https://doi.org/10.1002/jcal.70365
     🔓 开放获取
 
-[9] Development and validation of a framework and scale for K–12 teacher–AI collaborative teaching competence
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Hongchao Peng, Mingrui Zhang
-    日期：2026-11-07
-    关键词：Competence (human resources), Scale (ratio), Computer science, Educational technology, Knowledge management
-    DOI：https://doi.org/10.1007/s11423-026-10762-4
+[3] Enhancing Learning Performance in Primary School Students Through Real‐Time Versus Delayed Rewards During Pair Inquiry‐Based Visual Programming
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Kaili Lu, Hao Zhang, Feng Pang 等(5人)
+    日期：2026-11-08
+    关键词：Popularity, Incentive, Psychology, Class (philosophy), Context (archaeology)
+    DOI：https://doi.org/10.1002/jcal.70372
 
-[10] Untangling and Intertwining Queer Pedagogy and Queer Inclusion in Language Education
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Albert Biel, Albert Biel
-    日期：2026-11-06
-    关键词：Queer, Inclusion (mineral), Normative, Sociology, Queer theory
-    DOI：https://doi.org/10.1111/modl.70100
-    🔓 开放获取
-
-[11] Boredom Beyond Disengagement: The DRIVE Heuristic for Boredom‐Related Action in Language Learning
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Yu Kanazawa
-    日期：2026-11-06
-    关键词：Boredom, Disengagement theory, Psychology, Cognitive psychology, Action (physics)
-    DOI：https://doi.org/10.1111/modl.70098
-    🔓 开放获取
-
-[12] Sketching teacher Identity: A systematic review of drawing-based methods in early childhood and elementary STEM teacher preparation
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Amber H. Beisly, Darshani Abeyrathna Herath Mudiyanselag
-    日期：2026-11-07
-    关键词：Coursework, Early childhood, Psychology, Narrative, Mathematics education
-    DOI：https://doi.org/10.1016/j.tate.2026.105855
-
-[13] Interpreting Null Effects in Education: Insights from a Tutoring Experiment
-    期刊：American Educational Research Journal (JIF: 3.6)
-    作者：Elizabeth Huffaker, Carly D. Robinson, Emanuele Bardelli 等(5人)
-    日期：2026-11-06
-    关键词：Moderation, Implementation, Computer science, Reading (process), Psychological intervention
-    DOI：https://doi.org/10.3102/00028312261492656
-
-[14] Impact of Workforce-Oriented Performance-based Funding on Students’ Return on Investment
-    期刊：American Educational Research Journal (JIF: 3.6)
-    作者：William Zahran, Justin C. Ortagus, Junghee Choi 等(5人)
-    日期：2026-11-06
-    关键词：Default, Loan, Balanced scorecard, Business, Investment (military)
-    DOI：https://doi.org/10.3102/00028312261493445
-    🔓 开放获取
-
-[15] From Access to Embodied Participation Justice: A Conceptual Review of Equity, Diversity and Inclusion in University Physical Activity Settings
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Fengming Shen, 金余囡, Yuehong Mo
-    日期：2026-11-06
-    关键词：Inclusion (mineral), Scholarship, Sociology, Embodied cognition, Context (archaeology)
-    DOI：https://doi.org/10.1111/ejed.70917
-    🔓 开放获取
-
-[16] Sense of belonging in engineering: A multigroup analysis of undergraduate engineering students
+[4] STEM faculty perception of student resistance as a source of faculty's self‐efficacy
     期刊：Journal of Engineering Education (JIF: 3.4)
-    作者：Lydia Ross, Junzhao Wang, Travis Terpkosh
-    日期：2026-11-06
-    关键词：Centrality, Diversity (politics), Discipline, Value (mathematics), Engineering education
-    DOI：https://doi.org/10.1002/jee.70108
+    作者：Jenefer E. Husman, Matthew Graham, Michael Prince 等(5人)
+    日期：2026-11-08
+    关键词：active learning, student resistance, STEM faculty, teacher perceptions, student perceptions
+    DOI：https://doi.org/10.1002/jee.70093
     🔓 开放获取
 
-[17] Learning with communities, not about them: A conceptual synthesis for situating engineering practices within social systems
+[5] Beyond competencies: Using a capability model to characterize early career engineering practice
     期刊：Journal of Engineering Education (JIF: 3.4)
-    作者：Greses Anabell Perez, Philippa Eshun, Pragyee Shrestha
-    日期：2026-11-06
-    关键词：Situated, Discipline, Scholarship, Engineering ethics, Engineering education
-    DOI：https://doi.org/10.1002/jee.70085
+    作者：Robert E. McHenry, Timothy B. Hilditch, Siva Krishnan
+    日期：2026-11-08
+    关键词：Sociotechnical system, Engineering education, Accreditation, Engineering ethics, Framing (construction)
+    DOI：https://doi.org/10.1002/jee.70097
     🔓 开放获取
 
-[18] Professional learning for in- and out-of-field mathematics teachers: participation, needs, and barriers
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Kathryn Holmes, Helen M. G. Watt, Judy Anderson 等(4人)
-    日期：2026-11-07
-    关键词：Mathematics education, Professional development, Phenomenon, Professional learning community, Reform mathematics
-    DOI：https://doi.org/10.1080/19415257.2026.2751217
-    🔓 开放获取
-
-[19] The Relationship Between Undergraduates’ Views of the Nature of Science, Interest in Science, and Scientific Competencies
-    期刊：Science & Education (JIF: 2.5)
-    作者：Chien-Liang Lin, Yea-Liang Wang, Chun‐Yen Tsai
-    日期：2026-11-07
-    关键词：Psychology, Science education, Test (biology), Nature of Science, Structural equation modeling
-    DOI：https://doi.org/10.1007/s11191-026-00797-7
-
-[20] Better academic performance in high school, more class skipping in higher education?
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Yanru Xu, Yanbin Guo
-    日期：2026-11-06
-    关键词：Class (philosophy), Mathematics education, Curriculum, Academic achievement, Beijing
-    DOI：https://doi.org/10.1002/berj.70310
-
-[21] Gender Differences in Mathematics Education: More Affective Than Cognitive?
+[6] Interpreting Congruency Effects in Fraction Comparison: Implications of Item Structure and Strategy Affordances
     期刊：International Journal of Science and Mathematics Education (JIF: 2.1)
-    作者：Mehmet Ertürk Geçici, Damla Sönmez, Metin Kaya 等(4人)
-    日期：2026-11-07
-    关键词：Moderation, Extant taxon, Psychology, Cognition, Developmental psychology
-    DOI：https://doi.org/10.1007/s10763-026-10743-2
+    作者：Ruhai Zhang, Ciping Deng
+    日期：2026-11-09
+    关键词：Affordance, Fraction (chemistry), Science education, Psychology, Mathematics education
+    DOI：https://doi.org/10.1007/s10763-026-10746-z
