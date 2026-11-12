@@ -1,104 +1,238 @@
-📅 运行时间：2026-11-11 01:33
-📊 本次新增文章：11 篇
-📚 数据库总文章数：1657 篇
-🔍 查询范围：2026-11-04 至 2026-11-11
+📅 运行时间：2026-11-12 02:35
+📊 本次新增文章：28 篇
+📚 数据库总文章数：1671 篇
+🔍 查询范围：2026-11-05 至 2026-11-12
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • European Journal of Education: 3 篇
-  • Recall: 1 篇
-  • System: 1 篇
-  • Teaching and Teacher Education: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
-  • Active Learning In Higher Education: 1 篇
-  • Education and Training: 1 篇
+  • Review of Educational Research: 3 篇
+  • Interactive Learning Environments: 3 篇
+  • Teaching and Teacher Education: 3 篇
+  • Assessing Writing: 2 篇
+  • Innovation In Language Learning and Teaching: 2 篇
+  • Journal of Computer Assisted Learning: 2 篇
+  • Modern Language Journal: 2 篇
+  • Education and Training: 2 篇
+  • Education and Information Technologies: 1 篇
+  • Educational Researcher: 1 篇
+  • Learning and Instruction: 1 篇
+  • ETR&D-Educational Technology Research and Development: 1 篇
+  • Physical Review Physics Education Research: 1 篇
+  • Science Education: 1 篇
+  • Learning Media and Technology: 1 篇
   • Professional Development In Education: 1 篇
-  • British Educational Research Journal: 1 篇
+  • Instructional Science: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Where there’s an error, can GenAI find a way? Exploring personalized vocabulary exercises in L2 Spanish
-    期刊：Recall (JIF: 5.7)
-    作者：Inmaculada López-Solà, Carmen López Ferrero, Leo Wanner
-    日期：2026-11-09
-    关键词：Vocabulary, Personalization, Computer science, Flexibility (engineering), Vocabulary learning
-    DOI：https://doi.org/10.1017/s0958344026100639
+[1] Adaptive Support for Collaborative Learning: A Meta-Analysis
+    期刊：Review of Educational Research (JIF: 7.4)
+    作者：Lixiang Gao, Frank Fischer, Matthias J. Stadler 等(4人)
+    日期：2026-11-10
+    关键词：Context (archaeology), Collaborative learning, Adaptive learning, Cognition, Computer science
+    DOI：https://doi.org/10.3102/00346543261488039
     🔓 开放获取
 
-[2] Trialling Playworld Translanguaging through an ethically grounded research partnership with an Aboriginal community school
-    期刊：System (JIF: 5.6)
-    作者：Carly Steele, Toni Dobinson, Graeme Gower 等(5人)
-    日期：2026-11-09
-    关键词：General partnership, Participatory action research, Sociology, Translanguaging, Pedagogy
-    DOI：https://doi.org/10.1016/j.system.2026.104194
+[2] Education in Written Popularization Skills for Higher Education Students: A Literature Review
+    期刊：Review of Educational Research (JIF: 7.4)
+    作者：Florentine Marnel Sterk, Merel Margot van Goch, Michael Burke 等(4人)
+    日期：2026-11-10
+    关键词：Higher education, Psychology, Pedagogy, Psychological intervention, Mathematics education
+    DOI：https://doi.org/10.3102/00346543261488047
     🔓 开放获取
 
-[3] Transitioning to Inquiry: Teacher Learning in an Australian Primary School During Whole-School Adoption of the IB Primary Years Programme
+[3] How Dominant Conceptualizations of Leadership and Identity Have Shaped the Research on Women in Educational Administration Over Time: A Descriptive Review
+    期刊：Review of Educational Research (JIF: 7.4)
+    作者：Jennie Miles Weiner, Taylor Strickland
+    日期：2026-11-10
+    关键词：Scholarship, Masculinity, Identity (music), Administration (probate law), Gender studies
+    DOI：https://doi.org/10.3102/00346543261498848
+
+[4] Toward cognitively valid design of an L2 multimodal integrated writing assessment task
+    期刊：Assessing Writing (JIF: 5.5)
+    作者：Emily Di Zhang, Yan Jin
+    日期：2026-11-10
+    关键词：Task (project management), Computer science, Writing assessment, Human–computer interaction, Task analysis
+    DOI：https://doi.org/10.1016/j.asw.2026.101147
+
+[5] Profiles of learners’ perceived instructional practices in TBLT-oriented L2 writing classrooms: Associations with writing motivation, engagement, and performance
+    期刊：Assessing Writing (JIF: 5.5)
+    作者：Majid ElahiShirvan, Tahereh Taherian, Mariusz Kruk 等(5人)
+    日期：2026-11-10
+    关键词：Psychology, Competence (human resources), Observational study, Task (project management), Classroom climate
+    DOI：https://doi.org/10.1016/j.asw.2026.101148
+
+[6] Unlocking student engagement with generative ai: need satisfaction as the key, self-efficacy as the gatekeeper
+    期刊：Education and Information Technologies (JIF: 5.4)
+    作者：Mohd Shahril Nizam Shaharom, Kenny Cheah Soon Lee, Mohd Shahril Nizam Bin Shaharom
+    日期：2026-11-11
+    关键词：Student engagement, Psychology, Educational technology, Generative grammar, Electronic learning
+    DOI：https://doi.org/10.1007/s10639-026-14134-6
+
+[7] A cognitive-pedagogical taxonomy of 3D modelling and printing activities in mathematics education: implications for digital creation
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Mathías Tejera, Thomas K. F. Chiu, Viviana Aharonian 等(5人)
+    日期：2026-11-10
+    关键词：Transferability, Computer science, Taxonomy (biology), Mathematics education, Autonomy
+    DOI：https://doi.org/10.1080/10494820.2026.2754928
+    🔓 开放获取
+
+[8] Assessment in synchronous online higher education: a systematic review and conceptual purpose framework
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Sinem Çilligöl Karabey
+    日期：2026-11-10
+    关键词：Computer science, Knowledge management, Electronic learning, Higher education, Multimedia
+    DOI：https://doi.org/10.1080/10494820.2026.2754917
+
+[9] Generative AI as an interactive learning environment in early childhood: preschool children’s emerging AI literacy as socially distributed interpretive work in collaborative storytelling
+    期刊：Interactive Learning Environments (JIF: 5.3)
+    作者：Ahmet Sami Konca, Vahide YİĞİT GENÇTEN
+    日期：2026-11-10
+    关键词：Generative grammar, Interactive storytelling, Interactive Learning, Storytelling, Literacy
+    DOI：https://doi.org/10.1080/10494820.2026.2762001
+    🔓 开放获取
+
+[10] Conceptualizing the Communally Bonded Education Model: An Ecological Approach for Black Education
+    期刊：Educational Researcher (JIF: 4.9)
+    作者：Jerome E. Morris
+    日期：2026-11-10
+    关键词：Sociology, Place-based education, Social ecological model, Ecology, Environmental education
+    DOI：https://doi.org/10.3102/0013189x261501951
+
+[11] Both students and schools matter: A multilevel latent profile analysis of socio-emotional skills
+    期刊：Learning and Instruction (JIF: 4.9)
+    作者：Faming Wang, Ronnel Bornasal King
+    日期：2026-11-10
+    关键词：Psychology, Psychological intervention, Multilevel model, Social skills, Sample (material)
+    DOI：https://doi.org/10.1016/j.learninstruc.2026.102500
+
+[12] Instructional features of AI-generated English-learning videos on Douyin: associations with platform-visible audience responses and creator visibility
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Yanmin Song
+    日期：2026-11-10
+    关键词：Visibility, Computer science, Multimedia, Psychology
+    DOI：https://doi.org/10.1080/17501229.2026.2761486
+
+[13] Development of teaching materials for writing through teacher-researcher collaboration across language subjects
+    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
+    作者：Justyna Legutko
+    日期：2026-11-09
+    关键词：Pedagogy, Collaborative writing, Language education, Professional writing, Process (computing)
+    DOI：https://doi.org/10.1080/17501229.2026.2758301
+    🔓 开放获取
+
+[14] Examining the Effects of Motivating Language and Personalization in AI Voice‐Over Educational Videos: From a Social‐Psychological Perspective
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Yamei Zhang, Xiaojun Sun, Qingqing Ye
+    日期：2026-11-10
+    关键词：Personalization, Perspective (graphical), Psychology, Limiting, Language acquisition
+    DOI：https://doi.org/10.1002/jcal.70375
+
+[15] Social Participatory Role Enactment in Asynchronous Discussion and Mobile Instant Messaging
+    期刊：Journal of Computer Assisted Learning (JIF: 4.6)
+    作者：Yanyan Sun, 苏加叶, Chengjun Feng
+    日期：2026-11-09
+    关键词：Asynchronous communication, Citizen journalism, Instant messaging, Psychology, Social network analysis
+    DOI：https://doi.org/10.1002/jcal.70376
+    🔓 开放获取
+
+[16] Effects of a programming task-facilitated listening training approach on the listening performance of Japanese as a foreign language students
+    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
+    作者：Bow Ju Ferng, Gwo‐Jen Hwang
+    日期：2026-11-10
+    关键词：Active listening, Psychology, Foreign language, Training (meteorology), Educational technology
+    DOI：https://doi.org/10.1007/s11423-026-10764-2
+
+[17] Uneven Critical Pedagogies: Ideological Persistence and Lateral Violence in a Hong Kong Translanguaging Classroom
+    期刊：Modern Language Journal (JIF: 4.0)
+    作者：Wilkinson Daniel Wong Gonzales, Yue Zhang
+    日期：2026-11-10
+    关键词：critical pedagogy, translanguaging, lateral violence, language ideology, multilingual education
+    DOI：https://doi.org/10.1111/modl.70102
+    🔓 开放获取
+
+[18] Metamotivation in L2/L3 Student Teachers’ Metalinguistic Reasoning
+    期刊：Modern Language Journal (JIF: 4.0)
+    作者：Merilyn Meristo
+    日期：2026-11-10
+    关键词：Psychology, Salient, Cognitive reframing, Experiential learning, Linguistic competence
+    DOI：https://doi.org/10.1111/modl.70101
+    🔓 开放获取
+
+[19] Who Stays, Who Leaves? A Longitudinal Study of Career Trajectories of Australian Tertiary Education Teachers
     期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Amber Yayin Wang
-    日期：2026-11-09
-    关键词：Psychology, Medical education, Pedagogy, Primary education, Primary (astronomy)
-    DOI：https://doi.org/10.1016/j.tate.2026.105912
-
-[4] Lay Conceptions About Critical Thinking: Opportunities or Obstacles for Teaching?
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Florián Cova, Céline Schöpfer, Julia Ghaliounghi 等(4人)
-    日期：2026-11-08
-    关键词：Idealization, Focus (optics), Critical thinking, Psychology, Epistemology
-    DOI：https://doi.org/10.1111/ejed.70930
+    作者：Yan Yang, Cheng Zhang, Jun Shen
+    日期：2026-11-11
+    关键词：Longitudinal study, Higher education, Psychology, Teacher education, Mathematics education
+    DOI：https://doi.org/10.1016/j.tate.2026.105914
     🔓 开放获取
 
-[5] Independent Versus Integrated Reading‐While‐Listening Speaking Tasks: Linguistic Features of Oral Performances and Their Effects on Human Ratings
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Shelly Xueting Ye, Dong Yao
-    日期：2026-11-08
-    关键词：Psychology, Task (project management), Grammar, Vocabulary, Linguistics
-    DOI：https://doi.org/10.1111/ejed.70939
+[20] Teachers’ beliefs about digital teaching: A multilevel latent profile analysis
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Yaping Liu, Yingcong Wang, Xiaohong Li 等(5人)
+    日期：2026-11-10
+    关键词：Multilevel model, Psychology, Mathematics education, Multilevel modelling, Computer science
+    DOI：https://doi.org/10.1016/j.tate.2026.105907
+
+[21] Understanding Teacher Wellbeing Through General Resistance Resources: A Salutogenic Analysis of Beginning Teachers’ Professional Learning and Practice
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Stevie‐Jae Hepburn, Annemaree Carroll, Louise McCuaig
+    日期：2026-11-10
+    关键词：Psychology, Cognitive reframing, Resistance (ecology), Stressor, Professional development
+    DOI：https://doi.org/10.1016/j.tate.2026.105908
     🔓 开放获取
 
-[6] Splash! Life's a Beach and Then You Dive: Developing Primary Pre‐Service Teachers' Knowledge of Biodiversity Through Coastal Fieldwork and an Interdisciplinary Pedagogical Model
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Deborah Myers
-    日期：2026-11-08
-    关键词：Experiential learning, Shore, Environmental education, Biodiversity, Literacy
-    DOI：https://doi.org/10.1111/ejed.70937
+[22] How undergraduate physics students use generative AI for computational modeling
+    期刊：Physical Review Physics Education Research (JIF: 3.6)
+    作者：Karl Henrik Fredly, Tor Ole B. Odden, Benjamin M. Zwickl
+    日期：2026-11-10
+    关键词：generative AI, computational modeling, undergraduate physics education, student use of AI, code generation
+    DOI：https://doi.org/10.1103/vg1v-dkrh
     🔓 开放获取
 
-[7] Valuing campus green space: willingness to pay for nature preservation under institutional growth pressures
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Kris Kadaleevanam, Panagiotis Tsigaris
-    日期：2026-11-09
-    关键词：Willingness to pay, Tobit model, Valuation (finance), Credibility, Sustainability
-    DOI：https://doi.org/10.1108/ijshe-03-2026-0408
-
-[8] ‘Entering a Forbidden Territory’: Co-Creation of Assessment Marking Criteria
-    期刊：Active Learning In Higher Education (JIF: 3.2)
-    作者：Tanya Lubicz-Nawrocka, Zeinab Smillie, Jennifer Wright 等(5人)
-    日期：2026-11-09
-    关键词：Rubric, Summative assessment, Transformative learning, CLARITY, Authentic assessment
-    DOI：https://doi.org/10.1177/14697874261500709
+[23] Stable or Variable? An Exploration of How Students Conceptualize Scientific Questions and How Their Conceptions Develop During Instruction
+    期刊：Science Education (JIF: 3.4)
+    作者：Andreas Vorholzer, Claudia von Aufschnaiter, Jörn Jonathan Hägele 等(4人)
+    日期：2026-11-10
+    关键词：Construct (python library), Discipline, Science education, Psychology, Scientific literacy
+    DOI：https://doi.org/10.1002/sce.70113
     🔓 开放获取
 
-[9] Modelling the associations between digital skills, psychological capital, dynamic capabilities and technostress among course tutors
+[24] Diverse voices, shared goals: stakeholder perspectives on environmental education effectiveness in UAE universities
     期刊：Education and Training (JIF: 3.2)
-    作者：Daisy Ofosuhene, Vera Arhin, Samuel Oppong 等(4人)
-    日期：2026-11-09
-    关键词：Technostress, Psychology, Variance (accounting), Mediation, Social psychology
-    DOI：https://doi.org/10.1108/et-12-2025-1083
+    作者：Aseel A. Takshe
+    日期：2026-11-10
+    关键词：Stakeholder, Viewpoints, Transformative learning, Sustainability, Public relations
+    DOI：https://doi.org/10.1108/et-01-2026-0112
+    🔓 开放获取
 
-[10] Beyond the plateau: understanding professional plateauing and renewal among Chinese veteran teachers
+[25] Beyond grades to learning enhancement: development, implementation and evaluation of a conversational AI agent in medical education
+    期刊：Education and Training (JIF: 3.2)
+    作者：Majid Ali, Ayad Abdullah, Zakaria Jije 等(5人)
+    日期：2026-11-10
+    关键词：Medical education, Psychology, Qualitative analysis, Block (permutation group theory), Empirical research
+    DOI：https://doi.org/10.1108/et-06-2026-0889
+
+[26] Framing artificial intelligence in education: innovation narratives, contested equity, and environmental silence in journal calls for papers (CFPs)
+    期刊：Learning Media and Technology (JIF: 3.1)
+    作者：Patrick Eugene O'Neill
+    日期：2026-11-09
+    关键词：Framing (construction), Formative assessment, Silence, Sociology, Public relations
+    DOI：https://doi.org/10.1080/17439884.2026.2760369
+
+[27] Professional learning and development and the professionalization of academic advising: a multiple case study of Ontario colleges
     期刊：Professional Development In Education (JIF: 3.1)
-    作者：Yangbang Hu, Guangqiang Wang, Ziluo Yan
-    日期：2026-11-09
-    关键词：Professional development, Medical education, Qualitative research, Pedagogy, Psychology
-    DOI：https://doi.org/10.1080/19415257.2026.2760844
+    作者：Craig M. McGill, Melissa Gallo
+    日期：2026-11-10
+    关键词：Professionalization, Professional development, Professional learning community, Professional studies, Pedagogy
+    DOI：https://doi.org/10.1080/19415257.2026.2760846
 
-[11] How behaviour and motivation mediate the impact of school absences on achievement
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Jascha Dräger, Edward Sosu, Markus Klein
-    日期：2026-11-08
-    关键词：school absenteeism, academic performance, academic motivation, externalizing problems, risk-taking
-    DOI：https://doi.org/10.1002/berj.70309
+[28] Conceptualizing cognitive load as motivational cost: a mixed methods perspective
+    期刊：Instructional Science (JIF: 2.1)
+    作者：Rebecca B. Brockbank, David F. Feldon, Lorraine Jessop
+    日期：2026-11-10
+    关键词：Cognitive load, Psychology, Cognition, Perspective (graphical), Expectancy theory
+    DOI：https://doi.org/10.1007/s11251-026-09826-y
     🔓 开放获取
