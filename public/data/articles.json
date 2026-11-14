@@ -1,5 +1,463 @@
 [
   {
+    "id": "https://openalex.org/W7225920908",
+    "title": "Understanding STEM students’ perspectives on undergraduate research at a Hispanic-Serving Institution",
+    "authors": [
+      "Natalie Schaal",
+      "Tissyana C. Camacho",
+      "Ricardo Medina",
+      "Crist Khachikian",
+      "Gabriela Chavira"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-11-12",
+    "doi": "10.1186/s40594-026-00655-6",
+    "url": "https://doi.org/10.1186/s40594-026-00655-6",
+    "abstract": "",
+    "keywords": [
+      "Institution",
+      "Undergraduate research",
+      "Science education",
+      "Medical education",
+      "Engineering ethics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00655-6",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:19.599622"
+  },
+  {
+    "id": "https://openalex.org/W7225917367",
+    "title": "Editorial notes: The winds of change — aims, scope and taxonomies",
+    "authors": [
+      "Peter Reimann",
+      "Michael J. Baker"
+    ],
+    "journal": "International Journal of Computer-Supported Collaborative Learning",
+    "jif": 5.7,
+    "published_date": "2026-11-12",
+    "doi": "10.1007/s11412-026-09496-5",
+    "url": "https://doi.org/10.1007/s11412-026-09496-5",
+    "abstract": "",
+    "keywords": [
+      "Scope (computer science)",
+      "Political science",
+      "Government (linguistics)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "editorial",
+    "fetched_at": "2026-11-14T01:53:24.189729"
+  },
+  {
+    "id": "https://openalex.org/W7225869472",
+    "title": "Coping with Change: Evaluating Teachers’ Concerns Regarding Post-Pandemic Technology Adoption",
+    "authors": [
+      "Itsik Aroch",
+      "Ron Blonder"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-11-12",
+    "doi": "10.1007/s10956-026-10371-z",
+    "url": "https://doi.org/10.1007/s10956-026-10371-z",
+    "abstract": "Abstract Adopting digital technology, as part of broader educational changes, often presents challenges for teachers, researchers, and educators. The period of remote teaching during the Covid-19 pandemic created a unique opportunity to examine teachers' concerns regarding technology integration in real time and to better understand the factors influencing its adoption and deployment. Employing a mixed methods approach, this study applied the Stages of Concern (SoC) Questionnaire to high-school ",
+    "keywords": [
+      "Coping (psychology)",
+      "Psychology",
+      "Technology integration",
+      "Confirmatory factor analysis",
+      "Multimethodology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10956-026-10371-z",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:26.564861"
+  },
+  {
+    "id": "https://openalex.org/W7225870967",
+    "title": "What Makes Learning with GenAI Effective? Text Support and Deeper Engagement are Associated with Higher Performance in an Ecology Context",
+    "authors": [
+      "Lars Dietrich",
+      "Laura Fink",
+      "Detlef Urhahne",
+      "Kerstin Kremer"
+    ],
+    "journal": "Journal of Science Education and Technology",
+    "jif": 5.5,
+    "published_date": "2026-11-12",
+    "doi": "10.1007/s10956-026-10374-w",
+    "url": "https://doi.org/10.1007/s10956-026-10374-w",
+    "abstract": "Abstract Generative artificial intelligence (GenAI) tools such as ChatGPT are increasingly used for learning, yet evidence remains limited regarding their effectiveness in science learning contexts and how learner–AI interaction relates to performance. In a randomized experiment, 185 university students worked on task sheets about lake eutrophication and restoration. Depending on condition, they could use two informational texts (text-only), ChatGPT configured to answer only on the basis of thes",
+    "keywords": [
+      "Science education",
+      "Context (archaeology)",
+      "Test (biology)",
+      "Psychology",
+      "Educational technology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s10956-026-10374-w",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:26.564947"
+  },
+  {
+    "id": "https://openalex.org/W7225849124",
+    "title": "The impact of feedback types on behavioral engagement: a machine learning analysis",
+    "authors": [
+      "Haolan Liu",
+      "Thomas K. F. Chiu",
+      "Fan Li"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-11-12",
+    "doi": "10.1080/10494820.2026.2754100",
+    "url": "https://doi.org/10.1080/10494820.2026.2754100",
+    "abstract": "",
+    "keywords": [
+      "Computer science",
+      "Artificial intelligence",
+      "Machine learning",
+      "Active learning (machine learning)",
+      "Human–computer interaction"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:28.187196"
+  },
+  {
+    "id": "https://openalex.org/W7225887608",
+    "title": "The development and validation of a Digital Social Capital for Learning (DSC-L) scale",
+    "authors": [
+      "Shu Cheng",
+      "Shihui Feng",
+      "Nancy Wai Ying Law"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-11-12",
+    "doi": "10.1080/10494820.2026.2755536",
+    "url": "https://doi.org/10.1080/10494820.2026.2755536",
+    "abstract": "",
+    "keywords": [
+      "Scale (ratio)",
+      "Knowledge management",
+      "Social capital",
+      "Computer science",
+      "Data science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:28.187212"
+  },
+  {
+    "id": "https://openalex.org/W7225879749",
+    "title": "The use of generative AI for multimodal learning, teaching and assessment in higher education: A scoping review",
+    "authors": [
+      "Tünde Varga‐Atkins",
+      "Samuel S. Saunders",
+      "Na Li",
+      "Run Wen",
+      "Sue Beckingham"
+    ],
+    "journal": "Innovations In Education and Teaching International",
+    "jif": 4.9,
+    "published_date": "2026-11-12",
+    "doi": "10.1080/14703297.2026.2763524",
+    "url": "https://doi.org/10.1080/14703297.2026.2763524",
+    "abstract": "",
+    "keywords": [
+      "Computer science",
+      "Psychology",
+      "Generative grammar",
+      "Mathematics education",
+      "Teaching method"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:29.658345"
+  },
+  {
+    "id": "https://openalex.org/W7225871889",
+    "title": "Proposing a culturally relevant theoretical framework for teacher educators’ information and communication technology (ICT) acceptance and use in Bhutan and similar cultural contexts",
+    "authors": [
+      "Tshering",
+      "Joshua Matthews",
+      "R. M. ADLINGTON"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-12",
+    "doi": "10.1007/s11423-026-10758-0",
+    "url": "https://doi.org/10.1007/s11423-026-10758-0",
+    "abstract": "Abstract Technology acceptance by teacher educators is crucial for successful integration into teaching. While technology acceptance models are well established in developed-country contexts, comparatively little attention has been given to developing models that account for the specific conditions of developing countries and distinct cultural contexts. A convergent mixed-methods approach was employed in Bhutan to investigate the factors that facilitate or hinder ICT acceptance and use in teachi",
+    "keywords": [
+      "Information and Communications Technology",
+      "Thematic analysis",
+      "Interdependence",
+      "Technology integration",
+      "Technology acceptance model"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10758-0",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:38.743015"
+  },
+  {
+    "id": "https://openalex.org/W7225919547",
+    "title": "Ethical Judgments About Difficult History: How Jewish-Israeli Students Engage Ethically With the Israeli–Palestinian Conflict",
+    "authors": [
+      "Roy Weintraub",
+      "Lindsay Gibson",
+      "Dan A. Porat"
+    ],
+    "journal": "American Educational Research Journal",
+    "jif": 3.6,
+    "published_date": "2026-11-12",
+    "doi": "10.3102/00028312261502381",
+    "url": "https://doi.org/10.3102/00028312261502381",
+    "abstract": "This study analyzes Jewish-Israeli students’ historical ethical judgments (HEJ) about the 1948 War—a formative and difficult history within the Israeli–Palestinian conflict—and how those judgments shifted following the outbreak of the Israel–Gaza War in 2023. Using a mixed-methods approach, it draws on two rounds of data collection: just before the Israel–Gaza War ( N = 373) and months later ( N = 214). Findings show major differences in students’ HEJ and the changes between students who graduat",
+    "keywords": [
+      "Formative assessment",
+      "Psychology",
+      "Social psychology",
+      "Higher education",
+      "Sociology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00028312261502381",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:46.576494"
+  },
+  {
+    "id": "https://openalex.org/W7225868140",
+    "title": "PhD or DBA ? Capital Conversion and the Boundaries of Doctoral Legitimacy in China and the UK",
+    "authors": [
+      "Wanhao Zhang",
+      "Jenny Xia",
+      "Huifen Cai",
+      "S J Su",
+      "Chuanyi Wang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-11-12",
+    "doi": "10.1111/ejed.70945",
+    "url": "https://doi.org/10.1111/ejed.70945",
+    "abstract": "ABSTRACT This article examines how institutional boundaries shape the positioning and legitimacy of business and management doctorates in China and the United Kingdom. Existing research has often treated doctoral reform, professional doctorates and doctoral capital as separate concerns; less is known about how degree type and national context jointly condition the recognition and convertibility of doctoral resources. Drawing on Bourdieu, the study compares 40 programmes across four positions—UK ",
+    "keywords": [
+      "Legitimacy",
+      "Context (archaeology)",
+      "Accreditation",
+      "Capital (architecture)",
+      "China"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1111/ejed.70945",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:48.228632"
+  },
+  {
+    "id": "https://openalex.org/W7225887937",
+    "title": "From noticing towards action: Photovoice as transformative, place-based climate education with youth in Vietnam’s Mekong Delta",
+    "authors": [
+      "Vuong Kha Tu",
+      "Ly Quoc Dang",
+      "Thị Thanh Hường Huỳnh",
+      "Chau My Duyen",
+      "Mai Phuc Thinh"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-11-12",
+    "doi": "10.1108/ijshe-08-2025-0852",
+    "url": "https://doi.org/10.1108/ijshe-08-2025-0852",
+    "abstract": "Purpose This study aims to investigate how youth in Vietnam’s climate-vulnerable Mekong Delta perceive and respond to everyday climate-related challenges, situating the analysis within global environmental education debates. It examines the potential of Photovoice, as both method and pedagogy, to support transformative, place-based learning and equity-oriented sustainability education. Design/methodology/approach Seven university students participated in a one-month Photovoice process, each capt",
+    "keywords": [
+      "Photovoice",
+      "Environmental education",
+      "Transformative learning",
+      "Reflexivity",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:52.125080"
+  },
+  {
+    "id": "https://openalex.org/W7225919679",
+    "title": "Community cultural wealth in general chemistry: how students from historically marginalized groups leverage their assets in first-year chemistry",
+    "authors": [
+      "Caroline Z. Muteti",
+      "Klaudja Caushi",
+      "Alex Griffiths",
+      "Nadja Jacimovic",
+      "Paul Fertig"
+    ],
+    "journal": "Chemistry Education Research and Practice",
+    "jif": 3.2,
+    "published_date": "2026-11-12",
+    "doi": "10.1039/d6rp00332j",
+    "url": "https://doi.org/10.1039/d6rp00332j",
+    "abstract": "General chemistry is widely recognized as a “gatekeeper” course that disproportionately impacts students from historically marginalized groups (HMGs), contributing to their underrepresentation in STEM. While much discourse focuses on deficits, limited research examines the strengths these students bring to chemistry classrooms. This qualitative study employed the community cultural wealth (CCW) framework to examine what forms of cultural capital 28 students from HMGs drew upon to navigate a firs",
+    "keywords": [
+      "Leverage (statistics)",
+      "Cultural capital",
+      "Social capital",
+      "Sociology",
+      "Habitus"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1039/d6rp00332j",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:56.949960"
+  },
+  {
+    "id": "https://openalex.org/W7225913511",
+    "title": "Tools for the experts? Forms that inherit problematisations and obfuscate adolescents’ explorations",
+    "authors": [
+      "Liv Nøhr",
+      "Morten Misfeldt"
+    ],
+    "journal": "Learning Media and Technology",
+    "jif": 3.1,
+    "published_date": "2026-11-12",
+    "doi": "10.1080/17439884.2026.2755452",
+    "url": "https://doi.org/10.1080/17439884.2026.2755452",
+    "abstract": "",
+    "keywords": [
+      "Epistemology",
+      "Sociology",
+      "Computer science",
+      "Identification (biology)",
+      "History"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:57.768602"
+  },
+  {
+    "id": "https://openalex.org/W7225856923",
+    "title": "Exploring pre-service teacher agency in critical pedagogy: an ecological perspective from an EFL practicum context",
+    "authors": [
+      "Öznur Demirkaya",
+      "Aycan Demir Ayaz"
+    ],
+    "journal": "European Journal of Teacher Education",
+    "jif": 3.1,
+    "published_date": "2026-11-12",
+    "doi": "10.1080/02619768.2026.2760528",
+    "url": "https://doi.org/10.1080/02619768.2026.2760528",
+    "abstract": "",
+    "keywords": [
+      "Practicum",
+      "Perspective (graphical)",
+      "Context (archaeology)",
+      "Pedagogy",
+      "Agency (philosophy)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:58.479830"
+  },
+  {
+    "id": "https://openalex.org/W7225918853",
+    "title": "From Material Ruptures to Visceral Adaptations: Reassembling Novice Language Teacher Agency Through a Sociomaterial Lens",
+    "authors": [
+      "Wendong Li"
+    ],
+    "journal": "Modern Language Journal",
+    "jif": 4.0,
+    "published_date": "2026-11-11",
+    "doi": "10.1111/modl.70103",
+    "url": "https://doi.org/10.1111/modl.70103",
+    "abstract": "ABSTRACT Research on language teacher agency has moved beyond static models of professional competence, but studies often foreground teachers’ intentions and beliefs while backgrounding the material conditions of pedagogical action. Informed by sociomaterial scholarship, this ethnographic study explores how novice teachers’ professional agency develops through entanglements among artifacts, spaces, and bodies. It traced two Chinese language teachers’ experiences in Macau through observations, ar",
+    "keywords": [
+      "Agency (philosophy)",
+      "Pedagogy",
+      "Sociology",
+      "Situated",
+      "Attunement"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/modl.70103",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:42.460771"
+  },
+  {
+    "id": "https://openalex.org/W7225848648",
+    "title": "Effects of Corpus-Aided Language Learning on EFL Elementary School Students: An Empirical Case Study",
+    "authors": [
+      "Chi-Yuan Wang"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-11",
+    "doi": "10.1177/13621688261502345",
+    "url": "https://doi.org/10.1177/13621688261502345",
+    "abstract": "This study examined the effects of data-driven learning (DDL) supported by a pedagogic corpus on elementary English as a foreign language (EFL) learners’ grammar learning and learning attitudes in Taiwan. While DDL has been widely recognized for its potential to promote learner engagement and language learning, empirical research has primarily focused on tertiary-level learners, with relatively limited attention given to its applicability to younger learners. The present study therefore examined",
+    "keywords": [
+      "Grammar",
+      "Psychology",
+      "Vocabulary",
+      "Mathematics education",
+      "Empirical research"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:44.890706"
+  },
+  {
+    "id": "https://openalex.org/W7225884773",
+    "title": "AI-Mediated Revision Practices in Arabic-Language Learning: Learner Engagement, Uncertainty and Meaning Negotiation",
+    "authors": [
+      "Frida Akmalia"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-11",
+    "doi": "10.1177/13621688261503298",
+    "url": "https://doi.org/10.1177/13621688261503298",
+    "abstract": "This qualitative case study examined how eight undergraduate learners of Arabic as a foreign language engaged with AI-mediated feedback across three revision sessions. Data comprised learner–AI interaction transcripts, written reflections and successive text revisions. Analysis focused on observable practices including correction-seeking, comparison of alternatives, delayed decision-making, selective uptake and meaning negotiation. Findings showed variable engagement across tasks: correction-ori",
+    "keywords": [
+      "Psychology",
+      "Meaning (existential)",
+      "Negotiation",
+      "Function (biology)",
+      "Linguistics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-14T01:53:44.890746"
+  },
+  {
     "id": "https://openalex.org/W7225785276",
     "title": "A Systematic Review of Universal Screening Measures for Social, Emotional, and Behavioral Strengths and Concerns",
     "authors": [
@@ -44458,88 +44916,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-18T22:09:55.543965"
-  },
-  {
-    "id": "https://openalex.org/W7203530329",
-    "title": "Enhancing creative problem-solving ability through an integrative mindfulness intervention: The mediating role of critical-thinking dispositions",
-    "authors": [
-      "Yu‐chu Yeh",
-      "C. Wang",
-      "Princy Pappachan",
-      "S.D. Chang"
-    ],
-    "journal": "Thinking Skills and Creativity",
-    "jif": 4.5,
-    "published_date": "2026-08-15",
-    "doi": "10.1016/j.tsc.2026.102333",
-    "url": "https://doi.org/10.1016/j.tsc.2026.102333",
-    "abstract": "",
-    "keywords": [
-      "Mindfulness",
-      "Context (archaeology)",
-      "Intervention (counseling)",
-      "Reliability (semiconductor)",
-      "Creativity"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-22T22:09:32.310086"
-  },
-  {
-    "id": "https://openalex.org/W7203534646",
-    "title": "Exploring student use of generative AI in higher education: A dual-institutional study",
-    "authors": [
-      "Åse Nygren",
-      "Anna Eriksson",
-      "Jeanette Sjöberg",
-      "Emil Alégroth"
-    ],
-    "journal": "Education and Information Technologies",
-    "jif": 5.4,
-    "published_date": "2026-08-15",
-    "doi": "10.1007/s10639-026-14100-2",
-    "url": "https://doi.org/10.1007/s10639-026-14100-2",
-    "abstract": "Abstract Although a growing body of research has examined students’ attitudes toward generative artificial intelligence (GenAI) in higher education, few studies have compared perceptions across contrasting institutional contexts or explored how students’ reported uses of GenAI relate to broader learning practices. This study addresses that gap by examining university students’ perceptions, self-reported competence, and use of GenAI at two Swedish universities with different academic profiles: a ",
-    "keywords": [
-      "Higher education",
-      "Thematic analysis",
-      "Perception",
-      "Dialogic",
-      "Exploratory research"
-    ],
-    "open_access": true,
-    "oa_url": "https://link.springer.com/content/pdf/10.1007/s10639-026-14100-2.pdf",
-    "cited_by_count": 0,
-    "type": "book-chapter",
-    "fetched_at": "2026-08-16T22:08:29.155153"
-  },
-  {
-    "id": "https://openalex.org/W7203560558",
-    "title": "Cosmopolitan Science, Nationalist Frameworks: Content Analysis of K–11 STEM Curriculum Reform in Russia (2012–2024)",
-    "authors": [
-      "Margarita Kiryushina",
-      "Miri Yemini",
-      "Florian Waldow"
-    ],
-    "journal": "Science & Education",
-    "jif": 2.5,
-    "published_date": "2026-08-15",
-    "doi": "10.1007/s11191-026-00772-2",
-    "url": "https://doi.org/10.1007/s11191-026-00772-2",
-    "abstract": "Abstract This study examines the changes in K–11 STEM education policy in Russia between 2012 and 2024, revealing whether and how geopolitical positioning shapes educational priorities during periods of significant ideological transformation. Using the cosmopolitan nationalism theoretical framework, we analyze how Russia navigates the inherent tension between global scientific engagement and nationalist educational objectives within STEM curricula. Through mixed methods combining qualitative and",
-    "keywords": [
-      "Nationalism",
-      "Content analysis",
-      "Curriculum",
-      "Geopolitics",
-      "Ideology"
-    ],
-    "open_access": true,
-    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11191-026-00772-2.pdf",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-16T22:08:55.350170"
   }
 ]
