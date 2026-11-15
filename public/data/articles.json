@@ -1,5 +1,311 @@
 [
   {
+    "id": "https://openalex.org/W7226011933",
+    "title": "Editorial Board",
+    "authors": [],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-11-13",
+    "doi": "10.1016/s0360-1315(26)00236-8",
+    "url": "https://doi.org/10.1016/s0360-1315(26)00236-8",
+    "abstract": "",
+    "keywords": [],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "paratext",
+    "fetched_at": "2026-11-15T01:24:19.160217"
+  },
+  {
+    "id": "https://openalex.org/W7161362298",
+    "title": "Why some STEM subjects lead to STEM careers: domain-specific attitudes and aspirations in junior secondary students",
+    "authors": [
+      "Michael Carey",
+      "Natalie McMaster",
+      "Kate E Williams"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-11-13",
+    "doi": "10.1186/s40594-026-00657-4",
+    "url": "https://doi.org/10.1186/s40594-026-00657-4",
+    "abstract": "Differences in students’ attitudes toward individual STEM domains may be associated with differences in their career aspirations. This study examined associations among domain-specific STEM attitudes, participation in additional school elective and extracurricular STEM activities, and career aspirations among junior secondary students. Using a cross-sectional mixed-methods design, data were collected from Year 7 students ( N = 99; 48 females, 51 males) in Australian secondary schools. Attitudes ",
+    "keywords": [
+      "STEM attitudes",
+      "STEM career aspirations",
+      "junior high school students",
+      "STEM identity",
+      "mathematics"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00657-4",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:21.177653"
+  },
+  {
+    "id": "https://openalex.org/W7226008351",
+    "title": "Learning on the record: the observability–authenticity paradox in AI-era STEM assessment",
+    "authors": [
+      "Daiki Nakamura"
+    ],
+    "journal": "International Journal of Stem Education",
+    "jif": 8.0,
+    "published_date": "2026-11-13",
+    "doi": "10.1186/s40594-026-00659-2",
+    "url": "https://doi.org/10.1186/s40594-026-00659-2",
+    "abstract": "Generative artificial intelligence tutors produce detailed records of how learners question, reason, and revise, and these interaction traces are increasingly available to teachers and institutions. This commentary examines what happens to the evidential value of interaction traces when they are used to assess learning in science, technology, engineering, and mathematics (STEM) education. I describe an Observability–Authenticity Paradox: the features that make interaction traces informative, suc",
+    "keywords": [
+      "Formative assessment",
+      "Credentialing",
+      "Science education",
+      "Grading (engineering)",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1186/s40594-026-00659-2",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:21.177704"
+  },
+  {
+    "id": "https://openalex.org/W7226018061",
+    "title": "When does self-concept matter most? Development and application of Polynomial Stage Modeling (PSM) for Island Ridge Curve research",
+    "authors": [
+      "Yuyang Cai"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-11-13",
+    "doi": "10.1080/17501229.2026.2763683",
+    "url": "https://doi.org/10.1080/17501229.2026.2763683",
+    "abstract": "",
+    "keywords": [
+      "Stage (stratigraphy)",
+      "Ridge",
+      "Geology",
+      "Polynomial",
+      "Development (topology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:35.566892"
+  },
+  {
+    "id": "https://openalex.org/W7226037688",
+    "title": "Human‐Material Agential Ensemble: Uncovering the Underexplored Territory of Student Agency in What‐Sensemaking",
+    "authors": [
+      "Heesoo Ha",
+      "Phil Seok Oh"
+    ],
+    "journal": "Journal of Research In Science Teaching",
+    "jif": 4.5,
+    "published_date": "2026-11-13",
+    "doi": "10.1002/tea.70083",
+    "url": "https://doi.org/10.1002/tea.70083",
+    "abstract": "ABSTRACT Student agency in science classrooms has been studied with an emphasis on the sociolinguistic dimension of science. This trend has overlooked a key agent—natural entities that students explore and make sense of. Despite having learned conceptual knowledge in classrooms, students often struggle to apply this knowledge to make sense of natural phenomena they directly encounter. We suggest that this struggle reflects the need to attend to what‐sensemaking process, in which, guided by the c",
+    "keywords": [
+      "Agency (philosophy)",
+      "Natural (archaeology)",
+      "Science education",
+      "Epistemology",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:37.637324"
+  },
+  {
+    "id": "https://openalex.org/W7225983684",
+    "title": "From information delivery to cognitive co-creation: how generative AI enhances computational thinking education through student-authored visualizations",
+    "authors": [
+      "Jian Zhou",
+      "Zhang Wuwen",
+      "周沫"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-13",
+    "doi": "10.1007/s11423-026-10763-3",
+    "url": "https://doi.org/10.1007/s11423-026-10763-3",
+    "abstract": "",
+    "keywords": [
+      "Metacognition",
+      "Generative grammar",
+      "Cognition",
+      "Computer science",
+      "Generative model"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:38.368851"
+  },
+  {
+    "id": "https://openalex.org/W7226017302",
+    "title": "Developing and validating the human-AI collaboration competency scale",
+    "authors": [
+      "Hyeeun Kim",
+      "Eun Hye Ham",
+      "Young Hoan Cho"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-13",
+    "doi": "10.1007/s11423-026-10753-5",
+    "url": "https://doi.org/10.1007/s11423-026-10753-5",
+    "abstract": "Abstract Fostering learners’ capacity to collaborate effectively with AI has become an important goal in education. This study aims to develop and validate the Human–AI Collaboration Competency (HACC) Scale, which can be used to assess students’ perceived competency in allocating roles and managing tasks, and sharing, coordinating, and integrating with AI through ongoing interaction to achieve a common goal. This scale includes five constructs’’: engagement, fluency, team bond, interdependence, ",
+    "keywords": [
+      "Confirmatory factor analysis",
+      "Exploratory factor analysis",
+      "Scale (ratio)",
+      "Construct validity",
+      "Sample (material)"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10753-5",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:38.368919"
+  },
+  {
+    "id": "https://openalex.org/W7225995896",
+    "title": "Data for accountability in education: global trends in school reform",
+    "authors": [
+      "András Béres"
+    ],
+    "journal": "Educational Review",
+    "jif": 3.4,
+    "published_date": "2026-11-13",
+    "doi": "10.1080/00131911.2026.2758054",
+    "url": "https://doi.org/10.1080/00131911.2026.2758054",
+    "abstract": "",
+    "keywords": [
+      "Accountability",
+      "Public administration",
+      "Political science",
+      "Public relations",
+      "Data collection"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "dataset",
+    "fetched_at": "2026-11-15T01:24:48.664561"
+  },
+  {
+    "id": "https://openalex.org/W7225982865",
+    "title": "Navigating professional development pathways across career stages: faculty agency through an ecological perspective",
+    "authors": [
+      "Serhat Başar",
+      "Indira N. Z. Day",
+      "Roeland Matthijs van der Rijst"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-11-13",
+    "doi": "10.1080/19415257.2026.2760842",
+    "url": "https://doi.org/10.1080/19415257.2026.2760842",
+    "abstract": "This study explores how faculty members at different career stages navigate institutional professional development (PD) programmes to foster or sustain faculty agency. Faculty agency emerges from considering personal capacities, resources, affordances and constraints of the environment when deciding to act as a lecturer, researcher or in any other academic role. Drawing on interviews with faculty and academic developers, observations and artefacts, we analysed three PD programmes at a Dutch rese",
+    "keywords": [
+      "Affordance",
+      "Agency (philosophy)",
+      "Dialogic",
+      "Pedagogy",
+      "Professional development"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:56.121169"
+  },
+  {
+    "id": "https://openalex.org/W7226040636",
+    "title": "An online project-based learning application to develop secondary school students’ twenty-first-century skills",
+    "authors": [
+      "Fatih Kalemkuş",
+      "Müzeyyen Bulut Özek"
+    ],
+    "journal": "Technology Pedagogy and Education",
+    "jif": 2.5,
+    "published_date": "2026-11-13",
+    "doi": "10.1080/1475939x.2026.2758135",
+    "url": "https://doi.org/10.1080/1475939x.2026.2758135",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Electronic learning",
+      "Mathematics education",
+      "Educational technology",
+      "Computer science"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:57.488146"
+  },
+  {
+    "id": "https://openalex.org/W7225987713",
+    "title": "Enduring or resilient? Young people navigating violence in Uganda’s vocational education",
+    "authors": [
+      "Agnes Kyamulabi",
+      "Eddy Walakira",
+      "Innocent Royal Kamya",
+      "Lotenna Olisaeloka",
+      "Aloysious Nnyombi"
+    ],
+    "journal": "International Journal of Educational Research",
+    "jif": 2.5,
+    "published_date": "2026-11-13",
+    "doi": "10.1016/j.ijer.2026.103164",
+    "url": "https://doi.org/10.1016/j.ijer.2026.103164",
+    "abstract": "Background Vocational education and training (VET) is promoted as a pathway to skills, employment, and economic independence for young people, yet training environments may also expose them to violence. However, little is known about how young people, especially those with violent childhoods, navigate these spaces. Objective We investigated how young people with experiences of childhood violence navigated violence within VET institutions in Luwero district, Uganda. Participants and settings We i",
+    "keywords": [
+      "Thematic analysis",
+      "Focus group",
+      "Negotiation",
+      "Psychology",
+      "Vocational education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.ijer.2026.103164",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:58.184075"
+  },
+  {
+    "id": "https://openalex.org/W7225481201",
+    "title": "Exploring cradle to career initiatives' plausibility as a strategy to tackle place‐based inequities",
+    "authors": [
+      "Kirstin Kerr"
+    ],
+    "journal": "British Educational Research Journal",
+    "jif": 2.1,
+    "published_date": "2026-11-13",
+    "doi": "10.1002/berj.70305",
+    "url": "https://doi.org/10.1002/berj.70305",
+    "abstract": "Abstract Internationally, cradle to career (C2C) initiatives are gaining traction as a way of tackling spatial concentrations of poor education and related outcomes. Targeting high‐poverty neighbourhoods, they aim to bring together local schools, services and community groups; create seamless, locally bespoke supports for children from birth to early adulthood; and simultaneously improve outcomes across multiple interrelated domains—education, health and well‐being and material security. Yet, th",
+    "keywords": [
+      "theory of change",
+      "deficit thinking",
+      "relational power",
+      "systemic change",
+      "individual behavior change"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1002/berj.70305",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-15T01:24:58.917218"
+  },
+  {
     "id": "https://openalex.org/W7225920908",
     "title": "Understanding STEM students’ perspectives on undergraduate research at a Hispanic-Serving Institution",
     "authors": [
@@ -44809,112 +45115,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-18T22:10:08.470802"
-  },
-  {
-    "id": "https://openalex.org/W7203586430",
-    "title": "AI learning assistants, self-regulation, and academic procrastination: a technology–motivation–behavior pathway",
-    "authors": [
-      "Longxue Hu",
-      "Cao Enguo",
-      "Weifeng Hu"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-08-16",
-    "doi": "10.1080/10494820.2026.2691902",
-    "url": "https://doi.org/10.1080/10494820.2026.2691902",
-    "abstract": "Academic procrastination undermines university students’ performance and well-being, yet how AI learning assistants influence this behavior remains underexplored. This study examines whether AI engagement is associated with reduced procrastination through motivational and self-regulatory pathways. Drawing on an integrated “technology–motivation–behavior” framework, we analyzed 383 survey responses using a dual-modeling approach combining structural equation modeling (SEM) and artificial neural n",
-    "keywords": [
-      "Educational technology",
-      "Electronic learning",
-      "Experiential learning",
-      "Active learning (machine learning)",
-      "Higher education"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-18T22:09:40.500329"
-  },
-  {
-    "id": "https://openalex.org/W7203570609",
-    "title": "How do emotions shape L2 speaking task performance? A trait-state approach to anxiety, enjoyment, and boredom",
-    "authors": [
-      "Chenxin Li",
-      "Peijian Paul Sun"
-    ],
-    "journal": "Innovation In Language Learning and Teaching",
-    "jif": 4.6,
-    "published_date": "2026-08-16",
-    "doi": "10.1080/17501229.2026.2709149",
-    "url": "https://doi.org/10.1080/17501229.2026.2709149",
-    "abstract": "Purpose This study adopts a trait-state approach to examine the interrelationships among anxiety, enjoyment, and boredom, and their independent and relative contributions to L2 speaking task performance, assessed through a multifaceted analytical framework.Design The participants were 80 Chinese EFL university students with intermediate to upper-intermediate English proficiency. Data were collected using an L2 trait emotion scale, a picture narration task, a LexTALE lexical decision test, and a ",
-    "keywords": [
-      "Task (project management)",
-      "Boredom",
-      "Task analysis",
-      "Affect (linguistics)",
-      "Cognition"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-18T22:09:46.764130"
-  },
-  {
-    "id": "https://openalex.org/W7203580076",
-    "title": "Transition From Preservice to In-Service Teaching: The Impact of Personal Attributes and Social-Environmental Factors on Well-Being and Perceived Teaching Quality",
-    "authors": [
-      "Wening Cahyawulan",
-      "Jiafang Lu",
-      "Robert M. Klassen",
-      "Hui Wang"
-    ],
-    "journal": "Journal of Teacher Education",
-    "jif": 4.1,
-    "published_date": "2026-08-16",
-    "doi": "10.1177/00224871261468325",
-    "url": "https://doi.org/10.1177/00224871261468325",
-    "abstract": "The transition from preservice to in-service teaching is a critical period for early career teachers, often presenting challenges that affect their occupational success and well-being. Identifying factors that influence key outcomes—such as transition difficulties, perceived teaching quality, well-being, and intention to quit—is essential for providing timely support. This longitudinal study examined how preservice teachers’ cognitive attributes (Grade Point Average, pedagogical knowledge, pract",
-    "keywords": [
-      "Practicum",
-      "Graduation (instrument)",
-      "Affect (linguistics)",
-      "Transition (genetics)",
-      "Quality (philosophy)"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1177/00224871261468325",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-18T22:09:51.799456"
-  },
-  {
-    "id": "https://openalex.org/W7203583126",
-    "title": "Impacts of School Choice Expansion on Public School Finance, Inputs, Voter Tax Preferences, and Achievement",
-    "authors": [
-      "Mark J. Chin",
-      "Arthas Chen"
-    ],
-    "journal": "American Educational Research Journal",
-    "jif": 3.6,
-    "published_date": "2026-08-16",
-    "doi": "10.3102/00028312261468354",
-    "url": "https://doi.org/10.3102/00028312261468354",
-    "abstract": "School choice can theoretically improve student outcomes with cost efficiency through competition. But empirical research on school spending is inconclusive, and little rigorous work confirms the conceptual link between privatization and increased competition in K–12 education with enthusiasm for public goods and the tax policies they require. We thus investigate Indiana, where in 2011 state policymakers implemented a private school voucher program and expanded the number of charter school autho",
-    "keywords": [
-      "Voucher",
-      "School choice",
-      "Tax credit",
-      "Property tax",
-      "Tax revenue"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.3102/00028312261468354",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-18T22:09:55.543965"
   }
 ]
