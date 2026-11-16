@@ -1,108 +1,127 @@
-📅 运行时间：2026-11-15 01:25
-📊 本次新增文章：12 篇
-📚 数据库总文章数：1699 篇
-🔍 查询范围：2026-11-08 至 2026-11-15
+📅 运行时间：2026-11-16 01:27
+📊 本次新增文章：14 篇
+📚 数据库总文章数：1690 篇
+🔍 查询范围：2026-11-09 至 2026-11-16
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • International Journal of Stem Education: 2 篇
-  • ETR&D-Educational Technology Research and Development: 2 篇
-  • Computers & Education: 1 篇
+  • British Journal of Educational Technology: 2 篇
+  • Teaching and Teacher Education: 2 篇
+  • European Journal of Education: 2 篇
   • Innovation In Language Learning and Teaching: 1 篇
-  • Journal of Research In Science Teaching: 1 篇
-  • Educational Review: 1 篇
-  • Professional Development In Education: 1 篇
-  • Technology Pedagogy and Education: 1 篇
-  • International Journal of Educational Research: 1 篇
+  • Modern Language Journal: 1 篇
+  • Journal of Engineering Education: 1 篇
+  • International Journal of Sustainability In Higher Education: 1 篇
+  • Studies In Higher Education: 1 篇
+  • Learning Media and Technology: 1 篇
   • British Educational Research Journal: 1 篇
+  • Instructional Science: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Editorial Board
-    期刊：Computers & Education (JIF: 10.5)
+[1] Human tutoring, generative AI tutoring and independent internet search: A randomised between‐subjects experiment on students' responses to academic challenge
+    期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Megan Ennion, Ros McLellan
     日期：2026-11-13
-    DOI：https://doi.org/10.1016/s0360-1315(26)00236-8
-
-[2] Why some STEM subjects lead to STEM careers: domain-specific attitudes and aspirations in junior secondary students
-    期刊：International Journal of Stem Education (JIF: 8.0)
-    作者：Michael Carey, Natalie McMaster, Kate E Williams
-    日期：2026-11-13
-    关键词：STEM attitudes, STEM career aspirations, junior high school students, STEM identity, mathematics
-    DOI：https://doi.org/10.1186/s40594-026-00657-4
+    关键词：human tutoring, web search, academic difficulties, perceived difficulty, effort
+    DOI：https://doi.org/10.1111/bjet.70100
     🔓 开放获取
 
-[3] Learning on the record: the observability–authenticity paradox in AI-era STEM assessment
-    期刊：International Journal of Stem Education (JIF: 8.0)
-    作者：Daiki Nakamura
+[2] Generative AI empowered contextual educational games as facilitators of elementary school students' computational thinking tendencies
+    期刊：British Journal of Educational Technology (JIF: 8.1)
+    作者：Wen‐Li Zhou, Qing-Ke Fu, Jian-Wen Fang 等(4人)
     日期：2026-11-13
-    关键词：Formative assessment, Credentialing, Science education, Grading (engineering), Psychology
-    DOI：https://doi.org/10.1186/s40594-026-00659-2
-    🔓 开放获取
+    关键词：Generative grammar, Psychology, Mathematics education, Cognition, Generative model
+    DOI：https://doi.org/10.1111/bjet.70101
 
-[4] When does self-concept matter most? Development and application of Polynomial Stage Modeling (PSM) for Island Ridge Curve research
+[3] A sociocultural inquiry into the potential of AI-assisted dynamic assessment in L2 writing development and emotion regulation
     期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Yuyang Cai
-    日期：2026-11-13
-    关键词：Stage (stratigraphy), Ridge, Geology, Polynomial, Development (topology)
-    DOI：https://doi.org/10.1080/17501229.2026.2763683
+    作者：Hossein Kargar Behbahani, Nasser Rashidi, Peter I. De Costa
+    日期：2026-11-14
+    关键词：Psychology, Dynamic assessment, Narrative, Cognition, Cognitive reappraisal
+    DOI：https://doi.org/10.1080/17501229.2026.2759910
 
-[5] Human‐Material Agential Ensemble: Uncovering the Underexplored Territory of Student Agency in What‐Sensemaking
-    期刊：Journal of Research In Science Teaching (JIF: 4.5)
-    作者：Heesoo Ha, Phil Seok Oh
-    日期：2026-11-13
-    关键词：Agency (philosophy), Natural (archaeology), Science education, Epistemology, Sociology
-    DOI：https://doi.org/10.1002/tea.70083
-
-[6] From information delivery to cognitive co-creation: how generative AI enhances computational thinking education through student-authored visualizations
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Jian Zhou, Zhang Wuwen, 周沫
-    日期：2026-11-13
-    关键词：Metacognition, Generative grammar, Cognition, Computer science, Generative model
-    DOI：https://doi.org/10.1007/s11423-026-10763-3
-
-[7] Developing and validating the human-AI collaboration competency scale
-    期刊：ETR&D-Educational Technology Research and Development (JIF: 4.2)
-    作者：Hyeeun Kim, Eun Hye Ham, Young Hoan Cho
-    日期：2026-11-13
-    关键词：Confirmatory factor analysis, Exploratory factor analysis, Scale (ratio), Construct validity, Sample (material)
-    DOI：https://doi.org/10.1007/s11423-026-10753-5
+[4] Portrait of an AfroLatina Spanish Teacher: From Stories of Pain to Stories of Healing
+    期刊：Modern Language Journal (JIF: 4.0)
+    作者：Belén Hernando-Lloréns, L. J. Randolph
+    日期：2026-11-14
+    关键词：Narrative, White (mutation), Pedagogy, Portrait, Sociology
+    DOI：https://doi.org/10.1111/modl.70105
     🔓 开放获取
 
-[8] Data for accountability in education: global trends in school reform
-    期刊：Educational Review (JIF: 3.4)
-    作者：András Béres
-    日期：2026-11-13
-    关键词：Accountability, Public administration, Political science, Public relations, Data collection
-    DOI：https://doi.org/10.1080/00131911.2026.2758054
-
-[9] Navigating professional development pathways across career stages: faculty agency through an ecological perspective
-    期刊：Professional Development In Education (JIF: 3.1)
-    作者：Serhat Başar, Indira N. Z. Day, Roeland Matthijs van der Rijst
-    日期：2026-11-13
-    关键词：Affordance, Agency (philosophy), Dialogic, Pedagogy, Professional development
-    DOI：https://doi.org/10.1080/19415257.2026.2760842
-
-[10] An online project-based learning application to develop secondary school students’ twenty-first-century skills
-    期刊：Technology Pedagogy and Education (JIF: 2.5)
-    作者：Fatih Kalemkuş, Müzeyyen Bulut Özek
-    日期：2026-11-13
-    关键词：Psychology, Electronic learning, Mathematics education, Educational technology, Computer science
-    DOI：https://doi.org/10.1080/1475939x.2026.2758135
-
-[11] Enduring or resilient? Young people navigating violence in Uganda’s vocational education
-    期刊：International Journal of Educational Research (JIF: 2.5)
-    作者：Agnes Kyamulabi, Eddy Walakira, Innocent Royal Kamya 等(5人)
-    日期：2026-11-13
-    关键词：Thematic analysis, Focus group, Negotiation, Psychology, Vocational education
-    DOI：https://doi.org/10.1016/j.ijer.2026.103164
+[5] Hitting the Wall: Feminist Teachers and the Continuum of Resistance to Gender Equality in Secondary Schools
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Berta Llos, Alejandro Caravaca
+    日期：2026-11-14
+    关键词：Transformative learning, Sociology, Resistance (ecology), Silence, Opposition (politics)
+    DOI：https://doi.org/10.1016/j.tate.2026.105911
     🔓 开放获取
 
-[12] Exploring cradle to career initiatives' plausibility as a strategy to tackle place‐based inequities
+[6] Developing Sixth Grade Students’ Scientific Thinking Through “Scientific Thinking Chain (QODTSE)” Teaching Practice: Multidimensional Evidence from Cognition, Emotion, and Neuroscience
+    期刊：Teaching and Teacher Education (JIF: 3.9)
+    作者：Danhua Zhou, Dan Li, Nan Xu 等(5人)
+    日期：2026-11-14
+    关键词：Psychology, Scientific reasoning, Mathematics education, Scientific thinking, Critical thinking
+    DOI：https://doi.org/10.1016/j.tate.2026.105919
+
+[7] Is It Time for Teacher Education to Include a Nature‐Based Commitment?
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Sarah MacQuarrie, Clare Nugent, Rebecca Phillips 等(5人)
+    日期：2026-11-14
+    关键词：teacher professional development, outdoor education, nature-based learning, teacher confidence, place-based education
+    DOI：https://doi.org/10.1111/ejed.70942
+    🔓 开放获取
+
+[8] Artificial Intelligence‐Enabled Feedback for Reflective Learning Across Health Professions Education: A Scoping Review
+    期刊：European Journal of Education (JIF: 3.6)
+    作者：Alice Sau Han Kam, Ayaan Islam, Ronny Thomas 等(5人)
+    日期：2026-11-14
+    关键词：Lifelong learning, Psychology, Health professions, Medical education, Reflective practice
+    DOI：https://doi.org/10.1111/ejed.70938
+    🔓 开放获取
+
+[9] A dual variable‐ and unit‐centered analysis of engineering enrollment trajectories in the United States from 2017 to 2024
+    期刊：Journal of Engineering Education (JIF: 3.4)
+    作者：Li Tan
+    日期：2026-11-14
+    关键词：Trajectory, Field (mathematics), Categorical variable, Cluster analysis, Intersectionality
+    DOI：https://doi.org/10.1002/jee.70110
+
+[10] Green campus initiatives and art students’ sustainable practices: the mediating roles of student motivation and environmental attitudes
+    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
+    作者：Xiaomeng He, Chengbin Qin
+    日期：2026-11-14
+    关键词：Sustainability, Sustainable development, Structural equation modeling, Class (philosophy), Environmental education
+    DOI：https://doi.org/10.1108/ijshe-10-2025-1233
+
+[11] Beyond objectivity: supervisory subjectivities, power dynamics, and their impact on doctoral students’ Scopus publication trajectories
+    期刊：Studies In Higher Education (JIF: 3.2)
+    作者：Joko Slamet, Abd. Syakur
+    日期：2026-11-13
+    关键词：Gatekeeping, Accountability, Scopus, Higher education, Sociology
+    DOI：https://doi.org/10.1080/03075079.2026.2764326
+
+[12] The politics of platform governance: Chromebooks and trials of explicitness
+    期刊：Learning Media and Technology (JIF: 3.1)
+    作者：Emilie Mørch Groth, Helene Ratner
+    日期：2026-11-14
+    关键词：Politics, Sociology, Public relations, Social science, Pedagogy
+    DOI：https://doi.org/10.1080/17439884.2026.2755453
+
+[13] Partial correspondence between mathematics achievement and multidimensional well‐being‐related profiles: Evidence from PISA 2018 in Türkiye
     期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Kirstin Kerr
+    作者：Mehmet Filiz
     日期：2026-11-13
-    关键词：theory of change, deficit thinking, relational power, systemic change, individual behavior change
-    DOI：https://doi.org/10.1002/berj.70305
+    关键词：Disadvantage, Academic achievement, Mathematics education, Psychology, Resource (disambiguation)
+    DOI：https://doi.org/10.1002/berj.70314
+    🔓 开放获取
+
+[14] Navigating digital and physical scaffolds in action: a mixed-methods study of teacher facilitation in a game-based environment
+    期刊：Instructional Science (JIF: 2.1)
+    作者：Yuxin Chen, Paul A. Kirschner, Jonathan Rowe 等(4人)
+    日期：2026-11-14
+    关键词：Facilitation, Coding (social sciences), Scaffold, Psychology, Educational psychology
+    DOI：https://doi.org/10.1007/s11251-026-09827-x
     🔓 开放获取
