@@ -1,127 +1,67 @@
-📅 运行时间：2026-11-16 01:27
-📊 本次新增文章：14 篇
-📚 数据库总文章数：1690 篇
-🔍 查询范围：2026-11-09 至 2026-11-16
+📅 运行时间：2026-11-17 04:14
+📊 本次新增文章：7 篇
+📚 数据库总文章数：1677 篇
+🔍 查询范围：2026-11-10 至 2026-11-17
 
 📊 各期刊新增统计：
 ----------------------------------------
-  • British Journal of Educational Technology: 2 篇
-  • Teaching and Teacher Education: 2 篇
-  • European Journal of Education: 2 篇
-  • Innovation In Language Learning and Teaching: 1 篇
-  • Modern Language Journal: 1 篇
-  • Journal of Engineering Education: 1 篇
-  • International Journal of Sustainability In Higher Education: 1 篇
-  • Studies In Higher Education: 1 篇
+  • System: 2 篇
+  • International Journal of Educational Technology in Higher Education: 1 篇
+  • Studies In Science Education: 1 篇
+  • Journal of Science Education and Technology: 1 篇
+  • Innovations In Education and Teaching International: 1 篇
   • Learning Media and Technology: 1 篇
-  • British Educational Research Journal: 1 篇
-  • Instructional Science: 1 篇
 
 ==================================================
 📝 新增文章详情：
 ==================================================
 
-[1] Human tutoring, generative AI tutoring and independent internet search: A randomised between‐subjects experiment on students' responses to academic challenge
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Megan Ennion, Ros McLellan
+[1] Curriculum-aligned analysis of assessment feedback: a retrieval-augmented large language model approach for revealing fine-grained student error patterns in higher education
+    期刊：International Journal of Educational Technology in Higher Education (JIF: 16.7)
+    作者：Linxin Hua, Xu Jia, Lirui Guo 等(5人)
+    日期：2026-11-15
+    关键词：assessment feedback, error taxonomy, retrieval-augmented generation, large language models, curriculum alignment
+    DOI：https://doi.org/10.1186/s41239-026-00640-7
+    🔓 开放获取
+
+[2] Reading of research literature by undergraduate science students. Practices and research
+    期刊：Studies In Science Education (JIF: 9.9)
+    作者：Martin J. Goedhart
+    日期：2026-11-15
+    关键词：Reading (process), Discipline, Set (abstract data type), Curriculum, Mathematics education
+    DOI：https://doi.org/10.1080/03057267.2026.2761811
+
+[3] Longitudinal development of situational and individual interest among young EFL learners in CLIL and non-CLIL programmes in China
+    期刊：System (JIF: 5.6)
+    作者：Lina Chi, Tan Bee Tin
+    日期：2026-11-14
+    关键词：situational interest, personal interests, young learners, EFL learners, CLIL
+    DOI：https://doi.org/10.1016/j.system.2026.104206
+
+[4] Engaging with generative AI-generated feedback in L2 writing: An interactive, constructive, active, passive (ICAP) perspective
+    期刊：System (JIF: 5.6)
+    作者：Zhihui Zhang, Zihao Guo, Ying Liu 等(4人)
     日期：2026-11-13
-    关键词：human tutoring, web search, academic difficulties, perceived difficulty, effort
-    DOI：https://doi.org/10.1111/bjet.70100
-    🔓 开放获取
+    关键词：AI-generated feedback, second language writing, ICAP framework, student engagement, writing revision
+    DOI：https://doi.org/10.1016/j.system.2026.104201
 
-[2] Generative AI empowered contextual educational games as facilitators of elementary school students' computational thinking tendencies
-    期刊：British Journal of Educational Technology (JIF: 8.1)
-    作者：Wen‐Li Zhou, Qing-Ke Fu, Jian-Wen Fang 等(4人)
-    日期：2026-11-13
-    关键词：Generative grammar, Psychology, Mathematics education, Cognition, Generative model
-    DOI：https://doi.org/10.1111/bjet.70101
+[5] When Clarity Masks Correctness: Rural Secondary Students’ Evaluation of AI-Generated Physics Explanations
+    期刊：Journal of Science Education and Technology (JIF: 5.5)
+    作者：Nailya Shertayeva, GANIYA ORMANOVA, Bibigul Shagraуеva 等(4人)
+    日期：2026-11-16
+    关键词：CLARITY, Science education, Mathematics education, Educational technology, Psychology
+    DOI：https://doi.org/10.1007/s10956-026-10373-x
 
-[3] A sociocultural inquiry into the potential of AI-assisted dynamic assessment in L2 writing development and emotion regulation
-    期刊：Innovation In Language Learning and Teaching (JIF: 4.6)
-    作者：Hossein Kargar Behbahani, Nasser Rashidi, Peter I. De Costa
-    日期：2026-11-14
-    关键词：Psychology, Dynamic assessment, Narrative, Cognition, Cognitive reappraisal
-    DOI：https://doi.org/10.1080/17501229.2026.2759910
+[6] Interactive oral assessment in a writing intensive discipline: Student experiences and assessment practice in the GenAI era
+    期刊：Innovations In Education and Teaching International (JIF: 4.9)
+    作者：Justin Tonra
+    日期：2026-11-15
+    关键词：Medical education, Psychology, Qualitative research, Pedagogy, Graduate students
+    DOI：https://doi.org/10.1080/14703297.2026.2763531
 
-[4] Portrait of an AfroLatina Spanish Teacher: From Stories of Pain to Stories of Healing
-    期刊：Modern Language Journal (JIF: 4.0)
-    作者：Belén Hernando-Lloréns, L. J. Randolph
-    日期：2026-11-14
-    关键词：Narrative, White (mutation), Pedagogy, Portrait, Sociology
-    DOI：https://doi.org/10.1111/modl.70105
-    🔓 开放获取
-
-[5] Hitting the Wall: Feminist Teachers and the Continuum of Resistance to Gender Equality in Secondary Schools
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Berta Llos, Alejandro Caravaca
-    日期：2026-11-14
-    关键词：Transformative learning, Sociology, Resistance (ecology), Silence, Opposition (politics)
-    DOI：https://doi.org/10.1016/j.tate.2026.105911
-    🔓 开放获取
-
-[6] Developing Sixth Grade Students’ Scientific Thinking Through “Scientific Thinking Chain (QODTSE)” Teaching Practice: Multidimensional Evidence from Cognition, Emotion, and Neuroscience
-    期刊：Teaching and Teacher Education (JIF: 3.9)
-    作者：Danhua Zhou, Dan Li, Nan Xu 等(5人)
-    日期：2026-11-14
-    关键词：Psychology, Scientific reasoning, Mathematics education, Scientific thinking, Critical thinking
-    DOI：https://doi.org/10.1016/j.tate.2026.105919
-
-[7] Is It Time for Teacher Education to Include a Nature‐Based Commitment?
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Sarah MacQuarrie, Clare Nugent, Rebecca Phillips 等(5人)
-    日期：2026-11-14
-    关键词：teacher professional development, outdoor education, nature-based learning, teacher confidence, place-based education
-    DOI：https://doi.org/10.1111/ejed.70942
-    🔓 开放获取
-
-[8] Artificial Intelligence‐Enabled Feedback for Reflective Learning Across Health Professions Education: A Scoping Review
-    期刊：European Journal of Education (JIF: 3.6)
-    作者：Alice Sau Han Kam, Ayaan Islam, Ronny Thomas 等(5人)
-    日期：2026-11-14
-    关键词：Lifelong learning, Psychology, Health professions, Medical education, Reflective practice
-    DOI：https://doi.org/10.1111/ejed.70938
-    🔓 开放获取
-
-[9] A dual variable‐ and unit‐centered analysis of engineering enrollment trajectories in the United States from 2017 to 2024
-    期刊：Journal of Engineering Education (JIF: 3.4)
-    作者：Li Tan
-    日期：2026-11-14
-    关键词：Trajectory, Field (mathematics), Categorical variable, Cluster analysis, Intersectionality
-    DOI：https://doi.org/10.1002/jee.70110
-
-[10] Green campus initiatives and art students’ sustainable practices: the mediating roles of student motivation and environmental attitudes
-    期刊：International Journal of Sustainability In Higher Education (JIF: 3.4)
-    作者：Xiaomeng He, Chengbin Qin
-    日期：2026-11-14
-    关键词：Sustainability, Sustainable development, Structural equation modeling, Class (philosophy), Environmental education
-    DOI：https://doi.org/10.1108/ijshe-10-2025-1233
-
-[11] Beyond objectivity: supervisory subjectivities, power dynamics, and their impact on doctoral students’ Scopus publication trajectories
-    期刊：Studies In Higher Education (JIF: 3.2)
-    作者：Joko Slamet, Abd. Syakur
-    日期：2026-11-13
-    关键词：Gatekeeping, Accountability, Scopus, Higher education, Sociology
-    DOI：https://doi.org/10.1080/03075079.2026.2764326
-
-[12] The politics of platform governance: Chromebooks and trials of explicitness
+[7] Fixing and unfixing education: a refusal of technocapitalist visions in EdTech futures
     期刊：Learning Media and Technology (JIF: 3.1)
-    作者：Emilie Mørch Groth, Helene Ratner
-    日期：2026-11-14
-    关键词：Politics, Sociology, Public relations, Social science, Pedagogy
-    DOI：https://doi.org/10.1080/17439884.2026.2755453
-
-[13] Partial correspondence between mathematics achievement and multidimensional well‐being‐related profiles: Evidence from PISA 2018 in Türkiye
-    期刊：British Educational Research Journal (JIF: 2.1)
-    作者：Mehmet Filiz
-    日期：2026-11-13
-    关键词：Disadvantage, Academic achievement, Mathematics education, Psychology, Resource (disambiguation)
-    DOI：https://doi.org/10.1002/berj.70314
-    🔓 开放获取
-
-[14] Navigating digital and physical scaffolds in action: a mixed-methods study of teacher facilitation in a game-based environment
-    期刊：Instructional Science (JIF: 2.1)
-    作者：Yuxin Chen, Paul A. Kirschner, Jonathan Rowe 等(4人)
-    日期：2026-11-14
-    关键词：Facilitation, Coding (social sciences), Scaffold, Psychology, Educational psychology
-    DOI：https://doi.org/10.1007/s11251-026-09827-x
-    🔓 开放获取
+    作者：Marte Henningsen, Bruna Damiana Heinsfeld
+    日期：2026-11-15
+    关键词：Vision, Futures contract, Sociology, Political science, Media studies
+    DOI：https://doi.org/10.1080/17439884.2026.2762890
