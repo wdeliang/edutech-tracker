@@ -1,5 +1,460 @@
 [
   {
+    "id": "https://openalex.org/W7237182152",
+    "title": "Taking the Parent Perspective: The Development of Action-Oriented Teachers’ Professional Discourse",
+    "authors": [
+      "Hadeel Edrees-Dabbah",
+      "Dana Vedder‐Weiss",
+      "Idit Fast",
+      "Haled Al-Said"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.tate.2026.105904",
+    "url": "https://doi.org/10.1016/j.tate.2026.105904",
+    "abstract": "",
+    "keywords": [
+      "Pedagogy",
+      "Sociology",
+      "Professional development",
+      "Psychology",
+      "Discourse analysis"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1016/j.tate.2026.105904",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:27.020745"
+  },
+  {
+    "id": "https://openalex.org/W7233663899",
+    "title": "Physical Activity Interventions Embedded Within University Teaching and Learning: A Scoping Review",
+    "authors": [
+      " H. Wood",
+      " B Gardner",
+      " M. Duncan",
+      " E. Dommett"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-11-20",
+    "doi": "10.3102/00346543261495159",
+    "url": "https://doi.org/10.3102/00346543261495159",
+    "abstract": "Embedding physical activity into the university curriculum offers a way to address students’ typically high sedentary behaviour. While some interventions have been trialled, the heterogeneity of methods precludes synthesis of results. This review aimed to document the methods used for assessing embedded physical activity or sedentary behaviour interventions to summarise existing research and identify methodological gaps. Four databases were searched for peer-reviewed articles. Of the 7345 citati",
+    "keywords": [
+      "physical activity interventions",
+      "university teaching",
+      "physical activity promotion",
+      "higher education",
+      "physical education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.3102/00346543261495159",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:01.980327"
+  },
+  {
+    "id": "https://openalex.org/W7237255956",
+    "title": "Toward Equitable Community College Student Pathways in STEM and CTE: An Integrative Literature Review",
+    "authors": [
+      "Xueli Wang",
+      "Kelly Wickersham"
+    ],
+    "journal": "Review of Educational Research",
+    "jif": 7.4,
+    "published_date": "2026-11-20",
+    "doi": "10.3102/00346543261498207",
+    "url": "https://doi.org/10.3102/00346543261498207",
+    "abstract": "Community colleges are pivotal in expanding access to both science, technology, engineering, and mathematics (STEM) and career and technical education (CTE). These pathways are closely interconnected in practice because many programs blend scientific, technical, and applied learning, and students frequently move across these transfer- and workforce-oriented pathways simultaneously. Yet, research and policy historically have examined STEM and CTE as separate domains, limiting understanding of how",
+    "keywords": [
+      "Scholarship",
+      "Career Pathways",
+      "Limiting",
+      "Community college",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:01.980373"
+  },
+  {
+    "id": "https://openalex.org/W7237167247",
+    "title": "Maaya as a relational foundation of critical language pedagogy in a Francophone West African EFL classroom",
+    "authors": [
+      "Kadidja Koné"
+    ],
+    "journal": "System",
+    "jif": 5.6,
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.system.2026.104207",
+    "url": "https://doi.org/10.1016/j.system.2026.104207",
+    "abstract": "",
+    "keywords": [
+      "Foundation (evidence)",
+      "French",
+      "Sociology",
+      "Pedagogy",
+      "Linguistics"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:07.008763"
+  },
+  {
+    "id": "https://openalex.org/W7237247738",
+    "title": "Mapping dimension-level associations between L2 writing self-efficacy and engagement with GenAI-supported teacher feedback: A psychometric network analysis",
+    "authors": [
+      "Joanna Juntang Wang",
+      "Mark Feng Teng"
+    ],
+    "journal": "Assessing Writing",
+    "jif": 5.5,
+    "published_date": "2026-11-20",
+    "doi": "10.1016/j.asw.2026.101151",
+    "url": "https://doi.org/10.1016/j.asw.2026.101151",
+    "abstract": "",
+    "keywords": [
+      "Helpfulness",
+      "Psychology",
+      "Bridge (graph theory)",
+      "Social psychology",
+      "Cognition"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:07.844478"
+  },
+  {
+    "id": "https://openalex.org/W7237112951",
+    "title": "Interactive learning in communication studies amid AI-driven industry restructuring: linking AI-integrated course design to students’ perceived capability development",
+    "authors": [
+      "Ping Du"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-11-20",
+    "doi": "10.1080/10494820.2026.2767132",
+    "url": "https://doi.org/10.1080/10494820.2026.2767132",
+    "abstract": "",
+    "keywords": [
+      "Interactive Learning",
+      "Course (navigation)",
+      "Computer science",
+      "Knowledge management",
+      "Interactive design"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:10.554083"
+  },
+  {
+    "id": "https://openalex.org/W7237044173",
+    "title": "Configurational pathways from AI literacy and emotion regulation to EFL teachers’ enthusiasm in multimodal AI-mediated education: a fuzzy-set qualitative comparative analysis (fsQCA)",
+    "authors": [
+      "Zhu Hu",
+      "Dianyong Zhu"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-11-20",
+    "doi": "10.1080/17501229.2026.2764739",
+    "url": "https://doi.org/10.1080/17501229.2026.2764739",
+    "abstract": "Research has highlighted the emotional experiences of teachers in AI-mediated education. However, there is insufficient evidence on the configurational pathways to teacher enthusiasm in multimodal AI-mediated classrooms. To fill the gap, this study took an fsQCA approach to explore the configurational pathways from AI literacy and emotion regulation to English as a foreign language (EFL) teachers’ enthusiasm. A non-random sample of 264 Chinese EFL teachers completed three questionnaires online. ",
+    "keywords": [
+      "Enthusiasm",
+      "Psychology",
+      "Qualitative comparative analysis",
+      "Literacy",
+      "Mathematics education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:18.758200"
+  },
+  {
+    "id": "https://openalex.org/W7237265836",
+    "title": "Understanding unpleasant emotions in language pedagogical change: a perezhivanie perspective on teacher and learner experiences",
+    "authors": [
+      "Xibei Ouyang",
+      "Mei‐Hua Chen",
+      "Anthony J. Liddicoat"
+    ],
+    "journal": "Innovation In Language Learning and Teaching",
+    "jif": 4.6,
+    "published_date": "2026-11-20",
+    "doi": "10.1080/17501229.2026.2762385",
+    "url": "https://doi.org/10.1080/17501229.2026.2762385",
+    "abstract": "Purpose Language pedagogy reforms aim to enhance teaching effectiveness but often evoke unpleasant emotions among teachers and students, potentially influencing the implementation of such reforms. Identifying these emotions and their underlying causes can inform future reform efforts. Guided by the theoretical framework of perezhivanie, this study examines the emotional trajectories of two Chinese EFL learners and their teacher, with a particular focus on the emergence and regulation of unpleasa",
+    "keywords": [
+      "Perspective (graphical)",
+      "Psychology",
+      "Adaptation (eye)",
+      "Interpretation (philosophy)",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:18.758311"
+  },
+  {
+    "id": "https://openalex.org/W7236993230",
+    "title": "Exploring instructional designers’ experiences navigating organizational anarchy in higher education",
+    "authors": [
+      "Jill Erin Stefaniak",
+      "Rebecca Clark-Stallkamp"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-20",
+    "doi": "10.1007/s11423-026-10757-1",
+    "url": "https://doi.org/10.1007/s11423-026-10757-1",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Educational technology",
+      "Pedagogy",
+      "Sociology",
+      "Public relations"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:22.052519"
+  },
+  {
+    "id": "https://openalex.org/W7237050058",
+    "title": "Exploring metaverse technology adoption in English college education and learning performance in China: mediating effects of critical thinking and learning anxiety",
+    "authors": [
+      "Ying Hong"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-20",
+    "doi": "10.1007/s11423-026-10761-5",
+    "url": "https://doi.org/10.1007/s11423-026-10761-5",
+    "abstract": "",
+    "keywords": [
+      "Critical thinking",
+      "Psychology",
+      "Metaverse",
+      "Educational technology",
+      "Mathematics education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:22.052538"
+  },
+  {
+    "id": "https://openalex.org/W7237146776",
+    "title": "Utilizing a GPT-based exam assistant to support practice and assessment in higher education: an exploratory study on learner engagement and perceptions",
+    "authors": [
+      "Katharina Frosch",
+      "Friederike Lindauer",
+      "Carmen Winkel"
+    ],
+    "journal": "ETR&D-Educational Technology Research and Development",
+    "jif": 4.2,
+    "published_date": "2026-11-20",
+    "doi": "10.1007/s11423-026-10749-1",
+    "url": "https://doi.org/10.1007/s11423-026-10749-1",
+    "abstract": "Instructors increasingly use chatbots to reduce their workload and to support students with individualized learning opportunities. However, there is still limited knowledge about how students engage with chatbot-based formats for practice and assessment compared to similar human-authored formats. This study examines whether chatbot-supported instruction can achieve similar outcomes with respect to students’ engagement, perceived fairness and perceived usefulness while reducing the workload assoc",
+    "keywords": [
+      "Workload",
+      "Exploratory research",
+      "Psychology",
+      "Perception",
+      "Medical education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1007/s11423-026-10749-1",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:22.052623"
+  },
+  {
+    "id": "https://openalex.org/W7237117479",
+    "title": "Artificial Intelligence Reshapes Academic Inequality in Higher Education Through Unequal Access to Learning Enhancement Technologies",
+    "authors": [
+      "Merith Eva Bardales Meneces",
+      "Alexandra Rivas Meza",
+      "Julio Andres Palomino Lopez",
+      "Amelia Cristina Mamani Huanca, Rosario Del Pilar Telles Velasquez, Adrian Enrique Zavala Gonzales and Romina Leyla Portugal Mamani"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-20",
+    "doi": "10.5281/zenodo.24403043",
+    "url": "https://doi.org/10.5281/zenodo.24403043",
+    "abstract": "",
+    "keywords": [
+      "Higher education",
+      "Inequality",
+      "Mathematics education",
+      "Psychology",
+      "Artificial intelligence"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.5281/zenodo.24403043",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:27.020765"
+  },
+  {
+    "id": "https://openalex.org/W7237156665",
+    "title": "AI-Supported Learning and Academic Performance: The Mediating Role of Student Engagement",
+    "authors": [
+      "Juan Carlos Quijandria Lavarello",
+      "Julio Andrés Palomino Silva",
+      "Raymond Portelli Xuereb",
+      "Pedro Liberato Valladares Jara",
+      "Lucio Alberto Sosa Bitulas"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-20",
+    "doi": "10.5281/zenodo.24400640",
+    "url": "https://doi.org/10.5281/zenodo.24400640",
+    "abstract": "",
+    "keywords": [
+      "Student engagement",
+      "Psychology",
+      "Student teacher",
+      "Pedagogy",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.5281/zenodo.24400640",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:27.020770"
+  },
+  {
+    "id": "https://openalex.org/W7237245444",
+    "title": "AI-Supported Learning and Academic Performance: The Mediating Role of Student Engagement",
+    "authors": [
+      "Juan Carlos Quijandria Lavarello",
+      "Julio Andrés Palomino Silva",
+      "Pedro Liberato Valladares Jara",
+      "Lucio Alberto Sosa Bitulas"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-20",
+    "doi": "10.5281/zenodo.24383042",
+    "url": "https://doi.org/10.5281/zenodo.24383042",
+    "abstract": "",
+    "keywords": [
+      "Student engagement",
+      "Psychology",
+      "Student teacher",
+      "Pedagogy",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.5281/zenodo.24383042",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:27.020775"
+  },
+  {
+    "id": "https://openalex.org/W7237180252",
+    "title": "“Translanguaging Strategies Can Help Reduce Students’ Cognitive Overload”: Stakeholders’ Voices in Tertiary English-Medium Instruction",
+    "authors": [
+      "Sam Liao",
+      "許妍文",
+      "Fan Fang",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-20",
+    "doi": "10.1177/13621688261498654",
+    "url": "https://doi.org/10.1177/13621688261498654",
+    "abstract": "English-medium instruction (EMI) is increasingly used to support both disciplinary learning and second language (L2) development in higher education. Yet EMI is often implemented through monolingual language policies that can disadvantage students with limited proficiency in the instructional language and constrain the use of their broader linguistic repertoires. This study investigated translanguaging pedagogy in a joint-venture EMI business programme at a university in China. By adopting a mix",
+    "keywords": [
+      "Translanguaging",
+      "Psychology",
+      "Pedagogy",
+      "Language acquisition",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261498654",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:28.723477"
+  },
+  {
+    "id": "https://openalex.org/W7237130394",
+    "title": "Transformation and its complicities: designing liminal space for high school teacher professional development in the Philippines through action learning",
+    "authors": [
+      "Christian M. Santiago"
+    ],
+    "journal": "Professional Development In Education",
+    "jif": 3.1,
+    "published_date": "2026-11-20",
+    "doi": "10.1080/19415257.2026.2767622",
+    "url": "https://doi.org/10.1080/19415257.2026.2767622",
+    "abstract": "",
+    "keywords": [
+      "Liminality",
+      "Professional development",
+      "Pedagogy",
+      "Sociology",
+      "Space (punctuation)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:44.296272"
+  },
+  {
+    "id": "https://openalex.org/W7237240027",
+    "title": "Correction: Pluralistic reasoning with different models: A case study of middle schoolers learning about viral spread",
+    "authors": [
+      "Ayça K. Fackler",
+      "Laura Zangori",
+      "Zhen Xu",
+      "Troy D. Sadler"
+    ],
+    "journal": "Instructional Science",
+    "jif": 2.1,
+    "published_date": "2026-11-20",
+    "doi": "10.1007/s11251-026-09829-9",
+    "url": "https://doi.org/10.1007/s11251-026-09829-9",
+    "abstract": "",
+    "keywords": [
+      "Educational psychology",
+      "Psychology",
+      "Mathematics education",
+      "Pedagogy",
+      "Developmental psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://link.springer.com/content/pdf/10.1007/s11251-026-09829-9.pdf",
+    "cited_by_count": 0,
+    "type": "erratum",
+    "fetched_at": "2026-11-22T01:44:48.562428"
+  },
+  {
     "id": "https://openalex.org/W7236706608",
     "title": "Retrofit literacy in action: a case study of co-designed retrofit education sessions promoting career pathways and sustainable skills development",
     "authors": [
@@ -27,6 +482,32 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-11-21T02:54:05.088365"
+  },
+  {
+    "id": "https://openalex.org/W7237036034",
+    "title": "Exploring the Impact of Robot Assisted Language Learning ( RALL ) on Chinese EFL Students' Achievement Emotions and Sense of Well‐Being: An Exploratory Longitudinal Study",
+    "authors": [
+      "Hongwu Yang",
+      "Hongyan Yang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-11-19",
+    "doi": "10.1111/ejed.70954",
+    "url": "https://doi.org/10.1111/ejed.70954",
+    "abstract": "A growing body of research has focused on the potential of Robot‐Assisted Language Learning (RALL) over the past decades. However, how such an approach affects English as a foreign language (EFL) learners' psycho‐emotional states is left under‐researched. To address this gap, this study adopted an exploratory longitudinal design to investigate changes in Chinese EFL students' achievement emotions and well‐being following a two‐semester RALL intervention. A sample of 87 students participated in a",
+    "keywords": [
+      "Psychology",
+      "Exploratory research",
+      "Longitudinal study",
+      "Language acquisition",
+      "Academic achievement"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70954",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-22T01:44:32.372261"
   },
   {
     "id": "https://openalex.org/W7236859664",
@@ -44788,134 +45269,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-25T22:13:45.478290"
-  },
-  {
-    "id": "https://openalex.org/W7204122175",
-    "title": "Hybrid Teaching of Entrepreneurship and Innovation: A Case Study in a Brazilian Higher Education Institution",
-    "authors": [
-      "Ricardo Luiz Perez Teixeira",
-      "Cynthia Helena Soares Bouças Teixeira"
-    ],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-08-23",
-    "doi": "10.1111/ejed.70840",
-    "url": "https://doi.org/10.1111/ejed.70840",
-    "abstract": "ABSTRACT Hybrid learning has become increasingly relevant in higher education, particularly in fields that require active, experiential learning, such as entrepreneurship and innovation education. This study examines the implementation of a hybrid teaching model in an undergraduate Entrepreneurship and Innovation course offered at a Brazilian higher education institution. A single‐case study design was adopted, combining qualitative and quantitative evidence obtained from course records, assessm",
-    "keywords": [
-      "Entrepreneurship",
-      "Experiential learning",
-      "Higher education",
-      "Context (archaeology)",
-      "Attendance"
-    ],
-    "open_access": true,
-    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70840",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:37.344355"
-  },
-  {
-    "id": "https://openalex.org/W7204133143",
-    "title": "Correction to ‘The Effects of AI ‐Powered Genre‐Based Writing Instruction on Low‐Proficiency EFL Writers' Ideal L2 Writing Self, Writing Enjoyment and L2 Writing Performance: A Quasi‐Experimental Mixed‐Methods Study’",
-    "authors": [],
-    "journal": "European Journal of Education",
-    "jif": 3.6,
-    "published_date": "2026-08-23",
-    "doi": "10.1111/ejed.70833",
-    "url": "https://doi.org/10.1111/ejed.70833",
-    "abstract": "",
-    "keywords": [
-      "Ideal (ethics)",
-      "Second language writing",
-      "Teaching method",
-      "Error analysis"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "erratum",
-    "fetched_at": "2026-08-25T22:13:37.344371"
-  },
-  {
-    "id": "https://openalex.org/W7204112041",
-    "title": "‘More than information’: A social listening and platform architecture analysis of online special educational needs and disabilities discourse",
-    "authors": [
-      "Alan Shaw",
-      "Patricia Shaw"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-08-23",
-    "doi": "10.1002/berj.70274",
-    "url": "https://doi.org/10.1002/berj.70274",
-    "abstract": "Abstract Parents of children with special educational needs and disabilities (SEND) increasingly seek information and support through online discussions, yet little is known about how architectural features of digital platforms shape the interactions and support that parents encounter. The paper makes two contributions: First, it develops and applies a transferable social listening framework that integrates manual qualitative collection with automated application programming interface capture, t",
-    "keywords": [
-      "Active listening",
-      "Thematic analysis",
-      "Reciprocal",
-      "Discourse analysis",
-      "Social media"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70274",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:48.555010"
-  },
-  {
-    "id": "https://openalex.org/W7204145704",
-    "title": "From liquid learning to weaving learning: Negotiating meanings of Children's learning in family travel",
-    "authors": [
-      "Z. Y. Li",
-      "Elaine Chiao Ling Yang",
-      "Truc H. Le",
-      "Charles Arcodia"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-08-23",
-    "doi": "10.1002/berj.70272",
-    "url": "https://doi.org/10.1002/berj.70272",
-    "abstract": "Abstract Children's learning increasingly extends into everyday informal settings, but what counts as learning in these contexts remains insufficiently understood. Focusing on family travel as a mobile and socioculturally situated informal learning context, this study adopts a sociocultural perspective and uses liquid learning as a sensitising concept to examine how Chinese families negotiate meanings of children's learning. Using a whole‐family design with child‐centred methods, the study invol",
-    "keywords": [
-      "Sociocultural evolution",
-      "Sociocultural perspective",
-      "Foregrounding",
-      "Negotiation",
-      "Situated"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70272",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:48.555078"
-  },
-  {
-    "id": "https://openalex.org/W7204058096",
-    "title": "Reimagining teacher professional development through ecological, adaptive, and human-centred perspectives",
-    "authors": [
-      "Yue Peng",
-      "Sally Patfield",
-      "Jennifer Gore"
-    ],
-    "journal": "Professional Development In Education",
-    "jif": 3.1,
-    "published_date": "2026-08-23",
-    "doi": "10.1080/19415257.2026.2723121",
-    "url": "https://doi.org/10.1080/19415257.2026.2723121",
-    "abstract": "",
-    "keywords": [
-      "Professional development",
-      "Faculty development",
-      "Professional learning community",
-      "Professional studies",
-      "Qualitative research"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1080/19415257.2026.2723121",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-24T22:13:50.049367"
   }
 ]
