@@ -1,5 +1,241 @@
 [
   {
+    "id": "https://openalex.org/W7237008644",
+    "title": "An information intervention combined with a behavioral cue to reduce food waste in a university canteen: a field experiment",
+    "authors": [
+      "Ángeles Muñoz-Fernández",
+      "Isabel Schäufele-Elbers"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-11-23",
+    "doi": "10.1108/ijshe-01-2026-0088",
+    "url": "https://doi.org/10.1108/ijshe-01-2026-0088",
+    "abstract": "Purpose There is a growing need for systematic food waste intervention studies that combine survey-based measures of psychological constructs with objective plate waste data collected over extended periods. This study aims to address this gap through a three-month field experiment in a university canteen, complemented by pre- and post-intervention surveys. The aim of this study was to evaluate the effects of an informational intervention, including a behavioral cue, on internal psychological con",
+    "keywords": [
+      "plate waste",
+      "nudging",
+      "behavioral cues",
+      "information interventions",
+      "portion size"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1108/ijshe-01-2026-0088",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:37.139561"
+  },
+  {
+    "id": "https://openalex.org/W7237220551",
+    "title": "Educating for transformation: embedding strong and absolute sustainability in urban business education",
+    "authors": [
+      "Rebecka Lundgren"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-11-23",
+    "doi": "10.1108/ijshe-03-2026-0461",
+    "url": "https://doi.org/10.1108/ijshe-03-2026-0461",
+    "abstract": "Purpose This study aims to examine the integration of strong and absolute sustainability into urban business education, challenging mainstream economic assumptions that ignore biophysical realities. It explores pedagogical strategies to equip future professionals in the built environment to navigate the tensions between business objectives and planetary limits. Design/methodology/approach Using a practitioner-led action research approach, the instructor redesigned a master’s-level course at Malm",
+    "keywords": [
+      "strong sustainability",
+      "built environment",
+      "planetary boundaries",
+      "curriculum development",
+      "transformative learning"
+    ],
+    "open_access": true,
+    "oa_url": "https://www.emerald.com/ijshe/article-pdf/27/10/779/11998372/ijshe-03-2026-0461en.pdf",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:37.139612"
+  },
+  {
+    "id": "https://openalex.org/W7237252072",
+    "title": "From sustainability policy to classroom realities: awareness and beliefs about education for sustainable development among tertiary EFL learners",
+    "authors": [
+      "AYKUT DEMİRYÜREK",
+      "Hasan Bedir"
+    ],
+    "journal": "International Journal of Sustainability In Higher Education",
+    "jif": 3.4,
+    "published_date": "2026-11-23",
+    "doi": "10.1108/ijshe-02-2026-0293",
+    "url": "https://doi.org/10.1108/ijshe-02-2026-0293",
+    "abstract": "Purpose Higher education institutions are recognized as key actors in Sustainable Development (SD) and Education for Sustainable Development (ESD). However, very little is currently known about tertiary EFL (English as a Foreign Language) learners’ engagement with sustainability. In addition, uncertainty still exists about the role of compulsory EFL course structures in sustainability-related learning opportunities. This study aims to investigate EFL learners’ awareness, beliefs and perceptions ",
+    "keywords": [
+      "sustainability education",
+      "Sustainable Development Goals",
+      "EFL learners",
+      "sustainability awareness",
+      "learner beliefs"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:37.139656"
+  },
+  {
+    "id": "https://openalex.org/W7237355378",
+    "title": "The current perceptions of Saudi pre-service teachers towards the integration of artificial intelligence into early childhood education",
+    "authors": [
+      "Jawaher Alghamdi",
+      "Fatma Mostafa"
+    ],
+    "journal": "Interactive Learning Environments",
+    "jif": 5.3,
+    "published_date": "2026-11-21",
+    "doi": "10.1080/10494820.2026.2764524",
+    "url": "https://doi.org/10.1080/10494820.2026.2764524",
+    "abstract": "This study aims to examine the current perceptions of Saudi pre-service teachers regarding the integration of artificial intelligence (AI) into early childhood education. The study employed an “explanatory sequential mixed-methods research design.” In the first (quantitative) phase, data were collected via a questionnaire from 114 pre-service teachers (students undergoing professional teacher preparation) in the Early Childhood Department at a university in the Eastern Province of Saudi Arabia. ",
+    "keywords": [
+      "Perception",
+      "Technology integration",
+      "Psychology",
+      "Affect (linguistics)",
+      "Early childhood"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:12.986804"
+  },
+  {
+    "id": "https://openalex.org/W7237359217",
+    "title": "Exploring Cognitive Synergy Framework on Computing Students Epistemic Agency in Robotics Education",
+    "authors": [
+      "Christian Basil Omeh",
+      "Elias Oupa Mashile"
+    ],
+    "journal": "Journal of Educational Computing Research",
+    "jif": 4.9,
+    "published_date": "2026-11-21",
+    "doi": "10.1177/07356331261511181",
+    "url": "https://doi.org/10.1177/07356331261511181",
+    "abstract": "Generative AI can support robotics programming, but students must still evaluate suggestions and justify design decisions. This study examined changes in grit-related learning dispositions and patterns of epistemic activity during instruction using the Cognitive Synergy Framework (CSF). In a mixed-methods study across six West African universities, we randomly allocated 410 undergraduates to CSF-supported or comparison instruction. A categorical-time mixed-effects model analysed 848 Grit in Robo",
+    "keywords": [
+      "Robotics",
+      "Agency (philosophy)",
+      "Artificial intelligence",
+      "Cognition",
+      "Psychology"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/07356331261511181",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:16.712492"
+  },
+  {
+    "id": "https://openalex.org/W7237332035",
+    "title": "Teacher Agency in the Integration of Pedagogical AI Agents: Insights from Teacher Experiences in Taiwan",
+    "authors": [
+      "Wen‐Chi Vivian Wu",
+      "Leechin Heng"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.tate.2026.105913",
+    "url": "https://doi.org/10.1016/j.tate.2026.105913",
+    "abstract": "",
+    "keywords": [
+      "Agency (philosophy)",
+      "Centrality",
+      "Pedagogy",
+      "Professional development",
+      "Professional learning community"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:27.888140"
+  },
+  {
+    "id": "https://openalex.org/W7237366276",
+    "title": "Perceived Teacher Digital Competence in Teaching Chinese as a Second Language: Teacher-Student Alignment and Mismatch",
+    "authors": [
+      "Chen Chen",
+      "Yang Frank Gong",
+      "Boning Lyu",
+      "Hongzhi Yang"
+    ],
+    "journal": "Teaching and Teacher Education",
+    "jif": 3.9,
+    "published_date": "2026-11-21",
+    "doi": "10.1016/j.tate.2026.105918",
+    "url": "https://doi.org/10.1016/j.tate.2026.105918",
+    "abstract": "",
+    "keywords": [
+      "Psychology",
+      "Competence (human resources)",
+      "Mathematics education",
+      "Exploratory research",
+      "Teacher education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:27.888146"
+  },
+  {
+    "id": "https://openalex.org/W7237340150",
+    "title": "Language as a Site of Epistemic Violence in Science Education",
+    "authors": [
+      "Diana Bonilla",
+      "María González‐Howard"
+    ],
+    "journal": "Science Education",
+    "jif": 3.4,
+    "published_date": "2026-11-21",
+    "doi": "10.1002/sce.70114",
+    "url": "https://doi.org/10.1002/sce.70114",
+    "abstract": "In this commentary, we reflect on the direction of science education for equity, justice, and dignity. We build on recent work centering epistemic injustice in science education and for multilingual individuals to argue that forms of injustice—sustained through ontoepistemic blindness within formal educational systems—are also acts of epistemic violence. Grounded in LatCrit and raciolinguistic ideologies, we use testimonios to illuminate our lived experiences (i.e., lo que vivimos ) across four ",
+    "keywords": [
+      "Sociology",
+      "Science education",
+      "Epistemology",
+      "Futures contract",
+      "Pedagogy"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:34.746158"
+  },
+  {
+    "id": "https://openalex.org/W7237331803",
+    "title": "Beyond choice: Re-thinking student voice in enacting an activist approach in primary physical education",
+    "authors": [
+      "Bruna Saurin Silva",
+      "Carla Luguetti",
+      "Mariana Zuaneti Martins"
+    ],
+    "journal": "European Physical Education Review",
+    "jif": 3.3,
+    "published_date": "2026-11-21",
+    "doi": "10.1177/1356336x261507947",
+    "url": "https://doi.org/10.1177/1356336x261507947",
+    "abstract": "This study explores how students’ voices were cultivated throughout the enactment of the activist approach in a primary physical education (PE) context. Adopting a critical perspective informed by Paulo Freire (1987 , 2014a , 2014b ), it advocates for meaningful and transformative student participation, in which the negotiation of power relations is central. The study was conducted as participatory action research in a fourth-grade PE class in a public primary school in Brazil. The study involve",
+    "keywords": [
+      "Transformative learning",
+      "Reflexivity",
+      "Pedagogy",
+      "Physical education",
+      "Sociology"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:37.921110"
+  },
+  {
     "id": "https://openalex.org/W7237182152",
     "title": "Taking the Parent Perspective: The Development of Action-Oriented Teachers’ Professional Discourse",
     "authors": [
@@ -26,6 +262,83 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-11-22T01:44:27.020745"
+  },
+  {
+    "id": "https://openalex.org/W7237334652",
+    "title": "Identifying Instructional Priorities for Multi-Word Units in EFL Classrooms: Evidence of a Frequency–Accuracy Gap",
+    "authors": [
+      "Akira Iwata"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-20",
+    "doi": "10.1177/13621688261503752",
+    "url": "https://doi.org/10.1177/13621688261503752",
+    "abstract": "Corpus frequency is an established predictor of second-language vocabulary knowledge, including knowledge of multi-word units (MWUs). However, a robust overall frequency—knowledge relationship does not necessarily mean that corpus frequency adequately characterizes learners’ knowledge of individual MWUs or identifies which items warrant instructional attention. The present study examined this issue using 217 MWUs extracted from previously administered Test of English for International Communicat",
+    "keywords": [
+      "Vocabulary",
+      "Psychology",
+      "Variation (astronomy)",
+      "Phrase",
+      "Test (biology)"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:29.475114"
+  },
+  {
+    "id": "https://openalex.org/W7237341738",
+    "title": "GenAI Literacy and Learner Satisfaction in Informal Digital Learning of English: The Moderating Role of Teacher–Student Relationships",
+    "authors": [
+      "Xiaoqi Wang",
+      "Lawrence Jun Zhang"
+    ],
+    "journal": "Language Teaching Research",
+    "jif": 3.8,
+    "published_date": "2026-11-20",
+    "doi": "10.1177/13621688261503731",
+    "url": "https://doi.org/10.1177/13621688261503731",
+    "abstract": "Generative artificial intelligence (GenAI) technologies offer language learners flexible, personalized resources for informal English learning beyond traditional classrooms. It remains unclear how satisfied learners are with their informal English learning when they use GenAI with minimal teacher supervision. Drawing on self-determination theory (SDT), we examined GenAI literacy and GenAI-mediated informal digital learning of English (GenAI-IDLE) in relation to learner satisfaction, with teacher",
+    "keywords": [
+      "Psychology",
+      "Moderation",
+      "Literacy",
+      "Digital literacy",
+      "Mathematics education"
+    ],
+    "open_access": true,
+    "oa_url": "https://doi.org/10.1177/13621688261503731",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:29.475149"
+  },
+  {
+    "id": "https://openalex.org/W7237339224",
+    "title": "Evaluating a Context‐Sensitive Online Professional Development Programme for EAP/ESP Teachers in Turkish Higher Education",
+    "authors": [
+      "Yasemin Kırkgöz",
+      "Fan Fang"
+    ],
+    "journal": "European Journal of Education",
+    "jif": 3.6,
+    "published_date": "2026-11-20",
+    "doi": "10.1111/ejed.70941",
+    "url": "https://doi.org/10.1111/ejed.70941",
+    "abstract": "Foreign language teacher professional learning is increasingly recognised as dynamic, situated and socially constructed, particularly in underexplored contexts where teachers face complex instructional demands with limited support. In Turkish higher education, English for Academic Purposes (EAP) and English for Specific Purposes (ESP) instructors are often required to teach English for Specific Academic Purposes (ESAP) without adequate training or disciplinary grounding. In response, this study ",
+    "keywords": [
+      "Turkish",
+      "Pedagogy",
+      "Professional development",
+      "Reflexivity",
+      "Discipline"
+    ],
+    "open_access": true,
+    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ejed.70941",
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:33.175325"
   },
   {
     "id": "https://openalex.org/W7233663899",
@@ -484,6 +797,35 @@
     "fetched_at": "2026-11-21T02:54:05.088365"
   },
   {
+    "id": "https://openalex.org/W7236613929",
+    "title": "Orchestrating scaffolding AI agents: How delivery order shapes learning in problem-solving tasks",
+    "authors": [
+      "Diana Kozachek",
+      "Andreas Göldi",
+      "Andreas Janson",
+      "Mahei Manhai Li",
+      "Jan Marco Leimeister"
+    ],
+    "journal": "Computers & Education",
+    "jif": 10.5,
+    "published_date": "2026-11-19",
+    "doi": "10.1016/j.compedu.2026.105802",
+    "url": "https://doi.org/10.1016/j.compedu.2026.105802",
+    "abstract": "",
+    "keywords": [
+      "AI scaffolding",
+      "multi-agent orchestration",
+      "delivery order",
+      "metacognitive support",
+      "generative AI in education"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:02.013652"
+  },
+  {
     "id": "https://openalex.org/W7237036034",
     "title": "Exploring the Impact of Robot Assisted Language Learning ( RALL ) on Chinese EFL Students' Achievement Emotions and Sense of Well‐Being: An Exploratory Longitudinal Study",
     "authors": [
@@ -924,6 +1266,35 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-11-21T02:54:10.468318"
+  },
+  {
+    "id": "https://openalex.org/W7236007120",
+    "title": "Multimodal fusion of eye-tracking, EEG, and facial expressions for cognitive style classification in online learning: an intelligent approach with high performance and explainable insights",
+    "authors": [
+      "Yaofeng Xue",
+      "Hongxin Xu",
+      "Zhan Chen",
+      "Yisheng Qiu",
+      "Fangqing Zhu"
+    ],
+    "journal": "Thinking Skills and Creativity",
+    "jif": 4.5,
+    "published_date": "2026-11-18",
+    "doi": "10.1016/j.tsc.2026.102429",
+    "url": "https://doi.org/10.1016/j.tsc.2026.102429",
+    "abstract": "",
+    "keywords": [
+      "multimodal fusion",
+      "eye tracking",
+      "EEG",
+      "facial expressions",
+      "online learning"
+    ],
+    "open_access": false,
+    "oa_url": null,
+    "cited_by_count": 0,
+    "type": "article",
+    "fetched_at": "2026-11-23T02:02:21.808622"
   },
   {
     "id": "https://openalex.org/W7236657034",
@@ -44543,731 +44914,5 @@
     "cited_by_count": 0,
     "type": "article",
     "fetched_at": "2026-08-25T22:13:37.957654"
-  },
-  {
-    "id": "https://openalex.org/W7204107644",
-    "title": "Examining primary students’ mathematical communication through the lens of de Bono’s practical thinking processes",
-    "authors": [
-      "Kate Quane"
-    ],
-    "journal": "Thinking Skills and Creativity",
-    "jif": 4.5,
-    "published_date": "2026-08-24",
-    "doi": "10.1016/j.tsc.2026.102345",
-    "url": "https://doi.org/10.1016/j.tsc.2026.102345",
-    "abstract": "Mathematical thinking is a complex, multi-faceted process that typically involves both intra-personal and interpersonal communication. While it has been described as messy and difficult, it can also show growth and insight into conceptual understanding and knowing. This paper explores the application of Edward de Bono's practical thinking processes to examine the mathematical thinking processes that primary school students use. de Bono’s perspective is relevant as it foregrounds thinking as an a",
-    "keywords": [
-      "Lens (geology)",
-      "Through-the-lens metering",
-      "Process (computing)",
-      "Primary (astronomy)",
-      "Communication skills"
-    ],
-    "open_access": true,
-    "oa_url": "https://www.sciencedirect.com/science/article/pii/S1871187126002191/pdf",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-29T03:24:33.881987"
-  },
-  {
-    "id": "https://openalex.org/W4414080860",
-    "title": "Curiouser and Curiouser: Development and Validation of the Foreign Language Curiosity Scale (FLCS)",
-    "authors": [
-      "Nazila",
-      "Faramarz Ebn-Abbasi",
-      "Jean‐Marc Dewaele",
-      "Imelda Katherine Brady",
-      "Elouise Botes"
-    ],
-    "journal": "Modern Language Journal",
-    "jif": 4.0,
-    "published_date": "2026-08-24",
-    "doi": "10.1111/modl.70086",
-    "url": "https://doi.org/10.1111/modl.70086",
-    "abstract": "ABSTRACT As a catalyst for exploration and intellectual growth, curiosity is vital for successfully navigating the language acquisition journey. Although the role of curiosity in language learning has recently received attention, its complex nature warrants further exploration. The present study is an attempt to deepen our understanding of curiosity in the language acquisition field by developing and validating a new language curiosity measure. To this end, a diverse sample of 999 English as a f",
-    "keywords": [
-      "Curiosity",
-      "Confirmatory factor analysis",
-      "Scale (ratio)",
-      "Sample (material)",
-      "Discriminant validity"
-    ],
-    "open_access": true,
-    "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/modl.70086",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-27T02:20:54.716131"
-  },
-  {
-    "id": "https://openalex.org/W7204180156",
-    "title": "Incorporating student voice in curriculum design to Foster high school students' motivation: Insights from social cognitive theory",
-    "authors": [
-      "ZeRui Xu",
-      "Shamim Akhter",
-      "裴筠曦"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-08-24",
-    "doi": "10.1002/berj.70273",
-    "url": "https://doi.org/10.1002/berj.70273",
-    "abstract": "Abstract Although student voice has attracted increasing scholarly attention, earlier research has already indicated that students' participation may enhance curriculum relevance, engagement, youth development, democratic learning and school improvement. Yet, how high school students experience curriculum‐level voice as a motivational process shaped through the reciprocal personal, environmental and behavioural dimensions of Social Cognitive Theory (SCT) remains less clearly understood. For this",
-    "keywords": [
-      "Curriculum",
-      "Social cognitive theory",
-      "Curriculum theory",
-      "Qualitative research",
-      "Citizen journalism"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-27T02:21:12.621899"
-  },
-  {
-    "id": "https://openalex.org/W7204209173",
-    "title": "Occupational recognition and teachers’ retention intentions: A latent profile analysis informed by recognition theory",
-    "authors": [
-      "Mengting Qian",
-      "Yufei Fang",
-      "Chunshun Yan",
-      "Yangxi Liu"
-    ],
-    "journal": "British Educational Research Journal",
-    "jif": 2.1,
-    "published_date": "2026-08-24",
-    "doi": "10.1002/berj.70271",
-    "url": "https://doi.org/10.1002/berj.70271",
-    "abstract": "Abstract Teacher retention is often explained through workload, job satisfaction and burnout, but these accounts have examined less systematically whether teachers experience their profession as socially and institutionally recognised. Drawing on recognition theory, this study examines how occupational recognition is configured across material and employment conditions, proximal relationships and societal‐policy status, and how these configurations are associated with retention‐related intention",
-    "keywords": [
-      "Context (archaeology)",
-      "Pairwise comparison",
-      "IBM",
-      "Higher education",
-      "Job satisfaction"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1002/berj.70271",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-27T02:21:12.621960"
-  },
-  {
-    "id": "https://openalex.org/W7204118314",
-    "title": "Understanding the role of learning analytics and generative artificial intelligence on decision-making and learning design practice in higher education",
-    "authors": [
-      "Alrike Claassen",
-      "Daniel Ebbert",
-      "Vitomir Kovanović",
-      "Negin Mirriahi",
-      "Shane Dawson"
-    ],
-    "journal": "International Journal of Educational Technology in Higher Education",
-    "jif": 16.7,
-    "published_date": "2026-08-24",
-    "doi": "10.1186/s41239-026-00619-4",
-    "url": "https://doi.org/10.1186/s41239-026-00619-4",
-    "abstract": "Abstract High-quality learning design is an important contributor to student success. Higher education institutions can leverage the combined potential of learning analytics (LA) and Generative Artificial Intelligence (GenAI) to enhance instructors’ learning design practices. However, the way LA and GenAI are being used in combination for learning design is not well understood. In this context, one theory that can provide valuable insights into instructors’ technology integration into learning d",
-    "keywords": [
-      "Learning analytics",
-      "Higher education",
-      "Learning design",
-      "Learning sciences",
-      "Thematic analysis"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s41239-026-00619-4",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:11.520505"
-  },
-  {
-    "id": "https://openalex.org/W7204069340",
-    "title": "The use of school labs as extracurricular STEM programmes and their effects on STEM career intentions",
-    "authors": [
-      "Rahel Schmid",
-      "Robbert Smit",
-      "Nicolas Robin"
-    ],
-    "journal": "International Journal of Stem Education",
-    "jif": 8.0,
-    "published_date": "2026-08-24",
-    "doi": "10.1186/s40594-026-00643-w",
-    "url": "https://doi.org/10.1186/s40594-026-00643-w",
-    "abstract": "Abstract Background Extracurricular science, technology, engineering, and mathematics (STEM) programmes are very popular and are actively used by teachers and students. Studies evaluating these initiatives show positive effects on cognitive, affective, and motivational student traits, which in turn can influence career choices in STEM. Based on attendance at such programmes, specifically school labs, we measured students’ learning gain, the enjoyment experienced during attendance, the change in ",
-    "keywords": [
-      "Attendance",
-      "Structural equation modeling",
-      "Career development",
-      "Science education",
-      "Self-efficacy"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s40594-026-00643-w",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:14.604062"
-  },
-  {
-    "id": "https://openalex.org/W7204120182",
-    "title": "Snapshots of team functioning: development and validation of the team member perceptions of instructional change collaborations (TM-PICC) survey",
-    "authors": [
-      "Diana Sachmpazidi",
-      "Amreen Nasim Thompson",
-      "Madison Fitzgerald-Russell",
-      "Austin Kunz",
-      "Alice Olmstead"
-    ],
-    "journal": "International Journal of Stem Education",
-    "jif": 8.0,
-    "published_date": "2026-08-24",
-    "doi": "10.1186/s40594-026-00638-7",
-    "url": "https://doi.org/10.1186/s40594-026-00638-7",
-    "abstract": "Team-based efforts to improve undergraduate STEM instruction have many potential advantages over individually-focused efforts. Team-based instructional change efforts can address broad student learning challenges across degree plans and/or enable changes to develop and solidify over multiple semesters. Instructional change teams can also function as communities of practice that support individual members’ learning about STEM teaching and learning. Yet not all teams are equally successful, and a ",
-    "keywords": [
-      "CLARITY",
-      "Psychological safety",
-      "Team effectiveness",
-      "Exploratory factor analysis",
-      "Team composition"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1186/s40594-026-00638-7",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:14.604161"
-  },
-  {
-    "id": "https://openalex.org/W7204085237",
-    "title": "Assessing metacognitive knowledge of academic writing: A scale development and validation study",
-    "authors": [
-      "Fengjuan Zhang",
-      "Ruiqi Hou"
-    ],
-    "journal": "Assessing Writing",
-    "jif": 5.5,
-    "published_date": "2026-08-24",
-    "doi": "10.1016/j.asw.2026.101121",
-    "url": "https://doi.org/10.1016/j.asw.2026.101121",
-    "abstract": "",
-    "keywords": [
-      "Metacognition",
-      "Scale (ratio)",
-      "Higher education",
-      "Rating scale"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:19.317554"
-  },
-  {
-    "id": "https://openalex.org/W7204080975",
-    "title": "Development and validation of the adolescent artificial intelligence literacy scales",
-    "authors": [
-      "Xiaochun Xie",
-      "Pengyun Ma",
-      "Li Yang",
-      "Zhaoyu Fu",
-      "Yumeng Zhao"
-    ],
-    "journal": "Education and Information Technologies",
-    "jif": 5.4,
-    "published_date": "2026-08-24",
-    "doi": "10.1007/s10639-026-14136-4",
-    "url": "https://doi.org/10.1007/s10639-026-14136-4",
-    "abstract": "",
-    "keywords": [
-      "Exploratory factor analysis",
-      "Literacy",
-      "Scale (ratio)",
-      "Confirmatory factor analysis",
-      "Reliability (semiconductor)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "book-chapter",
-    "fetched_at": "2026-08-25T22:13:20.511362"
-  },
-  {
-    "id": "https://openalex.org/W7204094387",
-    "title": "From not knowing where to begin to learning initiation: an educational-psychological dual-pathway mechanism in AI-supported flipped learning environments",
-    "authors": [
-      "Li Gu",
-      "Hui-Ya Wang",
-      "Chun-Chiang Huang"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-08-24",
-    "doi": "10.1080/10494820.2026.2715574",
-    "url": "https://doi.org/10.1080/10494820.2026.2715574",
-    "abstract": "",
-    "keywords": [
-      "Flipped learning",
-      "Mechanism (biology)",
-      "Educational technology",
-      "Electronic learning",
-      "Active learning (machine learning)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:21.134035"
-  },
-  {
-    "id": "https://openalex.org/W7204136917",
-    "title": "Designing a scaffolded GenAI revision environment for EMI academic writing: a randomized active-control study of no-ai transfer and feedback use",
-    "authors": [
-      "Stanley Y. B. Huang"
-    ],
-    "journal": "Interactive Learning Environments",
-    "jif": 5.3,
-    "published_date": "2026-08-24",
-    "doi": "10.1080/10494820.2026.2713874",
-    "url": "https://doi.org/10.1080/10494820.2026.2713874",
-    "abstract": "Generative artificial intelligence (GenAI) can improve assisted drafts without demonstrating students’ ability to write independently. This randomized active-control study compared standard GenAI with a scaffolded revision environment integrating dialogic prompting, bounded Mandarin clarification, and a reflective revision loop in a Taiwanese English-medium instruction (EMI) writing module. The complete-case sample comprised 428 undergraduates. One week after revision, the scaffolded group achie",
-    "keywords": [
-      "Randomized controlled trial",
-      "Task (project management)",
-      "Dialogic",
-      "Mandarin Chinese",
-      "Association (psychology)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:21.134115"
-  },
-  {
-    "id": "https://openalex.org/W7204078427",
-    "title": "Toward a framework of uncertainty in ill-structured problem solving",
-    "authors": [
-      "Rebecca Clark-Stallkamp",
-      "Barbara B. Lockee"
-    ],
-    "journal": "ETR&D-Educational Technology Research and Development",
-    "jif": 4.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1007/s11423-026-10680-5",
-    "url": "https://doi.org/10.1007/s11423-026-10680-5",
-    "abstract": "Abstract This study advances a framework for understanding uncertainty in ill-structured problem-solving contexts. A systematic review and qualitative synthesis of 74 peer-reviewed articles was conducted using thematic analysis and taxonomic coding to clarify how uncertainty is conceptualized across problem-solving and learning research. The resulting framework defines uncertainty as a subjective metacognitive and psychological experience that arises as learners interpret problems, make judgment",
-    "keywords": [
-      "Operationalization",
-      "Ambiguity",
-      "CLARITY",
-      "Sociocultural evolution",
-      "Metacognition"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1007/s11423-026-10680-5",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:29.724059"
-  },
-  {
-    "id": "https://openalex.org/W7204098609",
-    "title": "Comparing the effectiveness of mind mapping and guided worksheets as scaffolding strategies in VR music education",
-    "authors": [
-      "Yi‐Hsuan Wang"
-    ],
-    "journal": "ETR&D-Educational Technology Research and Development",
-    "jif": 4.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1007/s11423-026-10700-4",
-    "url": "https://doi.org/10.1007/s11423-026-10700-4",
-    "abstract": "",
-    "keywords": [
-      "Educational technology",
-      "Scaffold",
-      "Computer-Assisted Instruction",
-      "Music education",
-      "Instructional design"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:29.724075"
-  },
-  {
-    "id": "https://openalex.org/W7204114871",
-    "title": "AI-enhanced legal pedagogy: a case study of generative AI integration in property law courses",
-    "authors": [
-      "Haifang Liu"
-    ],
-    "journal": "ETR&D-Educational Technology Research and Development",
-    "jif": 4.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1007/s11423-026-10698-9",
-    "url": "https://doi.org/10.1007/s11423-026-10698-9",
-    "abstract": "Abstract The rapid emergence of generative artificial intelligence (GenAI) presents transformative opportunities for legal education, yet empirical research examining its pedagogical integration remains limited. This study investigates the impact of GenAI integration on legal reasoning development and learning outcomes in property law courses within Chinese higher education. Grounded in constructivist learning theory, the Technology Acceptance Model (TAM), and the Technological Pedagogical Conte",
-    "keywords": [
-      "Transformative learning",
-      "Educational technology",
-      "Technology integration",
-      "Legal education",
-      "Generative grammar"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1007/s11423-026-10698-9",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:29.724139"
-  },
-  {
-    "id": "https://openalex.org/W7204147326",
-    "title": "What makes flipped learning effective? A meta-analysis of teaching and learning factors",
-    "authors": [
-      "Jeongwon Lee",
-      "Hae‐Deok Song"
-    ],
-    "journal": "ETR&D-Educational Technology Research and Development",
-    "jif": 4.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1007/s11423-026-10705-z",
-    "url": "https://doi.org/10.1007/s11423-026-10705-z",
-    "abstract": "",
-    "keywords": [
-      "Moderation",
-      "Variables",
-      "Educational technology",
-      "Cognition",
-      "Flipped learning"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "review",
-    "fetched_at": "2026-08-25T22:13:29.724144"
-  },
-  {
-    "id": "https://openalex.org/W7204118548",
-    "title": "Navigating the “Ideals”: A comparative case study of early educators’ sensemaking of quality in the United States and China",
-    "authors": [
-      "Yan Jiang"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-08-24",
-    "doi": "10.1016/j.tate.2026.105796",
-    "url": "https://doi.org/10.1016/j.tate.2026.105796",
-    "abstract": "",
-    "keywords": [
-      "Sensemaking",
-      "Comparative case",
-      "China",
-      "Quality (philosophy)",
-      "Comparative research"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:33.493791"
-  },
-  {
-    "id": "https://openalex.org/W7204135968",
-    "title": "The babelization of reflective practice in initial teacher education",
-    "authors": [
-      "Javier Núñez Moscoso",
-      "Jeniffer Karina Romero Pérez"
-    ],
-    "journal": "Teaching and Teacher Education",
-    "jif": 3.9,
-    "published_date": "2026-08-24",
-    "doi": "10.1016/j.tate.2026.105791",
-    "url": "https://doi.org/10.1016/j.tate.2026.105791",
-    "abstract": "",
-    "keywords": [
-      "Transformative learning",
-      "Practicum",
-      "Reflective practice",
-      "Formative assessment",
-      "Teacher education"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:33.493808"
-  },
-  {
-    "id": "https://openalex.org/W7204085528",
-    "title": "Dynamic Changes in Pre-Service Language Teacher Well-Being in Practicum: An Ecological Approach",
-    "authors": [
-      "Ramazan Yetkin",
-      "Reyhan Aslan"
-    ],
-    "journal": "Language Teaching Research",
-    "jif": 3.8,
-    "published_date": "2026-08-24",
-    "doi": "10.1177/13621688261471854",
-    "url": "https://doi.org/10.1177/13621688261471854",
-    "abstract": "Responding to calls for more complex dynamic systems theory (CDST)-oriented and ecological studies on teacher well-being, this study investigates the role of practicum in the well-being of pre-service English language teachers (PELTs) in a Turkish English-as-a-foreign-language context. Designed as a case study and grounded in CDST and ecological systems theory, it examines how well-being unfolded within the Turkish practicum setting. Data were collected from two PELTs through self-ratings at 5-m",
-    "keywords": [
-      "Practicum",
-      "Turkish",
-      "Comprehension",
-      "Ecological systems theory",
-      "German"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:34.813148"
-  },
-  {
-    "id": "https://openalex.org/W7204104207",
-    "title": "Pluralism Behind Boredom Coping in Language Learning: Evidence From a Q Methodology Study",
-    "authors": [
-      "Mehdi Solhi",
-      "Athip Thumvichit",
-      "Mirosław Pawlak",
-      "Mariusz Kruk"
-    ],
-    "journal": "Language Teaching Research",
-    "jif": 3.8,
-    "published_date": "2026-08-24",
-    "doi": "10.1177/13621688261475046",
-    "url": "https://doi.org/10.1177/13621688261475046",
-    "abstract": "The present study investigated how second or foreign language (L2) learners cope with boredom in class, using Q methodology. The participants were 40 undergraduate English majors (12 male, 28 female). By-person factor analysis identified three coping profiles, namely, acceptors , escapers , and strivers . The acceptors viewed coping as a personal responsibility and acknowledged boredom as a natural and temporary emotion. These learners reminded themselves of the value of the lesson, reflected on",
-    "keywords": [
-      "Boredom",
-      "Coping (psychology)",
-      "Feeling",
-      "Anxiety",
-      "Interpersonal communication"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:34.813212"
-  },
-  {
-    "id": "https://openalex.org/W7204117056",
-    "title": "Configurational Effects of Grit, Mindset, and Engagement on Language Achievement: Insights from fsQCA Approach",
-    "authors": [
-      "Xuan Zhou",
-      "Mingce Huang",
-      "Patricia Nora Riget",
-      "Ung T’chiang Chow"
-    ],
-    "journal": "Language Teaching Research",
-    "jif": 3.8,
-    "published_date": "2026-08-24",
-    "doi": "10.1177/13621688261474823",
-    "url": "https://doi.org/10.1177/13621688261474823",
-    "abstract": "Second language acquisition is a lengthy and complex process fraught with numerous obstacles and barriers. It requires learners to possess robust grit, adaptive mindsets, and active engagement to overcome the challenges encountered during the learning process. However, limited antecedent research has integrated the three factors into one framework and examined the configured joint effects on language achievement outcomes. Adopting a fuzzy-set qualitative comparative analysis (fsQCA), 431 tertiar",
-    "keywords": [
-      "Mindset",
-      "Qualitative comparative analysis",
-      "Antecedent (behavioral psychology)",
-      "Process (computing)",
-      "Language acquisition"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:34.813258"
-  },
-  {
-    "id": "https://openalex.org/W7204109622",
-    "title": "Telling academic tales: The role of narrative structure in shaping research impact across disciplines",
-    "authors": [
-      "Zan Li",
-      "Kay Fan Andrew Cheung",
-      "Lei Lei"
-    ],
-    "journal": "Journal of English For Academic Purposes",
-    "jif": 3.4,
-    "published_date": "2026-08-24",
-    "doi": "10.1016/j.jeap.2026.101763",
-    "url": "https://doi.org/10.1016/j.jeap.2026.101763",
-    "abstract": "",
-    "keywords": [
-      "Narrative",
-      "Citation",
-      "Narrative structure",
-      "Narrative inquiry",
-      "Academic writing"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:37.957671"
-  },
-  {
-    "id": "https://openalex.org/W7204106688",
-    "title": "Beyond mitigation agendas: climate adaptation, institutional responses and resilience in higher education institutions facing extreme climate events",
-    "authors": [
-      "Mariana Alvarenga",
-      "Ricardo Lemos Thomé",
-      "Ana Regina de Aguiar Dutra",
-      "Clarissa Carneiro Mussi",
-      "Ademar Dutra"
-    ],
-    "journal": "International Journal of Sustainability In Higher Education",
-    "jif": 3.4,
-    "published_date": "2026-08-24",
-    "doi": "10.1108/ijshe-01-2026-0156",
-    "url": "https://doi.org/10.1108/ijshe-01-2026-0156",
-    "abstract": "Purpose This study aims to examine how higher education institutions (HEIs) adapt and respond to extreme climate events and identify the climate resilience approaches reported in the literature. Design/methodology/approach A systematic literature review following the Knowledge Development Process–Constructivist (ProKnow-C) protocol was conducted using the Scopus and Web of Science databases. After applying eligibility criteria, 34 articles were selected and analyzed through descriptive and syste",
-    "keywords": [
-      "Adaptive capacity",
-      "Psychological resilience",
-      "Scopus",
-      "Climate change",
-      "Higher education"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:40.432484"
-  },
-  {
-    "id": "https://openalex.org/W7204123800",
-    "title": "Universities as living laboratories for circular economy: curriculum-integrated agroforestry as environmental management in higher education",
-    "authors": [
-      "Gabriel Wei En Wee",
-      "Lê Thanh Tùng",
-      "Brian Kee Mun Wong"
-    ],
-    "journal": "International Journal of Sustainability In Higher Education",
-    "jif": 3.4,
-    "published_date": "2026-08-24",
-    "doi": "10.1108/ijshe-01-2026-0144",
-    "url": "https://doi.org/10.1108/ijshe-01-2026-0144",
-    "abstract": "Purpose This article aims to examine how curriculum-integrated circular economy (CE) practices can function as an environmental management mechanism within higher education institutions (HEIs). It argues that the academic curriculum, when tightly coupled with operational infrastructure, can serve as a form of institutional “soft governance” that orchestrates circular resource flows across teaching, research and community engagement. Design/methodology/approach A qualitative, single embedded case",
-    "keywords": [
-      "Higher education",
-      "Commercialization",
-      "Stakeholder",
-      "Sustainability",
-      "Stewardship (theology)"
-    ],
-    "open_access": true,
-    "oa_url": "https://doi.org/10.1108/ijshe-01-2026-0144",
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:40.432637"
-  },
-  {
-    "id": "https://openalex.org/W7204139374",
-    "title": "Eco-anxiety among university students: institutional support, sustainable action and psychological resilience",
-    "authors": [
-      "Md. Ruhul Amin",
-      "Sazali Abdul Wahab",
-      "Ida Md Yasin",
-      "Shariful Islam",
-      "Md Shamirul Islam"
-    ],
-    "journal": "Education and Training",
-    "jif": 3.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1108/et-07-2025-0580",
-    "url": "https://doi.org/10.1108/et-07-2025-0580",
-    "abstract": "Purpose Eco-anxiety (EA) is now a prevalent form of climate-related distress among university students, yet most evidence has been generated in the Global North. Drawing on the self-determination theory (SDT) and conservation of resources (COR) theory, we examine how perceived institutional support relates to EA in a climate-vulnerable Global South setting. We test whether engagement in sustainable lifestyle practices mediates this relationship and whether psychological resilience moderates the ",
-    "keywords": [
-      "Psychological resilience",
-      "Structural equation modeling",
-      "Psychological distress",
-      "Action (physics)",
-      "Institutional theory"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:42.944224"
-  },
-  {
-    "id": "https://openalex.org/W7204146973",
-    "title": "“All that remains is a diploma”: employability, policy-induced mismatch and school-to-work transitions in health vocational education",
-    "authors": [
-      "Nihan Demirkasımoğlu",
-      "Hüseyin Sezer"
-    ],
-    "journal": "Education and Training",
-    "jif": 3.2,
-    "published_date": "2026-08-24",
-    "doi": "10.1108/et-01-2026-0083",
-    "url": "https://doi.org/10.1108/et-01-2026-0083",
-    "abstract": "Purpose This study examines how students in health vocational high schools (HVHS) in Türkiye perceive their employability, anticipated school-to-work transitions and developing professional identities within the post-2014 qualification structure. Design/methodology/approach Drawing on career construction theory and policy feedback theory, the study adopts a qualitative case study design based on semi-structured interviews with students across two HVHS. Findings The findings reveal an education–e",
-    "keywords": [
-      "Employability",
-      "Vocational education",
-      "Psychosocial",
-      "Disappointment",
-      "Identity (music)"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:42.944284"
-  },
-  {
-    "id": "https://openalex.org/W7204073815",
-    "title": "Digital cultivation: making school garden education visible through social media",
-    "authors": [
-      "Elizabeth Heck",
-      "Mimi Tsai"
-    ],
-    "journal": "Learning Media and Technology",
-    "jif": 3.1,
-    "published_date": "2026-08-24",
-    "doi": "10.1080/17439884.2026.2722238",
-    "url": "https://doi.org/10.1080/17439884.2026.2722238",
-    "abstract": "",
-    "keywords": [
-      "Social media",
-      "Digital media",
-      "Qualitative research",
-      "Media literacy",
-      "Electronic learning"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:44.823464"
-  },
-  {
-    "id": "https://openalex.org/W7204101448",
-    "title": "Gender bias in pre-service teachers’ perception of school bullying: an analysis based on the Health Action Process Approach",
-    "authors": [
-      "Eva Ruiz",
-      "Adoración Antolí",
-      "Julia Vacas"
-    ],
-    "journal": "European Journal of Teacher Education",
-    "jif": 3.1,
-    "published_date": "2026-08-24",
-    "doi": "10.1080/02619768.2026.2720350",
-    "url": "https://doi.org/10.1080/02619768.2026.2720350",
-    "abstract": "This article aims to examine gender biases among pre-service teachers in addressing bullying situations, considering both the victims and the perpetrators. The Health Action Process Approach (HAPA) was used to identify determinants influencing the intention to intervene in these situations. The sample comprised 152 pre-service teachers. The methodology involved presenting vignettes depicting different bullying scenarios where participants’ gender and role varied. The teachers’ assessments of the",
-    "keywords": [
-      "Girl",
-      "Perception",
-      "Gender bias",
-      "Action (physics)",
-      "Human factors and ergonomics"
-    ],
-    "open_access": false,
-    "oa_url": null,
-    "cited_by_count": 0,
-    "type": "article",
-    "fetched_at": "2026-08-25T22:13:45.478290"
   }
 ]
